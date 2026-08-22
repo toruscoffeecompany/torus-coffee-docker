@@ -1,0 +1,44 @@
+{
+  "last_run": "2026-08-08T19:11:50.275791+00:00",
+  "cards_before": 355,
+  "cards_after": 355,
+  "archived": 0,
+  "moved": 258,
+  "relabeled": 185,
+  "iterations": 1,
+  "last_summary": {
+    "archived": 0,
+    "moved": 0,
+    "relabeled": 0,
+    "duplicates_archived": 0,
+    "top10_enforced": 0,
+    "stale_archived": 0
+  },
+  "audit_completed": true,
+  "audit_result": "CONVERGED",
+  "final_board_state": {
+    "timestamp": "2026-08-08T10:35:00Z",
+    "total_open_cards": 354,
+    "distribution": {
+      "Top 10 \u2014 Focus Fleet": 8,
+      "Torus Coffee Future Ideas": 3,
+      "P0 - Alert / Critical / Do Now": 18,
+      "P1 - High / Doing Now": 60,
+      "P2 - Med High / This Week": 75,
+      "P3 - Medium / Follow Up": 154,
+      "P5 - Low / Review": 1,
+      "P6 - Very Low / Blocked / Waiting": 2,
+      "Sir Azure's Queue": 8,
+      "Sir Green's Queue": 25
+    },
+    "duplicates": 0,
+    "top10_count": 8,
+    "top10_label_count": 0,
+    "p0_count": 18,
+    "audit_status": "CONVERGED - zero-change auto-stop at pass #4",
+    "blocker_comments_posted": 13,
+    "crew_replies_received": 0,
+    "escalation_deadline": "2026-08-09T06:42:00Z",
+    "loop_status": "STOPPED (stable state reached)"
+  }
+}

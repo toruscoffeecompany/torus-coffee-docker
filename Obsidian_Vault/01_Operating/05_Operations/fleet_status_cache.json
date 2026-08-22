@@ -1,0 +1,20 @@
+{
+  "PINKCADY": {
+    "online": false,
+    "ip": "100.106.235.103",
+    "crew": "Miss Pink",
+    "tailscale": true
+  },
+  "SQUIDSTATION": {
+    "online": false,
+    "ip": "100.83.247.14",
+    "crew": "Sir Green",
+    "tailscale": true
+  },
+  "STEALTHATTACK": {
+    "online": false,
+    "ip": "100.110.238.68",
+    "crew": "Sir Azure",
+    "tailscale": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runs": [
+    {
+      "run_at": "2026-08-04T16:17:56.429595+00:00",
+      "backup_root": "D:\\Work\\Torus Coffee Company LLC\\backups\\2026-08-04T16-17-56.429595z00-00",
+      "db": {
+        "type": "sqlite",
+        "source": "D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\data\\torus_local.db",
+        "status": "ok",
+        "dest": "D:\\Work\\Torus Coffee Company LLC\\backups\\2026-08-04T16-17-56.429595z00-00\\db\\torus_local.db"
+      },
+      "vault_docs": {
+        "type": "vault_docs",
+        "source": "D:\\Work\\Torus Coffee Company LLC",
+        "status": "error",
+        "error": "[WinError 3] The system cannot find the path specified"
+      }
+    }
+  ],
+  "latest": {
+    "run_at": "2026-08-04T16:17:56.429595+00:00",
+    "backup_root": "D:\\Work\\Torus Coffee Company LLC\\backups\\2026-08-04T16-17-56.429595z00-00",
+    "db": {
+      "type": "sqlite",
+      "source": "D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\data\\torus_local.db",
+      "status": "ok",
+      "dest": "D:\\Work\\Torus Coffee Company LLC\\backups\\2026-08-04T16-17-56.429595z00-00\\db\\torus_local.db"
+    },
+    "vault_docs": {
+      "type": "vault_docs",
+      "source": "D:\\Work\\Torus Coffee Company LLC",
+      "status": "error",
+      "error": "[WinError 3] The system cannot find the path specified"
+    }
+  }
+}

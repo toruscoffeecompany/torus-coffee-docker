@@ -1,0 +1,85 @@
+{
+  "updated": "2026-08-07T20:10:02.859241+00:00",
+  "tasks": [
+    {
+      "id": "fleet-201",
+      "priority": "P0",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Verify fleet tool syntax remains valid",
+      "acceptance": "All 18 files pass py_compile",
+      "next_action": "py_compile Fleet_Tools_Deployment/tools/*.py",
+      "completed_at": "2026-08-07T20:10:02.859241+00:00"
+    },
+    {
+      "id": "fleet-202",
+      "priority": "P0",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Verify fleet deployment manifest matches extracted files",
+      "acceptance": "DEPLOYMENT_MANIFEST.json present and matches tools/",
+      "next_action": "Diff manifest entries against actual files",
+      "completed_at": "2026-08-07T20:12:23.321369+00:00"
+    },
+    {
+      "id": "fleet-203",
+      "priority": "P1",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Verify fleet docs linked in Obsidian _INDEX.md",
+      "acceptance": "_INDEX.md contains Fleet automation section",
+      "next_action": "Read _INDEX.md and confirm links",
+      "completed_at": "2026-08-07T20:12:23.321568+00:00"
+    },
+    {
+      "id": "fleet-204",
+      "priority": "P1",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Verify automated_verification.py includes fleet checks",
+      "acceptance": "fleet_deployment_status check present and passing",
+      "next_action": "Run automated_verification.py and inspect crew_work+fleet status",
+      "completed_at": "2026-08-07T20:12:23.321781+00:00"
+    },
+    {
+      "id": "fleet-205",
+      "priority": "P2",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Check VOID Discord webhook request status",
+      "acceptance": "Sir Green/Sir Azure replied with guild/channel/webhook details",
+      "next_action": "Check Outbox/Inbox for reply or update card if no reply",
+      "completed_at": "2026-08-07T20:12:23.321968+00:00"
+    },
+    {
+      "id": "fleet-301",
+      "priority": "P0",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Create Trello cards for 32-tool system and Discord bot buildout",
+      "acceptance": "Cards created for tools AA-AE, V-Z, and Discord/webhook setup",
+      "next_action": "Create Trello cards with miss-gordon/automation labels",
+      "completed_at": "2026-08-07T20:12:23.322139+00:00"
+    },
+    {
+      "id": "fleet-302",
+      "priority": "P1",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Send Discord bot/webhook coordination ask to Sir Green/Sir Azure",
+      "acceptance": "Sir Green/Sir Azure reply with guild/channel/webhook/bot details",
+      "next_action": "Update Outbox message and wait for reply",
+      "completed_at": "2026-08-07T20:12:23.337182+00:00"
+    },
+    {
+      "id": "fleet-303",
+      "priority": "P1",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Work Trello cards for Discord automation end to end",
+      "acceptance": "All Discord-related cards advanced/closed or requeued",
+      "next_action": "Run continuous OODA on Discord card queue",
+      "completed_at": "2026-08-07T20:12:23.337563+00:00"
+    }
+  ]
+}

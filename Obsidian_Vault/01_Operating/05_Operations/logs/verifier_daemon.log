@@ -1,0 +1,1683 @@
+[2026-08-06T00:08:38.540437+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T00:08:38.540823+00:00] VERIFIER_CYCLE_START
+[2026-08-06T00:09:05.081165+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T00:09:05.081382+00:00] VERIFIER_FLAGS: 10 issues found
+[2026-08-06T00:09:05.081603+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T00:09:05.081863+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-06T00:09:05.082196+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-06T00:09:05.082406+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-06T00:09:05.082639+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-06T00:09:05.083599+00:00]   - Dashboard endpoint /healthz returned error
+[2026-08-06T00:09:05.083781+00:00]   - Security tool nmap not installed
+[2026-08-06T00:09:05.083968+00:00]   - Security tool nikto not installed
+[2026-08-06T00:09:05.084217+00:00]   - Security tool tshark not installed
+[2026-08-06T00:09:05.084400+00:00]   - Security tool yara not installed
+[2026-08-06T00:09:05.084558+00:00] VERIFIER_CYCLE_END
+[2026-08-06T00:10:02.670400+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T00:10:02.670649+00:00] VERIFIER_CYCLE_START
+[2026-08-06T00:10:27.846226+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T00:10:27.846477+00:00] VERIFIER_FLAGS: 10 issues found
+[2026-08-06T00:10:27.846715+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T00:10:27.846971+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-06T00:10:27.847192+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-06T00:10:27.847394+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-06T00:10:27.847639+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-06T00:10:27.847892+00:00]   - Dashboard endpoint /healthz returned error
+[2026-08-06T00:10:27.848278+00:00]   - Security tool nmap not installed
+[2026-08-06T00:10:27.848512+00:00]   - Security tool nikto not installed
+[2026-08-06T00:10:27.848710+00:00]   - Security tool tshark not installed
+[2026-08-06T00:10:27.848898+00:00]   - Security tool yara not installed
+[2026-08-06T00:10:27.849074+00:00] VERIFIER_CYCLE_END
+[2026-08-06T00:15:27.849631+00:00] VERIFIER_CYCLE_START
+[2026-08-06T00:15:53.002278+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T00:15:53.002581+00:00] VERIFIER_FLAGS: 10 issues found
+[2026-08-06T00:15:53.002897+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T00:15:53.003093+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-06T00:15:53.003289+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-06T00:15:53.003529+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-06T00:15:53.003774+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-06T00:15:53.004029+00:00]   - Dashboard endpoint /healthz returned error
+[2026-08-06T00:15:53.004208+00:00]   - Security tool nmap not installed
+[2026-08-06T00:15:53.004421+00:00]   - Security tool nikto not installed
+[2026-08-06T00:15:53.004670+00:00]   - Security tool tshark not installed
+[2026-08-06T00:15:53.004894+00:00]   - Security tool yara not installed
+[2026-08-06T00:15:53.005109+00:00] VERIFIER_CYCLE_END
+[2026-08-06T00:20:53.005451+00:00] VERIFIER_CYCLE_START
+[2026-08-06T00:21:18.045522+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T00:21:18.045728+00:00] VERIFIER_FLAGS: 10 issues found
+[2026-08-06T00:21:18.045935+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T00:21:18.046117+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-06T00:21:18.046315+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-06T00:21:18.046527+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-06T00:21:18.046761+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-06T00:21:18.046966+00:00]   - Dashboard endpoint /healthz returned error
+[2026-08-06T00:21:18.047232+00:00]   - Security tool nmap not installed
+[2026-08-06T00:21:18.047462+00:00]   - Security tool nikto not installed
+[2026-08-06T00:21:18.047662+00:00]   - Security tool tshark not installed
+[2026-08-06T00:21:18.047842+00:00]   - Security tool yara not installed
+[2026-08-06T00:21:18.048017+00:00] VERIFIER_CYCLE_END
+[2026-08-06T00:26:18.048678+00:00] VERIFIER_CYCLE_START
+[2026-08-06T00:26:43.008866+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T00:26:43.009066+00:00] VERIFIER_FLAGS: 10 issues found
+[2026-08-06T00:26:43.009238+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T00:26:43.009418+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-06T00:26:43.009606+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-06T00:26:43.009789+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-06T00:26:43.009993+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-06T00:26:43.010179+00:00]   - Dashboard endpoint /healthz returned error
+[2026-08-06T00:26:43.010371+00:00]   - Security tool nmap not installed
+[2026-08-06T00:26:43.010562+00:00]   - Security tool nikto not installed
+[2026-08-06T00:26:43.010750+00:00]   - Security tool tshark not installed
+[2026-08-06T00:26:43.011058+00:00]   - Security tool yara not installed
+[2026-08-06T00:26:43.011374+00:00] VERIFIER_CYCLE_END
+[2026-08-06T00:31:43.011704+00:00] VERIFIER_CYCLE_START
+[2026-08-06T00:32:08.047608+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T00:32:08.047832+00:00] VERIFIER_FLAGS: 10 issues found
+[2026-08-06T00:32:08.048020+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T00:32:08.048237+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-06T00:32:08.048429+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-06T00:32:08.048629+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-06T00:32:08.048982+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-06T00:32:08.049218+00:00]   - Dashboard endpoint /healthz returned error
+[2026-08-06T00:32:08.049429+00:00]   - Security tool nmap not installed
+[2026-08-06T00:32:08.049653+00:00]   - Security tool nikto not installed
+[2026-08-06T00:32:08.049895+00:00]   - Security tool tshark not installed
+[2026-08-06T00:32:08.050117+00:00]   - Security tool yara not installed
+[2026-08-06T00:32:08.050317+00:00] VERIFIER_CYCLE_END
+[2026-08-06T00:37:08.050678+00:00] VERIFIER_CYCLE_START
+[2026-08-06T00:37:33.029807+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T00:37:33.030072+00:00] VERIFIER_FLAGS: 10 issues found
+[2026-08-06T00:37:33.030342+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T00:37:33.030581+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-06T00:37:33.030810+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-06T00:37:33.031022+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-06T00:37:33.031241+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-06T00:37:33.031439+00:00]   - Dashboard endpoint /healthz returned error
+[2026-08-06T00:37:33.031657+00:00]   - Security tool nmap not installed
+[2026-08-06T00:37:33.031878+00:00]   - Security tool nikto not installed
+[2026-08-06T00:37:33.032096+00:00]   - Security tool tshark not installed
+[2026-08-06T00:37:33.032315+00:00]   - Security tool yara not installed
+[2026-08-06T00:37:33.032535+00:00] VERIFIER_CYCLE_END
+[2026-08-06T00:42:33.032907+00:00] VERIFIER_CYCLE_START
+[2026-08-06T00:42:57.997761+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T00:42:57.997961+00:00] VERIFIER_FLAGS: 10 issues found
+[2026-08-06T00:42:57.998142+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T00:42:57.998348+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-06T00:42:57.998556+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-06T00:42:57.998772+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-06T00:42:57.999003+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-06T00:42:57.999210+00:00]   - Dashboard endpoint /healthz returned error
+[2026-08-06T00:42:57.999461+00:00]   - Security tool nmap not installed
+[2026-08-06T00:42:57.999693+00:00]   - Security tool nikto not installed
+[2026-08-06T00:42:57.999910+00:00]   - Security tool tshark not installed
+[2026-08-06T00:42:58.000109+00:00]   - Security tool yara not installed
+[2026-08-06T00:42:58.000346+00:00] VERIFIER_CYCLE_END
+[2026-08-06T06:11:09.835072+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T06:11:09.836108+00:00] VERIFIER_CYCLE_START
+[2026-08-06T06:19:10.394653+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T06:19:10.394868+00:00] VERIFIER_CYCLE_START
+[2026-08-06T06:23:32.088277+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T06:23:32.088500+00:00] VERIFIER_CYCLE_START
+[2026-08-06T06:24:00.257193+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T06:24:00.257405+00:00] VERIFIER_FLAGS: 9 issues found
+[2026-08-06T06:24:00.257602+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T06:24:00.257814+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-06T06:24:00.257995+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-06T06:24:00.258167+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-06T06:24:00.258332+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-06T06:24:00.258534+00:00]   - Dashboard endpoint /healthz returned error
+[2026-08-06T06:24:00.258736+00:00]   - Security tool nikto not installed
+[2026-08-06T06:24:00.258920+00:00]   - Security tool tshark not installed
+[2026-08-06T06:24:00.259192+00:00]   - Security tool yara not installed
+[2026-08-06T06:24:00.259385+00:00] VERIFIER_CYCLE_END
+[2026-08-06T06:25:21.446509+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T06:25:21.446752+00:00] VERIFIER_CYCLE_START
+[2026-08-06T06:25:46.678919+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T06:25:46.679096+00:00] VERIFIER_FLAGS: 9 issues found
+[2026-08-06T06:25:46.679248+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T06:25:46.679422+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-06T06:25:46.679583+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-06T06:25:46.679725+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-06T06:25:46.679886+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-06T06:25:46.680033+00:00]   - Dashboard endpoint /healthz returned error
+[2026-08-06T06:25:46.680177+00:00]   - Security tool nikto not installed
+[2026-08-06T06:25:46.680317+00:00]   - Security tool tshark not installed
+[2026-08-06T06:25:46.680458+00:00]   - Security tool yara not installed
+[2026-08-06T06:25:46.680649+00:00] VERIFIER_CYCLE_END
+[2026-08-06T08:08:59.643696+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T08:08:59.644305+00:00] VERIFIER_CYCLE_START
+[2026-08-06T08:09:25.420066+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T08:09:25.420332+00:00] VERIFIER_FLAGS: 9 issues found
+[2026-08-06T08:09:25.420540+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T08:09:25.420741+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-06T08:09:25.420932+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-06T08:09:25.421142+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-06T08:09:25.421353+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-06T08:09:25.421520+00:00]   - Dashboard endpoint /healthz returned error
+[2026-08-06T08:09:25.421767+00:00]   - Security tool nikto not installed
+[2026-08-06T08:09:25.421986+00:00]   - Security tool tshark not installed
+[2026-08-06T08:09:25.422204+00:00]   - Security tool yara not installed
+[2026-08-06T08:09:25.422396+00:00] VERIFIER_CYCLE_END
+[2026-08-06T08:11:16.483219+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T08:11:16.483480+00:00] VERIFIER_CYCLE_START
+[2026-08-06T08:11:42.333462+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T08:11:42.333720+00:00] VERIFIER_FLAGS: 9 issues found
+[2026-08-06T08:11:42.333950+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T08:11:42.334122+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-06T08:11:42.334375+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-06T08:11:42.334680+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-06T08:11:42.334964+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-06T08:11:42.335202+00:00]   - Dashboard endpoint /healthz returned error
+[2026-08-06T08:11:42.335458+00:00]   - Security tool nikto not installed
+[2026-08-06T08:11:42.335694+00:00]   - Security tool tshark not installed
+[2026-08-06T08:11:42.335952+00:00]   - Security tool yara not installed
+[2026-08-06T08:11:42.336254+00:00] VERIFIER_CYCLE_END
+[2026-08-06T08:11:46.631746+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T08:11:46.632093+00:00] VERIFIER_CYCLE_START
+[2026-08-06T08:12:49.945384+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T08:12:49.945616+00:00] VERIFIER_CYCLE_START
+[2026-08-06T08:13:15.352605+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T08:13:15.352833+00:00] VERIFIER_FLAGS: 9 issues found
+[2026-08-06T08:13:15.353025+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T08:13:15.353251+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-06T08:13:15.353419+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-06T08:13:15.353624+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-06T08:13:15.353796+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-06T08:13:15.353971+00:00]   - Dashboard endpoint /healthz returned error
+[2026-08-06T08:13:15.354148+00:00]   - Security tool nikto not installed
+[2026-08-06T08:13:15.354422+00:00]   - Security tool tshark not installed
+[2026-08-06T08:13:15.354632+00:00]   - Security tool yara not installed
+[2026-08-06T08:13:15.354872+00:00] VERIFIER_CYCLE_END
+[2026-08-06T08:13:49.446331+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T08:13:49.446588+00:00] VERIFIER_CYCLE_START
+[2026-08-06T09:06:52.031226+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T09:06:52.032312+00:00] VERIFIER_CYCLE_START
+[2026-08-06T09:07:00.119185+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T09:07:00.119445+00:00] VERIFIER_FLAGS: 8 issues found
+[2026-08-06T09:07:00.119670+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T09:07:00.119926+00:00]   - Dashboard endpoint /api/fleet returned 404
+[2026-08-06T09:07:00.120114+00:00]   - Dashboard endpoint /api/tools returned 404
+[2026-08-06T09:07:00.120284+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-06T09:07:00.120492+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-06T09:07:00.120709+00:00]   - Security tool nikto not installed
+[2026-08-06T09:07:00.120953+00:00]   - Security tool tshark not installed
+[2026-08-06T09:07:00.121210+00:00]   - Security tool yara not installed
+[2026-08-06T09:07:00.121436+00:00] VERIFIER_CYCLE_END
+[2026-08-06T09:10:01.943493+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T09:10:01.943736+00:00] VERIFIER_CYCLE_START
+[2026-08-06T09:10:09.676447+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T09:10:09.676718+00:00] VERIFIER_FLAGS: 8 issues found
+[2026-08-06T09:10:09.676904+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T09:10:09.677095+00:00]   - Dashboard endpoint /api/fleet returned 404
+[2026-08-06T09:10:09.677348+00:00]   - Dashboard endpoint /api/tools returned 404
+[2026-08-06T09:10:09.677545+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-06T09:10:09.677728+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-06T09:10:09.677966+00:00]   - Security tool nikto not installed
+[2026-08-06T09:10:09.678256+00:00]   - Security tool tshark not installed
+[2026-08-06T09:10:09.678458+00:00]   - Security tool yara not installed
+[2026-08-06T09:10:09.678646+00:00] VERIFIER_CYCLE_END
+[2026-08-06T09:22:35.553642+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T09:22:35.553941+00:00] VERIFIER_CYCLE_START
+[2026-08-06T09:22:43.139600+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T09:22:43.139796+00:00] VERIFIER_FLAGS: 8 issues found
+[2026-08-06T09:22:43.140076+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T09:22:43.140279+00:00]   - Dashboard endpoint /api/fleet returned 404
+[2026-08-06T09:22:43.140488+00:00]   - Dashboard endpoint /api/tools returned 404
+[2026-08-06T09:22:43.140652+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-06T09:22:43.140840+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-06T09:22:43.141081+00:00]   - Security tool nikto not installed
+[2026-08-06T09:22:43.141283+00:00]   - Security tool tshark not installed
+[2026-08-06T09:22:43.141527+00:00]   - Security tool yara not installed
+[2026-08-06T09:22:43.141796+00:00] VERIFIER_CYCLE_END
+[2026-08-06T09:25:02.639995+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T09:25:02.640215+00:00] VERIFIER_CYCLE_START
+[2026-08-06T09:25:15.571987+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T09:25:15.572192+00:00] VERIFIER_FLAGS: 9 issues found
+[2026-08-06T09:25:15.572352+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T09:25:15.572530+00:00]   - Dashboard endpoint /api/fleet returned 404
+[2026-08-06T09:25:15.572676+00:00]   - Dashboard endpoint /api/tools returned 404
+[2026-08-06T09:25:15.572826+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-06T09:25:15.572964+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-06T09:25:15.573108+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-06T09:25:15.573253+00:00]   - Security tool nikto not installed
+[2026-08-06T09:25:15.573408+00:00]   - Security tool tshark not installed
+[2026-08-06T09:25:15.573635+00:00]   - Security tool yara not installed
+[2026-08-06T09:25:15.573858+00:00] VERIFIER_CYCLE_END
+[2026-08-06T13:55:08.848967+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T13:55:08.849218+00:00] VERIFIER_CYCLE_START
+[2026-08-06T13:55:27.366593+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T13:55:27.366945+00:00] VERIFIER_FLAGS: 9 issues found
+[2026-08-06T13:55:27.367199+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T13:55:27.367410+00:00]   - Dashboard endpoint /api/fleet returned 404
+[2026-08-06T13:55:27.367635+00:00]   - Dashboard endpoint /api/tools returned 404
+[2026-08-06T13:55:27.367830+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-06T13:55:27.368009+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-06T13:55:27.368193+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-06T13:55:27.368451+00:00]   - Security tool nikto not installed
+[2026-08-06T13:55:27.368711+00:00]   - Security tool tshark not installed
+[2026-08-06T13:55:27.368924+00:00]   - Security tool yara not installed
+[2026-08-06T13:55:27.369233+00:00] VERIFIER_CYCLE_END
+[2026-08-06T15:18:37.870273+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T15:18:37.870606+00:00] VERIFIER_CYCLE_START
+[2026-08-06T15:18:38.927599+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T15:18:38.927886+00:00] VERIFIER_FLAGS: 11 issues found
+[2026-08-06T15:18:38.928125+00:00]   - Dashboard endpoint /api/status returned 502
+[2026-08-06T15:18:38.928349+00:00]   - Dashboard endpoint /api/fleet returned 502
+[2026-08-06T15:18:38.928594+00:00]   - Dashboard endpoint /api/tools returned 502
+[2026-08-06T15:18:38.928828+00:00]   - Dashboard endpoint /api/security-docs returned 502
+[2026-08-06T15:18:38.929107+00:00]   - Dashboard endpoint /api/hw returned 502
+[2026-08-06T15:18:38.929461+00:00]   - Dashboard endpoint /healthz returned 502
+[2026-08-06T15:18:38.929797+00:00]   - Dashboard endpoint /api/crew_heartbeat returned 502
+[2026-08-06T15:18:38.930103+00:00]   - Dashboard endpoint /api/rig-report returned 502
+[2026-08-06T15:18:38.930405+00:00]   - Security tool nikto not installed
+[2026-08-06T15:18:38.930630+00:00]   - Security tool tshark not installed
+[2026-08-06T15:18:38.931394+00:00]   - Security tool yara not installed
+[2026-08-06T15:18:38.931958+00:00] VERIFIER_CYCLE_END
+[2026-08-06T15:26:47.449193+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T15:26:47.449404+00:00] VERIFIER_CYCLE_START
+[2026-08-06T15:27:00.201346+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T15:27:00.201528+00:00] VERIFIER_FLAGS: 9 issues found
+[2026-08-06T15:27:00.201761+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T15:27:00.201967+00:00]   - Dashboard endpoint /api/fleet returned 404
+[2026-08-06T15:27:00.202167+00:00]   - Dashboard endpoint /api/tools returned 404
+[2026-08-06T15:27:00.202314+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-06T15:27:00.202469+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-06T15:27:00.202622+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-06T15:27:00.202847+00:00]   - Security tool nikto not installed
+[2026-08-06T15:27:00.203012+00:00]   - Security tool tshark not installed
+[2026-08-06T15:27:00.203209+00:00]   - Security tool yara not installed
+[2026-08-06T15:27:00.203380+00:00] VERIFIER_CYCLE_END
+[2026-08-06T15:29:43.969284+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T15:29:43.969502+00:00] VERIFIER_CYCLE_START
+[2026-08-06T15:29:46.807885+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T15:29:46.808090+00:00] VERIFIER_FLAGS: 8 issues found
+[2026-08-06T15:29:46.808295+00:00]   - Dashboard endpoint /api/fleet returned 404
+[2026-08-06T15:29:46.808506+00:00]   - Dashboard endpoint /api/tools returned 404
+[2026-08-06T15:29:46.808710+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-06T15:29:46.808866+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-06T15:29:46.809076+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-06T15:29:46.809288+00:00]   - Security tool nikto not installed
+[2026-08-06T15:29:46.809500+00:00]   - Security tool tshark not installed
+[2026-08-06T15:29:46.809724+00:00]   - Security tool yara not installed
+[2026-08-06T15:29:46.809937+00:00] VERIFIER_CYCLE_END
+[2026-08-06T15:31:40.005146+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T15:31:40.005488+00:00] VERIFIER_CYCLE_START
+[2026-08-06T15:31:52.666526+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T15:31:52.666705+00:00] VERIFIER_FLAGS: 9 issues found
+[2026-08-06T15:31:52.666940+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-06T15:31:52.667161+00:00]   - Dashboard endpoint /api/fleet returned 404
+[2026-08-06T15:31:52.667322+00:00]   - Dashboard endpoint /api/tools returned 404
+[2026-08-06T15:31:52.667485+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-06T15:31:52.667682+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-06T15:31:52.667878+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-06T15:31:52.668085+00:00]   - Security tool nikto not installed
+[2026-08-06T15:31:52.668363+00:00]   - Security tool tshark not installed
+[2026-08-06T15:31:52.668533+00:00]   - Security tool yara not installed
+[2026-08-06T15:31:52.668760+00:00] VERIFIER_CYCLE_END
+[2026-08-06T15:40:13.427938+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T15:40:13.428148+00:00] VERIFIER_CYCLE_START
+[2026-08-06T15:40:16.201497+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T15:40:16.201797+00:00] VERIFIER_FLAGS: 8 issues found
+[2026-08-06T15:40:16.202181+00:00]   - Dashboard endpoint /api/fleet returned 404
+[2026-08-06T15:40:16.202429+00:00]   - Dashboard endpoint /api/tools returned 404
+[2026-08-06T15:40:16.202655+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-06T15:40:16.202937+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-06T15:40:16.203388+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-06T15:40:16.203605+00:00]   - Security tool nikto not installed
+[2026-08-06T15:40:16.203801+00:00]   - Security tool tshark not installed
+[2026-08-06T15:40:16.203984+00:00]   - Security tool yara not installed
+[2026-08-06T15:40:16.204174+00:00] VERIFIER_CYCLE_END
+[2026-08-06T15:58:15.177345+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-06T15:58:15.177565+00:00] VERIFIER_CYCLE_START
+[2026-08-06T15:58:16.208288+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-06T15:58:16.208546+00:00] VERIFIER_FLAGS: 11 issues found
+[2026-08-06T15:58:16.208762+00:00]   - Dashboard endpoint /api/status returned 502
+[2026-08-06T15:58:16.208939+00:00]   - Dashboard endpoint /api/fleet returned 502
+[2026-08-06T15:58:16.209143+00:00]   - Dashboard endpoint /api/tools returned 502
+[2026-08-06T15:58:16.209299+00:00]   - Dashboard endpoint /api/security-docs returned 502
+[2026-08-06T15:58:16.209575+00:00]   - Dashboard endpoint /api/hw returned 502
+[2026-08-06T15:58:16.209794+00:00]   - Dashboard endpoint /healthz returned 502
+[2026-08-06T15:58:16.209960+00:00]   - Dashboard endpoint /api/crew_heartbeat returned 502
+[2026-08-06T15:58:16.210109+00:00]   - Dashboard endpoint /api/rig-report returned 502
+[2026-08-06T15:58:16.210303+00:00]   - Security tool nikto not installed
+[2026-08-06T15:58:16.210476+00:00]   - Security tool tshark not installed
+[2026-08-06T15:58:16.210677+00:00]   - Security tool yara not installed
+[2026-08-06T15:58:16.210865+00:00] VERIFIER_CYCLE_END
+[2026-08-10T03:58:37.368020+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T03:58:37.368020+00:00] VERIFIER_CYCLE_START
+[2026-08-10T03:58:40.836430+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T03:58:40.836430+00:00] VERIFIER_FLAGS: 12 issues found
+[2026-08-10T03:58:40.836430+00:00]   - Dashboard endpoint /api/status returned 404
+[2026-08-10T03:58:40.836430+00:00]   - Dashboard endpoint /api/fleet returned 404
+[2026-08-10T03:58:40.837430+00:00]   - Dashboard endpoint /api/tools returned 404
+[2026-08-10T03:58:40.837430+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T03:58:40.837430+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T03:58:40.837430+00:00]   - Dashboard endpoint /healthz returned 404
+[2026-08-10T03:58:40.837430+00:00]   - Dashboard endpoint /api/crew_heartbeat returned 404
+[2026-08-10T03:58:40.838432+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T03:58:40.838432+00:00]   - Security tool nmap not installed
+[2026-08-10T03:58:40.838432+00:00]   - Security tool nikto not installed
+[2026-08-10T03:58:40.838432+00:00]   - Security tool tshark not installed
+[2026-08-10T03:58:40.839431+00:00]   - Security tool yara not installed
+[2026-08-10T03:58:40.839431+00:00] VERIFIER_CYCLE_END
+[2026-08-10T03:59:16.346902+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T03:59:16.346902+00:00] VERIFIER_CYCLE_START
+[2026-08-10T03:59:17.246665+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T03:59:17.247191+00:00] VERIFIER_FLAGS: 12 issues found
+[2026-08-10T03:59:17.247191+00:00]   - Dashboard endpoint /api/status returned 404
+[2026-08-10T03:59:17.247191+00:00]   - Dashboard endpoint /api/fleet returned 404
+[2026-08-10T03:59:17.247698+00:00]   - Dashboard endpoint /api/tools returned 404
+[2026-08-10T03:59:17.247698+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T03:59:17.247698+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T03:59:17.247698+00:00]   - Dashboard endpoint /healthz returned 404
+[2026-08-10T03:59:17.247698+00:00]   - Dashboard endpoint /api/crew_heartbeat returned 404
+[2026-08-10T03:59:17.247698+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T03:59:17.247698+00:00]   - Security tool nmap not installed
+[2026-08-10T03:59:17.248705+00:00]   - Security tool nikto not installed
+[2026-08-10T03:59:17.248705+00:00]   - Security tool tshark not installed
+[2026-08-10T03:59:17.248705+00:00]   - Security tool yara not installed
+[2026-08-10T03:59:17.248705+00:00] VERIFIER_CYCLE_END
+[2026-08-10T04:08:11.796134+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T04:08:11.797134+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:08:12.656656+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T04:08:12.657655+00:00] VERIFIER_FLAGS: 12 issues found
+[2026-08-10T04:08:12.657655+00:00]   - Dashboard endpoint /api/status returned 404
+[2026-08-10T04:08:12.657655+00:00]   - Dashboard endpoint /api/fleet returned 404
+[2026-08-10T04:08:12.657655+00:00]   - Dashboard endpoint /api/tools returned 404
+[2026-08-10T04:08:12.657655+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T04:08:12.657655+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T04:08:12.658656+00:00]   - Dashboard endpoint /healthz returned 404
+[2026-08-10T04:08:12.658656+00:00]   - Dashboard endpoint /api/crew_heartbeat returned 404
+[2026-08-10T04:08:12.658656+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T04:08:12.658656+00:00]   - Security tool nmap not installed
+[2026-08-10T04:08:12.658656+00:00]   - Security tool nikto not installed
+[2026-08-10T04:08:12.658656+00:00]   - Security tool tshark not installed
+[2026-08-10T04:08:12.659656+00:00]   - Security tool yara not installed
+[2026-08-10T04:08:12.659656+00:00] VERIFIER_CYCLE_END
+[2026-08-10T04:14:24.000730+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T04:14:24.001730+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:14:24.832947+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T04:14:24.832947+00:00] VERIFIER_FLAGS: 12 issues found
+[2026-08-10T04:14:24.832947+00:00]   - Dashboard endpoint /api/status returned 404
+[2026-08-10T04:14:24.832947+00:00]   - Dashboard endpoint /api/fleet returned 404
+[2026-08-10T04:14:24.832947+00:00]   - Dashboard endpoint /api/tools returned 404
+[2026-08-10T04:14:24.832947+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T04:14:24.833947+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T04:14:24.833947+00:00]   - Dashboard endpoint /healthz returned 404
+[2026-08-10T04:14:24.833947+00:00]   - Dashboard endpoint /api/crew_heartbeat returned 404
+[2026-08-10T04:14:24.833947+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T04:14:24.833947+00:00]   - Security tool nmap not installed
+[2026-08-10T04:14:24.833947+00:00]   - Security tool nikto not installed
+[2026-08-10T04:14:24.834947+00:00]   - Security tool tshark not installed
+[2026-08-10T04:14:24.834947+00:00]   - Security tool yara not installed
+[2026-08-10T04:14:24.834947+00:00] VERIFIER_CYCLE_END
+[2026-08-10T04:19:24.836232+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:19:51.836099+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T04:19:51.836099+00:00] VERIFIER_FLAGS: 8 issues found
+[2026-08-10T04:19:51.836099+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-10T04:19:51.836099+00:00]   - Dashboard endpoint /healthz returned 404
+[2026-08-10T04:19:51.837099+00:00]   - Dashboard endpoint /api/crew_heartbeat returned error
+[2026-08-10T04:19:51.837099+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T04:19:51.837099+00:00]   - Security tool nmap not installed
+[2026-08-10T04:19:51.837609+00:00]   - Security tool nikto not installed
+[2026-08-10T04:19:51.837609+00:00]   - Security tool tshark not installed
+[2026-08-10T04:19:51.837609+00:00]   - Security tool yara not installed
+[2026-08-10T04:19:51.837609+00:00] VERIFIER_CYCLE_END
+[2026-08-10T04:23:22.065063+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T04:23:22.065063+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:23:57.628284+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T04:23:57.628298+00:00] VERIFIER_FLAGS: 8 issues found
+[2026-08-10T04:23:57.628298+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-10T04:23:57.628839+00:00]   - Dashboard endpoint /healthz returned 404
+[2026-08-10T04:23:57.628839+00:00]   - Dashboard endpoint /api/crew_heartbeat returned error
+[2026-08-10T04:23:57.628839+00:00]   - Dashboard endpoint /api/rig-report returned error
+[2026-08-10T04:23:57.629385+00:00]   - Security tool nmap not installed
+[2026-08-10T04:23:57.629385+00:00]   - Security tool nikto not installed
+[2026-08-10T04:23:57.629924+00:00]   - Security tool tshark not installed
+[2026-08-10T04:23:57.629924+00:00]   - Security tool yara not installed
+[2026-08-10T04:23:57.629924+00:00] VERIFIER_CYCLE_END
+[2026-08-10T04:26:32.160131+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T04:26:32.161132+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:26:38.230078+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T04:26:38.230078+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:27:36.134959+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T04:27:36.134959+00:00] VERIFIER_FLAGS: 11 issues found
+[2026-08-10T04:27:36.134959+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-10T04:27:36.135960+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-10T04:27:36.135960+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-10T04:27:36.135960+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-10T04:27:36.135960+00:00]   - Dashboard endpoint /healthz returned 404
+[2026-08-10T04:27:36.135960+00:00]   - Dashboard endpoint /api/crew_heartbeat returned error
+[2026-08-10T04:27:36.136960+00:00]   - Dashboard endpoint /api/rig-report returned error
+[2026-08-10T04:27:36.136960+00:00]   - Security tool nmap not installed
+[2026-08-10T04:27:36.136960+00:00]   - Security tool nikto not installed
+[2026-08-10T04:27:36.136960+00:00]   - Security tool tshark not installed
+[2026-08-10T04:27:36.137961+00:00]   - Security tool yara not installed
+[2026-08-10T04:27:36.137961+00:00] VERIFIER_CYCLE_END
+[2026-08-10T04:32:36.138718+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:32:48.523685+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T04:32:48.523685+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:33:51.096539+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T04:33:51.096539+00:00] VERIFIER_FLAGS: 12 issues found
+[2026-08-10T04:33:51.096539+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-10T04:33:51.096539+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-10T04:33:51.097536+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-10T04:33:51.097536+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-10T04:33:51.097536+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-10T04:33:51.097536+00:00]   - Dashboard endpoint /healthz returned 404
+[2026-08-10T04:33:51.097536+00:00]   - Dashboard endpoint /api/crew_heartbeat returned error
+[2026-08-10T04:33:51.098535+00:00]   - Dashboard endpoint /api/rig-report returned error
+[2026-08-10T04:33:51.098535+00:00]   - Security tool nmap not installed
+[2026-08-10T04:33:51.099130+00:00]   - Security tool nikto not installed
+[2026-08-10T04:33:51.099130+00:00]   - Security tool tshark not installed
+[2026-08-10T04:33:51.099130+00:00]   - Security tool yara not installed
+[2026-08-10T04:33:51.099640+00:00] VERIFIER_CYCLE_END
+[2026-08-10T04:38:51.100078+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:38:57.363256+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T04:38:57.363256+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:39:49.113995+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T04:39:49.113995+00:00] VERIFIER_FLAGS: 11 issues found
+[2026-08-10T04:39:49.114527+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-10T04:39:49.114527+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-10T04:39:49.114527+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-10T04:39:49.115056+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-10T04:39:49.115056+00:00]   - Dashboard endpoint /healthz returned 404
+[2026-08-10T04:39:49.115590+00:00]   - Dashboard endpoint /api/crew_heartbeat returned error
+[2026-08-10T04:39:49.115590+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T04:39:49.115590+00:00]   - Security tool nmap not installed
+[2026-08-10T04:39:49.116130+00:00]   - Security tool nikto not installed
+[2026-08-10T04:39:49.116130+00:00]   - Security tool tshark not installed
+[2026-08-10T04:39:49.116663+00:00]   - Security tool yara not installed
+[2026-08-10T04:39:49.116663+00:00] VERIFIER_CYCLE_END
+[2026-08-10T04:44:49.117283+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:44:51.852163+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T04:44:51.852163+00:00] VERIFIER_FLAGS: 12 issues found
+[2026-08-10T04:44:51.852163+00:00]   - Dashboard endpoint /api/status returned 404
+[2026-08-10T04:44:51.852163+00:00]   - Dashboard endpoint /api/fleet returned 404
+[2026-08-10T04:44:51.853165+00:00]   - Dashboard endpoint /api/tools returned 404
+[2026-08-10T04:44:51.853165+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T04:44:51.853165+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T04:44:51.853165+00:00]   - Dashboard endpoint /healthz returned 404
+[2026-08-10T04:44:51.853165+00:00]   - Dashboard endpoint /api/crew_heartbeat returned 404
+[2026-08-10T04:44:51.854166+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T04:44:51.854166+00:00]   - Security tool nmap not installed
+[2026-08-10T04:44:51.854166+00:00]   - Security tool nikto not installed
+[2026-08-10T04:44:51.854166+00:00]   - Security tool tshark not installed
+[2026-08-10T04:44:51.854166+00:00]   - Security tool yara not installed
+[2026-08-10T04:44:51.855166+00:00] VERIFIER_CYCLE_END
+[2026-08-10T04:45:07.545996+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T04:45:07.545996+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:45:08.661709+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T04:45:08.661709+00:00] VERIFIER_FLAGS: 12 issues found
+[2026-08-10T04:45:08.662709+00:00]   - Dashboard endpoint /api/status returned 404
+[2026-08-10T04:45:08.662709+00:00]   - Dashboard endpoint /api/fleet returned 404
+[2026-08-10T04:45:08.662709+00:00]   - Dashboard endpoint /api/tools returned 404
+[2026-08-10T04:45:08.663707+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T04:45:08.663707+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T04:45:08.663707+00:00]   - Dashboard endpoint /healthz returned 404
+[2026-08-10T04:45:08.664708+00:00]   - Dashboard endpoint /api/crew_heartbeat returned 404
+[2026-08-10T04:45:08.664708+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T04:45:08.664708+00:00]   - Security tool nmap not installed
+[2026-08-10T04:45:08.665707+00:00]   - Security tool nikto not installed
+[2026-08-10T04:45:08.665707+00:00]   - Security tool tshark not installed
+[2026-08-10T04:45:08.665707+00:00]   - Security tool yara not installed
+[2026-08-10T04:45:08.665707+00:00] VERIFIER_CYCLE_END
+[2026-08-10T04:45:53.284707+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T04:45:53.284707+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:49:51.856258+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:49:54.602608+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T04:49:54.603127+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T04:49:54.603127+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T04:49:54.603127+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T04:49:54.603127+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T04:49:54.604125+00:00]   - Security tool nmap not installed
+[2026-08-10T04:49:54.604125+00:00]   - Security tool nikto not installed
+[2026-08-10T04:49:54.604125+00:00]   - Security tool tshark not installed
+[2026-08-10T04:49:54.604125+00:00]   - Security tool yara not installed
+[2026-08-10T04:49:54.605124+00:00] VERIFIER_CYCLE_END
+[2026-08-10T04:50:56.203510+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T04:50:56.203510+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:50:59.123539+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T04:50:59.123588+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T04:50:59.124140+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T04:50:59.124663+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T04:50:59.125191+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T04:50:59.125802+00:00]   - Security tool nmap not installed
+[2026-08-10T04:50:59.126322+00:00]   - Security tool nikto not installed
+[2026-08-10T04:50:59.126322+00:00]   - Security tool tshark not installed
+[2026-08-10T04:50:59.126322+00:00]   - Security tool yara not installed
+[2026-08-10T04:50:59.126868+00:00] VERIFIER_CYCLE_END
+[2026-08-10T04:54:54.605683+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:54:57.238055+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T04:54:57.239055+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T04:54:57.239055+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T04:54:57.239055+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T04:54:57.239055+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T04:54:57.239055+00:00]   - Security tool nmap not installed
+[2026-08-10T04:54:57.240055+00:00]   - Security tool nikto not installed
+[2026-08-10T04:54:57.240055+00:00]   - Security tool tshark not installed
+[2026-08-10T04:54:57.240055+00:00]   - Security tool yara not installed
+[2026-08-10T04:54:57.240055+00:00] VERIFIER_CYCLE_END
+[2026-08-10T04:56:08.456737+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T04:56:08.457736+00:00] VERIFIER_CYCLE_START
+[2026-08-10T04:56:11.074782+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T04:56:11.074782+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T04:56:11.074782+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T04:56:11.074782+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T04:56:11.074782+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T04:56:11.075781+00:00]   - Security tool nmap not installed
+[2026-08-10T04:56:11.075781+00:00]   - Security tool nikto not installed
+[2026-08-10T04:56:11.075781+00:00]   - Security tool tshark not installed
+[2026-08-10T04:56:11.075781+00:00]   - Security tool yara not installed
+[2026-08-10T04:56:11.075781+00:00] VERIFIER_CYCLE_END
+[2026-08-10T04:59:57.241607+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:00:00.038079+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:00:00.039079+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:00:00.039079+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:00:00.039079+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:00:00.039079+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:00:00.040080+00:00]   - Security tool nmap not installed
+[2026-08-10T05:00:00.040080+00:00]   - Security tool nikto not installed
+[2026-08-10T05:00:00.040080+00:00]   - Security tool tshark not installed
+[2026-08-10T05:00:00.041079+00:00]   - Security tool yara not installed
+[2026-08-10T05:00:00.041079+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:01:21.008664+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T05:01:21.009252+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:01:23.675271+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:01:23.675271+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:01:23.676272+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:01:23.676272+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:01:23.676272+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:01:23.676272+00:00]   - Security tool nmap not installed
+[2026-08-10T05:01:23.676272+00:00]   - Security tool nikto not installed
+[2026-08-10T05:01:23.677273+00:00]   - Security tool tshark not installed
+[2026-08-10T05:01:23.677273+00:00]   - Security tool yara not installed
+[2026-08-10T05:01:23.677273+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:05:00.041675+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:05:02.661790+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:05:02.661790+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:05:02.662792+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:05:02.662792+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:05:02.662792+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:05:02.662792+00:00]   - Security tool nmap not installed
+[2026-08-10T05:05:02.663792+00:00]   - Security tool nikto not installed
+[2026-08-10T05:05:02.663792+00:00]   - Security tool tshark not installed
+[2026-08-10T05:05:02.663792+00:00]   - Security tool yara not installed
+[2026-08-10T05:05:02.663792+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:06:32.942243+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T05:06:32.942243+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:06:35.510439+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:06:35.510439+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:06:35.510439+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:06:35.510439+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:06:35.510439+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:06:35.511440+00:00]   - Security tool nmap not installed
+[2026-08-10T05:06:35.511440+00:00]   - Security tool nikto not installed
+[2026-08-10T05:06:35.511440+00:00]   - Security tool tshark not installed
+[2026-08-10T05:06:35.511440+00:00]   - Security tool yara not installed
+[2026-08-10T05:06:35.511440+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:10:02.665000+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:10:05.301823+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:10:05.302824+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:10:05.302824+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:10:05.302824+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:10:05.302824+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:10:05.303824+00:00]   - Security tool nmap not installed
+[2026-08-10T05:10:05.303824+00:00]   - Security tool nikto not installed
+[2026-08-10T05:10:05.303824+00:00]   - Security tool tshark not installed
+[2026-08-10T05:10:05.303824+00:00]   - Security tool yara not installed
+[2026-08-10T05:10:05.303824+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:11:44.498892+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T05:11:44.498892+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:11:47.066043+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:11:47.066043+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:11:47.066043+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:11:47.066043+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:11:47.066043+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:11:47.067044+00:00]   - Security tool nmap not installed
+[2026-08-10T05:11:47.067044+00:00]   - Security tool nikto not installed
+[2026-08-10T05:11:47.067044+00:00]   - Security tool tshark not installed
+[2026-08-10T05:11:47.067044+00:00]   - Security tool yara not installed
+[2026-08-10T05:11:47.067044+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:15:05.305251+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:15:07.962124+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:15:07.962124+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:15:07.962124+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:15:07.962124+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:15:07.963125+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:15:07.963125+00:00]   - Security tool nmap not installed
+[2026-08-10T05:15:07.963125+00:00]   - Security tool nikto not installed
+[2026-08-10T05:15:07.963125+00:00]   - Security tool tshark not installed
+[2026-08-10T05:15:07.964125+00:00]   - Security tool yara not installed
+[2026-08-10T05:15:07.964125+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:16:56.467867+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T05:16:56.467867+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:16:59.160244+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:16:59.161244+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:16:59.161244+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:16:59.161244+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:16:59.162244+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:16:59.162244+00:00]   - Security tool nmap not installed
+[2026-08-10T05:16:59.162244+00:00]   - Security tool nikto not installed
+[2026-08-10T05:16:59.162244+00:00]   - Security tool tshark not installed
+[2026-08-10T05:16:59.162244+00:00]   - Security tool yara not installed
+[2026-08-10T05:16:59.162244+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:20:07.965168+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:20:10.620200+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:20:10.620200+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:20:10.620200+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:20:10.621200+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:20:10.621200+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:20:10.621200+00:00]   - Security tool nmap not installed
+[2026-08-10T05:20:10.621200+00:00]   - Security tool nikto not installed
+[2026-08-10T05:20:10.621200+00:00]   - Security tool tshark not installed
+[2026-08-10T05:20:10.622201+00:00]   - Security tool yara not installed
+[2026-08-10T05:20:10.622201+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:22:08.360503+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T05:22:08.360503+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:22:10.995023+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:22:10.995862+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:22:10.995862+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:22:10.995862+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:22:10.996384+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:22:10.996384+00:00]   - Security tool nmap not installed
+[2026-08-10T05:22:10.996384+00:00]   - Security tool nikto not installed
+[2026-08-10T05:22:10.996384+00:00]   - Security tool tshark not installed
+[2026-08-10T05:22:10.996384+00:00]   - Security tool yara not installed
+[2026-08-10T05:22:10.996384+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:25:10.623057+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:25:13.169003+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:25:13.169003+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:25:13.169003+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:25:13.170002+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:25:13.170002+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:25:13.170002+00:00]   - Security tool nmap not installed
+[2026-08-10T05:25:13.170002+00:00]   - Security tool nikto not installed
+[2026-08-10T05:25:13.171005+00:00]   - Security tool tshark not installed
+[2026-08-10T05:25:13.171005+00:00]   - Security tool yara not installed
+[2026-08-10T05:25:13.171005+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:27:19.785165+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T05:27:19.785165+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:27:22.438416+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:27:22.438416+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:27:22.439413+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:27:22.439413+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:27:22.439413+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:27:22.439413+00:00]   - Security tool nmap not installed
+[2026-08-10T05:27:22.439413+00:00]   - Security tool nikto not installed
+[2026-08-10T05:27:22.439413+00:00]   - Security tool tshark not installed
+[2026-08-10T05:27:22.440411+00:00]   - Security tool yara not installed
+[2026-08-10T05:27:22.440411+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:30:13.172597+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:30:15.754446+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:30:15.754446+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:30:15.754978+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:30:15.754978+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:30:15.754978+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:30:15.755553+00:00]   - Security tool nmap not installed
+[2026-08-10T05:30:15.755553+00:00]   - Security tool nikto not installed
+[2026-08-10T05:30:15.755553+00:00]   - Security tool tshark not installed
+[2026-08-10T05:30:15.756092+00:00]   - Security tool yara not installed
+[2026-08-10T05:30:15.756092+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:32:32.788784+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T05:32:32.788784+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:32:35.383617+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:32:35.383617+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:32:35.383617+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:32:35.383617+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:32:35.384630+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:32:35.384953+00:00]   - Security tool nmap not installed
+[2026-08-10T05:32:35.384953+00:00]   - Security tool nikto not installed
+[2026-08-10T05:32:35.384953+00:00]   - Security tool tshark not installed
+[2026-08-10T05:32:35.385487+00:00]   - Security tool yara not installed
+[2026-08-10T05:32:35.385487+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:35:15.756820+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:35:18.379453+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:35:18.379453+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:35:18.379453+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:35:18.379453+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:35:18.380339+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:35:18.380339+00:00]   - Security tool nmap not installed
+[2026-08-10T05:35:18.380878+00:00]   - Security tool nikto not installed
+[2026-08-10T05:35:18.380878+00:00]   - Security tool tshark not installed
+[2026-08-10T05:35:18.380878+00:00]   - Security tool yara not installed
+[2026-08-10T05:35:18.381409+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:37:44.242797+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T05:37:44.242797+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:37:46.760983+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:37:46.760983+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:37:46.760983+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:37:46.760983+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:37:46.760983+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:37:46.762241+00:00]   - Security tool nmap not installed
+[2026-08-10T05:37:46.762241+00:00]   - Security tool nikto not installed
+[2026-08-10T05:37:46.762241+00:00]   - Security tool tshark not installed
+[2026-08-10T05:37:46.762241+00:00]   - Security tool yara not installed
+[2026-08-10T05:37:46.762983+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:40:18.382353+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:40:20.957233+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:40:20.958234+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:40:20.958234+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:40:20.958234+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:40:20.958234+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:40:20.958234+00:00]   - Security tool nmap not installed
+[2026-08-10T05:40:20.959234+00:00]   - Security tool nikto not installed
+[2026-08-10T05:40:20.959234+00:00]   - Security tool tshark not installed
+[2026-08-10T05:40:20.959234+00:00]   - Security tool yara not installed
+[2026-08-10T05:40:20.959234+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:42:55.480105+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T05:42:55.480105+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:42:58.073287+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:42:58.074287+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:42:58.074287+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:42:58.074287+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:42:58.074287+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:42:58.075287+00:00]   - Security tool nmap not installed
+[2026-08-10T05:42:58.075287+00:00]   - Security tool nikto not installed
+[2026-08-10T05:42:58.075287+00:00]   - Security tool tshark not installed
+[2026-08-10T05:42:58.075287+00:00]   - Security tool yara not installed
+[2026-08-10T05:42:58.076287+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:43:28.685333+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T05:43:28.686331+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:43:31.339611+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:43:31.339611+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:43:31.340610+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:43:31.340610+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:43:31.340610+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:43:31.341613+00:00]   - Security tool nmap not installed
+[2026-08-10T05:43:31.341613+00:00]   - Security tool nikto not installed
+[2026-08-10T05:43:31.341613+00:00]   - Security tool tshark not installed
+[2026-08-10T05:43:31.342613+00:00]   - Security tool yara not installed
+[2026-08-10T05:43:31.342613+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:45:20.960239+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:45:23.592147+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:45:23.592147+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:45:23.592147+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:45:23.592147+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:45:23.593148+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:45:23.593148+00:00]   - Security tool nmap not installed
+[2026-08-10T05:45:23.593148+00:00]   - Security tool nikto not installed
+[2026-08-10T05:45:23.593148+00:00]   - Security tool tshark not installed
+[2026-08-10T05:45:23.593148+00:00]   - Security tool yara not installed
+[2026-08-10T05:45:23.594147+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:47:48.240807+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T05:47:48.240807+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:47:50.844505+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:47:50.845504+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:47:50.845504+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:47:50.845504+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:47:50.845504+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:47:50.845504+00:00]   - Security tool nmap not installed
+[2026-08-10T05:47:50.846505+00:00]   - Security tool nikto not installed
+[2026-08-10T05:47:50.846505+00:00]   - Security tool tshark not installed
+[2026-08-10T05:47:50.846505+00:00]   - Security tool yara not installed
+[2026-08-10T05:47:50.846505+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:50:23.594666+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:50:26.181126+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:50:26.181126+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:50:26.181126+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:50:26.181126+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:50:26.182127+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:50:26.182127+00:00]   - Security tool nmap not installed
+[2026-08-10T05:50:26.182127+00:00]   - Security tool nikto not installed
+[2026-08-10T05:50:26.182127+00:00]   - Security tool tshark not installed
+[2026-08-10T05:50:26.182127+00:00]   - Security tool yara not installed
+[2026-08-10T05:50:26.183129+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:53:04.398001+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T05:53:04.398001+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:53:06.959303+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:53:06.959303+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:53:06.959303+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:53:06.959303+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:53:06.960299+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:53:06.960299+00:00]   - Security tool nmap not installed
+[2026-08-10T05:53:06.960299+00:00]   - Security tool nikto not installed
+[2026-08-10T05:53:06.960299+00:00]   - Security tool tshark not installed
+[2026-08-10T05:53:06.960299+00:00]   - Security tool yara not installed
+[2026-08-10T05:53:06.961300+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:53:32.075120+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T05:53:32.075120+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:54:12.525154+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T05:54:12.525154+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:54:15.203493+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:54:15.204017+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:54:15.204017+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:54:15.204017+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:54:15.204017+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:54:15.205017+00:00]   - Security tool nmap not installed
+[2026-08-10T05:54:15.205017+00:00]   - Security tool nikto not installed
+[2026-08-10T05:54:15.205017+00:00]   - Security tool tshark not installed
+[2026-08-10T05:54:15.205017+00:00]   - Security tool yara not installed
+[2026-08-10T05:54:15.205017+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:55:26.183583+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:55:28.792771+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:55:28.793772+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:55:28.793772+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:55:28.793772+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:55:28.793772+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:55:28.793772+00:00]   - Security tool nmap not installed
+[2026-08-10T05:55:28.794771+00:00]   - Security tool nikto not installed
+[2026-08-10T05:55:28.795771+00:00]   - Security tool tshark not installed
+[2026-08-10T05:55:28.796771+00:00]   - Security tool yara not installed
+[2026-08-10T05:55:28.796771+00:00] VERIFIER_CYCLE_END
+[2026-08-10T05:59:24.379278+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T05:59:24.379789+00:00] VERIFIER_CYCLE_START
+[2026-08-10T05:59:26.934905+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T05:59:26.934905+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T05:59:26.935906+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T05:59:26.935906+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T05:59:26.935906+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T05:59:26.935906+00:00]   - Security tool nmap not installed
+[2026-08-10T05:59:26.935906+00:00]   - Security tool nikto not installed
+[2026-08-10T05:59:26.936905+00:00]   - Security tool tshark not installed
+[2026-08-10T05:59:26.936905+00:00]   - Security tool yara not installed
+[2026-08-10T05:59:26.936905+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:00:28.797669+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:00:31.304507+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:00:31.305507+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:00:31.305507+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:00:31.305507+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:00:31.305507+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:00:31.306508+00:00]   - Security tool nmap not installed
+[2026-08-10T06:00:31.306508+00:00]   - Security tool nikto not installed
+[2026-08-10T06:00:31.306508+00:00]   - Security tool tshark not installed
+[2026-08-10T06:00:31.306508+00:00]   - Security tool yara not installed
+[2026-08-10T06:00:31.307508+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:05:31.307868+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:05:34.026155+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:05:34.027156+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:05:34.027156+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:05:34.027156+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:05:34.027156+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:05:34.028156+00:00]   - Security tool nmap not installed
+[2026-08-10T06:05:34.028156+00:00]   - Security tool nikto not installed
+[2026-08-10T06:05:34.028156+00:00]   - Security tool tshark not installed
+[2026-08-10T06:05:34.028156+00:00]   - Security tool yara not installed
+[2026-08-10T06:05:34.029156+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:07:35.512533+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T06:07:35.512533+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:07:37.556121+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:07:37.557120+00:00] VERIFIER_FLAGS: 8 issues found
+[2026-08-10T06:07:37.557120+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:07:37.557120+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:07:37.557120+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:07:37.558122+00:00]   - Security tool nmap not installed
+[2026-08-10T06:07:37.558122+00:00]   - Security tool nikto not installed
+[2026-08-10T06:07:37.558122+00:00]   - Security tool tshark not installed
+[2026-08-10T06:07:37.558122+00:00]   - Security tool yara not installed
+[2026-08-10T06:07:37.558122+00:00]   - Security tool volatility3 not installed
+[2026-08-10T06:07:37.559122+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:07:49.927053+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T06:07:49.927053+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:08:03.698917+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:08:03.698917+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:08:03.698917+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:08:03.698917+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:08:03.698917+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:08:03.699918+00:00]   - Security tool nmap not installed
+[2026-08-10T06:08:03.699918+00:00]   - Security tool nikto not installed
+[2026-08-10T06:08:03.699918+00:00]   - Security tool tshark not installed
+[2026-08-10T06:08:03.699918+00:00]   - Security tool yara not installed
+[2026-08-10T06:08:03.699918+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:10:34.029736+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:10:44.743185+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:10:44.743185+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:10:44.743185+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:10:44.744187+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:10:44.744187+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:10:44.744187+00:00]   - Security tool nmap not installed
+[2026-08-10T06:10:44.744187+00:00]   - Security tool nikto not installed
+[2026-08-10T06:10:44.745185+00:00]   - Security tool tshark not installed
+[2026-08-10T06:10:44.745185+00:00]   - Security tool yara not installed
+[2026-08-10T06:10:44.745185+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:13:14.125680+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T06:13:14.126679+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:13:24.817226+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:13:24.818227+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:13:24.818227+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:13:24.818227+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:13:24.818227+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:13:24.819314+00:00]   - Security tool nmap not installed
+[2026-08-10T06:13:24.819314+00:00]   - Security tool nikto not installed
+[2026-08-10T06:13:24.819822+00:00]   - Security tool tshark not installed
+[2026-08-10T06:13:24.819822+00:00]   - Security tool yara not installed
+[2026-08-10T06:13:24.819822+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:15:44.746048+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:15:55.192561+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:15:55.193099+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:15:55.193099+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:15:55.193631+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:15:55.193631+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:15:55.194140+00:00]   - Security tool nmap not installed
+[2026-08-10T06:15:55.194257+00:00]   - Security tool nikto not installed
+[2026-08-10T06:15:55.194792+00:00]   - Security tool tshark not installed
+[2026-08-10T06:15:55.194792+00:00]   - Security tool yara not installed
+[2026-08-10T06:15:55.194792+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:18:35.450634+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T06:18:35.450634+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:18:46.065822+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:18:46.065822+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:18:46.065822+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:18:46.065822+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:18:46.065822+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:18:46.065822+00:00]   - Security tool nmap not installed
+[2026-08-10T06:18:46.066820+00:00]   - Security tool nikto not installed
+[2026-08-10T06:18:46.066820+00:00]   - Security tool tshark not installed
+[2026-08-10T06:18:46.066820+00:00]   - Security tool yara not installed
+[2026-08-10T06:18:46.066820+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:20:55.195843+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:21:05.722531+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:21:05.722531+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:21:05.722531+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:21:05.722531+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:21:05.723535+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:21:05.723535+00:00]   - Security tool nmap not installed
+[2026-08-10T06:21:05.723535+00:00]   - Security tool nikto not installed
+[2026-08-10T06:21:05.723535+00:00]   - Security tool tshark not installed
+[2026-08-10T06:21:05.723535+00:00]   - Security tool yara not installed
+[2026-08-10T06:21:05.724533+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:23:55.127352+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T06:23:55.127352+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:24:05.606047+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:24:05.606047+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:24:05.606047+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:24:05.606047+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:24:05.607051+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:24:05.607051+00:00]   - Security tool nmap not installed
+[2026-08-10T06:24:05.607051+00:00]   - Security tool nikto not installed
+[2026-08-10T06:24:05.607051+00:00]   - Security tool tshark not installed
+[2026-08-10T06:24:05.607051+00:00]   - Security tool yara not installed
+[2026-08-10T06:24:05.607051+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:26:05.725075+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:26:16.192507+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:26:16.193508+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:26:16.193508+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:26:16.193508+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:26:16.193508+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:26:16.194509+00:00]   - Security tool nmap not installed
+[2026-08-10T06:26:16.194509+00:00]   - Security tool nikto not installed
+[2026-08-10T06:26:16.194509+00:00]   - Security tool tshark not installed
+[2026-08-10T06:26:16.194509+00:00]   - Security tool yara not installed
+[2026-08-10T06:26:16.194509+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:29:14.814473+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T06:29:14.815013+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:29:25.448453+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:29:25.449454+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:29:25.449454+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:29:25.449454+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:29:25.449454+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:29:25.449454+00:00]   - Security tool nmap not installed
+[2026-08-10T06:29:25.450452+00:00]   - Security tool nikto not installed
+[2026-08-10T06:29:25.450452+00:00]   - Security tool tshark not installed
+[2026-08-10T06:29:25.450452+00:00]   - Security tool yara not installed
+[2026-08-10T06:29:25.450452+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:31:16.196149+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:31:26.702956+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:31:26.702956+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:31:26.703954+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:31:26.703954+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:31:26.703954+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:31:26.703954+00:00]   - Security tool nmap not installed
+[2026-08-10T06:31:26.703954+00:00]   - Security tool nikto not installed
+[2026-08-10T06:31:26.704954+00:00]   - Security tool tshark not installed
+[2026-08-10T06:31:26.704954+00:00]   - Security tool yara not installed
+[2026-08-10T06:31:26.704954+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:34:34.617249+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T06:34:34.617249+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:34:45.119278+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:34:45.119814+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:34:45.120336+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:34:45.120336+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:34:45.120881+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:34:45.120881+00:00]   - Security tool nmap not installed
+[2026-08-10T06:34:45.121427+00:00]   - Security tool nikto not installed
+[2026-08-10T06:34:45.121427+00:00]   - Security tool tshark not installed
+[2026-08-10T06:34:45.121958+00:00]   - Security tool yara not installed
+[2026-08-10T06:34:45.121958+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:36:26.706030+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:36:37.209348+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:36:37.209348+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:36:37.209348+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:36:37.209348+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:36:37.210346+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:36:37.210346+00:00]   - Security tool nmap not installed
+[2026-08-10T06:36:37.210346+00:00]   - Security tool nikto not installed
+[2026-08-10T06:36:37.210346+00:00]   - Security tool tshark not installed
+[2026-08-10T06:36:37.210346+00:00]   - Security tool yara not installed
+[2026-08-10T06:36:37.211353+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:39:54.124902+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T06:39:54.125903+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:40:04.780109+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:40:04.781110+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:40:04.781110+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:40:04.781110+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:40:04.781110+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:40:04.781110+00:00]   - Security tool nmap not installed
+[2026-08-10T06:40:04.782110+00:00]   - Security tool nikto not installed
+[2026-08-10T06:40:04.782110+00:00]   - Security tool tshark not installed
+[2026-08-10T06:40:04.782110+00:00]   - Security tool yara not installed
+[2026-08-10T06:40:04.782110+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:41:37.211755+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:41:47.821081+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:41:47.821611+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:41:47.821611+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:41:47.822143+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:41:47.822143+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:41:47.822143+00:00]   - Security tool nmap not installed
+[2026-08-10T06:41:47.822686+00:00]   - Security tool nikto not installed
+[2026-08-10T06:41:47.822686+00:00]   - Security tool tshark not installed
+[2026-08-10T06:41:47.823229+00:00]   - Security tool yara not installed
+[2026-08-10T06:41:47.823229+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:45:14.486304+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T06:45:14.486304+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:45:25.102724+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:45:25.103239+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:45:25.103239+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:45:25.103239+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:45:25.103783+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:45:25.103783+00:00]   - Security tool nmap not installed
+[2026-08-10T06:45:25.103783+00:00]   - Security tool nikto not installed
+[2026-08-10T06:45:25.104327+00:00]   - Security tool tshark not installed
+[2026-08-10T06:45:25.104327+00:00]   - Security tool yara not installed
+[2026-08-10T06:45:25.104327+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:46:47.824383+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:46:58.278347+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:46:58.278347+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:46:58.279348+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:46:58.279348+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:46:58.279348+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:46:58.279348+00:00]   - Security tool nmap not installed
+[2026-08-10T06:46:58.279348+00:00]   - Security tool nikto not installed
+[2026-08-10T06:46:58.280349+00:00]   - Security tool tshark not installed
+[2026-08-10T06:46:58.280349+00:00]   - Security tool yara not installed
+[2026-08-10T06:46:58.280349+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:50:34.813179+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T06:50:34.814180+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:50:45.404530+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:50:45.404530+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:50:45.405531+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:50:45.405531+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:50:45.405531+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:50:45.405531+00:00]   - Security tool nmap not installed
+[2026-08-10T06:50:45.405531+00:00]   - Security tool nikto not installed
+[2026-08-10T06:50:45.405531+00:00]   - Security tool tshark not installed
+[2026-08-10T06:50:45.406531+00:00]   - Security tool yara not installed
+[2026-08-10T06:50:45.406531+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:51:58.281707+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:52:08.842849+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:52:08.842849+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:52:08.842849+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:52:08.842849+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:52:08.842849+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:52:08.843851+00:00]   - Security tool nmap not installed
+[2026-08-10T06:52:08.843851+00:00]   - Security tool nikto not installed
+[2026-08-10T06:52:08.843851+00:00]   - Security tool tshark not installed
+[2026-08-10T06:52:08.843851+00:00]   - Security tool yara not installed
+[2026-08-10T06:52:08.844850+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:55:55.273173+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T06:55:55.273691+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:56:05.861460+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:56:05.861460+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:56:05.861460+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:56:05.862463+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:56:05.862463+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:56:05.862463+00:00]   - Security tool nmap not installed
+[2026-08-10T06:56:05.862463+00:00]   - Security tool nikto not installed
+[2026-08-10T06:56:05.862463+00:00]   - Security tool tshark not installed
+[2026-08-10T06:56:05.862463+00:00]   - Security tool yara not installed
+[2026-08-10T06:56:05.863460+00:00] VERIFIER_CYCLE_END
+[2026-08-10T06:57:08.845713+00:00] VERIFIER_CYCLE_START
+[2026-08-10T06:57:19.460377+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T06:57:19.460905+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T06:57:19.460905+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T06:57:19.460905+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T06:57:19.461436+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T06:57:19.461436+00:00]   - Security tool nmap not installed
+[2026-08-10T06:57:19.461952+00:00]   - Security tool nikto not installed
+[2026-08-10T06:57:19.461952+00:00]   - Security tool tshark not installed
+[2026-08-10T06:57:19.462460+00:00]   - Security tool yara not installed
+[2026-08-10T06:57:19.462490+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:01:15.976064+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T07:01:15.976064+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:01:26.725520+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:01:26.725520+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:01:26.725520+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:01:26.725520+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:01:26.725520+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:01:26.726521+00:00]   - Security tool nmap not installed
+[2026-08-10T07:01:26.726521+00:00]   - Security tool nikto not installed
+[2026-08-10T07:01:26.726521+00:00]   - Security tool tshark not installed
+[2026-08-10T07:01:26.726521+00:00]   - Security tool yara not installed
+[2026-08-10T07:01:26.726521+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:02:19.463755+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:03:40.316109+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:03:40.316109+00:00] VERIFIER_FLAGS: 12 issues found
+[2026-08-10T07:03:40.317109+00:00]   - Dashboard endpoint /api/status returned error
+[2026-08-10T07:03:40.317109+00:00]   - Dashboard endpoint /api/fleet returned error
+[2026-08-10T07:03:40.317109+00:00]   - Dashboard endpoint /api/tools returned error
+[2026-08-10T07:03:40.317109+00:00]   - Dashboard endpoint /api/security-docs returned error
+[2026-08-10T07:03:40.317109+00:00]   - Dashboard endpoint /api/hw returned error
+[2026-08-10T07:03:40.318109+00:00]   - Dashboard endpoint /healthz returned error
+[2026-08-10T07:03:40.318109+00:00]   - Dashboard endpoint /api/crew_heartbeat returned error
+[2026-08-10T07:03:40.318109+00:00]   - Dashboard endpoint /api/rig-report returned error
+[2026-08-10T07:03:40.318109+00:00]   - Security tool nmap not installed
+[2026-08-10T07:03:40.319108+00:00]   - Security tool nikto not installed
+[2026-08-10T07:03:40.319108+00:00]   - Security tool tshark not installed
+[2026-08-10T07:03:40.319108+00:00]   - Security tool yara not installed
+[2026-08-10T07:03:40.319108+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:06:37.369709+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T07:06:37.370709+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:06:48.064956+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:06:48.064956+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:06:48.065957+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:06:48.065957+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:06:48.065957+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:06:48.065957+00:00]   - Security tool nmap not installed
+[2026-08-10T07:06:48.065957+00:00]   - Security tool nikto not installed
+[2026-08-10T07:06:48.066956+00:00]   - Security tool tshark not installed
+[2026-08-10T07:06:48.066956+00:00]   - Security tool yara not installed
+[2026-08-10T07:06:48.066956+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:08:40.320935+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:08:50.957567+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:08:50.957567+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:08:50.958567+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:08:50.958567+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:08:50.958567+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:08:50.958567+00:00]   - Security tool nmap not installed
+[2026-08-10T07:08:50.958567+00:00]   - Security tool nikto not installed
+[2026-08-10T07:08:50.959566+00:00]   - Security tool tshark not installed
+[2026-08-10T07:08:50.959566+00:00]   - Security tool yara not installed
+[2026-08-10T07:08:50.959566+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:11:57.121701+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T07:11:57.121701+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:12:07.738350+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:12:07.739350+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:12:07.739350+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:12:07.739350+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:12:07.739350+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:12:07.739350+00:00]   - Security tool nmap not installed
+[2026-08-10T07:12:07.740352+00:00]   - Security tool nikto not installed
+[2026-08-10T07:12:07.740352+00:00]   - Security tool tshark not installed
+[2026-08-10T07:12:07.740352+00:00]   - Security tool yara not installed
+[2026-08-10T07:12:07.740352+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:13:50.960424+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:14:01.660907+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:14:01.660907+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:14:01.660907+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:14:01.660907+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:14:01.661901+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:14:01.661901+00:00]   - Security tool nmap not installed
+[2026-08-10T07:14:01.661901+00:00]   - Security tool nikto not installed
+[2026-08-10T07:14:01.661901+00:00]   - Security tool tshark not installed
+[2026-08-10T07:14:01.662900+00:00]   - Security tool yara not installed
+[2026-08-10T07:14:01.662900+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:17:18.374603+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T07:17:18.374603+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:17:29.095398+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:17:29.096397+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:17:29.096397+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:17:29.096397+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:17:29.096397+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:17:29.096397+00:00]   - Security tool nmap not installed
+[2026-08-10T07:17:29.097398+00:00]   - Security tool nikto not installed
+[2026-08-10T07:17:29.097398+00:00]   - Security tool tshark not installed
+[2026-08-10T07:17:29.097398+00:00]   - Security tool yara not installed
+[2026-08-10T07:17:29.097398+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:19:01.663791+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:19:12.296684+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:19:12.297684+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:19:12.297684+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:19:12.297684+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:19:12.297684+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:19:12.298683+00:00]   - Security tool nmap not installed
+[2026-08-10T07:19:12.298683+00:00]   - Security tool nikto not installed
+[2026-08-10T07:19:12.298683+00:00]   - Security tool tshark not installed
+[2026-08-10T07:19:12.298683+00:00]   - Security tool yara not installed
+[2026-08-10T07:19:12.299684+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:22:39.059799+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T07:22:39.059799+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:22:49.714348+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:22:49.714348+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:22:49.714348+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:22:49.714348+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:22:49.715349+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:22:49.715349+00:00]   - Security tool nmap not installed
+[2026-08-10T07:22:49.715349+00:00]   - Security tool nikto not installed
+[2026-08-10T07:22:49.715349+00:00]   - Security tool tshark not installed
+[2026-08-10T07:22:49.715349+00:00]   - Security tool yara not installed
+[2026-08-10T07:22:49.716348+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:24:12.300450+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:24:22.799495+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:24:22.799495+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:24:22.800038+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:24:22.800038+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:24:22.800575+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:24:22.800575+00:00]   - Security tool nmap not installed
+[2026-08-10T07:24:22.801113+00:00]   - Security tool nikto not installed
+[2026-08-10T07:24:22.801113+00:00]   - Security tool tshark not installed
+[2026-08-10T07:24:22.801653+00:00]   - Security tool yara not installed
+[2026-08-10T07:24:22.801653+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:28:02.378118+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T07:28:02.378118+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:28:13.146975+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:28:13.146975+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:28:13.146975+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:28:13.147972+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:28:13.147972+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:28:13.147972+00:00]   - Security tool nmap not installed
+[2026-08-10T07:28:13.147972+00:00]   - Security tool nikto not installed
+[2026-08-10T07:28:13.147972+00:00]   - Security tool tshark not installed
+[2026-08-10T07:28:13.147972+00:00]   - Security tool yara not installed
+[2026-08-10T07:28:13.148975+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:29:22.802148+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:29:33.318138+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:29:33.318138+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:29:33.318138+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:29:33.318138+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:29:33.318138+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:29:33.318138+00:00]   - Security tool nmap not installed
+[2026-08-10T07:29:33.319140+00:00]   - Security tool nikto not installed
+[2026-08-10T07:29:33.319140+00:00]   - Security tool tshark not installed
+[2026-08-10T07:29:33.319140+00:00]   - Security tool yara not installed
+[2026-08-10T07:29:33.319140+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:33:22.700513+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T07:33:22.700513+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:33:33.424136+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:33:33.424136+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:33:33.424136+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:33:33.425136+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:33:33.425136+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:33:33.425136+00:00]   - Security tool nmap not installed
+[2026-08-10T07:33:33.425136+00:00]   - Security tool nikto not installed
+[2026-08-10T07:33:33.426138+00:00]   - Security tool tshark not installed
+[2026-08-10T07:33:33.426138+00:00]   - Security tool yara not installed
+[2026-08-10T07:33:33.426138+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:34:33.320932+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:34:43.927988+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:34:43.928495+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:34:43.928518+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:34:43.928518+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:34:43.929053+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:34:43.929053+00:00]   - Security tool nmap not installed
+[2026-08-10T07:34:43.929053+00:00]   - Security tool nikto not installed
+[2026-08-10T07:34:43.929762+00:00]   - Security tool tshark not installed
+[2026-08-10T07:34:43.929762+00:00]   - Security tool yara not installed
+[2026-08-10T07:34:43.929762+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:38:43.151998+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T07:38:43.151998+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:38:53.791384+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:38:53.792385+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:38:53.792385+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:38:53.792385+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:38:53.792385+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:38:53.792385+00:00]   - Security tool nmap not installed
+[2026-08-10T07:38:53.793384+00:00]   - Security tool nikto not installed
+[2026-08-10T07:38:53.793384+00:00]   - Security tool tshark not installed
+[2026-08-10T07:38:53.793384+00:00]   - Security tool yara not installed
+[2026-08-10T07:38:53.793384+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:39:43.930911+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:39:55.074815+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:39:55.074815+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:39:55.074815+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:39:55.075816+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:39:55.075816+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:39:55.075816+00:00]   - Security tool nmap not installed
+[2026-08-10T07:39:55.075816+00:00]   - Security tool nikto not installed
+[2026-08-10T07:39:55.076815+00:00]   - Security tool tshark not installed
+[2026-08-10T07:39:55.076815+00:00]   - Security tool yara not installed
+[2026-08-10T07:39:55.076815+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:44:03.344960+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T07:44:03.345958+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:44:14.087949+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:44:14.087949+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:44:14.088951+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:44:14.088951+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:44:14.088951+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:44:14.088951+00:00]   - Security tool nmap not installed
+[2026-08-10T07:44:14.089950+00:00]   - Security tool nikto not installed
+[2026-08-10T07:44:14.089950+00:00]   - Security tool tshark not installed
+[2026-08-10T07:44:14.089950+00:00]   - Security tool yara not installed
+[2026-08-10T07:44:14.089950+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:44:55.077692+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:45:05.817507+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:45:05.817507+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:45:05.817507+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:45:05.818507+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:45:05.818620+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:45:05.818620+00:00]   - Security tool nmap not installed
+[2026-08-10T07:45:05.819129+00:00]   - Security tool nikto not installed
+[2026-08-10T07:45:05.819441+00:00]   - Security tool tshark not installed
+[2026-08-10T07:45:05.819441+00:00]   - Security tool yara not installed
+[2026-08-10T07:45:05.819967+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:50:05.820772+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:50:16.443876+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:50:16.444877+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:50:16.444877+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:50:16.444877+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:50:16.444877+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:50:16.444877+00:00]   - Security tool nmap not installed
+[2026-08-10T07:50:16.445878+00:00]   - Security tool nikto not installed
+[2026-08-10T07:50:16.445878+00:00]   - Security tool tshark not installed
+[2026-08-10T07:50:16.445878+00:00]   - Security tool yara not installed
+[2026-08-10T07:50:16.445878+00:00] VERIFIER_CYCLE_END
+[2026-08-10T07:55:16.447649+00:00] VERIFIER_CYCLE_START
+[2026-08-10T07:55:27.042766+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T07:55:27.043767+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T07:55:27.043767+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T07:55:27.043767+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T07:55:27.043767+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T07:55:27.044768+00:00]   - Security tool nmap not installed
+[2026-08-10T07:55:27.044768+00:00]   - Security tool nikto not installed
+[2026-08-10T07:55:27.044768+00:00]   - Security tool tshark not installed
+[2026-08-10T07:55:27.044768+00:00]   - Security tool yara not installed
+[2026-08-10T07:55:27.045768+00:00] VERIFIER_CYCLE_END
+[2026-08-10T08:00:27.046376+00:00] VERIFIER_CYCLE_START
+[2026-08-10T08:00:37.590370+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T08:00:37.590370+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T08:00:37.590904+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T08:00:37.590904+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T08:00:37.591441+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T08:00:37.591441+00:00]   - Security tool nmap not installed
+[2026-08-10T08:00:37.591988+00:00]   - Security tool nikto not installed
+[2026-08-10T08:00:37.591988+00:00]   - Security tool tshark not installed
+[2026-08-10T08:00:37.591988+00:00]   - Security tool yara not installed
+[2026-08-10T08:00:37.592522+00:00] VERIFIER_CYCLE_END
+[2026-08-10T08:05:37.593780+00:00] VERIFIER_CYCLE_START
+[2026-08-10T08:05:48.241162+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T08:05:48.242161+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T08:05:48.242161+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T08:05:48.242161+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T08:05:48.242161+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T08:05:48.243162+00:00]   - Security tool nmap not installed
+[2026-08-10T08:05:48.243162+00:00]   - Security tool nikto not installed
+[2026-08-10T08:05:48.243162+00:00]   - Security tool tshark not installed
+[2026-08-10T08:05:48.243162+00:00]   - Security tool yara not installed
+[2026-08-10T08:05:48.243162+00:00] VERIFIER_CYCLE_END
+[2026-08-10T08:10:48.244762+00:00] VERIFIER_CYCLE_START
+[2026-08-10T08:10:58.927879+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T08:10:58.927879+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T08:10:58.927879+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T08:10:58.928877+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T08:10:58.928877+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T08:10:58.928877+00:00]   - Security tool nmap not installed
+[2026-08-10T08:10:58.928877+00:00]   - Security tool nikto not installed
+[2026-08-10T08:10:58.929877+00:00]   - Security tool tshark not installed
+[2026-08-10T08:10:58.929877+00:00]   - Security tool yara not installed
+[2026-08-10T08:10:58.929877+00:00] VERIFIER_CYCLE_END
+[2026-08-10T08:15:58.931585+00:00] VERIFIER_CYCLE_START
+[2026-08-10T08:16:09.549701+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T08:16:09.550701+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T08:16:09.550701+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T08:16:09.550701+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T08:16:09.550701+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T08:16:09.551700+00:00]   - Security tool nmap not installed
+[2026-08-10T08:16:09.551700+00:00]   - Security tool nikto not installed
+[2026-08-10T08:16:09.551700+00:00]   - Security tool tshark not installed
+[2026-08-10T08:16:09.551700+00:00]   - Security tool yara not installed
+[2026-08-10T08:16:09.552702+00:00] VERIFIER_CYCLE_END
+[2026-08-10T08:21:09.553346+00:00] VERIFIER_CYCLE_START
+[2026-08-10T08:21:20.263720+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T08:21:20.263720+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T08:21:20.263720+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T08:21:20.264719+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T08:21:20.264719+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T08:21:20.264719+00:00]   - Security tool nmap not installed
+[2026-08-10T08:21:20.264719+00:00]   - Security tool nikto not installed
+[2026-08-10T08:21:20.265722+00:00]   - Security tool tshark not installed
+[2026-08-10T08:21:20.265722+00:00]   - Security tool yara not installed
+[2026-08-10T08:21:20.265722+00:00] VERIFIER_CYCLE_END
+[2026-08-10T08:26:20.266313+00:00] VERIFIER_CYCLE_START
+[2026-08-10T08:26:31.036492+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T08:26:31.037475+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T08:26:31.037475+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T08:26:31.037475+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T08:26:31.037475+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T08:26:31.037475+00:00]   - Security tool nmap not installed
+[2026-08-10T08:26:31.038476+00:00]   - Security tool nikto not installed
+[2026-08-10T08:26:31.038476+00:00]   - Security tool tshark not installed
+[2026-08-10T08:26:31.038476+00:00]   - Security tool yara not installed
+[2026-08-10T08:26:31.038476+00:00] VERIFIER_CYCLE_END
+[2026-08-10T08:31:31.040016+00:00] VERIFIER_CYCLE_START
+[2026-08-10T08:31:41.695989+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T08:31:41.695989+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T08:31:41.695989+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T08:31:41.696990+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T08:31:41.696990+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T08:31:41.696990+00:00]   - Security tool nmap not installed
+[2026-08-10T08:31:41.696990+00:00]   - Security tool nikto not installed
+[2026-08-10T08:31:41.697988+00:00]   - Security tool tshark not installed
+[2026-08-10T08:31:41.697988+00:00]   - Security tool yara not installed
+[2026-08-10T08:31:41.697988+00:00] VERIFIER_CYCLE_END
+[2026-08-10T08:36:41.699266+00:00] VERIFIER_CYCLE_START
+[2026-08-10T08:36:52.607527+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T08:36:52.607527+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T08:36:52.607527+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T08:36:52.608527+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T08:36:52.608527+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T08:36:52.608527+00:00]   - Security tool nmap not installed
+[2026-08-10T08:36:52.608527+00:00]   - Security tool nikto not installed
+[2026-08-10T08:36:52.608527+00:00]   - Security tool tshark not installed
+[2026-08-10T08:36:52.609527+00:00]   - Security tool yara not installed
+[2026-08-10T08:36:52.609527+00:00] VERIFIER_CYCLE_END
+[2026-08-10T08:41:52.610092+00:00] VERIFIER_CYCLE_START
+[2026-08-10T08:42:03.274214+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T08:42:03.274214+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T08:42:03.274214+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T08:42:03.275214+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T08:42:03.275214+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T08:42:03.275214+00:00]   - Security tool nmap not installed
+[2026-08-10T08:42:03.275214+00:00]   - Security tool nikto not installed
+[2026-08-10T08:42:03.276213+00:00]   - Security tool tshark not installed
+[2026-08-10T08:42:03.276213+00:00]   - Security tool yara not installed
+[2026-08-10T08:42:03.276213+00:00] VERIFIER_CYCLE_END
+[2026-08-10T08:47:03.277300+00:00] VERIFIER_CYCLE_START
+[2026-08-10T08:47:13.901350+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T08:47:13.901350+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T08:47:13.901350+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T08:47:13.901350+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T08:47:13.902349+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T08:47:13.902349+00:00]   - Security tool nmap not installed
+[2026-08-10T08:47:13.902349+00:00]   - Security tool nikto not installed
+[2026-08-10T08:47:13.902349+00:00]   - Security tool tshark not installed
+[2026-08-10T08:47:13.903352+00:00]   - Security tool yara not installed
+[2026-08-10T08:47:13.903352+00:00] VERIFIER_CYCLE_END
+[2026-08-10T08:52:13.904612+00:00] VERIFIER_CYCLE_START
+[2026-08-10T08:52:24.648966+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T08:52:24.649965+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T08:52:24.649965+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T08:52:24.649965+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T08:52:24.649965+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T08:52:24.650823+00:00]   - Security tool nmap not installed
+[2026-08-10T08:52:24.650823+00:00]   - Security tool nikto not installed
+[2026-08-10T08:52:24.650823+00:00]   - Security tool tshark not installed
+[2026-08-10T08:52:24.650823+00:00]   - Security tool yara not installed
+[2026-08-10T08:52:24.650823+00:00] VERIFIER_CYCLE_END
+[2026-08-10T08:57:24.652338+00:00] VERIFIER_CYCLE_START
+[2026-08-10T08:57:35.343937+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T08:57:35.343937+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T08:57:35.343937+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T08:57:35.343937+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T08:57:35.343937+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T08:57:35.344939+00:00]   - Security tool nmap not installed
+[2026-08-10T08:57:35.344939+00:00]   - Security tool nikto not installed
+[2026-08-10T08:57:35.344939+00:00]   - Security tool tshark not installed
+[2026-08-10T08:57:35.344939+00:00]   - Security tool yara not installed
+[2026-08-10T08:57:35.345939+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:02:35.347106+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:02:46.034948+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:02:46.035949+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T09:02:46.035949+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:02:46.035949+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:02:46.035949+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T09:02:46.035949+00:00]   - Security tool nmap not installed
+[2026-08-10T09:02:46.036952+00:00]   - Security tool nikto not installed
+[2026-08-10T09:02:46.036952+00:00]   - Security tool tshark not installed
+[2026-08-10T09:02:46.036952+00:00]   - Security tool yara not installed
+[2026-08-10T09:02:46.036952+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:03:42.042135+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T09:03:42.043097+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:03:52.649912+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:03:52.650912+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T09:03:52.650912+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:03:52.650912+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:03:52.650912+00:00]   - Dashboard endpoint /api/rig-report returned 404
+[2026-08-10T09:03:52.651910+00:00]   - Security tool nmap not installed
+[2026-08-10T09:03:52.651910+00:00]   - Security tool nikto not installed
+[2026-08-10T09:03:52.651910+00:00]   - Security tool tshark not installed
+[2026-08-10T09:03:52.651910+00:00]   - Security tool yara not installed
+[2026-08-10T09:03:52.651910+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:07:46.038404+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:07:56.767902+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:07:56.767902+00:00] VERIFIER_FLAGS: 6 issues found
+[2026-08-10T09:07:56.768901+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:07:56.768901+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:07:56.768901+00:00]   - Security tool nmap not installed
+[2026-08-10T09:07:56.768901+00:00]   - Security tool nikto not installed
+[2026-08-10T09:07:56.768901+00:00]   - Security tool tshark not installed
+[2026-08-10T09:07:56.769901+00:00]   - Security tool yara not installed
+[2026-08-10T09:07:56.769901+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:09:02.464549+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T09:09:02.464549+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:09:13.012090+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:09:13.013090+00:00] VERIFIER_FLAGS: 6 issues found
+[2026-08-10T09:09:13.013090+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:09:13.013090+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:09:13.013090+00:00]   - Security tool nmap not installed
+[2026-08-10T09:09:13.013090+00:00]   - Security tool nikto not installed
+[2026-08-10T09:09:13.013090+00:00]   - Security tool tshark not installed
+[2026-08-10T09:09:13.014091+00:00]   - Security tool yara not installed
+[2026-08-10T09:09:13.014091+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:12:56.770585+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:13:17.530295+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:13:17.530295+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T09:13:17.530295+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:13:17.531294+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:13:17.531294+00:00]   - Dashboard endpoint /api/rig-report returned error
+[2026-08-10T09:13:17.531294+00:00]   - Security tool nmap not installed
+[2026-08-10T09:13:17.531294+00:00]   - Security tool nikto not installed
+[2026-08-10T09:13:17.532295+00:00]   - Security tool tshark not installed
+[2026-08-10T09:13:17.532295+00:00]   - Security tool yara not installed
+[2026-08-10T09:13:17.532295+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:14:21.913010+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T09:14:21.913010+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:14:33.846778+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:14:33.847313+00:00] VERIFIER_FLAGS: 6 issues found
+[2026-08-10T09:14:33.847313+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:14:33.847852+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:14:33.847852+00:00]   - Security tool nmap not installed
+[2026-08-10T09:14:33.847852+00:00]   - Security tool nikto not installed
+[2026-08-10T09:14:33.848390+00:00]   - Security tool tshark not installed
+[2026-08-10T09:14:33.848897+00:00]   - Security tool yara not installed
+[2026-08-10T09:14:33.848924+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:18:17.533568+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:18:38.164493+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:18:38.164493+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T09:18:38.164493+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:18:38.164493+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:18:38.165492+00:00]   - Dashboard endpoint /api/rig-report returned error
+[2026-08-10T09:18:38.165492+00:00]   - Security tool nmap not installed
+[2026-08-10T09:18:38.165492+00:00]   - Security tool nikto not installed
+[2026-08-10T09:18:38.166492+00:00]   - Security tool tshark not installed
+[2026-08-10T09:18:38.166492+00:00]   - Security tool yara not installed
+[2026-08-10T09:18:38.166492+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:19:43.032988+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T09:19:43.033506+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:19:55.106906+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:19:55.106906+00:00] VERIFIER_FLAGS: 6 issues found
+[2026-08-10T09:19:55.106906+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:19:55.106906+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:19:55.107903+00:00]   - Security tool nmap not installed
+[2026-08-10T09:19:55.107903+00:00]   - Security tool nikto not installed
+[2026-08-10T09:19:55.108311+00:00]   - Security tool tshark not installed
+[2026-08-10T09:19:55.108311+00:00]   - Security tool yara not installed
+[2026-08-10T09:19:55.108830+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:23:38.168222+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:23:59.021457+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:23:59.021772+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T09:23:59.022342+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:23:59.022342+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:23:59.022870+00:00]   - Dashboard endpoint /api/rig-report returned error
+[2026-08-10T09:23:59.022870+00:00]   - Security tool nmap not installed
+[2026-08-10T09:23:59.022870+00:00]   - Security tool nikto not installed
+[2026-08-10T09:23:59.023448+00:00]   - Security tool tshark not installed
+[2026-08-10T09:23:59.023448+00:00]   - Security tool yara not installed
+[2026-08-10T09:23:59.023990+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:25:05.029565+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T09:25:05.029565+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:25:25.679180+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:25:25.680184+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T09:25:25.680184+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:25:25.680184+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:25:25.681185+00:00]   - Dashboard endpoint /api/rig-report returned error
+[2026-08-10T09:25:25.681185+00:00]   - Security tool nmap not installed
+[2026-08-10T09:25:25.681185+00:00]   - Security tool nikto not installed
+[2026-08-10T09:25:25.681185+00:00]   - Security tool tshark not installed
+[2026-08-10T09:25:25.682190+00:00]   - Security tool yara not installed
+[2026-08-10T09:25:25.682190+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:28:59.024567+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:29:20.321031+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:29:20.321273+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T09:29:20.321793+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:29:20.321793+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:29:20.321793+00:00]   - Dashboard endpoint /api/rig-report returned error
+[2026-08-10T09:29:20.321793+00:00]   - Security tool nmap not installed
+[2026-08-10T09:29:20.321793+00:00]   - Security tool nikto not installed
+[2026-08-10T09:29:20.322791+00:00]   - Security tool tshark not installed
+[2026-08-10T09:29:20.322791+00:00]   - Security tool yara not installed
+[2026-08-10T09:29:20.322791+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:30:35.521490+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T09:30:35.522492+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:30:56.138809+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:30:56.138809+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T09:30:56.139346+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:30:56.139878+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:30:56.139878+00:00]   - Dashboard endpoint /api/rig-report returned error
+[2026-08-10T09:30:56.140387+00:00]   - Security tool nmap not installed
+[2026-08-10T09:30:56.140414+00:00]   - Security tool nikto not installed
+[2026-08-10T09:30:56.140414+00:00]   - Security tool tshark not installed
+[2026-08-10T09:30:56.140955+00:00]   - Security tool yara not installed
+[2026-08-10T09:30:56.140955+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:34:20.323827+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:34:41.049752+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:34:41.050753+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T09:34:41.050753+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:34:41.050753+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:34:41.050753+00:00]   - Dashboard endpoint /api/rig-report returned error
+[2026-08-10T09:34:41.051753+00:00]   - Security tool nmap not installed
+[2026-08-10T09:34:41.051753+00:00]   - Security tool nikto not installed
+[2026-08-10T09:34:41.051753+00:00]   - Security tool tshark not installed
+[2026-08-10T09:34:41.051753+00:00]   - Security tool yara not installed
+[2026-08-10T09:34:41.051753+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:36:05.427526+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T09:36:05.428481+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:36:26.068800+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:36:26.068800+00:00] VERIFIER_FLAGS: 7 issues found
+[2026-08-10T09:36:26.069332+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:36:26.069332+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:36:26.069874+00:00]   - Dashboard endpoint /api/rig-report returned error
+[2026-08-10T09:36:26.069874+00:00]   - Security tool nmap not installed
+[2026-08-10T09:36:26.070408+00:00]   - Security tool nikto not installed
+[2026-08-10T09:36:26.070408+00:00]   - Security tool tshark not installed
+[2026-08-10T09:36:26.070939+00:00]   - Security tool yara not installed
+[2026-08-10T09:36:26.070956+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:39:41.053107+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:39:53.248150+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:39:53.248150+00:00] VERIFIER_FLAGS: 6 issues found
+[2026-08-10T09:39:53.248150+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:39:53.249148+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:39:53.249148+00:00]   - Security tool nmap not installed
+[2026-08-10T09:39:53.249148+00:00]   - Security tool nikto not installed
+[2026-08-10T09:39:53.249148+00:00]   - Security tool tshark not installed
+[2026-08-10T09:39:53.249148+00:00]   - Security tool yara not installed
+[2026-08-10T09:39:53.250147+00:00] VERIFIER_CYCLE_END
+[2026-08-10T09:41:35.415349+00:00] VERIFIER_DAEMON_STARTED
+[2026-08-10T09:41:35.415349+00:00] VERIFIER_CYCLE_START
+[2026-08-10T09:41:47.751829+00:00] VERIFIER_REPORT_WRITTEN: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\verifier_report.json
+[2026-08-10T09:41:47.751829+00:00] VERIFIER_FLAGS: 6 issues found
+[2026-08-10T09:41:47.752354+00:00]   - Dashboard endpoint /api/security-docs returned 404
+[2026-08-10T09:41:47.752354+00:00]   - Dashboard endpoint /api/hw returned 404
+[2026-08-10T09:41:47.752883+00:00]   - Security tool nmap not installed
+[2026-08-10T09:41:47.752883+00:00]   - Security tool nikto not installed
+[2026-08-10T09:41:47.753413+00:00]   - Security tool tshark not installed
+[2026-08-10T09:41:47.753413+00:00]   - Security tool yara not installed
+[2026-08-10T09:41:47.753941+00:00] VERIFIER_CYCLE_END

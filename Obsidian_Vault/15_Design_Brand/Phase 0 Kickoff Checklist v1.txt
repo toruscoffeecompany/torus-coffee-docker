@@ -1,0 +1,203 @@
+﻿Torus Coffee Company - Phase 0 Kickoff Checklist
+Last updated: 2026-05-29
+
+Purpose
+This checklist turns the design docs into concrete prep work before coding. Complete or answer these items so Phase 1 can start cleanly.
+
+Phase 0 Goal
+Get accounts, assets, product data, policies, and key decisions ready before coding the first production website version.
+
+------------------------------------------------------------
+1. Accounts And Access
+------------------------------------------------------------
+
+[P0] Confirm Square access
+Owner task:
+- Log in to Square Dashboard.
+- Confirm you can create Square Payment Links.
+- Confirm you can edit item names/prices.
+- Confirm you can configure shipping/tax settings.
+- Confirm order/payment notifications work.
+
+Notes:
+Square payment links are needed for Phase 1 sales.
+
+[P0] Confirm domain/DNS access
+Owner task:
+- Identify where toruscoffeecompany.com DNS is managed.
+- Confirm you can add/edit A, CNAME, and TXT records.
+
+Notes:
+Needed for hosting, Google verification, email verification, and future services.
+
+[P1] Create/confirm GitHub
+Owner task:
+- Create or confirm GitHub account/org.
+- Enable 2FA.
+- Decide account/org name for private website repo.
+
+[P1] Create/confirm Supabase
+Owner task:
+- Create/confirm account.
+- No need to create final project until build starts, unless desired.
+
+[P1] Create/confirm Vercel
+Owner task:
+- Create/confirm Vercel account.
+- Connect GitHub later during coding.
+
+[P1] Google Search Console
+Owner task:
+- Create/confirm access.
+- Domain verification can happen after DNS/hosting setup.
+
+[P1] Google Merchant Center
+Owner task:
+- Start account setup when convenient.
+- Expect verification/policy/product setup steps.
+
+[P2] Google Business Profile
+Owner task:
+- Confirm/create/claim business profile if appropriate.
+
+[P2] Meta Business Manager / Commerce Manager
+Owner task:
+- Confirm access to Facebook/Instagram business assets.
+- Enable 2FA.
+
+[P2] Pinterest Business
+Owner task:
+- Create/confirm Pinterest Business account.
+
+------------------------------------------------------------
+2. Product Data Prep
+------------------------------------------------------------
+
+Known launch products:
+- Star-Dusted Banana Crunch 1.15oz
+- Apple Cinnamon Comets 1.15oz
+- Aurora Berryalis 2.6oz
+- Sour Aurora Bites 2.6oz
+- Solar Strawberries 0.5oz
+- Cosmic Bananas 1.55oz
+- Aurora Bites 2.6oz
+- Apple Zephyr Chips 1.15oz
+
+Owner/Codex tasks:
+- Confirm each product's current price.
+- Confirm each product's current inventory count.
+- Confirm each product's current Square payment link or create one.
+- Confirm each product's final public description.
+- Confirm each product's ingredients/allergens if ready.
+- Confirm shelf life/storage text.
+- Decide any additional test products for inventory testing.
+
+Decision needed:
+Should exact stock counts be public, or only In Stock / Low Stock / Sold Out?
+Current recommendation: Do not show exact counts publicly.
+
+------------------------------------------------------------
+3. Product Photos And Assets
+------------------------------------------------------------
+
+Asset findings:
+- Local logo files exist.
+- Local website background images exist.
+- Product signage images exist for all launch products.
+- Flea market photos exist locally.
+- Product folders mostly contain Google doc shortcuts rather than local product photo files.
+
+Owner/Codex tasks:
+- Locate best real product photos for each launch product.
+- Decide whether signage images can be used as temporary product-card visuals.
+- Create a final product photo folder later inside the Website project.
+- Keep originals locally and use optimized copies for the site.
+
+Decision needed:
+Use existing signage as temporary visuals if final product photos are not ready?
+
+------------------------------------------------------------
+4. Policies And Legal Text
+------------------------------------------------------------
+
+Needed before public selling launch:
+- Privacy Policy
+- Terms & Conditions
+- Refund & Returns Policy
+- Shipping Policy
+- Accessibility Statement
+
+Owner/Codex tasks:
+- Export existing Google Docs to readable text/docx/pdf, or recreate policy text.
+- Confirm refund rules for food products.
+- Confirm shipping scope: U.S. only.
+- Confirm processing/shipping time estimate.
+
+------------------------------------------------------------
+5. Design Decisions Before Coding
+------------------------------------------------------------
+
+Decision 1: Hosting
+Current recommendation: Vercel for Next.js.
+Owner decision: pending.
+
+Decision 2: Backend timing
+Options:
+- Supabase from Phase 1
+- Static/local data in Phase 1, Supabase in Phase 2
+Current recommendation: Supabase from Phase 1 if we are comfortable setting it up.
+Owner decision: pending.
+
+Decision 3: Blog launch scope
+Options:
+- Blog pages and categories only
+- First posts included
+- Admin blog editor later
+Current recommendation: Blog shell/categories in Phase 1, admin editor in Phase 2.
+Owner decision: pending.
+
+Decision 4: Customer accounts timing
+Current recommendation: Phase 3, after selling site/admin foundation.
+Owner decision: pending.
+
+Decision 5: Shipping model
+Options:
+- Square-configured shipping
+- Flat rate
+- Free over threshold
+- Weight-based later
+Current recommendation: Test Square first, then choose simplest reliable model.
+Owner decision: pending.
+
+Decision 6: Wholesale page timing
+Options:
+- Visible inquiry page at launch
+- Hidden until later
+Current recommendation: Soft-launch a simple inquiry section/page if it does not distract from direct sales.
+Owner decision: pending.
+
+------------------------------------------------------------
+6. First Coding Readiness Criteria
+------------------------------------------------------------
+
+Ready to start Phase 1 coding when:
+- Square access is confirmed.
+- Domain/DNS access is confirmed or at least identified.
+- GitHub and hosting choice are confirmed.
+- Supabase timing decision is made.
+- Launch products/prices are confirmed.
+- Product photos or temporary visuals are chosen.
+- Policy text path is decided.
+- Shipping model can be tested in Square.
+
+------------------------------------------------------------
+7. Recommended Next Work Session
+------------------------------------------------------------
+
+Recommended sequence:
+1. Owner works account checklist while Codex prepares technical project plan.
+2. Confirm Vercel and Supabase timing.
+3. Confirm product photo locations.
+4. Test one Square payment link end to end.
+5. Finalize Phase 1 implementation plan.
+6. Start coding only after Phase 1 inputs are clear.

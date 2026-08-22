@@ -1,0 +1,24 @@
+[
+  {
+    "id": "test-auto-sort-sirgreen",
+    "from": "Miss Pink",
+    "to": "Sir Green",
+    "topic": "test-auto-sort",
+    "title": "[TEST] Auto-sort verification: Sir Green queue test",
+    "body": "This is a test card to verify auto-sorting. Should route to Sir Green Queue.",
+    "priority": "P1",
+    "expected_list": "Sir Green's Queue",
+    "expected_label": "Sir Green Queue"
+  },
+  {
+    "id": "test-auto-sort-sirazure",
+    "from": "Miss Pink",
+    "to": "Sir Azure",
+    "topic": "test-auto-sort",
+    "title": "[TEST] Auto-sort verification: Sir Azure queue test",
+    "body": "This is a test card to verify auto-sorting. Should route to Sir Azure Queue.",
+    "priority": "P1",
+    "expected_list": "Sir Azure's Queue",
+    "expected_label": "Sir Azure Queue"
+  }
+]

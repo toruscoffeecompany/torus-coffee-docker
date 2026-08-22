@@ -1,0 +1,57 @@
+2026-08-03 22:57:37,976 | INFO | ============================================================
+2026-08-03 22:57:37,976 | INFO | STARTING TORUS COFFEE AUTOMATION ORCHESTRATOR
+2026-08-03 22:57:37,976 | INFO | ============================================================
+2026-08-03 22:57:37,976 | INFO | 
+--- Running buffer_automation ---
+2026-08-03 22:57:38,652 | INFO | ✓ buffer_automation: success
+2026-08-03 22:57:38,652 | INFO | ✓ buffer_automation completed successfully
+2026-08-03 22:57:38,652 | INFO | 
+--- Running zapier_automation ---
+2026-08-03 22:57:38,761 | INFO | ✓ zapier_automation: success
+2026-08-03 22:57:38,761 | INFO | ✓ zapier_automation completed successfully
+2026-08-03 22:57:38,762 | INFO | 
+--- Running hubspot_crm ---
+2026-08-03 22:57:39,545 | INFO | ✓ hubspot_crm: success
+2026-08-03 22:57:39,545 | INFO | ✓ hubspot_crm completed successfully
+2026-08-03 22:57:39,545 | INFO | 
+--- Running social_media_automation ---
+2026-08-03 22:57:39,620 | INFO | ✓ social_media_automation: success
+2026-08-03 22:57:39,620 | INFO | ✓ social_media_automation completed successfully
+2026-08-03 22:57:39,621 | INFO | 
+--- Running inventory_tracker ---
+2026-08-03 22:57:39,721 | INFO | ✓ inventory_tracker: success
+2026-08-03 22:57:39,721 | INFO | ✓ inventory_tracker completed successfully
+2026-08-03 22:57:39,721 | INFO | 
+--- Running daily_ops_automation ---
+2026-08-03 22:57:39,888 | INFO | ✓ daily_ops_automation: success
+2026-08-03 22:57:39,888 | INFO | ✓ daily_ops_automation completed successfully
+2026-08-03 22:57:39,888 | INFO | 
+--- Running weekly_review_automation ---
+2026-08-03 22:57:39,957 | INFO | ✓ weekly_review_automation: success
+2026-08-03 22:57:39,957 | INFO | ✓ weekly_review_automation completed successfully
+2026-08-03 22:57:39,957 | INFO | 
+--- Running monthly_review_automation ---
+2026-08-03 22:57:40,025 | INFO | ✓ monthly_review_automation: success
+2026-08-03 22:57:40,025 | INFO | ✓ monthly_review_automation completed successfully
+2026-08-03 22:57:40,025 | INFO | 
+============================================================
+2026-08-03 22:57:40,025 | INFO | AUTOMATION ORCHESTRATOR REPORT
+2026-08-03 22:57:40,025 | INFO | ============================================================
+2026-08-03 22:57:40,025 | INFO | Total scripts: 8
+2026-08-03 22:57:40,025 | INFO | Successful: 8
+2026-08-03 22:57:40,025 | INFO | Failed/Warnings: 0
+2026-08-03 22:57:40,025 | INFO | Success rate: 100.0%
+2026-08-03 22:57:40,025 | INFO | 
+Detailed Results:
+2026-08-03 22:57:40,025 | INFO |   ✓ buffer_automation: success
+2026-08-03 22:57:40,025 | INFO |   ✓ zapier_automation: success
+2026-08-03 22:57:40,025 | INFO |       Error: 2026-08-03 22:57:38,750 | INFO | === TORUS COFFEE ZAPIER INTEGRATION ===
+2026-08-03 22:57:40,025 | INFO |   ✓ hubspot_crm: success
+2026-08-03 22:57:40,025 | INFO |   ✓ social_media_automation: success
+2026-08-03 22:57:40,025 | INFO |   ✓ inventory_tracker: success
+2026-08-03 22:57:40,025 | INFO |   ✓ daily_ops_automation: success
+2026-08-03 22:57:40,025 | INFO |   ✓ weekly_review_automation: success
+2026-08-03 22:57:40,025 | INFO |   ✓ monthly_review_automation: success
+2026-08-03 22:57:40,026 | INFO | 
+✓ Report saved to: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\orchestrator_report_20260803_225740.json
+2026-08-03 22:57:40,026 | INFO | ============================================================

@@ -1,0 +1,47 @@
+{
+  "lists": {
+    "VOID Ops": {
+      "total": 3,
+      "P1": 3,
+      "P2": 0,
+      "P3": 0,
+      "unlabeled": 0
+    },
+    "Backlog": {
+      "total": 331,
+      "P1": 26,
+      "P2": 100,
+      "P3": 22,
+      "unlabeled": 183
+    },
+    "To_Do": {
+      "total": 54,
+      "P1": 42,
+      "P2": 4,
+      "P3": 2,
+      "unlabeled": 6
+    },
+    "In_Progress": {
+      "total": 7,
+      "P1": 4,
+      "P2": 2,
+      "P3": 1,
+      "unlabeled": 0
+    },
+    "Review": {
+      "total": 4,
+      "P1": 0,
+      "P2": 2,
+      "P3": 2,
+      "unlabeled": 0
+    },
+    "Done": {
+      "total": 144,
+      "P1": 7,
+      "P2": 89,
+      "P3": 48,
+      "unlabeled": 0
+    }
+  },
+  "total_cards": 543
+}

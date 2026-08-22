@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "sku": "SDBC", "name": "Star-Dusted Banana Crunch", "stock": 120, "reorderAt": 40, "warehouse": "Iowa City", "lot": "TCC-20260804-001" },
+    { "sku": "OCC", "name": "Orbit Cream Crunch", "stock": 85, "reorderAt": 30, "warehouse": "Iowa City", "lot": "TCC-20260804-002" },
+    { "sku": "AB", "name": "Aurora Bites", "stock": 60, "reorderAt": 25, "warehouse": "Iowa City", "lot": "TCC-20260804-003" },
+    { "sku": "SAB", "name": "Sour Aurora Bites", "stock": 45, "reorderAt": 20, "warehouse": "Iowa City", "lot": "TCC-20260804-004" }
+  ],
+  "notes": "Placeholder inventory until Sir Azure connects live stock data."
+}

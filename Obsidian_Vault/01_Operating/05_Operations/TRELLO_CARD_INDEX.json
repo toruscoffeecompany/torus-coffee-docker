@@ -1,0 +1,4459 @@
+{
+  "cards": [
+    {
+      "id": "6a712fab76212a7d0361f7cb",
+      "name": "Set revenue milestone: first dollar from any stream",
+      "board": "Torus_Ops",
+      "list": "Top 10 \u2014 Focus Fleet",
+      "labels": [
+        "Top 10",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:25:03.368Z",
+      "due": "2026-08-08T18:09:11.216Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a712fac7a8a9649b153e078",
+      "name": "Set revenue milestone: first paid tool upgrade",
+      "board": "Torus_Ops",
+      "list": "Top 10 \u2014 Focus Fleet",
+      "labels": [
+        "Top 10",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:17:06.396Z",
+      "due": "2026-08-08T18:09:14.181Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7589189ca085ca8dce78a8",
+      "name": "\ud83d\udce8 [INBOX] trello api 401 invalid key blocker sirazure 20260806",
+      "board": "Torus_Ops",
+      "list": "Top 10 \u2014 Focus Fleet",
+      "labels": [
+        "sir-azure",
+        "Top 10",
+        "",
+        "automation-completed"
+      ],
+      "dateLastActivity": "2026-08-08T11:03:20.101Z",
+      "due": "2026-08-10T00:41:54.349Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a758919687b61bbb3db9255",
+      "name": "\ud83d\udce8 [INBOX] trello api 401 invalid key blocker sirgreen 20260806",
+      "board": "Torus_Ops",
+      "list": "Top 10 \u2014 Focus Fleet",
+      "labels": [
+        "Top 10",
+        "",
+        "automation-completed"
+      ],
+      "dateLastActivity": "2026-08-08T11:03:20.641Z",
+      "due": "2026-08-10T00:41:59.416Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a75891fe2e1acad47a8101d",
+      "name": "\ud83d\udce8 [INBOX] sirgreen docker deep dive urgent sirgreen 20260806",
+      "board": "Torus_Ops",
+      "list": "Top 10 \u2014 Focus Fleet",
+      "labels": [
+        "miss-gordon",
+        "Top 10",
+        "",
+        "automation-completed"
+      ],
+      "dateLastActivity": "2026-08-08T11:03:21.392Z",
+      "due": "2026-08-10T00:41:49.023Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7589217259b91d11ae66f1",
+      "name": "\ud83d\udce8 [INBOX] sirazure re docker urgent findings sirazure 20260806",
+      "board": "Torus_Ops",
+      "list": "Top 10 \u2014 Focus Fleet",
+      "labels": [
+        "sir-azure",
+        "Top 10",
+        "",
+        "automation-completed"
+      ],
+      "dateLastActivity": "2026-08-08T11:03:21.968Z",
+      "due": "2026-08-10T00:41:43.413Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7589238a3983b8a50f08e8",
+      "name": "\ud83d\udce8 [INBOX] sirazure squidstation deploy reply sirazure 20260806",
+      "board": "Torus_Ops",
+      "list": "Top 10 \u2014 Focus Fleet",
+      "labels": [
+        "sir-azure",
+        "Top 10",
+        "",
+        "automation-completed"
+      ],
+      "dateLastActivity": "2026-08-08T11:14:12.196Z",
+      "due": "2026-08-10T00:45:21.854Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a74c96a4ce9ac108bd600a0",
+      "name": "\ud83d\udcf1 Set up SMS/text automation for business number",
+      "board": "Torus_Ops",
+      "list": "Torus Coffee Future Ideas",
+      "labels": [
+        "Future Ideas",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:09:12.124Z",
+      "due": "2027-02-02T18:06:35.752Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a74c969c8e0d397194bde8c",
+      "name": "\ud83d\udcac Set up Google Voice for Torus Coffee business number",
+      "board": "Torus_Ops",
+      "list": "Torus Coffee Future Ideas",
+      "labels": [
+        "Future Ideas",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:04:16.873Z",
+      "due": "2027-02-02T18:06:36.906Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a74c9c4830a3c0cb8ec1d10",
+      "name": "\ud83c\udf10 Future: AR menu preview for freeze-dried snacks",
+      "board": "Torus_Ops",
+      "list": "Torus Coffee Future Ideas",
+      "labels": [
+        "Future Ideas",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:03:13.846Z",
+      "due": "2026-08-20T18:06:44.777Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a76bb683d0991170b088b3b",
+      "name": "Recurring audit: Discord spam + ticket alerts + Sir Green bootstrap",
+      "board": "Torus_Ops",
+      "list": "P0 - Alert / Critical / Do Now",
+      "labels": [
+        "",
+        "P0"
+      ],
+      "dateLastActivity": "2026-08-08T11:31:06.448Z",
+      "due": "2026-08-09T00:49:00.950Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a76281735fbe026273b3460",
+      "name": "\ud83d\udce8 DOCKER HUB PUSH RESULTS 5 OF 6 IMAGES PUSHED ALERT ROUTER BLOCKED 20260806T042800Z sirgreen.msg",
+      "board": "Torus_Ops",
+      "list": "P0 - Alert / Critical / Do Now",
+      "labels": [
+        "P0",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:06:04.495Z",
+      "due": "2026-08-09T00:46:22.148Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a76281b6f4e3f7f50a9fbcf",
+      "name": "\ud83d\udce8 ONE ACTION GRANT WRITE ACCESS OR PROVIDE PAT FOR ALERT ROUTER 20260806T043000Z sirgreen.msg",
+      "board": "Torus_Ops",
+      "list": "P0 - Alert / Critical / Do Now",
+      "labels": [
+        "",
+        "automation-completed",
+        "P0"
+      ],
+      "dateLastActivity": "2026-08-08T11:09:13.385Z",
+      "due": "2026-08-09T00:48:14.925Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a76281c1833984386f186a9",
+      "name": "\ud83d\udce8 CODING ORDER DOCKER HUB WRITE ACCESS FOR ALERT ROUTER 20260806T051400Z sirgreen.msg",
+      "board": "Torus_Ops",
+      "list": "P0 - Alert / Critical / Do Now",
+      "labels": [
+        "",
+        "automation-completed",
+        "P0"
+      ],
+      "dateLastActivity": "2026-08-08T11:08:44.671Z",
+      "due": "2026-08-09T00:48:25.665Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a76281e35758521a2952345",
+      "name": "\ud83d\udea8 [P1] Dashboard image blocked \u2014 need Docker Hub auth",
+      "board": "Torus_Ops",
+      "list": "P0 - Alert / Critical / Do Now",
+      "labels": [
+        "",
+        "automation-completed",
+        "P0"
+      ],
+      "dateLastActivity": "2026-08-08T11:11:04.508Z",
+      "due": "2026-08-09T00:48:30.264Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7115f7e256159bc959b02b",
+      "name": "Webhook Event",
+      "board": "Torus_Ops",
+      "list": "P0 - Alert / Critical / Do Now",
+      "labels": [
+        "P0",
+        "Sir Azure's Queue",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T11:30:56.948Z",
+      "due": "2026-11-04T18:08:31.542Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a712bc79bc50687e977187a",
+      "name": "Deploy website to free hosting",
+      "board": "Torus_Ops",
+      "list": "P0 - Alert / Critical / Do Now",
+      "labels": [
+        "Sir Azure's Queue",
+        "Sir Green's Queue",
+        "P0",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:30:54.383Z",
+      "due": "2026-08-11T02:09:48.877Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a74252aa4669a765afe7b1d",
+      "name": "[P2] Scan vault for broken wikilinks and duplicate names",
+      "board": "Torus_Ops",
+      "list": "P0 - Alert / Critical / Do Now",
+      "labels": [
+        "P0",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:18:08.373Z",
+      "due": "2026-08-20T18:20:24.519Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a75890c6c69623853472e9e",
+      "name": "\ud83d\udd14 Alert automation: confirm Sir Green/Sir Azure read and act on inbox messages",
+      "board": "Torus_Ops",
+      "list": "P0 - Alert / Critical / Do Now",
+      "labels": [
+        "sir-azure",
+        "",
+        "P0"
+      ],
+      "dateLastActivity": "2026-08-08T11:20:59.641Z",
+      "due": "2026-08-09T00:45:54.760Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a75890e8dc27defd0a1ca9c",
+      "name": "\ud83d\udce8 Auto-alert when new PINKCADY inbox messages arrive",
+      "board": "Torus_Ops",
+      "list": "P0 - Alert / Critical / Do Now",
+      "labels": [
+        "",
+        "P0"
+      ],
+      "dateLastActivity": "2026-08-08T11:30:55.139Z",
+      "due": "2026-08-09T00:45:50.270Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7589103196cfb8339ed071",
+      "name": "\ud83d\udd14 Build inbox-to-Trello/GitHub alert automation",
+      "board": "Torus_Ops",
+      "list": "P0 - Alert / Critical / Do Now",
+      "labels": [
+        "P0",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:30:55.780Z",
+      "due": "2026-08-09T00:43:27.264Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a75891ad087b6a6374f14b6",
+      "name": "\ud83d\udce8 [INBOX] sirazure security tools missing sirazure 20260806",
+      "board": "Torus_Ops",
+      "list": "P0 - Alert / Critical / Do Now",
+      "labels": [
+        "sir-azure",
+        "",
+        "P0",
+        "automation-completed"
+      ],
+      "dateLastActivity": "2026-08-08T11:03:22.557Z",
+      "due": "2026-08-09T00:48:21.216Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a75891c3bcf75d5aa770214",
+      "name": "\ud83d\udce8 [INBOX] sirazure security deep dive summary sirazure 20260806",
+      "board": "Torus_Ops",
+      "list": "P0 - Alert / Critical / Do Now",
+      "labels": [
+        "sir-azure",
+        "miss-gordon",
+        "",
+        "automation-completed",
+        "P0"
+      ],
+      "dateLastActivity": "2026-08-08T11:08:47.701Z",
+      "due": "2026-08-09T00:43:08.608Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a75899de72bd0cf31beb36f",
+      "name": "Test Critical System Alert",
+      "board": "Torus_Ops",
+      "list": "P0 - Alert / Critical / Do Now",
+      "labels": [
+        "",
+        "P0"
+      ],
+      "dateLastActivity": "2026-08-08T11:30:56.378Z",
+      "due": "2026-08-09T00:45:59.218Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a76a0dc49915bc5db8a2acb",
+      "name": "P0: Eliminate all cmd popup sources permanently",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "",
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T10:57:06.569Z",
+      "due": "2026-08-11T00:46:47.935Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a76a0dd49915bc5db8a2be4",
+      "name": "P0: Fix Docker fleet healthchecks \u2014 remove curl/wget deps",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "",
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T11:04:20.348Z",
+      "due": "2026-08-11T00:46:53.188Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a752e3eff4d9d4cca8945a1",
+      "name": "Fleet: deploy fleet_comms_watcher on SQUIDSTATION/PINKCADY/STEALTHATTACK",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1",
+        "sir-azure"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:23.356Z",
+      "due": "2026-08-11T01:21:27.293Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a713b0e855dd7bf68f6045b",
+      "name": "Website build verified: 10 pages",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:40.031Z",
+      "due": "2026-08-20T18:18:21.775Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a713b0f7fec1de4568f6906",
+      "name": "DEPLOY.md created",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:28:10.171Z",
+      "due": "2026-08-20T18:04:57.616Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a714260e16bb14c1e238e8e",
+      "name": "Updated daily_ops_automation.py",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:41.657Z",
+      "due": "2026-08-20T18:08:20.654Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a714fb860bbdbb20853d4a4",
+      "name": "Build order management workflow",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:23:10.031Z",
+      "due": "2026-08-20T18:18:36.104Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a714fb82b64998c93bdbad4",
+      "name": "Build inventory \u2192 website sync",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:22:07.190Z",
+      "due": "2026-08-20T18:18:38.681Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a715c0370ee36715d579861",
+      "name": "Full automation audit complete",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:43.243Z",
+      "due": "2026-08-20T18:09:59.930Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7185ee9623f3429b2bbbae",
+      "name": "SIR_GREEN_DEPLOYMENT_PROMPT created",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:43.732Z",
+      "due": "2026-08-20T18:08:34.826Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7185ef9104a8818420b19a",
+      "name": "TORUS_DOCKER_CONTAINER_REQUIREMENTS.md created",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:44.195Z",
+      "due": "2026-08-20T18:18:51.508Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a71242b3f23db4fb69d6f7c",
+      "name": "Wire Buffer API into buffer_automation.py",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:44.673Z",
+      "due": "2026-08-20T18:10:03.813Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a71242c76ca67e9e4de6505",
+      "name": "Wire Zapier webhook into zapier_automation.py",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:23.817Z",
+      "due": "2026-08-11T01:55:03.181Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a71242e3f23db4fb69d7c9b",
+      "name": "Wire HubSpot Service Key into CRM automation",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:45.210Z",
+      "due": "2026-08-20T18:10:12.290Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a71242f938a65812243a9a9",
+      "name": "Build HubSpot import script for vault contacts",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:45.703Z",
+      "due": "2026-08-20T18:18:56.425Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a71243051feed250074da5b",
+      "name": "Build unified automation orchestrator script",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:46.183Z",
+      "due": "2026-08-20T18:18:57.629Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7124317a3d7f8972dbc227",
+      "name": "Build logging/reporting system for all automations",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:46.686Z",
+      "due": "2026-08-20T18:19:01.144Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a712433d986e5476af125d7",
+      "name": "Bug hunt social_media_automation.py",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:47.306Z",
+      "due": "2026-08-20T18:10:18.700Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7124349aa52ada3776768e",
+      "name": "Bug hunt zapier_automation.py",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:47.836Z",
+      "due": "2026-08-20T18:10:19.958Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a71243471edb3eff4f49bc3",
+      "name": "Bug hunt buffer_automation.py",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:48.391Z",
+      "due": "2026-08-20T18:10:21.241Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7124361db42f66b1aadd83",
+      "name": "Bug hunt daily_ops_automation.py",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:24.326Z",
+      "due": "2026-08-11T01:40:17.099Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7124371696c8171433b8fe",
+      "name": "Bug hunt weekly_review_automation.py",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:49.632Z",
+      "due": "2026-08-20T18:08:40.764Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7124373711a67b1299cbcb",
+      "name": "Bug hunt monthly_review_automation.py",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:50.124Z",
+      "due": "2026-08-20T18:10:23.575Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a712438ca3780f35985256d",
+      "name": "Update 00_Vault_Home.md with build status",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:50.618Z",
+      "due": "2026-08-20T18:08:42.636Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a71243896c16a6755d5e168",
+      "name": "Update Obsidian_Automation_Guide.md with verified config",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:51.130Z",
+      "due": "2026-08-20T18:19:04.863Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7124389e62f6bd1c35b508",
+      "name": "Create Automation_Runbook.md with troubleshooting",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:51.658Z",
+      "due": "2026-08-20T18:19:06.089Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a712439ac1b186230233da2",
+      "name": "Commit all build changes to Torus_Ops",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:52.220Z",
+      "due": "2026-08-20T18:19:07.284Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a712bc34298c12f247a9079",
+      "name": "Build vault sync status widget",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:53.276Z",
+      "due": "2026-08-20T18:19:13.542Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a712bc4da97a343ac82c9f2",
+      "name": "Build Trello board widget",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:13:09.974Z",
+      "due": "2026-08-20T18:19:16.670Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a713b0fb03e554f1e2090e7",
+      "name": "Connect real payment/shop",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:26:05.081Z",
+      "due": "2026-08-20T18:10:25.968Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a714fbaac9805c2fba75613",
+      "name": "Choose payment processor",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:24:12.951Z",
+      "due": "2026-08-20T18:10:34.849Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a715c01e0c5b1f394020f9a",
+      "name": "Choose payment processor alternative",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:25:15.302Z",
+      "due": "2026-08-20T18:07:38.376Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a715c027332b849a456c499",
+      "name": "Fix Next.js build error",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:31:04.959Z",
+      "due": "2026-08-11T01:53:58.948Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a715c02adc83d498b8b907c",
+      "name": "Create Zapier order automation Zap",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:27:07.583Z",
+      "due": "2026-08-20T18:19:38.302Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a715c028ff8814d56f7d396",
+      "name": "Test inventory sync end-to-end",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:57.925Z",
+      "due": "2026-08-20T18:19:39.587Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a715f72854c6771d39e7068",
+      "name": "Build Torus Discord bots and activate",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:12:07.272Z",
+      "due": "2026-08-20T18:19:40.942Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a715f7309b04b813d36a8f0",
+      "name": "Finalize vault organization and automation",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:30:15.735Z",
+      "due": "2026-08-20T18:19:42.114Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a71b462b21cd08f9f3f6eb9",
+      "name": "Master OODA Execution Tasklist \u2014 P0-P3",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "Sir Azure's Queue",
+        "Sir Green's Queue",
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:27.298Z",
+      "due": "2026-08-11T01:27:23.881Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a73c1df44ddb17b0142b8c9",
+      "name": "\ud83d\udc33 Sir Azure: ComfyUI/Redis/MinIO/Postgres/Nginx on SQUIDSTATION",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "sir-azure",
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:30:51.803Z",
+      "due": "2026-08-09T18:19:50.619Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a73e04b89d12772829328fa",
+      "name": "\ud83d\udc33 [P1] Docker Desktop virtualization mode",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T06:00:00.351Z",
+      "due": "2026-08-20T18:19:59.081Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a73e04f545d92a2f50c5f3f",
+      "name": "\ud83d\udd01 [P2] Self-healing automation daemon",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T06:00:00.886Z",
+      "due": "2026-08-20T18:05:17.930Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a741fc8e947ae894822232b",
+      "name": "\u2705 FIXED: Multi-stage Dockerfiles applied",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T06:00:01.438Z",
+      "due": "2026-08-20T18:22:15.357Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a742142c4eea9f50d2c583b",
+      "name": "[P2] DEPLOYMENT_RUNBOOK.md",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T06:00:01.993Z",
+      "due": "2026-08-20T18:05:20.475Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a742144d5fed79046f6772f",
+      "name": "[P3] Max out Docker automation: webhooks, logs, volumes, Kubernetes",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T06:00:02.529Z",
+      "due": "2026-08-20T18:20:13.754Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7425288e8aadeb76919bde",
+      "name": "[P1] Reinstall missing Obsidian plugins: periodic-notes, table-editor-obsidian, obsidian-livesync",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T06:00:03.465Z",
+      "due": "2026-08-20T18:20:19.375Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a74252ab0dedd42382fd7dc",
+      "name": "[P2] Run functional tests on automation scripts",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T06:00:04.378Z",
+      "due": "2026-08-20T18:20:23.366Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a75891568d328891b983592",
+      "name": "\ud83d\udce8 [INBOX] FLEET VERIFIED LOCALLY SQUIDSTATION PUSH OR SWARM NEEDED 20260806T041800Z misspink.msg",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "sir-azure",
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:07:07.171Z",
+      "due": "2026-08-11T00:45:03.543Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a75892249dac6611a2c7408",
+      "name": "\ud83d\udce8 [INBOX] SQUIDSTATION DEPLOY STATUS 20260806 sirazure.msg",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "sir-azure",
+        "",
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T11:08:11.043Z",
+      "due": "2026-08-11T00:45:17.906Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a74b2324042ade05400ed4d",
+      "name": "\u2705 FIXED: Redis cross-protocol attacks stopped",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T06:00:05.226Z",
+      "due": "2026-08-20T18:22:34.030Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a758914570bb5e64769122a",
+      "name": "\ud83d\udce8 [INBOX] STATUS UPDATE DASHBOARD 8080 FIXED PLUGIN AUDIT PENDING AND DISCORD TOKEN BLOCKER 20260806T024500Z sirgreen.msg",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T10:52:06.206Z",
+      "due": "2026-08-11T00:41:29.237Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a758916afae5cf53ccccf33",
+      "name": "\ud83d\udce8 [INBOX] miss gordon docker blockers sirgreen 20260806",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "miss-gordon",
+        "",
+        "automation-completed",
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T11:30:52.774Z",
+      "due": "2026-08-10T00:41:38.095Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a758aec916bb3fc25b38eff",
+      "name": "P1: Sir Azure Queue Mapping - define offline crew automation logic",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "sir-azure",
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T10:53:08.843Z",
+      "due": "2026-08-11T00:42:26.480Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a763bab7576a60cbb2dd043",
+      "name": "Miss Gordon: verify 32-tool fleet system end to end",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "miss-gordon",
+        "P1",
+        "automation",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:38.039Z",
+      "due": "2026-08-22T00:42:23.017Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a763bad8a1abde1e3a3c69f",
+      "name": "Deploy TOOL_AE crew status dashboard on localhost:6000",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "miss-gordon",
+        "P1",
+        "ops",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:29:12.601Z",
+      "due": "2026-08-22T00:42:14.806Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a763baff431cc39638adb7f",
+      "name": "Run TOOL_AA local test harness on all 32 tools",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "miss-gordon",
+        "P1",
+        "automation"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:35.770Z",
+      "due": "2026-08-22T00:42:31.364Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a763bb4f7d5048e7dc9d327",
+      "name": "Build Discord bots for all 9 officers with Sir Green/Sir Azure",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "miss-gordon",
+        "P1",
+        "automation",
+        "sir-azure",
+        "Sir Azure's Queue",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:10:15.880Z",
+      "due": "2026-09-07T05:59:29.868Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a75899f1baa64f29b78850a",
+      "name": "Sir Azure: discover SQUIDSTATION and PINKCADY network shares from STEALTHATTACK",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "sir-azure",
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:30:53.835Z",
+      "due": "2026-08-11T00:38:19.129Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7589a1d32d06722bbae2a5",
+      "name": "Sir Azure: read-only access only \u2014 do not edit SQUIDSTATION/PINKCADY shares",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "sir-azure",
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T11:03:19.479Z",
+      "due": "2026-08-11T00:39:17.132Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7589a27f895898c98c91af",
+      "name": "FUN: rename PCs to pirate Rig names \u2014 STEALTHATTACK=Sir Azure Rig, PINKCADY=Miss Pink Rig, SQUIDSTATION=Captain Rig",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "sir-azure",
+        "P1",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T10:54:11.668Z",
+      "due": "2026-08-11T00:43:52.307Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a76ac97e09cc5b53e6e4dfa",
+      "name": "P2: Sir Green \u2014 Audit Discord bots/webhooks on SQUIDSTATION + network PCs",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "ops",
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:19.866Z",
+      "due": "2026-08-11T00:48:47.286Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a76ac99bf77175cdee78a64",
+      "name": "P2: Docker Desktop hardening + ECI/SSO registry hardening on SQUIDSTATION",
+      "board": "Torus_Ops",
+      "list": "P1 - High / Doing Now",
+      "labels": [
+        "ops",
+        "P1"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:20.324Z",
+      "due": "2026-08-11T00:48:52.306Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7394042cde48d50291cb01",
+      "name": "\ud83d\udccb Configure VOID team tiers: void-crew, void-ops, void-captain",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T07:55:07.433Z",
+      "due": "2026-08-20T18:07:50.416Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a738f523974a0974bb285b1",
+      "name": "\ud83d\udd10 Store GitHub PAT in vault secrets",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T05:58:17.242Z",
+      "due": "2026-08-20T18:05:23.238Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a738f5011a1d1aaae2ebe69",
+      "name": "\ud83e\udd16 Confirm Discord bot scripts to keep live",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T08:01:04.984Z",
+      "due": "2026-08-20T18:07:57.170Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a737f7c8714ca5b28fb892e",
+      "name": "\ud83e\udded Wire Miss Pink persona attributes into vault docs/automation",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T08:05:11.759Z",
+      "due": "2026-08-20T18:05:45.927Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a737f7e79118dbc2544542a",
+      "name": "\ud83d\udce1 Add Cosmos Library update watcher without cloning Squidstation vault",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "automation",
+        "inbox",
+        "sir-azure",
+        "Sir Azure's Queue",
+        "Sir Green's Queue",
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T08:11:04.140Z",
+      "due": "2026-08-07T01:17:16.231Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a737f7e62239d8d15fe9507",
+      "name": "\ud83e\udd16 Finish Discord bot token + invite to Torus Coffee server",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T07:36:04.131Z",
+      "due": "2026-08-20T18:07:58.555Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a74c9687092a2d64af38d45",
+      "name": "\ud83d\udcde Research: Free business phone/answering service setup",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T07:56:04.087Z",
+      "due": "2026-08-20T18:06:34.598Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70a35373ba21fdb97ed1a9",
+      "name": "Setup Google Workspace",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:17.826Z",
+      "due": "2026-08-20T18:05:57.456Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70a351c98f4292654148bc",
+      "name": "Review Obsidian Plugins",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:18.382Z",
+      "due": "2026-08-20T18:05:56.040Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70a3532fccce7d903765ff",
+      "name": "Vault Cleanup & Organization",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        "Sir Azure's Queue",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:34.471Z",
+      "due": "2026-09-05T18:06:04.730Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70a34ef5f5861a589dbc13",
+      "name": "Setup GitHub Repos",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:18.922Z",
+      "due": "2026-08-20T18:04:48.561Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7499631c1a36043e1059e2",
+      "name": "[P1] Sir Green: add /api/security-docs route to dashboard_server.py",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "Sir Azure's Queue",
+        "Sir Green's Queue",
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T08:51:04.498Z",
+      "due": "2026-08-07T18:08:07.620Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70a34cc24aac226c72a44e",
+      "name": "Setup Social Media Accounts",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T02:20:09.816Z",
+      "due": "2026-08-20T18:06:06.909Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70b75c8eb09699eac6d51e",
+      "name": "Link social media accounts to vault",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T02:14:44.033Z",
+      "due": "2026-08-20T18:20:40.187Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a763bb05dc31ffb8580c93a",
+      "name": "Run TOOL_AB deployment verifier post-deployment",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "miss-gordon",
+        "P2",
+        "ops"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:21.265Z",
+      "due": "2026-08-22T00:48:42.080Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70c2e98ca3bfb0ad902c5b",
+      "name": "Link social media accounts \u2014 Facebook + Pinterest handles",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T02:15:47.938Z",
+      "due": "2026-08-20T18:20:42.736Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a763bb1523b53b14f6b8a0d",
+      "name": "Document TOOL_AC incident playbooks and train crew",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "miss-gordon",
+        "P2",
+        "automation"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:22.230Z",
+      "due": "2026-08-22T00:40:32.939Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7499661942762c5b6e744d",
+      "name": "[P1] Miss Pink: commit orders.json and automation_status changes",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T09:11:04.386Z",
+      "due": "2026-08-20T18:16:40.703Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a763bb78023e8cfb3e1ac61",
+      "name": "Automate Discord bot presence checks into smart ticket system",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "miss-gordon",
+        "P2",
+        "automation"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:23.165Z",
+      "due": "2026-08-22T00:41:11.367Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70dc395f89fdc65e317243",
+      "name": "Holiday Market Prep - Q4 2026",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        "Sir Azure's Queue",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:31.707Z",
+      "due": "2026-11-04T18:20:44.015Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70c2eb1cf10e9c2a502c4a",
+      "name": "Amazon GTIN exemption \u2014 prepare docs only",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:24.207Z",
+      "due": "2026-08-20T18:10:45.271Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a752e3da134f0acb0d5e8d8",
+      "name": "Miss Pink: build hive-mind mesh automation bridge for SQUIDSTATION/PINKCADY/STEALTHATTACK",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "sir-azure",
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T09:20:09.085Z",
+      "due": "2026-08-09T21:05:41.167Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70d704b74aaaa1fab457b7",
+      "name": "Q3 2026 Campaign: Cedar Rapids Farmers Market",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        "Sir Azure's Queue",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:33.639Z",
+      "due": "2026-11-04T18:20:45.193Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7157f290ff88a1b31ae1c8",
+      "name": "US Bank account automation \u2014 CSV \u2192 Wave \u2192 categorization",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T09:26:04.653Z",
+      "due": "2026-08-20T18:09:43.198Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a715f6fe09ed0bd37e57aa1",
+      "name": "Create Torus crew personas: Accountant, Lawyer, CPA, Strategy, Ops, Marketing, Inventory",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:25.191Z",
+      "due": "2026-08-20T18:16:53.888Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a715f7078eae68a030a1b2b",
+      "name": "Build Torus Discord bot designs",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T09:36:04.735Z",
+      "due": "2026-08-20T18:16:55.211Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a715f7095b8d80e80b99d94",
+      "name": "Build role-based automation scripts",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T09:40:10.072Z",
+      "due": "2026-08-20T18:16:58.352Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70da7a9863bd022c98fb5c",
+      "name": "Website Content - About Page",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T02:21:13.811Z",
+      "due": "2026-08-20T18:17:02.200Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70da7a476d98a030620c9c",
+      "name": "Website Content - Product Descriptions",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T02:22:17.985Z",
+      "due": "2026-08-20T18:17:03.683Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70da7bc6d7955609b51884",
+      "name": "Website Content - Legal Pages",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T02:22:12.510Z",
+      "due": "2026-08-20T18:17:04.875Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70da7b4daf4656cdb03d72",
+      "name": "Daily Ops Automation - Scripts Created",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T04:35:06.112Z",
+      "due": "2026-08-20T18:17:07.076Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70da7ce5231e90cb0dd18e",
+      "name": "Trello Sync Automation",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T04:40:06.956Z",
+      "due": "2026-08-20T18:08:10.636Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70da7e81e778646cc01051",
+      "name": "Publish website content",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T02:17:55.557Z",
+      "due": "2026-08-20T18:17:08.930Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70da7fcd2379a3f1dc482a",
+      "name": "Setup daily ops Task Scheduler jobs",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T02:21:08.567Z",
+      "due": "2026-08-20T18:17:10.052Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70dc37fcf5d326ef051b4a",
+      "name": "Fall 2026 Venue Research",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T02:13:45.205Z",
+      "due": "2026-08-20T18:08:11.996Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70dc38b1d094fb7520c275",
+      "name": "Winter 2026 Venue Research",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T00:57:00.326Z",
+      "due": "2026-08-20T18:06:54.346Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70f8cb50d5e5c87c22ff3c",
+      "name": "Install Obsidian Git plugin",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T02:14:05.876Z",
+      "due": "2026-08-20T18:17:16.940Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70dc3997cbc166ca55ba26",
+      "name": "Vintage Market Days Eastern Iowa",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        "Sir Azure's Queue",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:34.573Z",
+      "due": "2026-11-04T18:20:51.503Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70f8cb64512854cb6cca1e",
+      "name": "Enable obsidian-git in community-plugins.json",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:26.143Z",
+      "due": "2026-08-20T18:20:52.668Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70f8cc2eb38461c69795b3",
+      "name": "Build zapier_automation.py",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T04:50:05.927Z",
+      "due": "2026-08-20T18:17:19.544Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70f8cd15b7431f30fe4d61",
+      "name": "Create Buffer setup guide",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:27.122Z",
+      "due": "2026-08-20T18:17:22.006Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70dc3b050af2fa80c256aa",
+      "name": "Link social media accounts",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:29.332Z",
+      "due": "2026-08-20T18:09:45.426Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70f8cdd5c6d45e6814ab29",
+      "name": "Build buffer_automation.py",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:05:06.171Z",
+      "due": "2026-08-20T18:17:23.373Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70fd5df386c9b9c9509813",
+      "name": "Research free automation tools (Zapier/Make/n8n)",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:10:06.685Z",
+      "due": "2026-08-20T18:06:55.645Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70dc3ce8d914e66a89ebcc",
+      "name": "Create Supplier Agreement Template",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:30.284Z",
+      "due": "2026-08-20T18:17:27.743Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70fd5e2f877b2b08daa4a3",
+      "name": "Research free social media tools (Buffer/Metricool)",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T00:56:13.381Z",
+      "due": "2026-08-20T18:06:56.859Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70fd5e79c07a7a4176ed47",
+      "name": "Research free CRM options (HubSpot/Zoho/Bitrix24)",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T00:55:29.620Z",
+      "due": "2026-08-20T18:06:58.023Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a71088d9ef81a4a480dee43",
+      "name": "Create Buffer setup guide + buffer_automation.py",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:20:06.177Z",
+      "due": "2026-08-20T18:17:37.719Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a71088dd52063f78af9d2d9",
+      "name": "Create Zapier setup guide + zapier_automation.py",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:25:05.973Z",
+      "due": "2026-08-20T18:17:39.964Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a71088e80a5897312085f8d",
+      "name": "Create HubSpot CRM setup guide",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:31.328Z",
+      "due": "2026-08-20T18:17:42.798Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a71088e99bafbc680c241af",
+      "name": "Create Free_Tools_Reference.md with 2026 research",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:32.301Z",
+      "due": "2026-08-20T18:17:46.043Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a71088fa7caec75b7864bf8",
+      "name": "Verify all automation scripts run end-to-end",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:45:06.534Z",
+      "due": "2026-08-20T18:17:48.558Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a71398e99bafbc680093df1",
+      "name": "Hermes backend config updated",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:39.526Z",
+      "due": "2026-08-20T18:17:56.651Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70f3aaa5e9659c8bb799e1",
+      "name": "Post consistent content across platforms",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T01:05:18.802Z",
+      "due": "2026-08-20T18:17:57.767Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70f8ce24dcd595547c33c6",
+      "name": "Setup Zapier account",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T01:24:58.788Z",
+      "due": "2026-08-20T18:17:58.940Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70f8cef53e66596583fb68",
+      "name": "Setup Buffer account",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T01:24:14.474Z",
+      "due": "2026-08-20T18:18:01.364Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70fd6168484eac3e8f306a",
+      "name": "Setup Meta Business Suite",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T01:07:15.553Z",
+      "due": "2026-08-20T18:18:12.114Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a70fd6215d81dccfafc6721",
+      "name": "Setup Cloudflare DNS/CDN",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T01:06:05.558Z",
+      "due": "2026-08-20T18:18:15.948Z",
+      "indexed_at": "2026-08-08T11:31:06.895120+00:00"
+    },
+    {
+      "id": "6a7108900c37debad5ba1fdf",
+      "name": "Create first Zap: Trello \u2192 Webhook",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:41.140Z",
+      "due": "2026-08-20T18:05:02.471Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a717fb91a29e733c5c4a403",
+      "name": "torus-inventory image built",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:22:06.002Z",
+      "due": "2026-08-20T18:18:42.061Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a717fb98b37f9b171200f1c",
+      "name": "SIR_PINK setup script created",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:07:06.760Z",
+      "due": "2026-08-20T18:18:43.249Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a7124348c36b1c39bf1a721",
+      "name": "Bug hunt inventory_tracker.py",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:49.128Z",
+      "due": "2026-08-20T18:19:03.567Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a7124397d476d7f408e40f6",
+      "name": "Push all changes to GitHub",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T01:05:44.721Z",
+      "due": "2026-08-20T18:08:46.687Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a71243a6f880a7967d43e54",
+      "name": "End-to-end verification: Buffer + Zapier + HubSpot + Trello",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:52.761Z",
+      "due": "2026-08-20T18:07:02.307Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a712bc87100f06c531e53cd",
+      "name": "Connect website to Obsidian vault data",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:54.343Z",
+      "due": "2026-08-20T18:19:20.328Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a712fa97713201aff8593c9",
+      "name": "Track YouTube ad revenue in Revenue_Stream_Plan.md",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:08:09.368Z",
+      "due": "2026-08-20T18:19:26.689Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a73bed4108ae9ed24d66457",
+      "name": "\ud83e\udd16 Discord bot token + Torus Coffee server invite",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T07:49:13.401Z",
+      "due": "2026-08-20T18:21:59.737Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a73ddaf54ccdd15e1367c37",
+      "name": "\ud83d\udda5\ufe0f PINKCADY virtualization setup: enable AMD-V/SVM in BIOS",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T07:48:10.814Z",
+      "due": "2026-08-20T18:19:54.265Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a73c8148c4efaab74da01c4",
+      "name": "\ud83e\uddea #260 End-to-end Discord bot tests + relay fixes",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T07:50:16.286Z",
+      "due": "2026-08-20T18:22:02.306Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a73e0bdfa6e0cdc6b681f29",
+      "name": "\ud83d\udce8 RE PINKCADY VIRTUALIZATION SETUP PLAN 20260806T002500Z misspink.msg",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T07:47:07.482Z",
+      "due": "2026-08-20T18:20:01.437Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a73e0c0df49153b5f295bf5",
+      "name": "\ud83d\udce8 RE PINKCADY VIRTUALIZATION SETUP PLAN 20260806T010000Z captain.msg",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:19.406Z",
+      "due": "2026-08-20T18:05:19.179Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a74252bd046248f139d03ec",
+      "name": "[P3] Obsidian vault audit report + remediation",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T07:46:04.815Z",
+      "due": "2026-08-20T18:10:42.989Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a763bb3c8bfe511b71288c0",
+      "name": "Record baseline with TOOL_AD and detect anomalies",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "miss-gordon",
+        "P2",
+        "ops"
+      ],
+      "dateLastActivity": "2026-08-08T05:58:36.749Z",
+      "due": "2026-08-22T00:45:30.162Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a76a826445c1adb8a9075cc",
+      "name": "P2: Verify Sir Green bootstrap cmd path + kidsm vault mapping",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        "ops",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:38.522Z",
+      "due": "2026-08-22T00:48:35.104Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a76a8277d5361123476dcaf",
+      "name": "P2: Find source of repeated Discord message: \ud83d\udd10 Store GitHub PAT in vault secrets",
+      "board": "Torus_Ops",
+      "list": "P2 - Med High / This Week",
+      "labels": [
+        "P2",
+        "automation",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:39.026Z",
+      "due": "2026-08-22T00:48:38.886Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a737f7fc40b5a5f65ec562b",
+      "name": "\ud83e\uddea Verify OODA loop traceback logging + runtime stability",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T07:14:11.325Z",
+      "due": "2026-08-20T18:05:42.018Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a737f7c8fab91fbb60889a2",
+      "name": "\ud83e\uddf9 Clean duplicate sections in 00_Vault_Home.md",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:34.939Z",
+      "due": "2026-08-20T18:05:47.240Z",
+      "indexed_at": "2026-08-08T11:31:06.896121+00:00"
+    },
+    {
+      "id": "6a762810cf4143153a5250b7",
+      "name": "\ud83d\udce8 [INBOX] RE HARDWARE TAB AND ISSUE OWNERSHIP ACK 20260805T233800Z misspink.msg",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:36.935Z",
+      "due": "2026-08-22T00:46:10.612Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a76a0dd2752cd79b5c24d47",
+      "name": "P1: Archive Excalidraw/Scripts/Downloaded/ (172 files)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "",
+        "automation-completed",
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T11:30:08.026Z",
+      "due": "2026-08-09T00:47:03.607Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70a3464a5ebd81c36c6ae0",
+      "name": "Equipment Maintenance Schedule",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:35.381Z",
+      "due": "2026-08-20T18:05:49.628Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a74c96b03e085cc334229ce",
+      "name": "\ud83e\uddea Test call flow: GV -> wife cell -> voicemail -> transcription",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:35.872Z",
+      "due": "2026-08-20T18:06:38.905Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70a34d62d923fbb7007d01",
+      "name": "Customer Order Fulfillment \u2014 July Batch",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:36.357Z",
+      "due": "2026-08-20T18:05:50.841Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a76a0deacec120979aec5f6",
+      "name": "P1: Consolidate website_legacy_2026-08-04 and PROJECT WEBSITE R3DEPLOY",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "",
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T05:47:12.361Z",
+      "due": "2026-08-22T00:47:08.306Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a762811c5882873a4d3fab3",
+      "name": "\ud83d\udce8 [INBOX] RE DISCORD BOT GITHUB ACCESS AND WINDOWS UPDATE REMINDER 20260805T235900Z misspink.msg",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:37.570Z",
+      "due": "2026-08-22T00:46:14.054Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70a34710b8a23e38c01583",
+      "name": "Hire Staff",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:36.864Z",
+      "due": "2026-08-20T18:05:52.200Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70a3509e558a293bbd1aa5",
+      "name": "Pricing Sheet Update \u2014 Q4 Menu",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T01:27:14.963Z",
+      "due": "2026-08-20T18:04:43.062Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70a34dc63e3712a4959b98",
+      "name": "QC Coffee Cupping \u2014 New Ethiopian Lot",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:37.446Z",
+      "due": "2026-08-20T18:16:32.304Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a737d9b827ebbde4c405716",
+      "name": "\ud83d\udd04 Execute OODA Cycle 140 tasks",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:37.906Z",
+      "due": "2026-08-20T18:08:02.090Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70a34a55c66e3104697b64",
+      "name": "Run Batch \u2014 Cold Brew Reserve",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:38.442Z",
+      "due": "2026-08-20T18:05:54.910Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a76a0de205721e0b47f6e03",
+      "name": "P1: Fix 284 broken wiki links in vault",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "",
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T05:47:17.197Z",
+      "due": "2026-08-22T00:47:13.011Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70a34706dee7f76c37476e",
+      "name": "Launch Email Marketing",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:39.075Z",
+      "due": "2026-08-20T18:04:47.271Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70a34e88d5b5f7ebf055f0",
+      "name": "Safety Protocol Update \u2014 Kitchen Equipment",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T01:28:01.512Z",
+      "due": "2026-08-20T18:05:59.234Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a762813839d409994d663e5",
+      "name": "torus-inventory deployment blocked",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "",
+        "automation-completed",
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:50:05.957Z",
+      "due": "2026-08-09T00:46:17.511Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70a352bdeba243777cf69b",
+      "name": "June Payroll Processing",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:39.662Z",
+      "due": "2026-08-20T18:06:03.531Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70a3484d662eadb7d73be1",
+      "name": "Lease Commercial Space",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:40.228Z",
+      "due": "2026-08-20T18:10:44.154Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70a348cb832d2332a7b09a",
+      "name": "Setup Square Payments",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:40.708Z",
+      "due": "2026-08-13T18:04:50.494Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70a34911ff089693e043e2",
+      "name": "Staff Training Plan \u2014 Q4",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:41.313Z",
+      "due": "2026-08-20T18:06:05.790Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a762818d5da329fde279451",
+      "name": "\ud83d\udce8 DOCKER HUB PUSH STATUS SQUIDSTATION IMAGES PUSH BLOCKED BY AUTH 20260806T042700Z sirgreen.msg",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "",
+        "automation-completed",
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:55:05.917Z",
+      "due": "2026-08-09T00:46:58.133Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70cc2afd0a5550cc79a8f5",
+      "name": "Complete Brand Style Guide",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:41.885Z",
+      "due": "2026-08-20T18:21:10.681Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a762819694f94ec8ae35ba5",
+      "name": "\ud83d\udce8 ALERT ROUTER REPO EXISTS BUT SQUIDSTATION LACKS WRITE PERMISSION 20260806T042900Z sirgreen.msg",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "",
+        "automation-completed",
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T11:00:07.863Z",
+      "due": "2026-08-09T00:47:48.137Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70a349556e13858649d988",
+      "name": "Supplier Contract Renewal \u2014 Green Coffee Imports",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:42.381Z",
+      "due": "2026-08-20T18:06:08.150Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70d705c5850f87134e7f01",
+      "name": "Q4 2026 Campaign: Holiday Season",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        "Sir Azure's Queue",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:28.306Z",
+      "due": "2026-11-04T18:21:11.860Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70d7057ed6747561a95b00",
+      "name": "Q1 2027 Campaign: New Year New Flavors",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        "Future Ideas",
+        "Sir Azure's Queue",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:29.304Z",
+      "due": "2026-11-04T18:06:50.502Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70c2e82e09b1a0974ab913",
+      "name": "Draft vendor applications \u2014 Iowa City + Cedar Rapids + all markets",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:42.908Z",
+      "due": "2026-08-20T18:20:41.428Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70d7064c086cda47655562",
+      "name": "Q1 2027 Campaign: Valentine's Day",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        "Future Ideas",
+        "Sir Azure's Queue",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:30.276Z",
+      "due": "2026-11-04T18:06:51.706Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a710d10982ed4f96b55c3aa",
+      "name": "Install Buffer browser extension (optional)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:43.493Z",
+      "due": "2026-08-20T18:06:11.334Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a710d1002e51f5dc12af585",
+      "name": "Install HubSpot mobile app (optional)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:44.122Z",
+      "due": "2026-08-20T18:06:12.543Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70c927f4468b0587d2a6df",
+      "name": "Product images \u2014 Neapolitan Orbit Cream Crunch (TCC-NOCC-200)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:44.962Z",
+      "due": "2026-08-20T18:16:41.869Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a710d117fd7bf22e52dfdcf",
+      "name": "Install Meta Business Suite app (optional)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:45.469Z",
+      "due": "2026-08-20T18:06:13.767Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a710d119d1611288789675f",
+      "name": "Test Buffer scheduling with 1 post",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:45.995Z",
+      "due": "2026-08-20T18:06:15.989Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70c928bc93eb271c7ae735",
+      "name": "Product images \u2014 Orbit Cream Crunch (TCC-OCC-200)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:46.512Z",
+      "due": "2026-08-20T18:16:43.125Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a710d1125d6490ee7057a8f",
+      "name": "Test Zapier webhook end-to-end",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:47.034Z",
+      "due": "2026-08-20T18:21:27.294Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70c928a958e047ece24d0b",
+      "name": "Product images \u2014 Apple Cinnamon Comets (TCC-ACC-115)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:47.639Z",
+      "due": "2026-08-20T18:10:46.424Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a710d128612b8eae811dc74",
+      "name": "Test HubSpot contact import",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:48.127Z",
+      "due": "2026-08-20T18:09:37.111Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70c9283ce88eda267142c5",
+      "name": "Product images \u2014 Star-Dusted Banana Crunch (TCC-SDB-115)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:48.638Z",
+      "due": "2026-08-20T18:16:44.450Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70c929e723e4e90f94da44",
+      "name": "Product images \u2014 Aurora Berryalis (TCC-ARB-26)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:49.086Z",
+      "due": "2026-08-20T18:10:47.579Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a710d1234ff949e11f9bfcb",
+      "name": "Test Meta Business Suite scheduling",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:49.558Z",
+      "due": "2026-08-20T18:09:38.564Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70c929210ecc4a3cfe53bb",
+      "name": "Product images \u2014 Sour Aurora Bites (TCC-SAB-26)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:50.064Z",
+      "due": "2026-08-20T18:10:48.705Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70c92a45c5fbc4b69417ab",
+      "name": "Product images \u2014 Solar Strawberries (TCC-SS-05)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:50.534Z",
+      "due": "2026-08-20T18:10:49.848Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70c92bdddadbf13fd3ec0d",
+      "name": "Product images \u2014 Cosmic Bananas (TCC-CB-155)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:50.974Z",
+      "due": "2026-08-20T18:10:51.237Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70c92b0db3cff4cd93a2d0",
+      "name": "Product images \u2014 Aurora Bites (TCC-AB-26)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:51.461Z",
+      "due": "2026-08-20T18:10:52.455Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70c92c96bc4a26639b681f",
+      "name": "Product images \u2014 Apple Zephyr Chips (TCC-AZC-115)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:51.984Z",
+      "due": "2026-08-20T18:10:53.672Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70c92da63c4219a335e3aa",
+      "name": "Create Brand Style Guide",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:52.458Z",
+      "due": "2026-08-20T18:16:45.548Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70c92fa9e5c8da39d4bd02",
+      "name": "Create Vendor Booth Backdrop Design",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:52.890Z",
+      "due": "2026-08-20T18:16:49.151Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70c92f633aab641f597f6f",
+      "name": "Create Email Signature Graphics",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:53.348Z",
+      "due": "2026-08-20T18:16:50.284Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70cc2b4e8f1d0ad4bb8d6b",
+      "name": "Organize existing product photos into vault",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:53.835Z",
+      "due": "2026-08-20T18:10:54.720Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70cc2c813f2eea45f37bec",
+      "name": "Create Product Photo tracking spreadsheet",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T00:34:17.583Z",
+      "due": "2026-08-20T18:16:51.477Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70d70464a1abbb00138471",
+      "name": "Q3 2026 Campaign: Iowa City Farmers Market",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        "Sir Azure's Queue",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:59:32.731Z",
+      "due": "2026-11-04T18:10:55.898Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70d70613fdbf67f920df70",
+      "name": "Email Signature Graphics - Miss Pink",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:54.316Z",
+      "due": "2026-08-20T18:21:13.014Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70d706a87b229beb981d9c",
+      "name": "Email Signature Graphics - Sara Jane",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:54.839Z",
+      "due": "2026-08-20T18:21:16.224Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70d707920c145749b2f4ed",
+      "name": "Product Photo Tracking Spreadsheet",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T01:27:16.005Z",
+      "due": "2026-08-20T18:21:17.357Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70d70788d98bbf077e9c8e",
+      "name": "Aurora Bites Photo Set - Complete Missing",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:55.279Z",
+      "due": "2026-08-20T18:21:18.569Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70d708c1a72f0f064d8e3d",
+      "name": "Sour Aurora Bites Photo Set - Complete Missing",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:55.755Z",
+      "due": "2026-08-20T18:21:19.802Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70d708501c31fd40a2080e",
+      "name": "Orbit Cream Crunch Photo Set - ALL PHOTOS",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:56.231Z",
+      "due": "2026-08-20T18:16:59.536Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70da79f9c343975b0d70a8",
+      "name": "Vendor Pricing Sheet - Complete",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:56.690Z",
+      "due": "2026-08-20T18:20:47.754Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70da7db362387e490501eb",
+      "name": "Finalize email signatures for Gmail/Outlook",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:57.151Z",
+      "due": "2026-08-20T18:21:20.952Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70da7ebb27e2061e6d0d33",
+      "name": "Send vendor pricing sheet to markets",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:57.667Z",
+      "due": "2026-08-20T18:20:48.885Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70da7f61b451cfa8e0abd9",
+      "name": "Review and finalize all brand assets",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T01:37:04.941Z",
+      "due": "2026-08-20T18:20:50.055Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70f3a59ea2bed14bffb2d8",
+      "name": "Create Facebook verification guide",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:58.305Z",
+      "due": "2026-08-20T18:17:14.068Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70dc38f4e27d15632b017a",
+      "name": "Iowa State Fair 2026 Application",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:58.821Z",
+      "due": "2026-08-20T18:09:44.303Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70dc3a3f6cebc0d3940f6c",
+      "name": "Finalize vendor applications",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:59.318Z",
+      "due": "2026-08-20T18:20:53.978Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70f8cb3533c87d44d546b6",
+      "name": "Create Zapier integration guide",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:30:59.915Z",
+      "due": "2026-08-20T18:17:18.466Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70dc3c5cd3fc4d731e3915",
+      "name": "Amazon GTIN exemption",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:00.386Z",
+      "due": "2026-08-20T18:10:57.145Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70fd5f36d61f648be9359c",
+      "name": "Create Free_Tools_Reference.md with all findings",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:00.844Z",
+      "due": "2026-08-20T18:17:28.957Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71088c68341b4e6174adaa",
+      "name": "Repair C:\\Python314\\python.exe install",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:01.313Z",
+      "due": "2026-08-20T18:17:31.205Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71088cd3e3537db248738f",
+      "name": "Install packages into C:\\Python314 cleanly",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:01.795Z",
+      "due": "2026-08-20T18:17:32.293Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71088de3dde89e2bc01b0d",
+      "name": "Fix Task Scheduler jobs to use C:\\Python314",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T01:36:20.926Z",
+      "due": "2026-08-20T18:17:35.549Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70f1b222a6bcea1ae81154",
+      "name": "Create/verify TikTok account",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T01:26:29.555Z",
+      "due": "2026-08-20T18:17:38.882Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70f3a84e41187fc7023da2",
+      "name": "Create TikTok business account",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:02.319Z",
+      "due": "2026-08-20T18:17:47.247Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70f3a93eaccbc40f76275b",
+      "name": "Create LinkedIn company page",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:02.780Z",
+      "due": "2026-08-20T18:17:49.906Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712fa7b5b7d143099f316a",
+      "name": "Create Revenue_Stream_Plan.md in 03_Financials",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T10:31:03.218Z",
+      "due": "2026-08-20T18:17:51.135Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70f3a95647e3d736bb9d81",
+      "name": "Update X/Twitter profile/banner",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T01:31:48.601Z",
+      "due": "2026-08-20T18:17:52.291Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71398329acb03582813149",
+      "name": "Test Card",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:03.705Z",
+      "due": "2026-08-20T18:09:48.909Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71399acef27acfa0742c6b",
+      "name": "Created 3 missing stub scripts",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:04.185Z",
+      "due": "2026-08-20T18:18:02.502Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70f8cf667828b0d8116214",
+      "name": "Connect Zapier to Trello",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:04.680Z",
+      "due": "2026-08-13T18:09:50.053Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70f8d05fe4b044e08e7ba6",
+      "name": "Connect Buffer to social channels",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:05.191Z",
+      "due": "2026-08-20T18:09:51.292Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70f8d118bb4650352a010b",
+      "name": "Test webhook receiver",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:05.639Z",
+      "due": "2026-08-20T18:09:52.500Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71399cebf904e6b201dae9",
+      "name": "Added requirements.txt for venv",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:46:04.176Z",
+      "due": "2026-08-20T18:09:53.682Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70f8d11c23b84460a50564",
+      "name": "Schedule first week of social posts",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:06.206Z",
+      "due": "2026-08-20T18:18:05.069Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71399dda9e0484be2cb86d",
+      "name": "Replaced os.popen with subprocess.run",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:06.895Z",
+      "due": "2026-08-20T18:08:13.180Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70fd603fca14ff8b43d1a5",
+      "name": "Create Buffer account",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:07.350Z",
+      "due": "2026-08-20T18:18:06.419Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71399ecb5c7a6a2fbb6aa7",
+      "name": "Test suite: 10/10 PASS (100%)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:07.772Z",
+      "due": "2026-08-20T18:09:54.840Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a713b0c24a06402ad38beff",
+      "name": "Products page created",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:08.357Z",
+      "due": "2026-08-20T18:18:08.619Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70fd615ee0938a5479fa2c",
+      "name": "Create Zapier account",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:08.916Z",
+      "due": "2026-08-20T18:18:09.815Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a713b0defc24984d5e001fa",
+      "name": "About page created",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:09.400Z",
+      "due": "2026-08-20T18:18:10.955Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a713b0d23e2645c0b00cddd",
+      "name": "Contact page created",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:09.869Z",
+      "due": "2026-08-20T18:18:13.437Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a713b0d0fb1e3197509db31",
+      "name": "Legal pages created",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:10.308Z",
+      "due": "2026-08-20T18:18:14.652Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a713b0e8c32f74a1db77099",
+      "name": "Root layout updated",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:38:07.519Z",
+      "due": "2026-08-20T18:18:17.147Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a70fd63d0d5590389cf4398",
+      "name": "Create Calendly account",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:10.731Z",
+      "due": "2026-08-20T18:18:23.124Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a713ee3d922b64ac4f030a4",
+      "name": "Gordon identity discovered: AI Quartermaster",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:11.343Z",
+      "due": "2026-08-20T18:09:56.106Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71088ffaf8003fc0a68a19",
+      "name": "Connect Buffer to Facebook + Twitter + Instagram",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:11.829Z",
+      "due": "2026-08-20T18:09:57.559Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71089111eac7787a2f0ca0",
+      "name": "Import vendor/customer contacts into HubSpot",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:12.275Z",
+      "due": "2026-08-20T18:20:56.402Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a714260a52b6b7b6b52d389",
+      "name": "Disabled Zapier auto-send",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:12.747Z",
+      "due": "2026-08-20T18:09:58.828Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a714aef36e57261521011fe",
+      "name": "Gmail spam filter verified",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:13.254Z",
+      "due": "2026-08-20T18:06:59.978Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a710d0b00a317e0c600244b",
+      "name": "Create Pinterest business account @toruscoffeecompany",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:13.852Z",
+      "due": "2026-08-20T18:18:35.031Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a710d0b054d5707632b658a",
+      "name": "Create TikTok account @toruscoffeecompany",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:14.429Z",
+      "due": "2026-08-20T18:18:37.418Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a710d0c194aceae34b21f51",
+      "name": "Create LinkedIn company page: Torus Coffee Company LLC",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:14.941Z",
+      "due": "2026-08-20T18:18:39.866Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a710d0ffd0a320344aa32e1",
+      "name": "Convert Instagram @glvwriter to business OR create @toruscoffeecompany",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:15.497Z",
+      "due": "2026-08-20T18:18:44.543Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a710d0f316fa756a26b179e",
+      "name": "Update X/Twitter profile photo and banner",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T01:31:47.227Z",
+      "due": "2026-08-20T18:18:45.860Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71242b353146d037a7b9d7",
+      "name": "Test Buffer scheduling with real post",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:15.936Z",
+      "due": "2026-08-20T18:18:52.622Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71242c73bba0f679205c2f",
+      "name": "Add Buffer retry/error handling",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T01:40:06.323Z",
+      "due": "2026-08-20T18:10:08.571Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71242cde079c5bc0e77f1a",
+      "name": "Test Zapier webhook end-to-end with sample payload",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:16.399Z",
+      "due": "2026-08-20T18:10:11.123Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71242d36dee4dcaee7187c",
+      "name": "Add Zapier retry/backoff logic",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T01:26:09.804Z",
+      "due": "2026-08-20T18:08:39.565Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71242e5f35dafee7b9f6c8",
+      "name": "Test HubSpot contact creation via API",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:16.904Z",
+      "due": "2026-08-20T18:10:13.594Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a71242fb7197bb4e02ae791",
+      "name": "Test HubSpot deal creation/update",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T00:35:02.998Z",
+      "due": "2026-08-20T18:18:55.170Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712432080a953558b00fcd",
+      "name": "Add retry logic and error handling to all scripts",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T01:34:50.211Z",
+      "due": "2026-08-20T18:10:14.761Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a7124327fade6e133c8a2cc",
+      "name": "Verify all 16 Task Scheduler jobs execute correctly",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T01:32:32.665Z",
+      "due": "2026-08-20T18:10:15.987Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712433b3967cbd8bcac68b",
+      "name": "Add success/failure logging to Task Scheduler jobs",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T01:35:34.175Z",
+      "due": "2026-08-20T18:10:17.228Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712bbfb71d16375aadae83",
+      "name": "Create website folder structure and routing",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:17.379Z",
+      "due": "2026-08-20T18:19:09.871Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712bc042b16192a0e67f22",
+      "name": "Integrate Buffer API into website",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:18.883Z",
+      "due": "2026-08-13T18:07:06.687Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712bc288b7b8dc510594e1",
+      "name": "Integrate Zapier webhook into website",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:19.822Z",
+      "due": "2026-08-20T18:19:11.023Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712bc273c4f5853e1985e6",
+      "name": "Integrate HubSpot CRM into website",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:20.260Z",
+      "due": "2026-08-20T18:19:12.097Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712bc6638b14d57fd28dd6",
+      "name": "Add authentication to website",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T05:56:04.179Z",
+      "due": "2026-08-20T18:19:19.076Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712fa779f75a27d760cacf",
+      "name": "Launch revenue stream tracking in vault and Trello",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:37:04.935Z",
+      "due": "2026-08-13T18:05:11.688Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712fa8b87992ca53526858",
+      "name": "Track flea market sales in Revenue_Stream_Plan.md",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:41:03.887Z",
+      "due": "2026-08-20T18:19:21.607Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712fa8b1e5ac88066e2dbf",
+      "name": "Track wholesale accounts in Revenue_Stream_Plan.md",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:52:06.968Z",
+      "due": "2026-08-20T18:19:22.858Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712fa9b9a2a4f8f045261c",
+      "name": "Track website orders in Revenue_Stream_Plan.md",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:51:03.918Z",
+      "due": "2026-08-20T18:19:24.155Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712fa9bf02acbd07393f67",
+      "name": "Track Amazon FBA/FBM sales in Revenue_Stream_Plan.md",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:40:13.890Z",
+      "due": "2026-08-20T18:19:25.375Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712faa3770fa51827b7073",
+      "name": "Track sponsorships/brand deals in Revenue_Stream_Plan.md",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:49:13.373Z",
+      "due": "2026-08-20T18:19:27.890Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712faa0a49729bce0cb0a5",
+      "name": "Track subscription box revenue in Revenue_Stream_Plan.md",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:50:16.277Z",
+      "due": "2026-08-20T18:19:29.321Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712fabf7600ec68b50e1e3",
+      "name": "Track local delivery revenue in Revenue_Stream_Plan.md",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:42:06.897Z",
+      "due": "2026-08-20T18:19:30.543Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a712fac232ac172188213fb",
+      "name": "Set revenue milestone: $500/month from 3 streams",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:20.801Z",
+      "due": "2026-08-20T18:19:31.814Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a713b1005cf8432cd8035b4",
+      "name": "Add product images",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:45:14.334Z",
+      "due": "2026-08-20T18:10:27.281Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a713b1071e6fea36475b9dc",
+      "name": "Add Google Analytics",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:44:11.745Z",
+      "due": "2026-08-20T18:10:28.375Z",
+      "indexed_at": "2026-08-08T11:31:06.896224+00:00"
+    },
+    {
+      "id": "6a714261497a74d5c08db6fc",
+      "name": "Clean up Zapier Zaps in UI",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:21.292Z",
+      "due": "2026-08-20T18:10:29.440Z",
+      "indexed_at": "2026-08-08T11:31:06.896731+00:00"
+    },
+    {
+      "id": "6a714aee198366506a3b45ad",
+      "name": "Share code via Shared_With_Pink bridge",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:21.782Z",
+      "due": "2026-08-20T18:10:30.637Z",
+      "indexed_at": "2026-08-08T11:31:06.896731+00:00"
+    },
+    {
+      "id": "6a714fb9d84c90b29411e2ba",
+      "name": "Test order manager end-to-end",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:22.250Z",
+      "due": "2026-08-20T18:10:31.704Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a714fbba57781472bf136b6",
+      "name": "Review legal pages",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:48:09.860Z",
+      "due": "2026-08-20T18:07:35.849Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a715c001d8423b2a0988108",
+      "name": "Finalize legal pages for review",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:47:07.309Z",
+      "due": "2026-08-20T18:11:00.356Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a715c0371fe26b9eb72983d",
+      "name": "Set up Wave Accounting",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:22.721Z",
+      "due": "2026-08-20T18:10:36.023Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a715f710f00a09c3ceb52f9",
+      "name": "Set up Torus crew communications system",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:23.217Z",
+      "due": "2026-08-20T18:10:37.111Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a715f7223aa117f6248b4ed",
+      "name": "End-to-end verification of all Torus systems",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:23.734Z",
+      "due": "2026-08-20T18:10:38.193Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a73e048bcd17a1224a23f1c",
+      "name": "\ud83d\udda5\ufe0f [P1] Reboot PINKCADY + enable SVM Mode in BIOS",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:24.193Z",
+      "due": "2026-08-20T18:21:23.582Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a73c24d93a43a89e3cd58f1",
+      "name": "\ud83d\udd12 Admin elevation required for choco install on PINKCADY",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:24.648Z",
+      "due": "2026-08-20T18:22:01.061Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a73e04924a4fc2d382bb859",
+      "name": "\ud83e\udde0 [P1] Enable XMP/DOCP for Corsair 3200 RAM",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:25.083Z",
+      "due": "2026-08-20T18:19:55.526Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a73e04a2c2bbdf27b302dfe",
+      "name": "\u26a1 [P2] Precision Boost Overdrive / Curve Optimizer",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:58:08.912Z",
+      "due": "2026-08-20T18:10:40.432Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a73e04a10d0cd5794e0f0c3",
+      "name": "\ud83d\udd27 [P1] Post-boot: enable Hyper-V + WSL2 + Containers",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:25.533Z",
+      "due": "2026-08-20T18:19:57.835Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a73f5a03041dff74d8e234f",
+      "name": "\ud83d\udce8 RE PINKCADY BIOS SVM XMP STEPS 20260806T011500Z misspink.msg",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:25.967Z",
+      "due": "2026-08-20T18:21:06.962Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a73f9d1117d82f3161f1819",
+      "name": "\ud83c\udf10 [P2] Deploy torus-website + torus-inventory + torus-pos on PINKCADY",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:26.432Z",
+      "due": "2026-08-13T18:22:05.887Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a740381c3a44cf1d463dcf8",
+      "name": "\ud83d\udce8 ACK TORUS FLEET LIVE PLUGIN AUDIT AND DASHBOARD RETEST STILL NEEDED 20260806T031500Z sirgreen.msg",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:26.943Z",
+      "due": "2026-08-08T18:09:19.076Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a751520d659623cb7fd81a8",
+      "name": "File Iowa state taxes \u2014 GovConnectIowa (monthly reminder)",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:27.399Z",
+      "due": "2026-08-20T21:04:24.168Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a741fc73041dff74dcbc651",
+      "name": "\u2705 IN PROGRESS: torus-website Next.js build fixed, Dockerfile created",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T07:01:04.506Z",
+      "due": "2026-08-13T18:22:12.776Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a742143059b59ffe6d2c68a",
+      "name": "[P2] TROUBLESHOOTING_GUIDE.md",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T10:31:27.853Z",
+      "due": "2026-08-20T18:11:01.458Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a742528f39eb723b86ed54c",
+      "name": "[P1] Import QuickAdd macros from quickadd_macros.json into active data.json",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:53:09.442Z",
+      "due": "2026-08-20T18:20:20.852Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a742529ef011b6da7537444",
+      "name": "[P2] Fix Templater + Periodic Notes template paths",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:54:12.341Z",
+      "due": "2026-09-05T18:20:22.105Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a7425296ba4d189552269e9",
+      "name": "[P2] Verify all Windows Task Scheduler jobs point to real scripts",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:55:15.223Z",
+      "due": "2026-08-20T18:10:41.619Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a75bf3eee7e2cd1b2c9afe9",
+      "name": "Sync Facebook business account with other social accounts",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3",
+        "ops",
+        "media",
+        "miss-pink",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:39:10.883Z",
+      "due": "2026-08-21T00:00:00.000Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a74a5f4d826bdb078119f3b",
+      "name": "\ud83d\udce8 [INBOX] sirgreen dashboard 502 regression sirgreen 20260806",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "Sir Green's Queue",
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T07:11:04.102Z",
+      "due": "2026-08-07T18:22:29.399Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a74af3a25f666660d8c180e",
+      "name": "\ud83d\udce8 [INBOX] sirgreen dashboard 502 second regression sirgreen 20260806",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "Sir Green's Queue",
+        "P3",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T07:13:08.872Z",
+      "due": "2026-08-07T18:22:31.879Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a76a0df05ad71cbd0b4e448",
+      "name": "P2: Move website Dockerfiles out of vault or into proper /Docker folder",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T05:46:31.033Z",
+      "due": "2026-08-22T00:46:26.658Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a76a0e030bd3774d6a25e7a",
+      "name": "P2: Add Docker automation into master OODA loop",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T05:46:35.774Z",
+      "due": "2026-08-22T00:46:31.423Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a76a0e065a31afb15458d20",
+      "name": "P2: Add vault audit + website dedupe into automated pipelines",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T05:46:40.499Z",
+      "due": "2026-08-22T00:46:36.312Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a76a0e108a39aa19f8cb2ab",
+      "name": "P2: Clean up 06_Website duplicates and missing data folders",
+      "board": "Torus_Ops",
+      "list": "P3 - Medium / Follow Up",
+      "labels": [
+        "P3"
+      ],
+      "dateLastActivity": "2026-08-08T05:46:47.272Z",
+      "due": "2026-08-22T00:46:43.087Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a758a33d09a0e14ad056f58",
+      "name": "P2: Verify Miss Pink's Inbox automation routing",
+      "board": "Torus_Ops",
+      "list": "P5 - Low / Review",
+      "labels": [
+        "P5"
+      ],
+      "dateLastActivity": "2026-08-08T05:44:59.357Z",
+      "due": "2026-10-07T00:44:55.527Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a738f5122f88700f8084207",
+      "name": "\ud83d\udce1 Run crew connectivity monitor on PINKCADY",
+      "board": "Torus_Ops",
+      "list": "P6 - Very Low / Blocked / Waiting",
+      "labels": [
+        "P6",
+        ""
+      ],
+      "dateLastActivity": "2026-08-08T06:06:03.933Z",
+      "due": "2026-08-20T18:05:27.554Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a71242b00b312cd0e56ce9d",
+      "name": "Test Buffer queue/channel listing",
+      "board": "Torus_Ops",
+      "list": "P6 - Very Low / Blocked / Waiting",
+      "labels": [
+        "P6"
+      ],
+      "dateLastActivity": "2026-08-08T00:36:34.833Z",
+      "due": "2026-08-20T18:10:05.070Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a758aec9d0ebc1f09ae0651",
+      "name": "P1: Document Sir Azure Queue Mapping Logic in his obsidian vault",
+      "board": "Torus_Ops",
+      "list": "Sir Azure's Queue",
+      "labels": [
+        "sir-azure",
+        "Sir Azure's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T06:29:15.774Z",
+      "due": "2026-08-15T06:29:37.777Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a758a3be21f75d236d0bb7b",
+      "name": "Generate social templates with Sir Azure",
+      "board": "Torus_Ops",
+      "list": "Sir Azure's Queue",
+      "labels": [
+        "sir-azure",
+        "Sir Azure's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T06:29:16.536Z",
+      "due": "2026-08-15T06:29:38.464Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a758a408208e00c65947dc3",
+      "name": "Docker connection established",
+      "board": "Torus_Ops",
+      "list": "Sir Azure's Queue",
+      "labels": [
+        "sir-azure",
+        "Sir Azure's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T06:29:17.302Z",
+      "due": "2026-08-15T06:29:39.251Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a758a446ef03639a798949f",
+      "name": "Audit Sir Azure build template",
+      "board": "Torus_Ops",
+      "list": "Sir Azure's Queue",
+      "labels": [
+        "sir-azure",
+        "Sir Azure's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T06:29:18.185Z",
+      "due": "2026-08-15T06:29:39.994Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a758a4d479cdbde2cd21076",
+      "name": "Miss Pink: prepare Torus repos list for GitHub sharing to Sir Azure",
+      "board": "Torus_Ops",
+      "list": "Sir Azure's Queue",
+      "labels": [
+        "sir-azure",
+        "Sir Azure's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T06:29:18.970Z",
+      "due": "2027-02-04T06:29:40.939Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a758a50f9700d79c3fb87b0",
+      "name": "GitHub: share Torus Coffee repos to Miss Pink and Sir Azure",
+      "board": "Torus_Ops",
+      "list": "Sir Azure's Queue",
+      "labels": [
+        "sir-azure",
+        "Sir Azure's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T06:29:19.767Z",
+      "due": "2027-02-04T06:29:41.656Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a758a51157e2952120d4203",
+      "name": "GitHub: add Sir Azure as VOIDPirateTrade collaborator with push access",
+      "board": "Torus_Ops",
+      "list": "Sir Azure's Queue",
+      "labels": [
+        "sir-azure",
+        "Sir Azure's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T06:29:20.548Z",
+      "due": "2027-02-04T06:29:42.452Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a758a529952d070a0b13b35",
+      "name": "GitHub: share Torus Coffee repos to Miss Pink and Sir Azure after VOID access",
+      "board": "Torus_Ops",
+      "list": "Sir Azure's Queue",
+      "labels": [
+        "sir-azure",
+        "Sir Azure's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T06:29:21.345Z",
+      "due": "2027-02-04T06:29:43.250Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a76a0dfe09b2ccb2a17815f",
+      "name": "P1: Remove rogue OODA loops spawned from bash shells",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:48:10.728Z",
+      "due": "2026-08-22T00:48:07.670Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a75890de46716eda3d00dfe",
+      "name": "\ud83d\udccb Build OODA tasklist from Trello + Obsidian inbox",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:45:02.646Z",
+      "due": "2026-08-22T00:44:59.818Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a75896a3632d256d23b49f9",
+      "name": "Deep vault audit completed",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:43:22.859Z",
+      "due": "2026-08-22T00:43:19.975Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a75896b1b6a8bdbe9d6db90",
+      "name": "Fixed dashboard credentials.ts path",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:43:59.292Z",
+      "due": "2026-08-22T00:43:56.562Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a75896c4039d3f60daf96fa",
+      "name": "Created dashboard_launcher.py + startup shortcut",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:43:15.957Z",
+      "due": "2026-08-22T00:43:13.262Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a75896ee1d84453c52ff789",
+      "name": "Deploy website to Vercel",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:43:26.618Z",
+      "due": "2026-08-22T00:43:23.924Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a75896fa04c71b2751aed71",
+      "name": "Gordon audited Sir Green's Docker fleet",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "miss-gordon",
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:44:31.370Z",
+      "due": "2026-08-22T00:44:28.693Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a758970843030183a361c45",
+      "name": "Gordon caught Sir Green's overclaim",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:44:34.572Z",
+      "due": "2026-08-22T00:44:31.954Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a75897500a81337aa31dfea",
+      "name": "Design website architecture: Next.js + dashboard",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:43:34.264Z",
+      "due": "2026-08-22T00:43:31.560Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a75897837f4e0714a23594f",
+      "name": "Build automation dashboard page",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:42:54.027Z",
+      "due": "2026-08-22T00:42:51.261Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a758979784c7081f7ef5ff3",
+      "name": "Build inventory dashboard widget",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:43:04.299Z",
+      "due": "2026-08-22T00:43:01.436Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a75897ba83a8991d4fa62c0",
+      "name": "Build Obsidian vault watcher daemon",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:42:48.767Z",
+      "due": "2026-08-22T00:42:46.050Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a75897d9951a3cb70e164b1",
+      "name": "Build content pipeline: Substack + X + AI assets",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:42:57.125Z",
+      "due": "2026-08-22T00:42:54.473Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a75897f8e28e479fd6a4979",
+      "name": "Build crew scheduler with capacity-aware rules",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:43:00.802Z",
+      "due": "2026-08-22T00:42:58.110Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a7589838f9aa9c752547871",
+      "name": "Automate YouTube production workflow",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:42:45.331Z",
+      "due": "2026-08-22T00:42:42.621Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a758985d6df54b8623fe79e",
+      "name": "Automate AI image/video asset generation",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:42:42.131Z",
+      "due": "2026-08-22T00:42:39.417Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a758986e33697e3f0062292",
+      "name": "Follow-up: Miss Pink GitHub auth + clone",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:44:02.802Z",
+      "due": "2026-08-22T00:44:00.066Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a75898a2e530ff316871ff7",
+      "name": "Miss Pink: build Discord bot for VOID Pirate server",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:44:44.715Z",
+      "due": "2026-08-22T00:44:42.026Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a75898ccd67e50571693d3f",
+      "name": "Discord trusted accounts: add `tradecrushersmith` ID to `access_policy.json`",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:43:48.019Z",
+      "due": "2026-08-22T00:43:45.327Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a758990eb882b98428fecf5",
+      "name": "Discord developer team: enable 2FA and verify email for all members",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:43:37.666Z",
+      "due": "2026-08-22T00:43:34.793Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a758993681f6baa5d0bb753",
+      "name": "Miss Pink: confirm PINKCADY Tailscale + bridge + inbox watcher",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:44:47.981Z",
+      "due": "2026-08-22T00:44:45.282Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a7589943bcf75d5aa78272d",
+      "name": "Miss Pink Rig: full hardware/software inventory pass",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:44:41.301Z",
+      "due": "2026-08-22T00:44:38.598Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a7589964dc16b0037f9d5ab",
+      "name": "Gmail: opsec-safe email triage automation \u2014 read, organize, delete, archive",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:44:28.331Z",
+      "due": "2026-08-22T00:44:25.731Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a7589995cac059c4dd477cf",
+      "name": "Miss Pink Rig: confirm tailscale status, bridge health, gh auth, write access",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:44:37.974Z",
+      "due": "2026-08-22T00:44:35.273Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    },
+    {
+      "id": "6a75899bb7cf1af4adfc2c26",
+      "name": "GitHub: add Miss Pink as VOIDPirateTrade collaborator with push access",
+      "board": "Torus_Ops",
+      "list": "Sir Green's Queue",
+      "labels": [
+        "Sir Green's Queue"
+      ],
+      "dateLastActivity": "2026-08-08T05:44:11.782Z",
+      "due": "2026-08-22T00:44:08.832Z",
+      "indexed_at": "2026-08-08T11:31:06.896744+00:00"
+    }
+  ],
+  "last_checked": "2026-08-08T11:31:06.895120+00:00"
+}

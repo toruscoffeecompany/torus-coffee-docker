@@ -1,0 +1,43 @@
+{
+  "discord_trusted_accounts": {
+    "tradecrushersmith@gmail.com": {
+      "discord_id": "pending",
+      "role": "Captain / Miss Pink",
+      "permissions": ["admin", "all_channels"],
+      "verified": true,
+      "note": "Bryon Smith — pirate captain"
+    },
+    "sir_green_discord_id": {
+      "discord_id": "pending",
+      "role": "Sir Green",
+      "permissions": ["sir_green_queue", "deployment", "security_ops"],
+      "verified": false,
+      "note": "VOID Pirate — needs Discord token"
+    },
+    "sir_azure_discord_id": {
+      "discord_id": "pending",
+      "role": "Sir Azure",
+      "permissions": ["sir_azure_queue", "render_pipeline", "ai_assets"],
+      "verified": false,
+      "note": "Render Midshipman — needs Discord token"
+    },
+    "miss_pink_bot_id": {
+      "discord_id": "pending",
+      "role": "Crew Bot",
+      "permissions": ["read_write_all", "trello_bridge", "alert_routing"],
+      "verified": false,
+      "note": "Miss Pink automation bot"
+    }
+  },
+  "trello_board_access": {
+    "torus_ops_board": "6a70a3157d0db4214ac3f9a3",
+    "void_ops_board": "6a595669b8f8f99c93392f4f",
+    "trusted_members": ["6a775ea9", "6a6e26f4", "6a590410"]
+  },
+  "github_repo_access": {
+    "torus_ops": "toruscoffeecompany/Torus_Ops",
+    "torus_website": "toruscoffeecompany/Torus_website_rebuild",
+    "torus_docker": "toruscoffeecompany/torus-coffee-docker",
+    "trusted_collaborators": ["bryonsmith1"]
+  }
+}

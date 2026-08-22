@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-08-12T05:51:32.519249+00:00",
+  "ok": true,
+  "details": {
+    "last_run": "2026-08-12T05:50:44.920460+00:00",
+    "processed_recent": 101,
+    "counts_recent": {
+      "null": 101
+    },
+    "total_processed": 273,
+    "failed_count": 0,
+    "queue_counts": {
+      "Sir Azure's Queue": 0,
+      "Sir Green's Queue": 0
+    },
+    "latest_failures": []
+  },
+  "summary": "queue transfer pipeline is active"
+}

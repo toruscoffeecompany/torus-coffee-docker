@@ -1,0 +1,2998 @@
+{
+  "alerts": [
+    {
+      "type": "test",
+      "message": "Alert router test",
+      "severity": "info",
+      "timestamp": "2026-08-03T20:35:28.733538"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T20:35:28.969258"
+    },
+    {
+      "type": "inventory_low_stock",
+      "message": "LOW STOCK: 2 products below threshold: LOW STOCK: Sour Aurora Bites (TCC-SAB-26) - 2 units remaining, LOW STOCK: Solar Strawberries (TCC-SS-05) - 0 units remaining",
+      "severity": "warning",
+      "timestamp": "2026-08-03T20:36:01.561865"
+    },
+    {
+      "type": "test",
+      "message": "Alert router test",
+      "severity": "info",
+      "timestamp": "2026-08-03T20:36:01.668963"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T20:36:47.257194"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T20:36:47.695056"
+    },
+    {
+      "type": "inventory_low_stock",
+      "message": "LOW STOCK: 2 products below threshold: LOW STOCK: Sour Aurora Bites (TCC-SAB-26) - 2 units remaining, LOW STOCK: Solar Strawberries (TCC-SS-05) - 0 units remaining",
+      "severity": "warning",
+      "timestamp": "2026-08-03T21:22:40.814529"
+    },
+    {
+      "type": "inventory_low_stock",
+      "message": "LOW STOCK: 2 products below threshold: LOW STOCK: Sour Aurora Bites (TCC-SAB-26) - 2 units remaining, LOW STOCK: Solar Strawberries (TCC-SS-05) - 0 units remaining",
+      "severity": "warning",
+      "timestamp": "2026-08-03T21:22:45.912891"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T21:22:56.744572"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T21:25:29.130221"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T21:25:29.570848"
+    },
+    {
+      "type": "inventory_out_of_stock",
+      "message": "10 products out of stock: Neapolitan Orbit Cream Crunch, Orbit Cream Crunch, Star-Dusted Banana Crunch, Apple Cinnamon Comets, Aurora Berryalis, Sour Aurora Bites, Solar Strawberries, Cosmic Bananas, Aurora Bites, Apple Zephyr Chips",
+      "severity": "warning",
+      "timestamp": "2026-08-03T21:33:42.673899"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-213344 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T21:33:44.812357"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-213355 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T21:33:55.506975"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-214501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T21:45:01.464566"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-220000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:00:00.478623"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-221500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:15:00.496283"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:26:30.708102"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:26:31.180509"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:28:23.550841"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:28:24.025589"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-223000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:30:00.504072"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-224500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:45:00.520731"
+    },
+    {
+      "type": "compliance_warning",
+      "message": "1 items due within 30 days",
+      "severity": "warning",
+      "timestamp": "2026-08-03T22:46:54.503982"
+    },
+    {
+      "type": "strategy_milestone",
+      "message": "Next milestone: Growth Stage at $1500/mo",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:46:54.648201"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:47:27.288162"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:47:27.750269"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:49:09.412520"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:49:09.872772"
+    },
+    {
+      "type": "compliance_warning",
+      "message": "1 items due within 30 days",
+      "severity": "warning",
+      "timestamp": "2026-08-03T22:52:00.318118"
+    },
+    {
+      "type": "strategy_milestone",
+      "message": "Next milestone: Growth Stage at $1500/mo",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:52:00.577623"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:52:17.418745"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:52:17.863480"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:56:01.544205"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:56:01.986896"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:56:51.644776"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:56:52.095665"
+    },
+    {
+      "type": "compliance_warning",
+      "message": "1 items due within 30 days",
+      "severity": "warning",
+      "timestamp": "2026-08-03T22:57:32.012631"
+    },
+    {
+      "type": "strategy_milestone",
+      "message": "Next milestone: Growth Stage at $1500/mo",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:57:32.295261"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-225734 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:57:34.162829"
+    },
+    {
+      "type": "inventory_out_of_stock",
+      "message": "10 products out of stock: Neapolitan Orbit Cream Crunch, Orbit Cream Crunch, Star-Dusted Banana Crunch, Apple Cinnamon Comets, Aurora Berryalis, Sour Aurora Bites, Solar Strawberries, Cosmic Bananas, Aurora Bites, Apple Zephyr Chips",
+      "severity": "warning",
+      "timestamp": "2026-08-03T22:57:34.313462"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:57:34.459269"
+    },
+    {
+      "type": "test",
+      "message": "Alert router test",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:57:37.829203"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:57:39.832105"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:58:14.845890"
+    },
+    {
+      "type": "test",
+      "message": "Alert router test",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:58:22.691061"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:58:23.941546"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:58:24.415255"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:58:24.643214"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:58:25.678399"
+    },
+    {
+      "type": "inventory_out_of_stock",
+      "message": "10 products out of stock: Neapolitan Orbit Cream Crunch, Orbit Cream Crunch, Star-Dusted Banana Crunch, Apple Cinnamon Comets, Aurora Berryalis, Sour Aurora Bites, Solar Strawberries, Cosmic Bananas, Aurora Bites, Apple Zephyr Chips",
+      "severity": "warning",
+      "timestamp": "2026-08-03T22:58:26.717743"
+    },
+    {
+      "type": "compliance_warning",
+      "message": "1 items due within 30 days",
+      "severity": "warning",
+      "timestamp": "2026-08-03T22:58:26.866877"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-225829 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:58:29.053646"
+    },
+    {
+      "type": "strategy_milestone",
+      "message": "Next milestone: Growth Stage at $1500/mo",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:58:29.282116"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:58:56.291291"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:58:56.867586"
+    },
+    {
+      "type": "test",
+      "message": "Alert router test",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:59:32.817964"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:59:34.212931"
+    },
+    {
+      "type": "inventory_low_stock",
+      "message": "LOW STOCK: 10 products below threshold: LOW STOCK: Neapolitan Orbit Cream Crunch (TCC-NOCC-200) - 0 units remaining, LOW STOCK: Orbit Cream Crunch (TCC-OCC-200) - 0 units remaining, LOW STOCK: Star-Dusted Banana Crunch (TCC-SDB-115) - 0 units remaining, LOW STOCK: Apple Cinnamon Comets (TCC-ACC-115) - 0 units remaining, LOW STOCK: Aurora Berryalis (TCC-ARB-26) - 0 units remaining, LOW STOCK: Sour Aurora Bites (TCC-SAB-26) - 0 units remaining, LOW STOCK: Solar Strawberries (TCC-SS-05) - 0 units remaining, LOW STOCK: Cosmic Bananas (TCC-CB-155) - 0 units remaining, LOW STOCK: Aurora Bites (TCC-AB-26) - 0 units remaining, LOW STOCK: Apple Zephyr Chips (TCC-AZC-115) - 0 units remaining",
+      "severity": "warning",
+      "timestamp": "2026-08-03T22:59:36.265881"
+    },
+    {
+      "type": "inventory_out_of_stock",
+      "message": "10 products out of stock: Neapolitan Orbit Cream Crunch, Orbit Cream Crunch, Star-Dusted Banana Crunch, Apple Cinnamon Comets, Aurora Berryalis, Sour Aurora Bites, Solar Strawberries, Cosmic Bananas, Aurora Bites, Apple Zephyr Chips",
+      "severity": "warning",
+      "timestamp": "2026-08-03T22:59:36.784462"
+    },
+    {
+      "type": "compliance_warning",
+      "message": "1 items due within 30 days",
+      "severity": "warning",
+      "timestamp": "2026-08-03T22:59:37.367795"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-225942 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:59:42.550480"
+    },
+    {
+      "type": "strategy_milestone",
+      "message": "Next milestone: Growth Stage at $1500/mo",
+      "severity": "info",
+      "timestamp": "2026-08-03T22:59:42.978746"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-230000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:00:00.655219"
+    },
+    {
+      "type": "test",
+      "message": "Alert router test",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:01:15.347354"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:01:16.716907"
+    },
+    {
+      "type": "inventory_low_stock",
+      "message": "LOW STOCK: 10 products below threshold: LOW STOCK: Neapolitan Orbit Cream Crunch (TCC-NOCC-200) - 0 units remaining, LOW STOCK: Orbit Cream Crunch (TCC-OCC-200) - 0 units remaining, LOW STOCK: Star-Dusted Banana Crunch (TCC-SDB-115) - 0 units remaining, LOW STOCK: Apple Cinnamon Comets (TCC-ACC-115) - 0 units remaining, LOW STOCK: Aurora Berryalis (TCC-ARB-26) - 0 units remaining, LOW STOCK: Sour Aurora Bites (TCC-SAB-26) - 0 units remaining, LOW STOCK: Solar Strawberries (TCC-SS-05) - 0 units remaining, LOW STOCK: Cosmic Bananas (TCC-CB-155) - 0 units remaining, LOW STOCK: Aurora Bites (TCC-AB-26) - 0 units remaining, LOW STOCK: Apple Zephyr Chips (TCC-AZC-115) - 0 units remaining",
+      "severity": "warning",
+      "timestamp": "2026-08-03T23:01:18.718111"
+    },
+    {
+      "type": "inventory_out_of_stock",
+      "message": "10 products out of stock: Neapolitan Orbit Cream Crunch, Orbit Cream Crunch, Star-Dusted Banana Crunch, Apple Cinnamon Comets, Aurora Berryalis, Sour Aurora Bites, Solar Strawberries, Cosmic Bananas, Aurora Bites, Apple Zephyr Chips",
+      "severity": "warning",
+      "timestamp": "2026-08-03T23:01:19.209633"
+    },
+    {
+      "type": "compliance_warning",
+      "message": "1 items due within 30 days",
+      "severity": "warning",
+      "timestamp": "2026-08-03T23:01:19.683634"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-230122 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:01:22.814944"
+    },
+    {
+      "type": "strategy_milestone",
+      "message": "Next milestone: Growth Stage at $1500/mo",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:01:23.259789"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:01:27.916769"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:01:28.400150"
+    },
+    {
+      "type": "test",
+      "message": "Alert router test",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:02:20.397230"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:02:21.830805"
+    },
+    {
+      "type": "inventory_low_stock",
+      "message": "LOW STOCK: 10 products below threshold: LOW STOCK: Neapolitan Orbit Cream Crunch (TCC-NOCC-200) - 0 units remaining, LOW STOCK: Orbit Cream Crunch (TCC-OCC-200) - 0 units remaining, LOW STOCK: Star-Dusted Banana Crunch (TCC-SDB-115) - 0 units remaining, LOW STOCK: Apple Cinnamon Comets (TCC-ACC-115) - 0 units remaining, LOW STOCK: Aurora Berryalis (TCC-ARB-26) - 0 units remaining, LOW STOCK: Sour Aurora Bites (TCC-SAB-26) - 0 units remaining, LOW STOCK: Solar Strawberries (TCC-SS-05) - 0 units remaining, LOW STOCK: Cosmic Bananas (TCC-CB-155) - 0 units remaining, LOW STOCK: Aurora Bites (TCC-AB-26) - 0 units remaining, LOW STOCK: Apple Zephyr Chips (TCC-AZC-115) - 0 units remaining",
+      "severity": "warning",
+      "timestamp": "2026-08-03T23:02:23.986845"
+    },
+    {
+      "type": "inventory_out_of_stock",
+      "message": "10 products out of stock: Neapolitan Orbit Cream Crunch, Orbit Cream Crunch, Star-Dusted Banana Crunch, Apple Cinnamon Comets, Aurora Berryalis, Sour Aurora Bites, Solar Strawberries, Cosmic Bananas, Aurora Bites, Apple Zephyr Chips",
+      "severity": "warning",
+      "timestamp": "2026-08-03T23:02:24.501630"
+    },
+    {
+      "type": "compliance_warning",
+      "message": "1 items due within 30 days",
+      "severity": "warning",
+      "timestamp": "2026-08-03T23:02:24.992261"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-230228 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:02:28.321009"
+    },
+    {
+      "type": "strategy_milestone",
+      "message": "Next milestone: Growth Stage at $1500/mo",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:02:28.782271"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:02:33.110560"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:02:33.661683"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:03:14.447823"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:03:14.931097"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:06:06.353536"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:06:06.808853"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:06:57.118743"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:06:57.609839"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:10:56.764500"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:10:57.220669"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-231500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:15:00.550617"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-233000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:30:00.549856"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260803-234500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-03T23:45:00.561029"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-000000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T00:00:00.554728"
+    },
+    {
+      "type": "inventory_out_of_stock",
+      "message": "10 products out of stock: Neapolitan Orbit Cream Crunch, Orbit Cream Crunch, Star-Dusted Banana Crunch, Apple Cinnamon Comets, Aurora Berryalis, Sour Aurora Bites, Solar Strawberries, Cosmic Bananas, Aurora Bites, Apple Zephyr Chips",
+      "severity": "warning",
+      "timestamp": "2026-08-04T00:00:01.596813"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-001500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T00:15:00.581220"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-003000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T00:30:00.577434"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-004500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T00:45:00.609684"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-010000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T01:00:00.603110"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-011500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T01:15:00.610975"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-013000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T01:30:00.627809"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-014500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T01:45:00.637256"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-020000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T02:00:00.627483"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-021500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T02:15:00.642990"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-023000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T02:30:00.641042"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-024500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T02:45:00.664290"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-030000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T03:00:00.648827"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-031500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T03:15:00.673053"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-033000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T03:30:00.676001"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-034500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T03:45:00.691411"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-040000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T04:00:00.794420"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-041500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T04:15:00.692949"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-043000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T04:30:00.710487"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-044500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T04:45:00.718325"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-050000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T05:00:00.737051"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-051500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T05:15:00.726037"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-053000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T05:30:00.922955"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-054500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T05:45:00.765428"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-060000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T06:00:00.765124"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-061500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T06:15:00.789353"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-063000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T06:30:00.780599"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-064500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T06:45:00.792754"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-070000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T07:00:00.800203"
+    },
+    {
+      "type": "inventory_low_stock",
+      "message": "LOW STOCK: 10 products below threshold: LOW STOCK: Freeze-dried Neapolitan Ice Cream Sandwiches - Neapolitan Orbit Cream Crunch 2.0 - 0 units remaining, LOW STOCK: Freeze-Dried Vanilla Ice Cream Sandwiches - Orbit Cream Crunch - 0 units remaining, LOW STOCK: Freeze-Dried Bananas - Star-Dusted Banana Crunch 1.15oz - 0 units remaining, LOW STOCK: Freeze-Dried Apple Cinnamon Comets 1.15oz - 0 units remaining, LOW STOCK: Freeze-Dried Candy - Aurora Berryalis 2.6oz - 0 units remaining, LOW STOCK: Freeze-Dried Candy - Sour Aurora Bites 2.6oz - 0 units remaining, LOW STOCK: Freeze-Dried Solar Strawberries 0.5oz - 0 units remaining, LOW STOCK: Freeze-Dried Cosmic Bananas 1.55oz - 0 units remaining, LOW STOCK: Freeze-Dried Candy - Aurora Bites 2.6oz - 0 units remaining, LOW STOCK: Freeze-Dried Apple Zephyr Chips 1.15oz - 0 units remaining",
+      "severity": "warning",
+      "timestamp": "2026-08-04T07:00:01.474839"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-071500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T07:15:00.802407"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-073000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T07:30:00.809982"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-074500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T07:45:00.808213"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-080000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T08:00:00.851896"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-04T08:00:01.427964"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-081500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T08:15:00.840339"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-083000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T08:30:00.842660"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-084500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T08:45:00.850777"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-090000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T09:00:00.879668"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-091501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T09:15:01.015032"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-093000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T09:30:00.854141"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-094500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T09:45:00.856708"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-100000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T10:00:00.869850"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-101500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T10:15:00.875676"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-103000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T10:30:00.890212"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-104500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T10:45:00.898325"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-110000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T11:00:00.903192"
+    },
+    {
+      "type": "api_health",
+      "message": "API ok: {'status': 'ok', 'database': 'ok', 'product_count': 7, 'customer_count': 0, 'order_count': 0}",
+      "severity": "info",
+      "timestamp": "2026-08-04T16:14:23.727852+00:00"
+    },
+    {
+      "type": "website_build",
+      "message": "Website build success",
+      "severity": "info",
+      "timestamp": "2026-08-04T16:14:44.875937+00:00"
+    },
+    {
+      "type": "task_scheduler",
+      "message": "\\Torus_Daily_Obsidian_Note Ready",
+      "severity": "info",
+      "timestamp": "2026-08-04T16:14:44.979769+00:00"
+    },
+    {
+      "type": "task_scheduler",
+      "message": "\\Torus_Inventory_Sync Ready",
+      "severity": "info",
+      "timestamp": "2026-08-04T16:14:44.979787+00:00"
+    },
+    {
+      "type": "watcher_log",
+      "message": "Watcher log healthy: total=4502 recent_scan_lines=10",
+      "severity": "info",
+      "timestamp": "2026-08-04T16:14:44.983229+00:00"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-111500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T11:15:00.908507"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-113000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T11:30:00.959251"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-114500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T11:45:00.920241"
+    },
+    {
+      "type": "api_health",
+      "message": "API ok: {'status': 'ok', 'database': 'ok', 'product_count': 7, 'customer_count': 0, 'order_count': 0}",
+      "severity": "info",
+      "timestamp": "2026-08-04T16:50:08.953477+00:00"
+    },
+    {
+      "type": "website_build",
+      "message": "Website build success",
+      "severity": "info",
+      "timestamp": "2026-08-04T16:50:31.911427+00:00"
+    },
+    {
+      "type": "task_scheduler",
+      "message": "\\Torus_Daily_Obsidian_Note Ready",
+      "severity": "info",
+      "timestamp": "2026-08-04T16:50:32.010325+00:00"
+    },
+    {
+      "type": "task_scheduler",
+      "message": "\\Torus_Inventory_Sync Ready",
+      "severity": "info",
+      "timestamp": "2026-08-04T16:50:32.010344+00:00"
+    },
+    {
+      "type": "watcher_log",
+      "message": "Watcher log healthy: total=4527 recent_scan_lines=10",
+      "severity": "info",
+      "timestamp": "2026-08-04T16:50:32.023288+00:00"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-120000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T12:00:00.918563"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-121500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T12:15:00.933244"
+    },
+    {
+      "type": "api_health",
+      "message": "API ok: {'status': 'ok', 'database': 'ok', 'product_count': 7, 'customer_count': 0, 'order_count': 0}",
+      "severity": "info",
+      "timestamp": "2026-08-04T17:22:32.405222+00:00"
+    },
+    {
+      "type": "website_build",
+      "message": "Website build success",
+      "severity": "info",
+      "timestamp": "2026-08-04T17:22:53.721882+00:00"
+    },
+    {
+      "type": "task_scheduler",
+      "message": "\\Torus_Daily_Obsidian_Note Ready",
+      "severity": "info",
+      "timestamp": "2026-08-04T17:22:53.819156+00:00"
+    },
+    {
+      "type": "task_scheduler",
+      "message": "\\Torus_Inventory_Sync Ready",
+      "severity": "info",
+      "timestamp": "2026-08-04T17:22:53.819176+00:00"
+    },
+    {
+      "type": "watcher_log",
+      "message": "Watcher log healthy: total=4915 recent_scan_lines=10",
+      "severity": "info",
+      "timestamp": "2026-08-04T17:22:53.832678+00:00"
+    },
+    {
+      "type": "api_health",
+      "message": "API ok: {'status': 'ok', 'database': 'ok', 'product_count': 7, 'customer_count': 0, 'order_count': 0}",
+      "severity": "info",
+      "timestamp": "2026-08-04T17:29:12.964691+00:00"
+    },
+    {
+      "type": "website_build",
+      "message": "Website build success",
+      "severity": "info",
+      "timestamp": "2026-08-04T17:29:34.111593+00:00"
+    },
+    {
+      "type": "task_scheduler",
+      "message": "\\Torus_Daily_Obsidian_Note Ready",
+      "severity": "info",
+      "timestamp": "2026-08-04T17:29:34.207709+00:00"
+    },
+    {
+      "type": "task_scheduler",
+      "message": "\\Torus_Inventory_Sync Ready",
+      "severity": "info",
+      "timestamp": "2026-08-04T17:29:34.207729+00:00"
+    },
+    {
+      "type": "watcher_log",
+      "message": "Watcher log healthy: total=4993 recent_scan_lines=10",
+      "severity": "info",
+      "timestamp": "2026-08-04T17:29:34.220969+00:00"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-123000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T12:30:00.938036"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-124500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T12:45:00.951466"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-130000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T13:00:00.969305"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-131500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T13:15:00.967063"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-133000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T13:30:00.967241"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-134500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T13:45:00.992600"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-140000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T14:00:00.989147"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-141500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T14:15:00.985800"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-143000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T14:30:00.995400"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-144500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T14:45:01.002974"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-150000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T15:00:01.007181"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-151501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T15:15:01.015611"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-153001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T15:30:01.030226"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-154501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T15:45:01.061697"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-160001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T16:00:01.045197"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-161501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T16:15:01.069939"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-163001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T16:30:01.060155"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-164501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T16:45:01.068544"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-170001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T17:00:01.074657"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-171501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T17:15:01.071709"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-173001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T17:30:01.079252"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-174501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T17:45:01.088394"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-180001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T18:00:01.100208"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-181501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T18:15:01.106278"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-183001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T18:30:01.108473"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-184501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T18:45:01.120534"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-190001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T19:00:01.131247"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-191501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T19:15:01.138863"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-193001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T19:30:01.145250"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-194500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T19:45:00.147926"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-200000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T20:00:00.159477"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-201500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T20:15:00.158458"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-203000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T20:30:00.169136"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-204500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T20:45:00.181518"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-210000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T21:00:00.216746"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-211500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T21:15:00.198858"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-213000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T21:30:00.240809"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-214500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T21:45:00.230501"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-220000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T22:00:00.237314"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-221500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T22:15:00.278389"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-223000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T22:30:00.262472"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-224500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T22:45:00.248394"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-230000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T23:00:00.265585"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-231500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T23:15:00.272942"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-233000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T23:30:00.278579"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260804-234500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-04T23:45:00.280430"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-000000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T00:00:00.320542"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-001500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T00:15:00.298618"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-003000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T00:30:00.305402"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-004500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T00:45:00.295234"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-010000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T01:00:00.319167"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-011500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T01:15:00.323763"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-013000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T01:30:00.323310"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-014500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T01:45:00.337554"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-020000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T02:00:00.341951"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-021500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T02:15:00.352354"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-023000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T02:30:00.356728"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-024500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T02:45:00.366442"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-030000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T03:00:00.381608"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-031500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T03:15:00.385846"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-033000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T03:30:00.419020"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-034500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T03:45:00.405090"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-040000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T04:00:00.411203"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-041500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T04:15:00.423350"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-043000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T04:30:00.436835"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-044500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T04:45:00.427641"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-050000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T05:00:00.443752"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-051500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T05:15:00.444207"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-053000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T05:30:00.649751"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-054500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T05:45:00.465511"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-060000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T06:00:00.471725"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-061500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T06:15:00.481935"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-063000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T06:30:00.497702"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-064500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T06:45:00.499299"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-070000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T07:00:00.514970"
+    },
+    {
+      "type": "inventory_low_stock",
+      "message": "LOW STOCK: 10 products below threshold: LOW STOCK: Freeze-dried Neapolitan Ice Cream Sandwiches - Neapolitan Orbit Cream Crunch 2.0 - 0 units remaining, LOW STOCK: Freeze-Dried Vanilla Ice Cream Sandwiches - Orbit Cream Crunch - 0 units remaining, LOW STOCK: Freeze-Dried Bananas - Star-Dusted Banana Crunch 1.15oz - 0 units remaining, LOW STOCK: Freeze-Dried Apple Cinnamon Comets 1.15oz - 0 units remaining, LOW STOCK: Freeze-Dried Candy - Aurora Berryalis 2.6oz - 0 units remaining, LOW STOCK: Freeze-Dried Candy - Sour Aurora Bites 2.6oz - 0 units remaining, LOW STOCK: Freeze-Dried Solar Strawberries 0.5oz - 0 units remaining, LOW STOCK: Freeze-Dried Cosmic Bananas 1.55oz - 0 units remaining, LOW STOCK: Freeze-Dried Candy - Aurora Bites 2.6oz - 0 units remaining, LOW STOCK: Freeze-Dried Apple Zephyr Chips 1.15oz - 0 units remaining",
+      "severity": "warning",
+      "timestamp": "2026-08-05T07:00:01.487175"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-071500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T07:15:00.515015"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-073000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T07:30:00.519385"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-074500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T07:45:00.526067"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-080000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T08:00:00.542591"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-05T08:00:01.448283"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-081500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T08:15:00.532629"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-083000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T08:30:00.544003"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-084500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T08:45:00.775902"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-090000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T09:00:00.602917"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-091500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T09:15:00.568403"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-093000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T09:30:00.575218"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-094500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T09:45:00.635971"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-100004 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T10:00:05.254292"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-101500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T10:15:00.738258"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-103000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T10:30:00.639456"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-104500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T10:45:00.645002"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-110000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T11:00:00.675610"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-111500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T11:15:00.669700"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-113000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T11:30:00.702273"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-114500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T11:45:00.698459"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-120000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T12:00:00.712814"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-121500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T12:15:00.725926"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-123000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T12:30:00.714530"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-124500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T12:45:00.718215"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-130000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T13:00:00.715798"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-131500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T13:15:00.717762"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-133000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T13:30:00.738295"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-134500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T13:45:00.731432"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-140000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T14:00:00.751845"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-141500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T14:15:00.732606"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-143000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T14:30:00.748155"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-144500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T14:45:00.754664"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-150000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T15:00:00.756186"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-151500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T15:15:00.769005"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-153000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T15:30:00.780124"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-154500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T15:45:00.787908"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-160000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T16:00:00.807148"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-161500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T16:15:00.810946"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-163000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T16:30:00.819833"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-164500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T16:45:00.827783"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-170000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T17:00:00.854347"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-171500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T17:15:00.881911"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-173000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T17:30:00.887848"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-174500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T17:45:00.873033"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-180000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T18:00:00.879399"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-181500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T18:15:00.894502"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-183000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T18:30:00.928294"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-184500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T18:45:00.938409"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-190001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T19:00:01.005618"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-191500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T19:15:00.944146"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-193000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T19:30:00.936253"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-194500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T19:45:00.944006"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-200000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T20:00:01.007417"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-201500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T20:15:01.001432"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-203000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T20:30:00.981827"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-211501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T21:15:01.941562"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-213000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T21:30:00.919407"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-214500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T21:45:00.938776"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-220000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T22:00:00.933015"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-221500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T22:15:00.990098"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-223000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T22:30:00.955408"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-224500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T22:45:00.964482"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-230000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T23:00:00.959174"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-231500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T23:15:01.002515"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260805-233000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-05T23:30:00.989234"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-003000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T00:30:01.009926"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-004501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T00:45:01.008664"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-010001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T01:00:01.037148"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-011501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T01:15:01.041995"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-013001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T01:30:01.410784"
+    },
+    {
+      "type": "test",
+      "message": "Alert router test",
+      "severity": "info",
+      "timestamp": "2026-08-06T01:35:15.413744"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-014500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T01:45:00.255228"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-020000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T02:00:00.256136"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-021500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T02:15:00.265994"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-023000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T02:30:00.270173"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-024500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T02:45:00.335048"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-030000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T03:00:00.350950"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-031500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T03:15:00.337171"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-033000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T03:30:00.414089"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-034500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T03:45:00.304320"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-040000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T04:00:00.348218"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-041500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T04:15:00.350726"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-043000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T04:30:00.423111"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-044500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T04:45:00.405020"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-050000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T05:00:00.394947"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-051500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T05:15:00.376290"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-053000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T05:30:00.445789"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-054500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T05:45:00.424575"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-060000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T06:00:00.431615"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-061500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T06:15:00.417850"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-063000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T06:30:00.521815"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-064500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T06:45:00.423383"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-070000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T07:00:00.457383"
+    },
+    {
+      "type": "inventory_low_stock",
+      "message": "LOW STOCK: 10 products below threshold: LOW STOCK: Freeze-dried Neapolitan Ice Cream Sandwiches - Neapolitan Orbit Cream Crunch 2.0 - 0 units remaining, LOW STOCK: Freeze-Dried Vanilla Ice Cream Sandwiches - Orbit Cream Crunch - 0 units remaining, LOW STOCK: Freeze-Dried Bananas - Star-Dusted Banana Crunch 1.15oz - 0 units remaining, LOW STOCK: Freeze-Dried Apple Cinnamon Comets 1.15oz - 0 units remaining, LOW STOCK: Freeze-Dried Candy - Aurora Berryalis 2.6oz - 0 units remaining, LOW STOCK: Freeze-Dried Candy - Sour Aurora Bites 2.6oz - 0 units remaining, LOW STOCK: Freeze-Dried Solar Strawberries 0.5oz - 0 units remaining, LOW STOCK: Freeze-Dried Cosmic Bananas 1.55oz - 0 units remaining, LOW STOCK: Freeze-Dried Candy - Aurora Bites 2.6oz - 0 units remaining, LOW STOCK: Freeze-Dried Apple Zephyr Chips 1.15oz - 0 units remaining",
+      "severity": "warning",
+      "timestamp": "2026-08-06T07:00:01.637547"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-071500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T07:15:00.440519"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-073000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T07:30:00.469025"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-074500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T07:45:00.484011"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-080000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T08:00:00.496797"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-06T08:00:01.613998"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-081500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T08:15:00.481400"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-083000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T08:30:00.512570"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-084500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T08:45:00.489118"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-090000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T09:00:00.536180"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-091500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T09:15:00.515358"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-093000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T09:30:00.514359"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-094500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T09:45:00.518850"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-100000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T10:00:00.534172"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-101500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T10:15:00.539638"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-103000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T10:30:00.610534"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-104500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T10:45:00.562093"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-110000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T11:00:00.554629"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-111500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T11:15:00.612788"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-113000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T11:30:00.678615"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-114500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T11:45:00.592800"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-120000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T12:00:00.687379"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-121500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T12:15:00.723086"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-123000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T12:30:00.678215"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-124500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T12:45:00.638874"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-130000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T13:00:00.659654"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-131500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T13:15:00.632405"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-133000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T13:30:00.676879"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-134500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T13:45:00.703721"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-140000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T14:00:00.675398"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-141500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T14:15:00.659955"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-143000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T14:30:00.661981"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-144500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T14:45:00.653478"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-150000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T15:00:00.694716"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-151500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T15:15:00.715394"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-153000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T15:30:00.690746"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-154500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T15:45:00.720892"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-160000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T16:00:00.811175"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-161500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T16:15:00.758727"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-163000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T16:30:00.781038"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-164500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T16:45:00.823461"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-170000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T17:00:00.749730"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-171500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T17:15:00.757902"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-173000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T17:30:00.768215"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-174500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T17:45:00.813806"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-180000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T18:00:00.825318"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-181500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T18:15:00.819142"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-183000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T18:30:00.799534"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-184500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T18:45:00.837057"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-190000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T19:00:00.813807"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-191501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T19:15:01.037386"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-193000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T19:30:00.922289"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-194500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T19:45:00.860027"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-200000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T20:00:00.872203"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-201500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T20:15:00.903977"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-203001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T20:30:01.040862"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-204500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T20:45:00.897896"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-210001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T21:00:01.118805"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-211501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T21:15:01.201520"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-213001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T21:30:01.142783"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-214500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T21:45:00.985437"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-220000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T22:00:00.986122"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-221500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T22:15:00.961981"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-223002 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T22:30:02.377949"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-224500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T22:45:00.934758"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-230000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T23:00:00.978090"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-231500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T23:15:01.006634"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-233000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T23:30:01.015726"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260806-234501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-06T23:45:01.256886"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-000000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T00:00:00.970772"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-001500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T00:15:00.956024"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-003000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T00:30:01.008431"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-004500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T00:45:00.970790"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-010001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T01:00:01.017722"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-011500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T01:15:00.997804"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-013000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T01:30:01.001853"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-014500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T01:45:01.011153"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-020001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T02:00:01.074680"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-021501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T02:15:01.162732"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-023001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T02:30:01.088000"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-024501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T02:45:01.103077"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-030001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T03:00:01.042987"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-031501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T03:15:01.064898"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-033001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T03:30:01.059017"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-034501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T03:45:01.071715"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-040001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T04:00:01.114485"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-041501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T04:15:01.061552"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-043001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T04:30:01.074354"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-044501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T04:45:01.077772"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-050001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T05:00:01.097298"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-051501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T05:15:01.123288"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-053001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T05:30:01.110990"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-054501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T05:45:01.128780"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-060001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T06:00:01.460705"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-061500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T06:15:00.482502"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-063000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T06:30:00.738847"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-064500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T06:45:00.522565"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-070000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T07:00:00.823637"
+    },
+    {
+      "type": "inventory_low_stock",
+      "message": "LOW STOCK: 10 products below threshold: LOW STOCK: Freeze-dried Neapolitan Ice Cream Sandwiches - Neapolitan Orbit Cream Crunch 2.0 - 0 units remaining, LOW STOCK: Freeze-Dried Vanilla Ice Cream Sandwiches - Orbit Cream Crunch - 0 units remaining, LOW STOCK: Freeze-Dried Bananas - Star-Dusted Banana Crunch 1.15oz - 0 units remaining, LOW STOCK: Freeze-Dried Apple Cinnamon Comets 1.15oz - 0 units remaining, LOW STOCK: Freeze-Dried Candy - Aurora Berryalis 2.6oz - 0 units remaining, LOW STOCK: Freeze-Dried Candy - Sour Aurora Bites 2.6oz - 0 units remaining, LOW STOCK: Freeze-Dried Solar Strawberries 0.5oz - 0 units remaining, LOW STOCK: Freeze-Dried Cosmic Bananas 1.55oz - 0 units remaining, LOW STOCK: Freeze-Dried Candy - Aurora Bites 2.6oz - 0 units remaining, LOW STOCK: Freeze-Dried Apple Zephyr Chips 1.15oz - 0 units remaining",
+      "severity": "warning",
+      "timestamp": "2026-08-07T07:00:01.509665"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-071500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T07:15:00.512526"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-073000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T07:30:00.483672"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-074500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T07:45:00.520256"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-080000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T08:00:00.546130"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-07T08:00:01.428466"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-081500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T08:15:00.521904"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-083000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T08:30:00.524668"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-084500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T08:45:00.543415"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-090000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T09:00:00.539535"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-091500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T09:15:00.546966"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-093000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T09:30:00.551688"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-094500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T09:45:00.564524"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-100000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T10:00:00.642111"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-101500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T10:15:00.591957"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-103000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T10:30:00.595895"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-104500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T10:45:00.604909"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-110000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T11:00:00.663801"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-111500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T11:15:00.612145"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-113000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T11:30:00.774542"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-114500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T11:45:00.710006"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-120001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T12:00:01.174770"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-121500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T12:15:00.688877"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-123000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T12:30:00.697095"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-124500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T12:45:00.684328"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-130000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T13:00:00.692554"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-131500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T13:15:00.720961"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-133000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T13:30:00.716673"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-134500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T13:45:00.754453"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-140000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T14:00:00.769164"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-141500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T14:15:00.777785"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-143000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T14:30:00.867339"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-144500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T14:45:00.771290"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-150000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T15:00:00.789580"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-151500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T15:15:00.795258"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-153000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T15:30:00.782559"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-154501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T15:45:01.160368"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-160000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T16:00:00.987143"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-161500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T16:15:00.854820"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-163000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T16:30:00.844758"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-164500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T16:45:00.823009"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-170000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T17:00:00.875042"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-171500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T17:15:00.882877"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-173000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T17:30:00.914834"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-174500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T17:45:00.886380"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-180000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T18:00:00.942921"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-181500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T18:15:00.934182"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-183000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T18:30:00.947577"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-184500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T18:45:00.965736"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-190000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T19:00:01.010738"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-191500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T19:15:00.938274"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-193000 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T19:30:00.982141"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-194500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T19:45:01.037963"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-200001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T20:00:01.249403"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-201501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T20:15:01.251276"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-203001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T20:30:01.196809"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-204500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T20:45:01.064558"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-210001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T21:00:01.153895"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-211501 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T21:15:01.068844"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-213001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T21:30:01.170045"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-214500 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T21:45:01.046967"
+    },
+    {
+      "type": "new_order",
+      "message": "New order TCC-20260807-220001 from Test Customer",
+      "severity": "info",
+      "timestamp": "2026-08-07T22:00:01.095779"
+    },
+    {
+      "type": "inventory_low_stock",
+      "message": "LOW STOCK: 10 products below threshold: LOW STOCK: Freeze-dried Neapolitan Ice Cream Sandwiches - Neapolitan Orbit Cream Crunch 2.0 - 0 units remaining, LOW STOCK: Freeze-Dried Vanilla Ice Cream Sandwiches - Orbit Cream Crunch - 0 units remaining, LOW STOCK: Freeze-Dried Bananas - Star-Dusted Banana Crunch 1.15oz - 0 units remaining, LOW STOCK: Freeze-Dried Apple Cinnamon Comets 1.15oz - 0 units remaining, LOW STOCK: Freeze-Dried Candy - Aurora Berryalis 2.6oz - 0 units remaining, LOW STOCK: Freeze-Dried Candy - Sour Aurora Bites 2.6oz - 0 units remaining, LOW STOCK: Freeze-Dried Solar Strawberries 0.5oz - 0 units remaining, LOW STOCK: Freeze-Dried Cosmic Bananas 1.55oz - 0 units remaining, LOW STOCK: Freeze-Dried Candy - Aurora Bites 2.6oz - 0 units remaining, LOW STOCK: Freeze-Dried Apple Zephyr Chips 1.15oz - 0 units remaining",
+      "severity": "warning",
+      "timestamp": "2026-08-08T07:00:01.262866"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-08T08:00:01.884593"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-08T16:39:14.713092"
+    },
+    {
+      "type": "inventory_check",
+      "message": "Daily inventory check started",
+      "severity": "info",
+      "timestamp": "2026-08-08T16:58:39.039904"
+    }
+  ]
+}

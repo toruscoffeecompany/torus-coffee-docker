@@ -1,0 +1,65 @@
+[
+  {
+    "Product":"Aurora Bites 2.6oz",
+    "SKUs":"TCC-AB-26",
+    "Inventory 6\/10\/25":40.0,
+    "Sold At Flea Market 6\/14\/25 - 2 for $5":10.0,
+    "Inventory 6\/16\/25":30.0
+  },
+  {
+    "Product":"Sour Aurora Bites 2.6oz",
+    "SKUs":"TCC-SAB-26",
+    "Inventory 6\/10\/25":10.0,
+    "Sold At Flea Market 6\/14\/25 - 2 for $5":4.0,
+    "Inventory 6\/16\/25":6.0
+  },
+  {
+    "Product":"Aurora Berryalis 2.6oz",
+    "SKUs":"TCC-ARB-26",
+    "Inventory 6\/10\/25":34.0,
+    "Sold At Flea Market 6\/14\/25 - 2 for $5":11.0,
+    "Inventory 6\/16\/25":23.0
+  },
+  {
+    "Product":"Solar Strawberries 0.5oz",
+    "SKUs":"TCC-SS-05",
+    "Inventory 6\/10\/25":18.0,
+    "Sold At Flea Market 6\/14\/25 - 2 for $5":18.0,
+    "Inventory 6\/16\/25":0.0
+  },
+  {
+    "Product":"Apple Zephyr Chips 1.15oz",
+    "SKUs":"TCC-AZC-115",
+    "Inventory 6\/10\/25":29.0,
+    "Sold At Flea Market 6\/14\/25 - 2 for $5":4.0,
+    "Inventory 6\/16\/25":25.0
+  },
+  {
+    "Product":"Cosmic Bananas 1.55oz",
+    "SKUs":"TCC-CB-155",
+    "Inventory 6\/10\/25":30.0,
+    "Sold At Flea Market 6\/14\/25 - 2 for $5":6.0,
+    "Inventory 6\/16\/25":24.0
+  },
+  {
+    "Product":"Apple Cinnamon Comets 1.15oz",
+    "SKUs":"TCC-ACC-115",
+    "Inventory 6\/10\/25":17.0,
+    "Sold At Flea Market 6\/14\/25 - 2 for $5":11.0,
+    "Inventory 6\/16\/25":6.0
+  },
+  {
+    "Product":"Star-Dusted Banana Crunch 1.15oz",
+    "SKUs":"TCC-SDB-115",
+    "Inventory 6\/10\/25":15.0,
+    "Sold At Flea Market 6\/14\/25 - 2 for $5":6.0,
+    "Inventory 6\/16\/25":9.0
+  },
+  {
+    "Product":"The Hermit Sticker",
+    "SKUs":"TCC-HS-001",
+    "Inventory 6\/10\/25":null,
+    "Sold At Flea Market 6\/14\/25 - 2 for $5":null,
+    "Inventory 6\/16\/25":null
+  }
+]

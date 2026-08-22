@@ -1,0 +1,336 @@
+﻿Torus Coffee Company - SEO Social Product Feeds and Revenue Design
+Last updated: 2026-05-29
+
+Purpose
+This document defines how the website should support search visibility, free product listings, social commerce, analytics, email capture, product feeds, and revenue growth.
+
+Core Revenue Principle
+The website should not only be a place where people can buy. It should become a product and content engine that sends accurate product data to search, social, email, and future ad channels.
+
+Primary Free/Low-Cost Growth Channels
+- Google organic search
+- Google Merchant Center free product listings
+- Google Business Profile
+- Pinterest product pins/catalogs
+- Facebook/Instagram catalog later
+- Blog content
+- Social sharing
+- Email list
+- Local event/flea market traffic
+
+SEO Goals
+- Make product pages findable.
+- Make blog posts useful and searchable.
+- Make business info clear to Google and customers.
+- Support rich product results where possible.
+- Build long-term organic traffic without paid ads.
+
+Technical SEO Requirements
+- Clean page titles
+- Meta descriptions
+- Canonical URLs
+- Sitemap.xml
+- Robots.txt
+- Product structured data
+- Article/blog structured data, later
+- Breadcrumbs
+- Fast page load
+- Mobile-friendly layout
+- Image alt text
+- Open Graph/social metadata
+- Descriptive URLs
+
+Recommended URL Structure
+- /                     Home
+- /shop                 Shop
+- /shop/aurora-bites-26oz
+- /blog
+- /blog/the-orbit-report
+- /blog/the-orbit-workshop
+- /blog/the-orbit-kitchen
+- /blog/post-slug
+- /about
+- /find-us
+- /contact
+- /wholesale, later or soft launch
+- /privacy-policy
+- /terms-and-conditions
+- /refund-returns-policy
+- /shipping-policy
+- /accessibility-statement
+
+Product SEO Fields
+Each product should have:
+- SEO title
+- SEO description
+- Slug
+- Canonical URL
+- Main image alt text
+- Social share image
+- Product structured data fields
+- Product feed fields
+
+Product SEO title format examples:
+- Aurora Bites 2.6oz | Torus Coffee Company
+- Solar Strawberries 0.5oz Freeze-Dried Fruit | Torus Coffee Company
+
+Product meta description examples:
+- Aurora Bites are freeze-dried rainbow candy with a light, crunchy snap and fruity flavor. Secure checkout with Square. U.S. shipping only.
+
+Product Structured Data
+Use Google-supported product/merchant listing structured data where appropriate.
+
+Product structured data should include when available:
+- Product name
+- Description
+- Image
+- Brand
+- SKU/MPN
+- Offer price
+- Currency USD
+- Availability
+- URL
+- Shipping/return policy details when feasible
+
+Important:
+Structured data must match visible product page content. Do not show one price publicly and another in structured data/feed.
+
+Google Merchant Center Free Listings
+Goal:
+Get eligible products shown for free across Google surfaces.
+
+Needed:
+- Google Merchant Center account
+- Claimed/verified website
+- Product feed or crawled product data
+- Shipping policy/settings
+- Return policy
+- Accurate product pages
+
+Product feed fields to prepare:
+- id
+- title
+- description
+- link
+- image_link
+- additional_image_link later
+- availability
+- price
+- condition
+- brand
+- mpn/gtin if applicable
+- shipping, if using feed-level shipping
+
+Design requirement:
+Admin product fields should map cleanly to Google feed export.
+
+Google Business Profile
+Use for local credibility.
+
+Potential uses:
+- Show business info
+- Add product highlights manually
+- Collect reviews later
+- Link to website/shop
+- Share updates/events
+
+Website should link to Google profile if appropriate later.
+
+Pinterest Catalog/Product Pins
+Pinterest is a strong visual/product discovery channel for food/snack/gift products.
+
+Needed later:
+- Pinterest Business account
+- Claimed website
+- Product feed
+- Product images with strong visuals
+
+Website support:
+- Pinterest-friendly vertical/square images
+- Product feed fields
+- Pin/share metadata
+- Blog images for recipe pins
+
+Meta/Facebook/Instagram Catalog
+Useful for future Instagram/Facebook shopping and ads.
+
+Needed later:
+- Meta Business Manager
+- Commerce Manager
+- Product catalog
+- Pixel, if tracking/ads are used
+- Product feed URL
+
+Website support:
+- Stable product IDs/SKUs
+- Product feed export
+- Open Graph metadata
+- Product availability/price consistency
+
+TikTok/Video Future
+Do not overbuild now.
+
+Useful later:
+- TikTok Business/TikTok Shop, if appropriate
+- Video embeds in blog posts
+- Product launch videos
+- Short snack/reaction/process clips
+
+Website support now:
+- Blog posts can include video embed URL later.
+- Product pages can include media gallery later.
+
+Email List Design
+Email list is a direct revenue channel.
+
+Signup locations:
+- Home page
+- Footer
+- Blog posts
+- Product pages, optional
+- Sold-out/restock notification later
+
+Signup promise examples:
+- Restocks, launches, recipes, and cosmic snack news.
+- Product drops, market dates, and The Orbit Kitchen recipes.
+
+Consent requirements:
+- Clear opt-in language
+- Store timestamp/source
+- Unsubscribe handled by future email platform
+
+Email signup fields:
+- email
+- first_name, optional
+- source page
+- interests, optional later
+- marketing_consent true
+- created_at
+
+Analytics
+Phase 1 options:
+- Google Analytics
+- Plausible or privacy-friendly alternative, if desired
+- Hosting analytics
+
+Minimum metrics to track:
+- Page views
+- Product page views
+- Buy button clicks
+- Email signups
+- Contact form submissions
+- Blog post views
+- Traffic sources
+
+Important limitation:
+With Square payment links, the website may track buy button clicks but not complete purchase conversion unless Square/analytics integration is added.
+
+Future metrics:
+- Completed orders from Square API/webhooks
+- Product conversion rate
+- Inventory sell-through
+- Email signup to purchase
+- Blog to product clicks
+- Product feed performance
+
+Revenue Features
+High priority:
+- Featured products
+- Best seller badge, manual at first
+- Low-stock badge, honest only
+- Related products
+- Email signup
+- Secure Square checkout messaging
+- Product structured data
+- Google feed readiness
+- Social share links
+
+Medium priority:
+- Bundles/variety packs
+- Gift boxes
+- Reviews/testimonials
+- Restock notifications
+- Referral program page
+- Seasonal landing pages
+- Event/flea market landing pages
+
+Later:
+- Coupons/discount codes
+- Abandoned cart recovery, only possible after full cart/checkout integration
+- Loyalty program
+- Wholesale account portal
+- Direct ad publishing
+
+Reviews and Testimonials
+Reviews help conversions, but food product reviews must be real.
+
+Phase 1:
+- Testimonials section manually managed, if real customer quotes exist.
+
+Later:
+- Product reviews system
+- Admin approval/moderation
+- Review schema only if compliant and real
+
+Social Sharing
+Each product and blog post should have:
+- Open Graph title
+- Open Graph description
+- Open Graph image
+- Twitter/X card metadata if desired
+- Share buttons or copy link
+
+Social Profiles
+Public site should link to confirmed social accounts.
+
+Known from business card/design assets, confirm handles before launch:
+- Facebook: @TorusCoffeeCompany
+- X: @TorusCoffee
+- YouTube: @torusCoffeeCompany
+- Pinterest: @torusCoffeecompany
+- Also confirm Instagram/TikTok if active
+
+Content-to-Revenue Patterns
+The Orbit Report:
+- Builds trust and community.
+- Use subtle product/event CTAs.
+
+The Orbit Workshop:
+- Builds authority.
+- Can attract small business/freeze-drying search traffic.
+- Use email signup/resource CTAs.
+
+The Orbit Kitchen:
+- Directly supports product sales.
+- Recipe posts should include related product cards.
+
+Example blog CTA patterns:
+- Shop the product used in this recipe.
+- Join the email list for restock alerts.
+- Find us at the next market.
+- Read the product story.
+
+Free Wix-Like Features To Recreate
+- Product editor
+- Blog editor
+- SEO fields
+- Social previews
+- Product collections
+- Announcement bar
+- Featured products
+- Email signup
+- Contact forms
+- Product feed exports
+- Basic analytics dashboard
+
+Do not copy Wix code or proprietary templates.
+
+Open Decisions
+1. Which analytics tool to use at launch.
+2. Whether Google Merchant Center setup happens before or after public launch.
+3. Whether Pinterest catalog is included in Phase 2 or later.
+4. Whether Meta Pixel is acceptable at launch from privacy/simplicity standpoint.
+5. Whether product reviews/testimonials launch immediately.
+
+Recommended Decision
+Build product and SEO/feed fields from the start, launch with basic analytics and Google Search Console, then add Google Merchant Center free listings as soon as product pages, policies, and shipping settings are stable.

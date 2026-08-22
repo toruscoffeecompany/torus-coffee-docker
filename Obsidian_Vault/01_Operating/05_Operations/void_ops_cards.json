@@ -1,0 +1,110 @@
+[
+  {
+    "id": "6a73d009474999a370843130",
+    "name": "\ud83d\udea8 VOID Pirate Trading Co GitHub access BLOCKED (403)",
+    "idList": "6a73cfd8c1ba2e16d3491370",
+    "labels": [
+      {
+        "id": "6a739cca616c68bad376bcef",
+        "idBoard": "6a70a3157d0db4214ac3f9a3",
+        "idOrganization": "6a6e26f5cebee3e5956247ca",
+        "name": "automation",
+        "nodeId": "ari:cloud:trello::label/workspace/6a6e26f5cebee3e5956247ca/6a739cca616c68bad376bcef",
+        "color": "blue",
+        "uses": 113
+      },
+      {
+        "id": "6a739ccb921a250c77d804ea",
+        "idBoard": "6a70a3157d0db4214ac3f9a3",
+        "idOrganization": "6a6e26f5cebee3e5956247ca",
+        "name": "ops",
+        "nodeId": "ari:cloud:trello::label/workspace/6a6e26f5cebee3e5956247ca/6a739ccb921a250c77d804ea",
+        "color": "green",
+        "uses": 75
+      },
+      {
+        "id": "6a70acc569135c796d8eba5d",
+        "idBoard": "6a70a3157d0db4214ac3f9a3",
+        "idOrganization": "6a6e26f5cebee3e5956247ca",
+        "name": "P1",
+        "nodeId": "ari:cloud:trello::label/workspace/6a6e26f5cebee3e5956247ca/6a70acc569135c796d8eba5d",
+        "color": "red",
+        "uses": 86
+      }
+    ],
+    "desc": "All automation tokens return 403 for VOIDPirateTradeCo org repos.\nRepos needed:\n- VOIDPirateTradeCo/void-pirate-bots\n- VOIDPirateTradeCo/void-pirate-legal\n- Sir_Azure_Deck\n\nAction needed:\nCaptain must add toruscoffeecompany PATs to VOIDPirateTradeCo org with read/write/run access.\nSee Torus_Ops issue #2.\n\nTried tokens:\n- github_token\n- sir_green_github_token\n- sir_azure_github_token\n- miss_pink_github_token",
+    "dateLastActivity": "2026-08-06T13:53:07.992Z"
+  },
+  {
+    "id": "6a73d00b2a6e21d3df1e791d",
+    "name": "\ud83e\uddea Automated verification daemon for crew promises",
+    "idList": "6a73cfd8c1ba2e16d3491370",
+    "labels": [
+      {
+        "id": "6a739cca616c68bad376bcef",
+        "idBoard": "6a70a3157d0db4214ac3f9a3",
+        "idOrganization": "6a6e26f5cebee3e5956247ca",
+        "name": "automation",
+        "nodeId": "ari:cloud:trello::label/workspace/6a6e26f5cebee3e5956247ca/6a739cca616c68bad376bcef",
+        "color": "blue",
+        "uses": 113
+      },
+      {
+        "id": "6a739ccb921a250c77d804ea",
+        "idBoard": "6a70a3157d0db4214ac3f9a3",
+        "idOrganization": "6a6e26f5cebee3e5956247ca",
+        "name": "ops",
+        "nodeId": "ari:cloud:trello::label/workspace/6a6e26f5cebee3e5956247ca/6a739ccb921a250c77d804ea",
+        "color": "green",
+        "uses": 75
+      },
+      {
+        "id": "6a70acc569135c796d8eba5d",
+        "idBoard": "6a70a3157d0db4214ac3f9a3",
+        "idOrganization": "6a6e26f5cebee3e5956247ca",
+        "name": "P1",
+        "nodeId": "ari:cloud:trello::label/workspace/6a6e26f5cebee3e5956247ca/6a70acc569135c796d8eba5d",
+        "color": "red",
+        "uses": 86
+      }
+    ],
+    "desc": "Build self-healing verification daemon that:\n1. Reads crew inboxes automatically\n2. Creates Trello cards/GitHub issues\n3. Verifies promised actions with evidence\n4. Updates progress continuously\n5. Flags false/unfulfilled promises\n\nThis is the 'trust but verify' layer.\nSir Green owns dashboard backend; I will only create verifier scripts.",
+    "dateLastActivity": "2026-08-06T13:53:08.399Z"
+  },
+  {
+    "id": "6a73d00c51a4a3ae72ebe1c0",
+    "name": "\ud83d\udd10 Security hardening: DARPA-level hive mind mesh",
+    "idList": "6a73cfd8c1ba2e16d3491370",
+    "labels": [
+      {
+        "id": "6a739cca616c68bad376bcef",
+        "idBoard": "6a70a3157d0db4214ac3f9a3",
+        "idOrganization": "6a6e26f5cebee3e5956247ca",
+        "name": "automation",
+        "nodeId": "ari:cloud:trello::label/workspace/6a6e26f5cebee3e5956247ca/6a739cca616c68bad376bcef",
+        "color": "blue",
+        "uses": 113
+      },
+      {
+        "id": "6a739ccb921a250c77d804ea",
+        "idBoard": "6a70a3157d0db4214ac3f9a3",
+        "idOrganization": "6a6e26f5cebee3e5956247ca",
+        "name": "ops",
+        "nodeId": "ari:cloud:trello::label/workspace/6a6e26f5cebee3e5956247ca/6a739ccb921a250c77d804ea",
+        "color": "green",
+        "uses": 75
+      },
+      {
+        "id": "6a70acc569135c796d8eba5d",
+        "idBoard": "6a70a3157d0db4214ac3f9a3",
+        "idOrganization": "6a6e26f5cebee3e5956247ca",
+        "name": "P1",
+        "nodeId": "ari:cloud:trello::label/workspace/6a6e26f5cebee3e5956247ca/6a70acc569135c796d8eba5d",
+        "color": "red",
+        "uses": 86
+      }
+    ],
+    "desc": "Self-learning, self-healing, self-correcting hive mind mesh requirements:\n1. End-to-end encrypted comms between crew\n2. Automated verification of all crew promises\n3. Self-healing: restart failed automations\n4. Self-correcting: detect lies/blockers and escalate\n5. Zero-trust: verify everything, trust nothing\n6. Free-tier first; no paid upgrades without revenue\n\nBlocked on: GitHub org access + Discord tokens.",
+    "dateLastActivity": "2026-08-06T13:53:08.760Z"
+  }
+]

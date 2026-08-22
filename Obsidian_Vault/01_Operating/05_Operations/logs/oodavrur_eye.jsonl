@@ -1,0 +1,952 @@
+{"ts": "2026-08-20T04:36:52Z", "type": "O0_INIT", "level": "INFO", "data": {"message": "OODAVRUR engine started \u2014 3 cycles, 8s delay"}}
+{"ts": "2026-08-20T04:36:52Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 1/3"}}
+{"ts": "2026-08-20T04:36:52Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:37:00Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:37:00Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T04:37:00Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:37:00Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T04:37:00Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T04:37:00Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T04:37:00Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:37:00Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T04:37:00Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T04:37:00Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T04:37:00Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T04:37:00Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T04:37:00Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (1 records)"]}}
+{"ts": "2026-08-20T04:37:00Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 1 complete in 8.4s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T04:37:08Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 2/3"}}
+{"ts": "2026-08-20T04:37:08Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:37:17Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:37:17Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T04:37:17Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:37:17Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T04:37:17Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T04:37:17Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T04:37:17Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:37:17Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T04:37:17Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T04:37:17Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T04:37:17Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T04:37:17Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T04:37:17Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (2 records)"]}}
+{"ts": "2026-08-20T04:37:17Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 2 complete in 8.5s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T04:37:25Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 3/3"}}
+{"ts": "2026-08-20T04:37:25Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:37:33Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:37:33Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T04:37:33Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:37:33Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T04:37:33Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T04:37:33Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T04:37:33Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:37:33Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T04:37:33Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T04:37:33Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T04:37:33Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T04:37:33Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T04:37:33Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (3 records)"]}}
+{"ts": "2026-08-20T04:37:33Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 3 complete in 8.2s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T04:37:33Z", "type": "O0_COMPLETE", "level": "INFO", "data": {"message": "OODAVRUR engine finished all cycles"}}
+{"ts": "2026-08-20T04:39:01Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:39:10Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:45:04Z", "type": "O0_INIT", "level": "INFO", "data": {"message": "OODAVRUR engine started \u2014 5 cycles, 15s delay"}}
+{"ts": "2026-08-20T04:45:04Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 1/5"}}
+{"ts": "2026-08-20T04:45:04Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:45:12Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:45:12Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T04:45:12Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:45:12Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T04:45:12Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T04:45:12Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T04:45:12Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:45:12Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T04:45:12Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T04:45:12Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T04:45:12Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T04:45:12Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T04:45:12Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (4 records)"]}}
+{"ts": "2026-08-20T04:45:12Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 1 complete in 8.2s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T04:45:27Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 2/5"}}
+{"ts": "2026-08-20T04:45:27Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:45:35Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:45:35Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T04:45:35Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:45:35Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T04:45:35Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T04:45:35Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T04:45:35Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:45:35Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T04:45:35Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T04:45:35Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T04:45:35Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T04:45:35Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T04:45:35Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (5 records)"]}}
+{"ts": "2026-08-20T04:45:35Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 2 complete in 8.2s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T04:45:50Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 3/5"}}
+{"ts": "2026-08-20T04:45:50Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:45:58Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:45:58Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T04:45:58Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:45:58Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T04:45:58Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T04:45:58Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T04:45:58Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:45:58Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T04:45:58Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T04:45:58Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T04:45:58Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T04:45:58Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T04:45:58Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (6 records)"]}}
+{"ts": "2026-08-20T04:45:58Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 3 complete in 8.2s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T04:46:13Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 4/5"}}
+{"ts": "2026-08-20T04:46:13Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:46:22Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:46:22Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T04:46:22Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:46:22Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T04:46:22Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T04:46:22Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T04:46:22Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:46:22Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T04:46:22Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T04:46:22Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T04:46:22Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T04:46:22Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T04:46:22Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (7 records)"]}}
+{"ts": "2026-08-20T04:46:22Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 4 complete in 8.6s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T04:46:37Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 5/5"}}
+{"ts": "2026-08-20T04:46:37Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:46:45Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:46:45Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T04:46:45Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:46:45Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T04:46:45Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T04:46:45Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T04:46:45Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:46:45Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T04:46:45Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T04:46:45Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T04:46:45Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T04:46:45Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T04:46:45Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (8 records)"]}}
+{"ts": "2026-08-20T04:46:45Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 5 complete in 8.2s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T04:46:45Z", "type": "O0_COMPLETE", "level": "INFO", "data": {"message": "OODAVRUR engine finished all cycles"}}
+{"ts": "2026-08-20T04:49:43Z", "type": "O0_INIT", "level": "INFO", "data": {"message": "OODAVRUR engine started \u2014 100 cycles, 300s delay"}}
+{"ts": "2026-08-20T04:49:43Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 1/100"}}
+{"ts": "2026-08-20T04:49:43Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:49:51Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:49:51Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T04:49:51Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:49:51Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T04:49:51Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T04:49:51Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T04:49:51Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:49:51Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T04:49:51Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T04:49:51Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T04:49:51Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T04:49:51Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T04:49:51Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (9 records)"]}}
+{"ts": "2026-08-20T04:49:51Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 1 complete in 8.7s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T04:54:51Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 2/100"}}
+{"ts": "2026-08-20T04:54:51Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:55:00Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:55:00Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T04:55:00Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:55:00Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T04:55:00Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T04:55:00Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T04:55:00Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:55:00Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T04:55:00Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T04:55:00Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T04:55:00Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T04:55:00Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T04:55:00Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (10 records)"]}}
+{"ts": "2026-08-20T04:55:00Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 2 complete in 8.6s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T04:57:33Z", "type": "O0_INIT", "level": "INFO", "data": {"message": "OODAVRUR engine started \u2014 2 cycles, 5s delay"}}
+{"ts": "2026-08-20T04:57:33Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 1/2"}}
+{"ts": "2026-08-20T04:57:33Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:57:41Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:57:41Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T04:57:41Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:57:41Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T04:57:41Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T04:57:41Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T04:57:41Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:57:41Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T04:57:41Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T04:57:41Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T04:57:41Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T04:57:41Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T04:57:41Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (11 records)"]}}
+{"ts": "2026-08-20T04:57:41Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 1 complete in 8.2s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T04:57:46Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 2/2"}}
+{"ts": "2026-08-20T04:57:46Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:57:54Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:57:54Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T04:57:54Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:57:54Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T04:57:54Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T04:57:54Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T04:57:54Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:57:54Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T04:57:54Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T04:57:54Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T04:57:54Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T04:57:54Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T04:57:54Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (12 records)"]}}
+{"ts": "2026-08-20T04:57:54Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 2 complete in 8.2s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T04:57:54Z", "type": "O0_COMPLETE", "level": "INFO", "data": {"message": "OODAVRUR engine finished all cycles"}}
+{"ts": "2026-08-20T04:58:41Z", "type": "O0_INIT", "level": "INFO", "data": {"message": "OODAVRUR engine started \u2014 3 cycles, 5s delay"}}
+{"ts": "2026-08-20T04:58:41Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 1/3"}}
+{"ts": "2026-08-20T04:58:41Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:58:51Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:58:51Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T04:58:51Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:58:51Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T04:58:51Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T04:58:51Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T04:58:51Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:58:51Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T04:58:51Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T04:58:51Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T04:58:51Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T04:58:51Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T04:58:51Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (13 records)"]}}
+{"ts": "2026-08-20T04:58:51Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 1 complete in 10.4s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T04:58:56Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 2/3"}}
+{"ts": "2026-08-20T04:58:56Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:59:06Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:59:06Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T04:59:06Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:59:06Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T04:59:06Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T04:59:06Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T04:59:06Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:59:06Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T04:59:06Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T04:59:06Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T04:59:06Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T04:59:06Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T04:59:06Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (14 records)"]}}
+{"ts": "2026-08-20T04:59:06Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 2 complete in 9.2s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T04:59:11Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 3/3"}}
+{"ts": "2026-08-20T04:59:11Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T04:59:19Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T04:59:19Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T04:59:19Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:59:19Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T04:59:19Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T04:59:19Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T04:59:19Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T04:59:19Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T04:59:19Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T04:59:19Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T04:59:19Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T04:59:19Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T04:59:19Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (15 records)"]}}
+{"ts": "2026-08-20T04:59:19Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 3 complete in 8.6s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T04:59:19Z", "type": "O0_COMPLETE", "level": "INFO", "data": {"message": "OODAVRUR engine finished all cycles"}}
+{"ts": "2026-08-20T05:00:00Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 3/100"}}
+{"ts": "2026-08-20T05:00:00Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:00:08Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:00:08Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:00:08Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:00:08Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:00:08Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:00:08Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:00:08Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:00:08Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:00:08Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:00:08Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:00:08Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:00:08Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:00:08Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (16 records)"]}}
+{"ts": "2026-08-20T05:00:08Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 3 complete in 8.6s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:05:08Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 4/100"}}
+{"ts": "2026-08-20T05:05:08Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:05:17Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:05:17Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:05:17Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:05:17Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:05:17Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:05:17Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:05:17Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:05:17Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:05:17Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:05:17Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:05:17Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:05:17Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:05:17Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (17 records)"]}}
+{"ts": "2026-08-20T05:05:17Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 4 complete in 8.7s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:10:13Z", "type": "O0_INIT", "level": "INFO", "data": {"message": "OODAVRUR engine started \u2014 1000 cycles, 300s delay"}}
+{"ts": "2026-08-20T05:10:13Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 1/1000"}}
+{"ts": "2026-08-20T05:10:13Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:10:17Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 5/100"}}
+{"ts": "2026-08-20T05:10:17Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:10:22Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:10:22Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:10:22Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:10:22Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:10:22Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:10:22Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:10:22Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:10:22Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:10:22Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:10:22Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:10:22Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:10:22Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:10:22Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (18 records)"]}}
+{"ts": "2026-08-20T05:10:22Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 1 complete in 8.7s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:10:26Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:10:26Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:10:26Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:10:26Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:10:26Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:10:26Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:10:26Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:10:26Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:10:26Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:10:26Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:10:26Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:10:26Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:10:26Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (19 records)"]}}
+{"ts": "2026-08-20T05:10:26Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 5 complete in 8.6s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:12:18Z", "type": "O0_INIT", "level": "INFO", "data": {"message": "OODAVRUR engine started \u2014 1000 cycles, 300s delay"}}
+{"ts": "2026-08-20T05:12:18Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 1/1000"}}
+{"ts": "2026-08-20T05:12:18Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:12:27Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:12:27Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:12:27Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:12:27Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:12:27Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:12:27Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:12:27Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:12:27Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:12:27Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:12:27Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:12:27Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:12:27Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:12:27Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (20 records)"]}}
+{"ts": "2026-08-20T05:12:27Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 1 complete in 9.2s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:12:40Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:12:48Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:15:22Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 2/1000"}}
+{"ts": "2026-08-20T05:15:22Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:15:26Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 6/100"}}
+{"ts": "2026-08-20T05:15:26Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:15:31Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:15:31Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:15:31Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:15:31Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:15:31Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:15:31Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:15:31Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:15:31Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:15:31Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:15:31Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:15:31Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:15:31Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:15:31Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (21 records)"]}}
+{"ts": "2026-08-20T05:15:31Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 2 complete in 8.5s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:15:34Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:15:34Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:15:34Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:15:34Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:15:34Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:15:34Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:15:34Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:15:34Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:15:34Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:15:34Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:15:34Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:15:34Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:15:34Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (22 records)"]}}
+{"ts": "2026-08-20T05:15:34Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 6 complete in 8.6s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:17:27Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 2/1000"}}
+{"ts": "2026-08-20T05:17:27Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:17:36Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:17:36Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:17:36Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:17:36Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:17:36Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:17:36Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:17:36Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:17:36Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:17:36Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:17:36Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:17:36Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:17:36Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:17:36Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (23 records)"]}}
+{"ts": "2026-08-20T05:17:36Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 2 complete in 9.0s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:20:31Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 3/1000"}}
+{"ts": "2026-08-20T05:20:31Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:20:34Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 7/100"}}
+{"ts": "2026-08-20T05:20:34Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:20:39Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:20:39Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:20:39Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:20:39Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:20:39Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:20:39Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:20:39Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:20:39Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:20:39Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:20:39Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:20:39Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:20:39Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:20:39Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (24 records)"]}}
+{"ts": "2026-08-20T05:20:39Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 3 complete in 8.7s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:20:43Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:20:43Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:20:43Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:20:43Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:20:43Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:20:43Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:20:43Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:20:43Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:20:43Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:20:43Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:20:43Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:20:43Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:20:43Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (25 records)"]}}
+{"ts": "2026-08-20T05:20:43Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 7 complete in 8.6s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:22:36Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 3/1000"}}
+{"ts": "2026-08-20T05:22:36Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:22:45Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:22:45Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:22:45Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:22:45Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:22:45Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:22:45Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:22:45Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:22:45Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:22:45Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:22:45Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:22:45Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:22:45Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:22:45Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (26 records)"]}}
+{"ts": "2026-08-20T05:22:45Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 3 complete in 9.0s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:24:40Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:24:49Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:25:39Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 4/1000"}}
+{"ts": "2026-08-20T05:25:39Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:25:43Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 8/100"}}
+{"ts": "2026-08-20T05:25:43Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:25:48Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:25:48Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:25:48Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:25:48Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:25:48Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:25:48Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:25:48Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:25:48Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:25:48Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:25:48Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:25:48Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:25:48Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:25:48Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (27 records)"]}}
+{"ts": "2026-08-20T05:25:48Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 4 complete in 8.5s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:25:52Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:25:52Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:25:52Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:25:52Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:25:52Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:25:52Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:25:52Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:25:52Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:25:52Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:25:52Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:25:52Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:25:52Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:25:52Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (28 records)"]}}
+{"ts": "2026-08-20T05:25:52Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 8 complete in 8.6s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:27:45Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 4/1000"}}
+{"ts": "2026-08-20T05:27:45Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:27:54Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:27:54Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:27:54Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:27:54Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:27:54Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:27:54Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:27:54Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:27:54Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:27:54Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:27:54Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:27:54Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:27:54Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:27:54Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (29 records)"]}}
+{"ts": "2026-08-20T05:27:54Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 4 complete in 9.2s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:30:52Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 9/100"}}
+{"ts": "2026-08-20T05:30:52Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:31:00Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:31:00Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:31:00Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:31:00Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:31:00Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:31:00Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:31:00Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:31:00Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:31:00Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:31:00Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:31:00Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:31:00Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:31:00Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (30 records)"]}}
+{"ts": "2026-08-20T05:31:00Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 9 complete in 8.7s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:36:00Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 10/100"}}
+{"ts": "2026-08-20T05:36:00Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:36:09Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:36:09Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:36:09Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:36:09Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:36:09Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:36:09Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:36:09Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:36:09Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:36:09Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:36:09Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:36:09Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:36:09Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:36:09Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (31 records)"]}}
+{"ts": "2026-08-20T05:36:09Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 10 complete in 9.2s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:37:54Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:38:06Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:41:09Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 11/100"}}
+{"ts": "2026-08-20T05:41:09Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:41:18Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:41:18Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:41:18Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:41:18Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:41:18Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:41:18Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:41:18Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:41:18Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:41:18Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:41:18Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:41:18Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:41:18Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:41:18Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (32 records)"]}}
+{"ts": "2026-08-20T05:41:18Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 11 complete in 9.0s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:46:18Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 12/100"}}
+{"ts": "2026-08-20T05:46:18Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:46:29Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:46:29Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:46:29Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:46:29Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:46:29Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:46:29Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:46:29Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:46:29Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:46:29Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:46:29Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:46:29Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:46:29Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:46:29Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (33 records)"]}}
+{"ts": "2026-08-20T05:46:29Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 12 complete in 10.4s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:51:29Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 13/100"}}
+{"ts": "2026-08-20T05:51:29Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:51:38Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:51:38Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:51:38Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:51:38Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:51:38Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:51:38Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:51:38Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:51:38Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:51:38Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:51:38Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:51:38Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:51:38Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:51:38Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (34 records)"]}}
+{"ts": "2026-08-20T05:51:38Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 13 complete in 8.7s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T05:52:05Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:52:14Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:56:38Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 14/100"}}
+{"ts": "2026-08-20T05:56:38Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T05:56:47Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T05:56:47Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T05:56:47Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:56:47Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T05:56:47Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T05:56:47Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T05:56:47Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T05:56:47Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T05:56:47Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T05:56:47Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T05:56:47Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T05:56:47Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T05:56:47Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (35 records)"]}}
+{"ts": "2026-08-20T05:56:47Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 14 complete in 9.4s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T06:01:47Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 15/100"}}
+{"ts": "2026-08-20T06:01:47Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T06:02:06Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T06:02:06Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T06:02:06Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:02:06Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T06:02:06Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T06:02:06Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T06:02:06Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:02:06Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T06:02:06Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T06:02:06Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T06:02:06Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T06:02:06Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T06:02:06Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (36 records)"]}}
+{"ts": "2026-08-20T06:02:06Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 15 complete in 18.9s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T06:07:06Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 16/100"}}
+{"ts": "2026-08-20T06:07:06Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T06:07:25Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T06:07:25Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T06:07:25Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:07:25Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T06:07:25Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T06:07:25Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T06:07:25Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:07:25Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T06:07:25Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T06:07:25Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T06:07:25Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T06:07:25Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T06:07:25Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (37 records)"]}}
+{"ts": "2026-08-20T06:07:25Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 16 complete in 18.8s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T06:12:25Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 17/100"}}
+{"ts": "2026-08-20T06:12:25Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T06:12:48Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T06:12:48Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T06:12:48Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:12:48Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T06:12:48Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T06:12:48Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T06:12:48Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:12:48Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T06:12:48Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T06:12:48Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T06:12:48Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T06:12:48Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T06:12:48Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (38 records)"]}}
+{"ts": "2026-08-20T06:12:48Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 17 complete in 22.9s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T06:17:48Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 18/100"}}
+{"ts": "2026-08-20T06:17:48Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T06:18:06Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T06:18:06Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T06:18:06Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:18:06Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T06:18:06Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T06:18:06Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T06:18:06Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:18:06Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T06:18:06Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T06:18:06Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T06:18:06Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T06:18:06Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T06:18:06Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (39 records)"]}}
+{"ts": "2026-08-20T06:18:06Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 18 complete in 18.5s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T06:22:04Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T06:22:22Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T06:23:06Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 19/100"}}
+{"ts": "2026-08-20T06:23:06Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T06:23:25Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T06:23:25Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T06:23:25Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:23:25Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T06:23:25Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T06:23:25Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T06:23:25Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:23:25Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T06:23:25Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T06:23:25Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T06:23:25Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T06:23:25Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T06:23:25Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (40 records)"]}}
+{"ts": "2026-08-20T06:23:25Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 19 complete in 19.0s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T06:28:25Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 20/100"}}
+{"ts": "2026-08-20T06:28:25Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T06:28:34Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T06:28:34Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T06:28:34Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:28:34Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T06:28:34Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T06:28:34Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T06:28:34Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:28:34Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T06:28:34Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T06:28:34Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T06:28:34Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T06:28:34Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T06:28:34Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (41 records)"]}}
+{"ts": "2026-08-20T06:28:34Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 20 complete in 9.2s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T06:28:43Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T06:28:51Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T06:33:34Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 21/100"}}
+{"ts": "2026-08-20T06:33:34Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T06:33:43Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T06:33:43Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T06:33:43Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:33:43Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T06:33:43Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T06:33:43Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T06:33:43Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:33:43Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T06:33:43Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T06:33:43Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T06:33:43Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T06:33:43Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T06:33:43Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (42 records)"]}}
+{"ts": "2026-08-20T06:33:43Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 21 complete in 8.7s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T06:38:43Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 22/100"}}
+{"ts": "2026-08-20T06:38:43Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T06:38:52Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 0 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T06:38:52Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T06:38:52Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=0 P1=0 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:38:52Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T06:38:52Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T06:38:52Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T06:38:52Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T06:38:52Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T06:38:52Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T06:38:52Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T06:38:52Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T06:38:52Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T06:38:52Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (43 records)"]}}
+{"ts": "2026-08-20T06:38:52Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 22 complete in 8.9s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T07:02:13Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T07:02:21Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T07:06:29Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T07:06:39Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T07:08:50Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T07:08:59Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T07:09:14Z", "type": "O0_INIT", "level": "INFO", "data": {"message": "OODAVRUR engine started \u2014 100 cycles, 300s delay"}}
+{"ts": "2026-08-20T07:09:14Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 1/100"}}
+{"ts": "2026-08-20T07:09:14Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T07:09:23Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T07:09:23Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T07:09:23Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:09:23Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T07:09:23Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T07:09:23Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T07:09:23Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:09:23Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T07:09:23Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T07:09:23Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T07:09:23Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T07:09:23Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T07:09:23Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (44 records)"]}}
+{"ts": "2026-08-20T07:09:23Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 1 complete in 8.8s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T07:14:23Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 2/100"}}
+{"ts": "2026-08-20T07:14:23Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T07:14:32Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T07:14:32Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T07:14:32Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:14:32Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T07:14:32Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T07:14:32Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T07:14:32Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:14:32Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T07:14:32Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T07:14:32Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T07:14:32Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T07:14:32Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T07:14:32Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (45 records)"]}}
+{"ts": "2026-08-20T07:14:32Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 2 complete in 8.9s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T07:19:32Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 3/100"}}
+{"ts": "2026-08-20T07:19:32Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T07:19:44Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T07:19:44Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T07:19:44Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:19:44Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T07:19:44Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T07:19:44Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T07:19:44Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:19:44Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T07:19:44Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T07:19:44Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T07:19:44Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T07:19:44Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T07:19:44Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (46 records)"]}}
+{"ts": "2026-08-20T07:19:44Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 3 complete in 11.6s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T07:24:44Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 4/100"}}
+{"ts": "2026-08-20T07:24:44Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T07:24:53Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T07:24:53Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T07:24:53Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:24:53Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T07:24:53Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T07:24:53Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T07:24:53Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:24:53Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T07:24:53Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T07:24:53Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T07:24:53Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T07:24:53Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T07:24:53Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (47 records)"]}}
+{"ts": "2026-08-20T07:24:53Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 4 complete in 9.3s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T07:29:53Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 5/100"}}
+{"ts": "2026-08-20T07:29:53Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T07:30:02Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T07:30:02Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T07:30:02Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:30:02Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T07:30:02Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T07:30:02Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T07:30:02Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:30:02Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T07:30:02Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T07:30:02Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T07:30:02Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T07:30:02Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T07:30:02Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (48 records)"]}}
+{"ts": "2026-08-20T07:30:02Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 5 complete in 8.7s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T07:35:02Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 6/100"}}
+{"ts": "2026-08-20T07:35:02Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T07:35:10Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T07:35:10Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T07:35:10Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:35:10Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T07:35:10Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T07:35:10Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T07:35:10Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:35:10Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T07:35:10Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T07:35:10Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T07:35:10Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T07:35:10Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T07:35:10Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (49 records)"]}}
+{"ts": "2026-08-20T07:35:10Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 6 complete in 8.6s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T07:40:10Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 7/100"}}
+{"ts": "2026-08-20T07:40:10Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T07:40:19Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T07:40:19Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T07:40:19Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:40:19Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T07:40:19Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T07:40:19Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T07:40:19Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:40:19Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T07:40:19Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T07:40:19Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T07:40:19Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T07:40:19Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T07:40:19Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (50 records)"]}}
+{"ts": "2026-08-20T07:40:19Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 7 complete in 8.6s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T07:52:43Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T07:52:55Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T07:59:37Z", "type": "O0_INIT", "level": "INFO", "data": {"message": "OODAVRUR engine started \u2014 100 cycles, 300s delay"}}
+{"ts": "2026-08-20T07:59:37Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 1/100"}}
+{"ts": "2026-08-20T07:59:37Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T07:59:49Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T07:59:49Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T07:59:49Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:59:49Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T07:59:49Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T07:59:49Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T07:59:49Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T07:59:49Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T07:59:49Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T07:59:49Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T07:59:49Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T07:59:49Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T07:59:49Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (51 records)"]}}
+{"ts": "2026-08-20T07:59:49Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 1 complete in 11.7s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T08:04:49Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 2/100"}}
+{"ts": "2026-08-20T08:04:49Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T08:04:58Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T08:04:58Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T08:04:58Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T08:04:58Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T08:04:58Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T08:04:58Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T08:04:58Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T08:04:58Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T08:04:58Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T08:04:58Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T08:04:58Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T08:04:58Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T08:04:58Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (52 records)"]}}
+{"ts": "2026-08-20T08:04:58Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 2 complete in 9.0s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T08:09:58Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 3/100"}}
+{"ts": "2026-08-20T08:09:58Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T08:10:09Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T08:10:09Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T08:10:09Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T08:10:09Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T08:10:09Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T08:10:09Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T08:10:09Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T08:10:09Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T08:10:09Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T08:10:09Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T08:10:09Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T08:10:09Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T08:10:09Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (53 records)"]}}
+{"ts": "2026-08-20T08:10:09Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 3 complete in 11.4s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T08:15:09Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 4/100"}}
+{"ts": "2026-08-20T08:15:09Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T08:15:18Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T08:15:18Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T08:15:18Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T08:15:18Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T08:15:18Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T08:15:18Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T08:15:18Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T08:15:18Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T08:15:18Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T08:15:18Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T08:15:18Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T08:15:18Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T08:15:18Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (54 records)"]}}
+{"ts": "2026-08-20T08:15:18Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 4 complete in 9.0s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T08:20:18Z", "type": "CYCLE_START", "level": "INFO", "data": {"message": "Cycle 5/100"}}
+{"ts": "2026-08-20T08:20:18Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-20T08:20:30Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 50 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-20T08:20:30Z", "type": "O2_ORIENT", "level": "INFO", "data": {"message": "Organizing observations..."}}
+{"ts": "2026-08-20T08:20:30Z", "type": "O2_COMPLETE", "level": "INFO", "data": {"message": "Action plan built: P0=7 P1=6 | Blockers=3", "blockers": ["PINKCADY unreachable on Docker API", "SQUIDSTATION unreachable on Docker API", "STEALTHATTACK unreachable on Docker API"]}}
+{"ts": "2026-08-20T08:20:30Z", "type": "O3_DECIDE", "level": "INFO", "data": {"message": "Making decision..."}}
+{"ts": "2026-08-20T08:20:30Z", "type": "O3_COMPLETE", "level": "INFO", "data": {"message": "Decision: escalate_blocker", "reason": "Blocker detected: PINKCADY unreachable on Docker API"}}
+{"ts": "2026-08-20T08:20:30Z", "type": "O4_ACT", "level": "INFO", "data": {"message": "Executing: escalate_blocker"}}
+{"ts": "2026-08-20T08:20:30Z", "type": "O4_COMPLETE", "level": "INFO", "data": {"message": "Action executed: completed", "evidence_count": 1, "changes": ["Escalation triggered for: PINKCADY unreachable on Docker API"]}}
+{"ts": "2026-08-20T08:20:30Z", "type": "O5_VERIFY", "level": "INFO", "data": {"message": "Verifying action results..."}}
+{"ts": "2026-08-20T08:20:30Z", "type": "O5_COMPLETE", "level": "INFO", "data": {"message": "Verification: PASS", "checks": {"escalation_logged": true, "evidence_collected": 1}}}
+{"ts": "2026-08-20T08:20:30Z", "type": "O6_RECORD", "level": "INFO", "data": {"message": "Recording cycle to persistent storage"}}
+{"ts": "2026-08-20T08:20:30Z", "type": "O6_COMPLETE", "level": "INFO", "data": {"message": "Cycle recorded: escalate_blocker \u2192 True"}}
+{"ts": "2026-08-20T08:20:30Z", "type": "O7_UPDATE", "level": "INFO", "data": {"message": "Updating system state..."}}
+{"ts": "2026-08-20T08:20:30Z", "type": "O7_COMPLETE", "level": "INFO", "data": {"message": "System updated: 2 updates", "updates": ["Fleet status cache updated (3 nodes)", "Learning DB updated (55 records)"]}}
+{"ts": "2026-08-20T08:20:30Z", "type": "CYCLE_COMPLETE", "level": "INFO", "data": {"message": "Cycle 5 complete in 11.8s", "decision": "escalate_blocker", "verification_passed": true, "updates": 2}}
+{"ts": "2026-08-20T08:21:11Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T04:22:25Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T04:22:36Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 55 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T05:37:05Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T05:37:14Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 56 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T05:49:57Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T05:50:05Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 56 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T06:03:18Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T06:03:26Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 56 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T06:10:05Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T06:10:14Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 56 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T06:49:18Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T06:49:26Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 56 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T07:27:32Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T07:27:43Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 56 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T07:34:46Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T07:34:56Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 56 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T07:53:04Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T07:53:13Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 56 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T08:31:19Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T08:31:27Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 56 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T08:44:51Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T08:44:59Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 56 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T09:14:25Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T09:14:34Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 56 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T09:21:10Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T09:21:18Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 56 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T11:50:10Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T11:50:21Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 56 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T12:12:07Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T12:12:15Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 56 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T12:26:13Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T12:26:24Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 56 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T12:36:13Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T12:36:24Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 62 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}
+{"ts": "2026-08-21T12:56:11Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T12:56:23Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 43 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}

@@ -1,0 +1,3947 @@
+{
+  "week_starting": "2026-08-03",
+  "generated_at": "2026-08-06T15:43:24.576835",
+  "daily_schedule": {
+    "Monday": [
+      {
+        "id": "6a712f7bd9465853b236d475",
+        "name": "Automation Alert",
+        "priority": "P0",
+        "due_date": "2026-08-07T15:28:32.231Z"
+      },
+      {
+        "id": "6a712f84c9e52247e9e0dc67",
+        "name": "Automation Alert",
+        "priority": "P0",
+        "due_date": "2026-08-07T15:28:36.270Z"
+      },
+      {
+        "id": "6a7130fa606f4cf532788e1d",
+        "name": "Automation Alert",
+        "priority": "P0",
+        "due_date": "2026-08-07T15:28:40.370Z"
+      },
+      {
+        "id": "6a713216a0adf58a9281f25d",
+        "name": "Automation Alert",
+        "priority": "P0",
+        "due_date": "2026-08-07T15:28:44.332Z"
+      },
+      {
+        "id": "6a70da7973d271015c2c6a98",
+        "name": "Freeze-Dried Production SOP - Complete",
+        "priority": "P1",
+        "due_date": "2026-08-08T15:23:57.730Z"
+      },
+      {
+        "id": "6a70da7dffceee3d7e8a51ec",
+        "name": "Test freeze-dried SOP in production",
+        "priority": "P1",
+        "due_date": "2026-08-08T15:24:02.038Z"
+      },
+      {
+        "id": "6a70dc3ad893432ef00b8b9f",
+        "name": "Setup Square payment links",
+        "priority": "P1",
+        "due_date": "2026-08-08T15:24:06.068Z"
+      },
+      {
+        "id": "6a70dc3daf7ce380683c72fd",
+        "name": "Write freeze-dried production SOP",
+        "priority": "P1",
+        "due_date": "2026-08-08T15:24:10.769Z"
+      },
+      {
+        "id": "6a70fd5e584c547391b234e9",
+        "name": "Research free inventory tools (Square/Zoho/Sortly)",
+        "priority": "P1",
+        "due_date": "2026-08-08T15:24:15.283Z"
+      },
+      {
+        "id": "6a70fd614402b28eaf025b11",
+        "name": "Deploy website to Vercel",
+        "priority": "P1",
+        "due_date": "2026-08-08T15:24:20.163Z"
+      }
+    ],
+    "Tuesday": [
+      {
+        "id": "6a7132572419a0c99e4540db",
+        "name": "Automation Alert",
+        "priority": "P0",
+        "due_date": "2026-08-07T15:28:48.277Z"
+      },
+      {
+        "id": "6a71327f0583dd81d9b215c9",
+        "name": "Automation Alert",
+        "priority": "P0",
+        "due_date": "2026-08-07T15:28:52.339Z"
+      },
+      {
+        "id": "6a7132be8dc2cb83aefe0ff4",
+        "name": "Automation Alert",
+        "priority": "P0",
+        "due_date": "2026-08-07T15:28:56.482Z"
+      },
+      {
+        "id": "6a7132f0fc90a42c99de247c",
+        "name": "Automation Alert",
+        "priority": "P0",
+        "due_date": "2026-08-07T15:29:00.451Z"
+      },
+      {
+        "id": "6a7185eb3b3bd7e77fd538cd",
+        "name": "torus-pos deployed and healthy",
+        "priority": "P1",
+        "due_date": "2026-08-08T15:24:24.941Z"
+      },
+      {
+        "id": "6a7185eb721dad12f4319b25",
+        "name": "torus-inventory fixed and deployed",
+        "priority": "P1",
+        "due_date": "2026-08-08T15:24:29.698Z"
+      },
+      {
+        "id": "6a739253668494b0e06b9b12",
+        "name": "\ud83d\udd14 Alert automation: confirm Sir Green/Sir Azure read and act on inbox messages",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:26:03.182Z"
+      },
+      {
+        "id": "6a737d9af698abb26a7bbf80",
+        "name": "\ud83d\udce8 Auto-alert when new PINKCADY inbox messages arrive",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:26:21.133Z"
+      },
+      {
+        "id": "6a73d009474999a370843130",
+        "name": "\ud83d\udea8 VOID Pirate Trading Co GitHub access BLOCKED (403)",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:26:25.766Z"
+      },
+      {
+        "id": "6a73d00c51a4a3ae72ebe1c0",
+        "name": "\ud83d\udd10 Security hardening: DARPA-level hive mind mesh",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:26:34.762Z"
+      }
+    ],
+    "Wednesday": [
+      {
+        "id": "6a7133420567124253d8bf69",
+        "name": "Automation Alert",
+        "priority": "P0",
+        "due_date": "2026-08-07T15:29:04.638Z"
+      },
+      {
+        "id": "6a71348a6c334bfedb5e6a7d",
+        "name": "Automation Alert",
+        "priority": "P0",
+        "due_date": "2026-08-07T15:29:08.696Z"
+      },
+      {
+        "id": "6a7138caa1b9a76f4c9c2953",
+        "name": "Automation Alert",
+        "priority": "P0",
+        "due_date": "2026-08-07T15:29:12.773Z"
+      },
+      {
+        "id": "6a713b2caefce2f9325bd111",
+        "name": "Automation Alert",
+        "priority": "P0",
+        "due_date": "2026-08-07T15:29:16.715Z"
+      },
+      {
+        "id": "6a717fb9e7f9706afc72de74",
+        "name": "torus-inventory deployment blocked",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:26:39.605Z"
+      },
+      {
+        "id": "6a73d2849707e22bd215b47a",
+        "name": "\ud83d\udea8 VOID Pirate Trading Co GitHub access BLOCKED (403)",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:26:43.921Z"
+      },
+      {
+        "id": "6a7499631c1a36043e1059e2",
+        "name": "[P1] Sir Green: add /api/security-docs route to dashboard_server.py",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:26:48.012Z"
+      },
+      {
+        "id": "6a73d286be18626425c87a39",
+        "name": "\ud83d\udd10 Security hardening: DARPA-level hive mind mesh",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:26:52.467Z"
+      },
+      {
+        "id": "6a71425ed961ea28c98a8186",
+        "name": "Stopped Gmail alert spam",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:27:10.721Z"
+      },
+      {
+        "id": "6a71425f7951e3ee52136457",
+        "name": "Created alert_router.py",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:27:15.147Z"
+      }
+    ],
+    "Thursday": [
+      {
+        "id": "6a7140766e8deefe4bbd6a04",
+        "name": "Automation Alert",
+        "priority": "P0",
+        "due_date": "2026-08-07T15:29:20.937Z"
+      },
+      {
+        "id": "6a71416b0119d9958d03ebe4",
+        "name": "Automation Alert",
+        "priority": "P0",
+        "due_date": "2026-08-07T15:29:25.370Z"
+      },
+      {
+        "id": "6a71425fe1b6141f2163880a",
+        "name": "Updated inventory_alert.py",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:27:19.113Z"
+      },
+      {
+        "id": "6a714261a08cf1a9b25af903",
+        "name": "Created Gmail alert spam fix report",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:27:27.470Z"
+      },
+      {
+        "id": "6a7185ec8aabc36f4860ab4a",
+        "name": "\u2705 IN PROGRESS: Dashboard 502 \u2014 container needs restart from Sir Green",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:27:36.895Z"
+      },
+      {
+        "id": "6a7185ee9623f3429b2bbbae",
+        "name": "SIR_GREEN_DEPLOYMENT_PROMPT created",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:27:49.598Z"
+      },
+      {
+        "id": "6a712a63ba49766cb9cca73c",
+        "name": "Automation Alert",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:28:23.444Z"
+      },
+      {
+        "id": "6a714261e477ff031fe6585e",
+        "name": "Add Gmail send scope for alerts",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:29:37.739Z"
+      },
+      {
+        "id": "6a73a92d7a6b80a768c73ee3",
+        "name": "\u2705 IN PROGRESS: Dashboard 502 \u2014 container needs restart from Sir Green",
+        "priority": "P1",
+        "due_date": "2026-08-07T15:31:18.259Z"
+      },
+      {
+        "id": "6a70d7057ed6747561a95b00",
+        "name": "Q1 2027 Campaign: New Year New Flavors",
+        "priority": "P3",
+        "due_date": "2027-02-02T15:25:23.927Z"
+      }
+    ],
+    "Friday": [
+      {
+        "id": "6a712fab76212a7d0361f7cb",
+        "name": "Set revenue milestone: first dollar from any stream",
+        "priority": "P2",
+        "due_date": "2026-08-08T15:24:34.390Z"
+      },
+      {
+        "id": "6a712fac7a8a9649b153e078",
+        "name": "Set revenue milestone: first paid tool upgrade",
+        "priority": "P2",
+        "due_date": "2026-08-08T15:24:39.024Z"
+      },
+      {
+        "id": "6a7364e8cbb3d2d2097087a1",
+        "name": "\ud83c\udfa8 Future: Design custom Hermes app theme for Torus/Miss Pink",
+        "priority": "P2",
+        "due_date": "2027-02-02T15:24:43.231Z"
+      },
+      {
+        "id": "6a74c9c3b7b732e8080fc531",
+        "name": "\ud83d\ude80 Future: Voice AI receptionist for Torus Coffee (paid upgrade after revenue proof)",
+        "priority": "P2",
+        "due_date": "2027-02-02T15:25:02.964Z"
+      },
+      {
+        "id": "6a74c9c4830a3c0cb8ec1d10",
+        "name": "\ud83c\udf10 Future: AR menu preview for freeze-dried snacks",
+        "priority": "P2",
+        "due_date": "2027-02-02T15:25:11.561Z"
+      },
+      {
+        "id": "6a74c9c4aa7c9a64df297ae5",
+        "name": "\ud83d\udce1 Future: Drone delivery pilot for local orders",
+        "priority": "P2",
+        "due_date": "2027-02-02T15:25:15.642Z"
+      },
+      {
+        "id": "6a74c9c57ededdd125109f00",
+        "name": "\ud83e\udd1d Future: Community loyalty token/blockchain rewards",
+        "priority": "P2",
+        "due_date": "2027-02-02T15:25:19.608Z"
+      },
+      {
+        "id": "6a70fd5df386c9b9c9509813",
+        "name": "Research free automation tools (Zapier/Make/n8n)",
+        "priority": "P2",
+        "due_date": "2027-02-02T15:25:41.146Z"
+      },
+      {
+        "id": "6a70fd5e2f877b2b08daa4a3",
+        "name": "Research free social media tools (Buffer/Metricool)",
+        "priority": "P2",
+        "due_date": "2027-02-02T15:25:45.669Z"
+      },
+      {
+        "id": "6a70fd5e79c07a7a4176ed47",
+        "name": "Research free CRM options (HubSpot/Zoho/Bitrix24)",
+        "priority": "P2",
+        "due_date": "2027-02-02T15:25:50.181Z"
+      }
+    ],
+    "Saturday": [],
+    "Sunday": []
+  },
+  "capacity_used": {
+    "Monday": 10,
+    "Tuesday": 10,
+    "Wednesday": 10,
+    "Thursday": 10,
+    "Friday": 10,
+    "Saturday": 0,
+    "Sunday": 0
+  },
+  "overflow": [
+    {
+      "id": "6a74c9687092a2d64af38d45",
+      "name": "\ud83d\udcde Research: Free business phone/answering service setup",
+      "priority": "Future Ideas",
+      "reason": "No weekly commitment"
+    },
+    {
+      "id": "6a74c96a4ce9ac108bd600a0",
+      "name": "\ud83d\udcf1 Set up SMS/text automation for business number",
+      "priority": "Future Ideas",
+      "reason": "No weekly commitment"
+    },
+    {
+      "id": "6a74c969c8e0d397194bde8c",
+      "name": "\ud83d\udcac Set up Google Voice for Torus Coffee business number",
+      "priority": "Future Ideas",
+      "reason": "No weekly commitment"
+    },
+    {
+      "id": "6a74c96b03e085cc334229ce",
+      "name": "\ud83e\uddea Test call flow: GV -> wife cell -> voicemail -> transcription",
+      "priority": "Future Ideas",
+      "reason": "No weekly commitment"
+    },
+    {
+      "id": "6a74c96a77a16ab9a1d1202a",
+      "name": "\ud83e\udd16 Evaluate AI answering/free trial options",
+      "priority": "Future Ideas",
+      "reason": "No weekly commitment"
+    },
+    {
+      "id": "6a71416be0fd838e009728b2",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a71422f8c568da521cbe1e2",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a714d99be030928fe7dd5f1",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a715be6df9a84fc4940466e",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a715c5740c9c49cbb5df027",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a7160cfc7f857af04a2caac",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a716135bc94dc9aa4a2f05d",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a7161f1fd487edf856a2f91",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a7162d792e3f5a04e2a07b8",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a7163036619ffd30e1f5532",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a716360321c04873e439059",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a716381025de77c49d3bb89",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a71641e002f2ed8e4b87a07",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a71645bf7256ea7f9105d8a",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a716482f353a7b0e4870d89",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a71652ea57781472b12335f",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a71656169cf07a781adca92",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a7166515ae92136696b44a7",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a7166a066dd94be8ec77ca7",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a716846dcfdf76ad60bdc99",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a7168615d3ea7003d97fa30",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a71688822a6bcea1a92bd5b",
+      "name": "Automation Alert",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a74af3a25f666660d8c180e",
+      "name": "\ud83d\udce8 [INBOX] sirgreen dashboard 502 second regression sirgreen 20260806",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a74b7e1dfbdb97e7e3d8b77",
+      "name": "\ud83d\udce8 [INBOX] DEPLOY PACKAGE AND QUESTIONS 20260806 sirazure.msg",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a74b7e2a13c79e5f411b399",
+      "name": "\ud83d\udce8 [INBOX] DOCKER BUILD AND DEPLOY QUESTIONS 20260806 sirazure.msg",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a74bfcb2e04916ab736f1c4",
+      "name": "\ud83d\udea8 [P1] Dashboard image blocked \u2014 need Docker Hub auth",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a74c4a39c558e4c08e1de87",
+      "name": "\ud83d\udce8 [INBOX] sirazure squidstation deploy reply sirazure 20260806",
+      "priority": "P0",
+      "reason": "Exceeded weekly capacity of 14"
+    },
+    {
+      "id": "6a73d3bf63f63d2920868082",
+      "name": "\ud83d\udce8 [INBOX] NEW ISSUES DISCORD ALERTS BUG HUNT 20260805T233000Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73d3c5c72db86dc39af743",
+      "name": "\ud83d\udce8 [INBOX] RE SECURITY TOOLS MANIFEST AND NEXT STEPS 20260805T234500Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73d3c72964b53d708f9748",
+      "name": "\ud83d\udce8 [INBOX] RE VOID PIRATE GITHUB BLOCKED TRUST VERIFY AND AZURE NEEDS 20260805T235900Z misspink.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73bed4108ae9ed24d66457",
+      "name": "\ud83e\udd16 Discord bot token + Torus Coffee server invite",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73c24d93a43a89e3cd58f1",
+      "name": "\ud83d\udd12 Admin elevation required for choco install on PINKCADY",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73c816c2e069b7a4526eca",
+      "name": "\ud83d\udd27 #247 Security tools installer report + blocker update",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73f9d0d73587c596609d61",
+      "name": "\ud83d\udce6 [P1] Push toruscoffee/torus-alert-router:latest to Docker Hub",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a740381c3a44cf1d463dcf8",
+      "name": "\ud83d\udce8 ACK TORUS FLEET LIVE PLUGIN AUDIT AND DASHBOARD RETEST STILL NEEDED 20260806T031500Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a740f756f1842dccaacaacf",
+      "name": "\ud83d\udce8 DOCKER HUB PUSH RESULTS 5 OF 6 IMAGES PUSHED ALERT ROUTER BLOCKED 20260806T042800Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a740f76b69d694d0de5519a",
+      "name": "\ud83d\udce8 DOCKER HUB PUSH STATUS SQUIDSTATION IMAGES PUSH BLOCKED BY AUTH 20260806T042700Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7412a8a0a62a4318522360",
+      "name": "\ud83d\udce8 ALERT ROUTER REPO EXISTS BUT SQUIDSTATION LACKS WRITE PERMISSION 20260806T042900Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7412aa6e540611ae143bb3",
+      "name": "\ud83d\udce8 ONE ACTION GRANT WRITE ACCESS OR PROVIDE PAT FOR ALERT ROUTER 20260806T043000Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74199f33a3db0f5e47fe18",
+      "name": "\u2705 FIXED: .dockerignore added to all service dirs",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a741b3e351c95f7f412f683",
+      "name": "\ud83d\udce8 CODING ORDER DOCKER HUB WRITE ACCESS FOR ALERT ROUTER 20260806T051400Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a741fc73041dff74dcbc651",
+      "name": "\u2705 IN PROGRESS: torus-website Next.js build fixed, Dockerfile created",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a741fc7fcc24e30b324fa15",
+      "name": "\u2705 FIXED: .env.example template created",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a741fc846394fdac2577556",
+      "name": "\u2705 FIXED: .dockerignore added to all service dirs",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a741fc8e947ae894822232b",
+      "name": "\u2705 FIXED: Multi-stage Dockerfiles applied",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a741fc92c18cabb3e8aad71",
+      "name": "[P2] torus-alert-router: implement Discord/Gmail/Obsidian integrations",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a741fc9f9513699b120a96a",
+      "name": "\u2705 IN PROGRESS: Dashboard 502 \u2014 container needs restart from Sir Green",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a741fcab5b91eb5f840e296",
+      "name": "[P3] Non-root users + security hardening",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7421402f4eaf9b11fae01c",
+      "name": "[P1] torus-alert-router: implement Discord/Gmail/Obsidian integrations",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74226b70c09f9232cbdbac",
+      "name": "[P2] Investigate Suricata alert: empty message",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74226d67b05b66e243cc13",
+      "name": "[P3] Add alertmanager for Prometheus + Discord webhooks",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a749235c87599438cc27313",
+      "name": "\ud83d\udce8 [INBOX] sirazure security tools missing sirazure 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74a5f4d826bdb078119f3b",
+      "name": "\ud83d\udce8 [INBOX] sirgreen dashboard 502 regression sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74aaf0a8525afa91328254",
+      "name": "\ud83d\udce8 [INBOX] sirazure security deep dive summary sirazure 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74b23152f49229cdbf9e8f",
+      "name": "\ud83d\udea8 [P1] Dashboard 502 regression: ALL routes down",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a737f7d390859fcc99679b4",
+      "name": "\ud83d\udd10 Resolve GitHub auth + Trello read auth on PINKCADY",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a70a348cb832d2332a7b09a",
+      "name": "Setup Square Payments",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a70c2e7c2bff8d0aac51714",
+      "name": "Square Developer account setup walkthrough",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a70c2e85d66174cc4a91a2d",
+      "name": "Website launch \u2014 Square payment links first, OAuth later",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a713b0f7fec1de4568f6906",
+      "name": "DEPLOY.md created",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a712bc79bc50687e977187a",
+      "name": "Deploy website to free hosting",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742142c4eea9f50d2c583b",
+      "name": "[P2] DEPLOYMENT_RUNBOOK.md",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a738f523974a0974bb285b1",
+      "name": "\ud83d\udd10 Store GitHub PAT in vault secrets",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a738f5122f88700f8084207",
+      "name": "\ud83d\udce1 Run crew connectivity monitor on PINKCADY",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73888884310605606ce421",
+      "name": "\ud83d\udce8 Fix Z: shared inbox path / add fallback inbox watcher",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a738888ec9cd0a2d7428642",
+      "name": "\ud83d\udccb Build OODA tasklist from Trello + Obsidian inbox",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a737f7c8714ca5b28fb892e",
+      "name": "\ud83e\udded Wire Miss Pink persona attributes into vault docs/automation",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a70a34d62d923fbb7007d01",
+      "name": "Customer Order Fulfillment \u2014 July Batch",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a70a34710b8a23e38c01583",
+      "name": "Hire Staff",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a739d20d152be63a1a271da",
+      "name": "\ud83d\udd17 Set up VOIDPirateTrade void-crew team access for toruscoffeecompany",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a70a34e88d5b5f7ebf055f0",
+      "name": "Safety Protocol Update \u2014 Kitchen Equipment",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a70a349556e13858649d988",
+      "name": "Supplier Contract Renewal \u2014 Green Coffee Imports",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7139993fca14ff8b9e4626",
+      "name": "Fixed 12 broken Task Scheduler paths",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a70fd628dfb6d46f9ce77c2",
+      "name": "Create Discord server",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7185ef9104a8818420b19a",
+      "name": "TORUS_DOCKER_CONTAINER_REQUIREMENTS.md created",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a71243896c16a6755d5e168",
+      "name": "Update Obsidian_Automation_Guide.md with verified config",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a715c027332b849a456c499",
+      "name": "Fix Next.js build error",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a715f7309b04b813d36a8f0",
+      "name": "Finalize vault organization and automation",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a739d244c04815bd8a73c98",
+      "name": "\ud83d\udce8 Fix Z: shared inbox path / add fallback inbox watcher",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73e04b89d12772829328fa",
+      "name": "\ud83d\udc33 [P1] Docker Desktop virtualization mode",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7425288e8aadeb76919bde",
+      "name": "[P1] Reinstall missing Obsidian plugins: periodic-notes, table-editor-obsidian, obsidian-livesync",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742529ef011b6da7537444",
+      "name": "[P2] Fix Templater + Periodic Notes template paths",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7499661942762c5b6e744d",
+      "name": "[P1] Miss Pink: commit orders.json and automation_status changes",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a70fd6215d81dccfafc6721",
+      "name": "Setup Cloudflare DNS/CDN",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73ddaf54ccdd15e1367c37",
+      "name": "\ud83d\udda5\ufe0f PINKCADY virtualization setup: enable AMD-V/SVM in BIOS",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73e048bcd17a1224a23f1c",
+      "name": "\ud83d\udda5\ufe0f [P1] Reboot PINKCADY + enable SVM Mode in BIOS",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73e04924a4fc2d382bb859",
+      "name": "\ud83e\udde0 [P1] Enable XMP/DOCP for Corsair 3200 RAM",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73e04a10d0cd5794e0f0c3",
+      "name": "\ud83d\udd27 [P1] Post-boot: enable Hyper-V + WSL2 + Containers",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742144d5fed79046f6772f",
+      "name": "[P3] Max out Docker automation: webhooks, logs, volumes, Kubernetes",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742528f39eb723b86ed54c",
+      "name": "[P1] Import QuickAdd macros from quickadd_macros.json into active data.json",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74252aa4669a765afe7b1d",
+      "name": "[P2] Scan vault for broken wikilinks and duplicate names",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a70a34dc63e3712a4959b98",
+      "name": "QC Coffee Cupping \u2014 New Ethiopian Lot",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a739404a11141063e2fc486",
+      "name": "\ud83d\udce1 Sir Azure: run crew_connectivity_monitor.py",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a738f4f70e711bba6e5fc74",
+      "name": "\ud83d\udd17 Add GitHub link + token instructions for VOIDPirateTrade",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a737f7e79118dbc2544542a",
+      "name": "\ud83d\udce1 Add Cosmos Library update watcher without cloning Squidstation vault",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73d00a3cc6ee42297212b8",
+      "name": "\ud83e\udd16 Sir Azure: Discord bot + Trello watcher automation",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a739d219b80877cd27a8244",
+      "name": "\ud83d\udce1 Run crew_connectivity_monitor.py on PINKCADY",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73d28559fedd978b6fe735",
+      "name": "\ud83e\udd16 Sir Azure: Discord bot + Trello watcher automation",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a749965089d60b970f470cb",
+      "name": "[P1] Sir Azure: install nikto tshark yara on PINKCADY",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a717fb78de9b04d9056057f",
+      "name": "Docker connection established",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7185eeab03e73be1ee374f",
+      "name": "Docker context torus-squidstation active",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a714aec2a9827e94b0c2bbd",
+      "name": "Deploy dashboard_server.py on SQUIDSTATION",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73a5190234b4e45c19f9e2",
+      "name": "\ud83d\udc33 Sir Green: build Docker automation stack on SQUIDSTATION",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73a59c26dbb9834d45fb2a",
+      "name": "\ud83d\udc33 Sir Green: build Docker automation stack on SQUIDSTATION",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73b81fe9db3374f10097b3",
+      "name": "\ud83d\udc33 Sir Green: build Docker automation stack on SQUIDSTATION",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73d3cd4f299dd4616f425c",
+      "name": "\ud83d\udce8 [INBOX] RE WINDOWS UPDATE AND BOT TOKEN STATUS 20260805T233800Z misspink.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73c1df44ddb17b0142b8c9",
+      "name": "\ud83d\udc33 Sir Azure: ComfyUI/Redis/MinIO/Postgres/Nginx on SQUIDSTATION",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73e04ea0924a4d5428ca0b",
+      "name": "\u2705 RESOLVED: Sir Azure chose SQUIDSTATION path",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73f9d30e245e06fd8bd14d",
+      "name": "\ud83d\udd17 [P1] PINKCADY \u2194 SQUIDSTATION Docker networking",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a741bd059d5991128000584",
+      "name": "\u2705 CONNECTED: PINKCADY -> SQUIDSTATION Docker verified",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a741fcbb2bdfe978237d2df",
+      "name": "[P3] Kubernetes enablement on PINKCADY/SQUIDSTATION",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74213f952e3bf93da19ac0",
+      "name": "[P1] torus-inventory: deploy fixed FastAPI image on SQUIDSTATION",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74213f44c2385f4ae23bc1",
+      "name": "[P1] torus-website: build Next.js + Dockerfile.prod + push image",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74226a6ef3227c5e7ca6be",
+      "name": "[P1] Process Sir Azure inbox backlog: 21 unprocessed items",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7422a0db0cb3479baf161b",
+      "name": "\ud83d\udce8 [INBOX] new trello git cards for docker webhooks k8s sirazure 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7422a398b687afc2a2891b",
+      "name": "\ud83d\udce8 [INBOX] NEXT ACTIONS EVIDENCE DOCKER MESH GPU CONNECTIVITY 20260806T041800Z misspink.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7422a76f6e4c8e538f4057",
+      "name": "\u2705 RESOLVED: Sir Azure chose SQUIDSTATION path",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742591e00540a15fc6cbdb",
+      "name": "\ud83d\udce8 [INBOX] RE FULL AUTOMATION BOOTSTRAP POST BIOS READY AND DOCKER MESH 20260806T012500Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742594f02f3b1a40c1aa32",
+      "name": "\u2705 RESOLVED: Sir Azure chose SQUIDSTATION path",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7425958040029a07e7846c",
+      "name": "\u2705 RESOLVED: Sir Azure chose SQUIDSTATION path",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742774f2cf1444dcd158ab",
+      "name": "\ud83d\udce8 [INBOX] docker compose sync sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742775b1b1530cf6de3ab5",
+      "name": "\ud83d\udce8 [INBOX] FLEET VERIFIED LOCALLY SQUIDSTATION PUSH OR SWARM NEEDED 20260806T041800Z misspink.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742c01c40dd3302dde835c",
+      "name": "\ud83d\udce8 [INBOX] obsidian plugin completion webhook retry sirazure 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742d46b8eb100be0bd0e41",
+      "name": "\ud83d\udce8 [INBOX] pink docker build push and single ask sirazure 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74350d3beab1a53b3c72e9",
+      "name": "\ud83d\udce8 [INBOX] board audit obsidian deepdive and asks sirazure 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a743ca408a6fd441d6e2100",
+      "name": "\ud83d\udce8 [INBOX] followup dashboard top10 trello voidops sirazure 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a743ca5d8c98616a0140b54",
+      "name": "\ud83d\udce8 [INBOX] miss pink dashboard top10 trello voidops ask sirazure 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a743e71593968be558fc522",
+      "name": "\ud83d\udce8 [INBOX] trello api 401 invalid key blocker sirazure 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74422cef93fe99604eb088",
+      "name": "\ud83d\udce8 [INBOX] vault audit progress obsidian standardization sirazure 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7445f76d434e2ecb8f2269",
+      "name": "\ud83d\udce8 [INBOX] sirazure obsidian vault audit share sirazure 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73d00b2a6e21d3df1e791d",
+      "name": "\ud83e\uddea Automated verification daemon for crew promises",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74996278520837531d040d",
+      "name": "[P1] Sir Green: add /api/fleet route to dashboard_server.py",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7499631d418156b5109e84",
+      "name": "[P1] Sir Green: add /api/tools route to dashboard_server.py",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73d285c789c1a5b548730c",
+      "name": "\ud83e\uddea Automated verification daemon for crew promises",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a749964228b87d856c93cb3",
+      "name": "[P1] Sir Green: add /api/hw route to dashboard_server.py",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7499648e9ef76289f851ea",
+      "name": "[P1] Sir Green: add /api/rig-report route to dashboard_server.py",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a71399b1a40c92523989fbe",
+      "name": "Fixed dashboard credentials.ts path",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a71399bfdebfccf62d0dce0",
+      "name": "Created dashboard_launcher.py + startup shortcut",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a713ee35abd1e59cd30a4aa",
+      "name": "Gordon audited Sir Green's Docker fleet",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a712bbeaf17e4ea8681ad21",
+      "name": "Design website architecture: Next.js + dashboard",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a712bbf3f084d90476c1659",
+      "name": "Build automation dashboard page",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a712bc57e2fa1cd59a662d0",
+      "name": "Build inventory dashboard widget",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a713ee5f840e7fea40c7cb5",
+      "name": "Coordinate with Sir Green on Docker fixes",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a714aec3f727d94c534b2eb",
+      "name": "Enable NPM reverse proxy to dashboard",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a714aed05e4c570602ec80d",
+      "name": "Verify dashboard auto-refresh and ship statuses",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a714aee89cfdb4c5e05c604",
+      "name": "Keep Torus/VOID legal separation in dashboard",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73d3c1d0e6b03579532bbb",
+      "name": "\ud83d\udce8 [INBOX] OODA TASKLIST TRELLO CARDS AND CONTINUATION 20260805T235500Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73d3c32b31d807ccabfb4b",
+      "name": "\ud83d\udce8 [INBOX] RE HARDWARE TAB AND PINKCADY DASHBOARD ACCESS 20260805T234000Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73d3c8348d4bc778ae918c",
+      "name": "\ud83d\udce8 [INBOX] BOT TOKEN SETUP AND WAIT STATUS 20260805T232500Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73d3c9c78a05300e37dc69",
+      "name": "\ud83d\udce8 [INBOX] DISCORD BOT TOKEN AND WINDOWS UPDATE STATUS 20260805T233000Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73d3cee398755aee4424c0",
+      "name": "\ud83d\udce8 [INBOX] WINDOWS UPDATE STATUS AND DASHBOARD ACCESS 20260805T234000Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73c811ec872c40a32e4049",
+      "name": "\ud83d\udc1b #256 Dashboard truthfulness verification",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73c8139464aafaedb975ae",
+      "name": "\ud83e\udd16 #259 Discord bot token wiring into crew_map.json/vault config",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73f5a1e0a6caec4c58d1d8",
+      "name": "\ud83d\udce8 RE UNIFIED DASHBOARD DECISION ONE DASHBOARD ONLY 20260806T011800Z misspink.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73f5a2bd8e41024cb2768f",
+      "name": "\ud83d\udce8 RE UNIFIED DASHBOARD DECISION ONE DASHBOARD ONLY 20260806T012800Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a73f9cfc741a27558744262",
+      "name": "\ud83d\udc33 [P1] Build torus-light Docker stack from Sir Green's fleet pattern",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7402ea7b616b4954b959ca",
+      "name": "\ud83d\udce8 OBSIDIAN PLUGIN AUDIT REQUIRED FROM PINKCADY 20260806T023500Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7402eb08362c608b6b5145",
+      "name": "\ud83d\udce8 RE DASHBOARD 8080 NOW REDIRECTS TO 8089 RETEST 20260806T022000Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7402ecfc37de1891f59168",
+      "name": "\ud83d\udce8 RE DASHBOARD 8089 CREW VALIDATION 20260806T014500Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7402edc1b9de3b6eef4773",
+      "name": "\ud83d\udce8 RE DASHBOARD 8089 TROUBLESHOOT AND PLUGIN AUDIT 20260806T013500Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7402eea744a0150a89d6c7",
+      "name": "\ud83d\udce8 RE TORUS LIGHT FLEET DEPLOYED AND HUB PUSH STATUS 20260806T030500Z misspink.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a740ae07d51b42fa1ccb3e0",
+      "name": "\ud83d\udce8 NEXT ACTIONS PLUGIN AUDIT DASHBOARD EVIDENCE AND CONNECTIVITY 20260806T041800Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a740e6f5d35046722899710",
+      "name": "\ud83d\udce8 STATUS ACK TORUS DOCKER BUILD IN PROGRESS DASHBOARD 8089 VERIFIED 20260806T042400Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a741b3d8968b69cfa37bdd6",
+      "name": "\ud83d\udce8 CODING ORDER DOCKER HUB PUSH HELPER 20260806T051500Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742142d181f66c0ce6612e",
+      "name": "[P2] DEPLOY_FLEET.ps1 master deployment script",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74226966aea1f6bbbdb6aa",
+      "name": "[P1] Dashboard automation reporting: feed status from OODA/verifier/heartbeat",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74226a06cfe01322f27408",
+      "name": "\ud83d\udd27 IN PROGRESS: Adding CrowdSec metrics to dashboard",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74226b068f37fe674e75a4",
+      "name": "\ud83d\udd27 IN PROGRESS: Adding TorusPOS metrics to dashboard",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74226c3bc3bb4a91f5ff7a",
+      "name": "\ud83d\udd27 IN PROGRESS: Adding fleet metrics routes",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74229bd3ce23af478e3e1b",
+      "name": "\ud83d\udce8 [INBOX] CODING ORDER DASHBOARD EVIDENCE AND DOCKER MESH CURLS 20260806T051400Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74229c9796b76f2c6f7300",
+      "name": "\ud83d\udce8 [INBOX] CODING ORDER DASHBOARD HEALTHCHECK SCRIPT 20260806T051500Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74229d2c2214b8c77fd852",
+      "name": "\ud83d\udce8 [INBOX] DASHBOARD 8089 TROUBLESHOOT AND GPU UTILIZATION 20260806T013000Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74229effce4d8def5ad8a8",
+      "name": "\ud83d\udce8 [INBOX] docker fleet sync sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7422a23688bb2e6150dcff",
+      "name": "\ud83d\udce8 [INBOX] NEXT ACTIONS DOCKER MESH DASHBOARD EVIDENCE AND GPU UTILIZATION 20260806T041800Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7422a44093a3d06af31a45",
+      "name": "\ud83d\udce8 [INBOX] ONE ACTION REQUIRED DASHBOARD CURLS AND DOCKER EVIDENCE 20260806T043000Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7422a52903590a31e7a40a",
+      "name": "\ud83d\udce8 [INBOX] RE CAPTAIN DASHBOARD 8080 NPM DEFAULT AND CREW VALIDATION 20260806T014500Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742596b793b46e8e6bfec4",
+      "name": "\ud83d\udce8 [INBOX] RE UNIFIED DASHBOARD DECISION ONE DASHBOARD ONLY 20260806T011800Z misspink.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74259773ca43ab51f91139",
+      "name": "\ud83d\udce8 [INBOX] RE UNIFIED DASHBOARD DECISION ONE DASHBOARD ONLY 20260806T012800Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742598bdb1c404935d1a56",
+      "name": "\ud83d\udce8 [INBOX] REMINDER DOCKER DESKTOP TAILSCALE AND DASHBOARD EVIDENCE STILL NEEDED 20260806T042700Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74259bd74c16c91bed690b",
+      "name": "\ud83d\udce8 [INBOX] STATUS UPDATE DASHBOARD 8080 FIXED PLUGIN AUDIT PENDING AND DISCORD TOKEN BLOCKER 20260806T024500Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74259c400528c5b22cb6a6",
+      "name": "\ud83d\udce8 [INBOX] STATUS UPDATE MISS PINK BUILDING TORUS DOCKER CONTAINERS DASHBOARD 8089 AND YOUR ACTIONS 20260806T042400Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74277018ccad46d2e0d7b6",
+      "name": "\ud83d\udce8 [INBOX] TORUS FLEET LIVE ON PINKCADY DOCKER MESH STEPS AND DASHBOARD RETEST 20260806T031500Z sirgreen.msg",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74277178d336bec8ed4109",
+      "name": "\ud83d\udce8 [INBOX] dashboard gaps sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7427739e36018a5473dff6",
+      "name": "\ud83d\udce8 [INBOX] dashboard improvements sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7427769fc4707772173b79",
+      "name": "\ud83d\udce8 [INBOX] miss gordon docker blockers sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7427796197355e1ff98551",
+      "name": "\ud83d\udce8 [INBOX] new trello git cards for docker webhooks k8s sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74277a8d6b6745aba449a0",
+      "name": "\ud83d\udce8 [INBOX] torus dashboard multistage push sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742c043f603288ac711efa",
+      "name": "\ud83d\udce8 [INBOX] obsidian plugin completion webhook retry sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742d470242b3b7da188fda",
+      "name": "\ud83d\udce8 [INBOX] dashboard port and swarm decision sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a742d48aecc66e665b32760",
+      "name": "\ud83d\udce8 [INBOX] pink docker build push and single ask sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a743511f8fa7e50ea4d36ad",
+      "name": "\ud83d\udce8 [INBOX] board audit obsidian deepdive and asks sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a743ca61baae9ecb5638cc0",
+      "name": "\ud83d\udce8 [INBOX] followup dashboard top10 trello voidops sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a743ca8138734822257235b",
+      "name": "\ud83d\udce8 [INBOX] miss pink dashboard top10 trello voidops ask sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a743dd15d16541357354770",
+      "name": "\ud83d\udce8 [INBOX] pinkcady dashboard connectivity checklist sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a743dd3d8b451a40ffc0b8f",
+      "name": "\ud83d\udce8 [INBOX] sirgreen trello automation questions sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a743e2ecabdd910e9f2d0ee",
+      "name": "\ud83d\udce8 [INBOX] pinkcady dashboard test commands sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a743e2f5d63bd1a4f646379",
+      "name": "\ud83d\udce8 [INBOX] sirgreen trello butler automation request sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a743e72a70fea3e45ea0ece",
+      "name": "\ud83d\udce8 [INBOX] trello api 401 invalid key blocker sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74422ff696eef8ce3acf19",
+      "name": "\ud83d\udce8 [INBOX] vault audit progress dashboard recommendations sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7445f8cd3344d5e0f2a9c5",
+      "name": "\ud83d\udce8 [INBOX] sirgreen share trello automation setup sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7445f91d3022659d1a609e",
+      "name": "\ud83d\udce8 [INBOX] sirgreen trello setup automation questions sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74480bc4509a3abf06eee8",
+      "name": "\ud83d\udce8 [INBOX] sirgreen dashboard recommendations local network monitor sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a744f757dd1896087b7e3e3",
+      "name": "\ud83d\udce8 [INBOX] sirgreen verifier flags dashboard 8089 and rig report 404 sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a7451b56b1c7496f3d1a1ef",
+      "name": "\ud83d\udce8 [INBOX] sirgreen dashboard endpoints status sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a749236598b1b5453ad0f80",
+      "name": "\ud83d\udce8 [INBOX] sirgreen dashboard endpoints still 404 sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74aaf1088b2b8ffa327b8b",
+      "name": "\ud83d\udce8 [INBOX] sirgreen dashboard deep dive summary sirgreen 20260806",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a74b2332eebbb67e0b4a481",
+      "name": "\ud83d\udd11 NEEDS CREDS: Docker Hub auth failure",
+      "priority": "P1",
+      "reason": "Exceeded weekly capacity of 25"
+    },
+    {
+      "id": "6a714aef36e57261521011fe",
+      "name": "Gmail spam filter verified",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73b82028b108b5cef2b753",
+      "name": "\ud83d\udce1 Sir Azure: confirm connectivity state and Docker needs",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a738f513cfc8606b875cc26",
+      "name": "\ud83d\udc64 Get Miss Pink GitHub username for toruscoffeecompany",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a738f5011a1d1aaae2ebe69",
+      "name": "\ud83e\udd16 Confirm Discord bot scripts to keep live",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a737f7e62239d8d15fe9507",
+      "name": "\ud83e\udd16 Finish Discord bot token + invite to Torus Coffee server",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a737d9b827ebbde4c405716",
+      "name": "\ud83d\udd04 Execute OODA Cycle 140 tasks",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70da7ce5231e90cb0dd18e",
+      "name": "Trello Sync Automation",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71399dda9e0484be2cb86d",
+      "name": "Replaced os.popen with subprocess.run",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714260e16bb14c1e238e8e",
+      "name": "Updated daily_ops_automation.py",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d0e8466b4da85bc7d7c",
+      "name": "Get Facebook page access token from developers.facebook.com",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7115f7e256159bc959b02b",
+      "name": "Webhook Event",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71242d36dee4dcaee7187c",
+      "name": "Add Zapier retry/backoff logic",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7124371696c8171433b8fe",
+      "name": "Bug hunt weekly_review_automation.py",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712438ca3780f35985256d",
+      "name": "Update 00_Vault_Home.md with build status",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7124397d476d7f408e40f6",
+      "name": "Push all changes to GitHub",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71243a6f880a7967d43e54",
+      "name": "End-to-end verification: Buffer + Zapier + HubSpot + Trello",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71243adb17e9063d9c4757",
+      "name": "Run full vault health check",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712bc042b16192a0e67f22",
+      "name": "Integrate Buffer API into website",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a715c01e0c5b1f394020f9a",
+      "name": "Choose payment processor alternative",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73a92ea47bb4292959dff9",
+      "name": "\ud83d\udd14 Build inbox-to-Trello/GitHub alert automation",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73d3c20d674ec2cc5166a9",
+      "name": "\ud83d\udce8 [INBOX] RE HARDWARE TAB AND ISSUE OWNERSHIP ACK 20260805T233800Z misspink.msg",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73bd43a4ef3f072e63a664",
+      "name": "\ud83d\udd12 Security tools install plan on PINKCADY",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73bd44be602ed2ba5a0158",
+      "name": "\ud83d\udee0\ufe0f Tools/Security tabs for unified dashboard on 8089",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73bed1e525b823cf63003e",
+      "name": "\ud83d\udd10 Mixed-mode security tooling on PINKCADY",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73d3cc3fe8eaff43a2ab4b",
+      "name": "\ud83d\udce8 [INBOX] RE DISCORD BOT GITHUB ACCESS AND WINDOWS UPDATE REMINDER 20260805T235900Z misspink.msg",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73c8148c4efaab74da01c4",
+      "name": "\ud83e\uddea #260 End-to-end Discord bot tests + relay fixes",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73c8157f7d52e0dbc1ae10",
+      "name": "\ud83d\udd14 #261 Actionable alerts/services from dashboard",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73f9d1117d82f3161f1819",
+      "name": "\ud83c\udf10 [P2] Deploy torus-website + torus-inventory + torus-pos on PINKCADY",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73f9d2b4608a6568b122e0",
+      "name": "\ud83d\udd14 [P2] torus-alert-router: inbox watcher + Discord + email alerts",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a741fcbb6809419d7bd07dd",
+      "name": "[P3] Webhooks + logs centralization",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7421401d418156b56cead8",
+      "name": "\u2705 FIXED: .dockerignore added to all service dirs",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74b2324042ade05400ed4d",
+      "name": "\u2705 FIXED: Redis cross-protocol attacks stopped",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7392526bdf862588f4d9c5",
+      "name": "\u2705 Confirm PAT works and create first issue in Torus_website_rebuild",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a738887a9af207d20987848",
+      "name": "\ud83d\udd11 Set up PINKCADY GitHub auth for toruscoffeecompany repos",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a3509e558a293bbd1aa5",
+      "name": "Pricing Sheet Update \u2014 Q4 Menu",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a34706dee7f76c37476e",
+      "name": "Launch Email Marketing",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a34ef5f5861a589dbc13",
+      "name": "Setup GitHub Repos",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7108900c37debad5ba1fdf",
+      "name": "Create first Zap: Trello \u2192 Webhook",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d0d8c2f28f18a7f69fd",
+      "name": "Create first Zap and get Zapier webhook URL",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712fa779f75a27d760cacf",
+      "name": "Launch revenue stream tracking in vault and Trello",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714fbace521dfab19ae1f0",
+      "name": "Set up Formspree for contact form",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73e04f545d92a2f50c5f3f",
+      "name": "\ud83d\udd01 [P2] Self-healing automation daemon",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73e0c0df49153b5f295bf5",
+      "name": "\ud83d\udce8 RE PINKCADY VIRTUALIZATION SETUP PLAN 20260806T010000Z captain.msg",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7394042cde48d50291cb01",
+      "name": "\ud83d\udccb Configure VOID team tiers: void-crew, void-ops, void-captain",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a739404bf63766a3bf061b4",
+      "name": "\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1 Add toruscoffeecompany to VOIDPirateTrade void-crew team",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a737f7fc40b5a5f65ec562b",
+      "name": "\ud83e\uddea Verify OODA loop traceback logging + runtime stability",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a737f7c8fab91fbb60889a2",
+      "name": "\ud83e\uddf9 Clean duplicate sections in 00_Vault_Home.md",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a35206bc6fd92ea50a76",
+      "name": "Coffee Bean Sourcing \u2014 Ethiopian Lot Approval",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a3464a5ebd81c36c6ae0",
+      "name": "Equipment Maintenance Schedule",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a34a55c66e3104697b64",
+      "name": "Run Batch \u2014 Cold Brew Reserve",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a35373ba21fdb97ed1a9",
+      "name": "Setup Google Workspace",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a352bdeba243777cf69b",
+      "name": "June Payroll Processing",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a34b475b464c0d6161c0",
+      "name": "Setup Customer CRM",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a3532fccce7d903765ff",
+      "name": "Vault Cleanup & Organization",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a34cc24aac226c72a44e",
+      "name": "Setup Social Media Accounts",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d10982ed4f96b55c3aa",
+      "name": "Install Buffer browser extension (optional)",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d1002e51f5dc12af585",
+      "name": "Install HubSpot mobile app (optional)",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d117fd7bf22e52dfdcf",
+      "name": "Install Meta Business Suite app (optional)",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d119d1611288789675f",
+      "name": "Test Buffer scheduling with 1 post",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d1125d6490ee7057a8f",
+      "name": "Test Zapier webhook end-to-end",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d128612b8eae811dc74",
+      "name": "Test HubSpot contact import",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d1234ff949e11f9bfcb",
+      "name": "Test Meta Business Suite scheduling",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c92ee1bba1a92440c076",
+      "name": "Create Social Media Template Pack",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c92fa9e5c8da39d4bd02",
+      "name": "Create Vendor Booth Backdrop Design",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f3a6831963d6acfee23f",
+      "name": "Verify Facebook page ownership",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7157f290ff88a1b31ae1c8",
+      "name": "US Bank account automation \u2014 CSV \u2192 Wave \u2192 categorization",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a715f6fe09ed0bd37e57aa1",
+      "name": "Create Torus crew personas: Accountant, Lawyer, CPA, Strategy, Ops, Marketing, Inventory",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a715f7078eae68a030a1b2b",
+      "name": "Build Torus Discord bot designs",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a715f7095b8d80e80b99d94",
+      "name": "Build role-based automation scripts",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70d709526df6a5d07d846b",
+      "name": "Social Media Template Pack - Create Templates",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70da7baa017cb5dd3a92bb",
+      "name": "Social Media Templates - 24 Files Created",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70da7b4daf4656cdb03d72",
+      "name": "Daily Ops Automation - Scripts Created",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f3872adc823de6598858",
+      "name": "Build social media automation script",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f3a59ea2bed14bffb2d8",
+      "name": "Create Facebook verification guide",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f3a5831963d6acfee194",
+      "name": "Build social media automation script",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70dc38f4e27d15632b017a",
+      "name": "Iowa State Fair 2026 Application",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f8cb3533c87d44d546b6",
+      "name": "Create Zapier integration guide",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f8cc2eb38461c69795b3",
+      "name": "Build zapier_automation.py",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f8cd15b7431f30fe4d61",
+      "name": "Create Buffer setup guide",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70dc3b050af2fa80c256aa",
+      "name": "Link social media accounts",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f8cdd5c6d45e6814ab29",
+      "name": "Build buffer_automation.py",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70dc3dfd3a76e575a56c6f",
+      "name": "Prepare Monthly Financial Summary",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f1b112f1e449dd9d214f",
+      "name": "Verify Facebook page ownership",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71088de3dde89e2bc01b0d",
+      "name": "Fix Task Scheduler jobs to use C:\\Python314",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71088d9ef81a4a480dee43",
+      "name": "Create Buffer setup guide + buffer_automation.py",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71088dd52063f78af9d2d9",
+      "name": "Create Zapier setup guide + zapier_automation.py",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71088e80a5897312085f8d",
+      "name": "Create HubSpot CRM setup guide",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71088fa7caec75b7864bf8",
+      "name": "Verify all automation scripts run end-to-end",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712fa7b5b7d143099f316a",
+      "name": "Create Revenue_Stream_Plan.md in 03_Financials",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71398329acb03582813149",
+      "name": "Test Card",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71398e99bafbc680093df1",
+      "name": "Hermes backend config updated",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71399acef27acfa0742c6b",
+      "name": "Created 3 missing stub scripts",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f8cf667828b0d8116214",
+      "name": "Connect Zapier to Trello",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f8d05fe4b044e08e7ba6",
+      "name": "Connect Buffer to social channels",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f8d118bb4650352a010b",
+      "name": "Test webhook receiver",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71399cebf904e6b201dae9",
+      "name": "Added requirements.txt for venv",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70fd603fca14ff8b43d1a5",
+      "name": "Create Buffer account",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71399ecb5c7a6a2fbb6aa7",
+      "name": "Test suite: 10/10 PASS (100%)",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70fd600fad0603b1d59bb0",
+      "name": "Create HubSpot CRM account",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a713b0c24a06402ad38beff",
+      "name": "Products page created",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70fd615ee0938a5479fa2c",
+      "name": "Create Zapier account",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a713b0defc24984d5e001fa",
+      "name": "About page created",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a713b0d23e2645c0b00cddd",
+      "name": "Contact page created",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a713b0d0fb1e3197509db31",
+      "name": "Legal pages created",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a713b0e8c32f74a1db77099",
+      "name": "Root layout updated",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a713b0e855dd7bf68f6045b",
+      "name": "Website build verified: 10 pages",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71088f2bd5dde4d7c3ed5d",
+      "name": "Create Buffer account (toruscoffeecompany@gmail.com)",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a713ee3d922b64ac4f030a4",
+      "name": "Gordon identity discovered: AI Quartermaster",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71088ffaf8003fc0a68a19",
+      "name": "Connect Buffer to Facebook + Twitter + Instagram",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71089015a788f8c7b49990",
+      "name": "Create Zapier account (toruscoffeecompany@gmail.com)",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7108905f9d81b12fb97d7c",
+      "name": "Create HubSpot CRM account",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d0ad8ac7d682712e1fc",
+      "name": "Create Buffer account (toruscoffeecompany@gmail.com)",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714260a52b6b7b6b52d389",
+      "name": "Disabled Zapier auto-send",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d0a2d3a35ab9dfe5265",
+      "name": "Create Zapier account (toruscoffeecompany@gmail.com)",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d0ad1b26e4f3fdc4ccb",
+      "name": "Create HubSpot CRM account",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714fb860bbdbb20853d4a4",
+      "name": "Build order management workflow",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714fb82b64998c93bdbad4",
+      "name": "Build inventory \u2192 website sync",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a715c0370ee36715d579861",
+      "name": "Full automation audit complete",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d0cc8a59156ab9d5383",
+      "name": "Get Buffer access token from developers.buffer.com",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a717fb91a29e733c5c4a403",
+      "name": "torus-inventory image built",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a717fb98b37f9b171200f1c",
+      "name": "SIR_PINK setup script created",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d0ea3b470a42ff90100",
+      "name": "Verify Facebook page ownership (facebook.com/61577390931175)",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d0ffd0a320344aa32e1",
+      "name": "Convert Instagram @glvwriter to business OR create @toruscoffeecompany",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7185edb69d52a2ab1bef85",
+      "name": "\u2705 FIXED: torus-backup container started",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71242b3f23db4fb69d6f7c",
+      "name": "Wire Buffer API into buffer_automation.py",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71242b353146d037a7b9d7",
+      "name": "Test Buffer scheduling with real post",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71242b00b312cd0e56ce9d",
+      "name": "Test Buffer queue/channel listing",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71242c73bba0f679205c2f",
+      "name": "Add Buffer retry/error handling",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71242c76ca67e9e4de6505",
+      "name": "Wire Zapier webhook into zapier_automation.py",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71242cde079c5bc0e77f1a",
+      "name": "Test Zapier webhook end-to-end with sample payload",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71242d5d3ea7003d358709",
+      "name": "Verify Zapier creates Trello card from webhook",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71242e3f23db4fb69d7c9b",
+      "name": "Wire HubSpot Service Key into CRM automation",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71242e5f35dafee7b9f6c8",
+      "name": "Test HubSpot contact creation via API",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71242fb7197bb4e02ae791",
+      "name": "Test HubSpot deal creation/update",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71242f938a65812243a9a9",
+      "name": "Build HubSpot import script for vault contacts",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71243051feed250074da5b",
+      "name": "Build unified automation orchestrator script",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7124317a3d7f8972dbc227",
+      "name": "Build logging/reporting system for all automations",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712432080a953558b00fcd",
+      "name": "Add retry logic and error handling to all scripts",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7124327fade6e133c8a2cc",
+      "name": "Verify all 16 Task Scheduler jobs execute correctly",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712432839f43f287a0877b",
+      "name": "Fix any broken scheduled jobs",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712433b3967cbd8bcac68b",
+      "name": "Add success/failure logging to Task Scheduler jobs",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712433d986e5476af125d7",
+      "name": "Bug hunt social_media_automation.py",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7124349aa52ada3776768e",
+      "name": "Bug hunt zapier_automation.py",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71243471edb3eff4f49bc3",
+      "name": "Bug hunt buffer_automation.py",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7124348c36b1c39bf1a721",
+      "name": "Bug hunt inventory_tracker.py",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7124361db42f66b1aadd83",
+      "name": "Bug hunt daily_ops_automation.py",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7124373711a67b1299cbcb",
+      "name": "Bug hunt monthly_review_automation.py",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7124389e62f6bd1c35b508",
+      "name": "Create Automation_Runbook.md with troubleshooting",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712439ac1b186230233da2",
+      "name": "Commit all build changes to Torus_Ops",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71243af7d2f2ef044f7e57",
+      "name": "Verify git clean and synced",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712bbfb71d16375aadae83",
+      "name": "Create website folder structure and routing",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712bc288b7b8dc510594e1",
+      "name": "Integrate Zapier webhook into website",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712bc273c4f5853e1985e6",
+      "name": "Integrate HubSpot CRM into website",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712bc34298c12f247a9079",
+      "name": "Build vault sync status widget",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712bc4da97a343ac82c9f2",
+      "name": "Build Trello board widget",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712bc6638b14d57fd28dd6",
+      "name": "Add authentication to website",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712bc87100f06c531e53cd",
+      "name": "Connect website to Obsidian vault data",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712fac232ac172188213fb",
+      "name": "Set revenue milestone: $500/month from 3 streams",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a713b0fb03e554f1e2090e7",
+      "name": "Connect real payment/shop",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a713b1005cf8432cd8035b4",
+      "name": "Add product images",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a713b1071e6fea36475b9dc",
+      "name": "Add Google Analytics",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714261497a74d5c08db6fc",
+      "name": "Clean up Zapier Zaps in UI",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714aee198366506a3b45ad",
+      "name": "Share code via Shared_With_Pink bridge",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714fb9d84c90b29411e2ba",
+      "name": "Test order manager end-to-end",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714fbaac9805c2fba75613",
+      "name": "Choose payment processor",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a715c02adc83d498b8b907c",
+      "name": "Create Zapier order automation Zap",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a715c028ff8814d56f7d396",
+      "name": "Test inventory sync end-to-end",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a715c0371fe26b9eb72983d",
+      "name": "Set up Wave Accounting",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a715f710f00a09c3ceb52f9",
+      "name": "Set up Torus crew communications system",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a715f7223aa117f6248b4ed",
+      "name": "End-to-end verification of all Torus systems",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a715f72854c6771d39e7068",
+      "name": "Build Torus Discord bots and activate",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73a59f67b05b66e298c7c9",
+      "name": "\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1 Add toruscoffeecompany to VOIDPirateTrade void-crew team",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73e04a2c2bbdf27b302dfe",
+      "name": "\u26a1 [P2] Precision Boost Overdrive / Curve Optimizer",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a741fcac4848fdd6b15f890",
+      "name": "\u2705 FIXED: torus-backup container started",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7425296ba4d189552269e9",
+      "name": "[P2] Verify all Windows Task Scheduler jobs point to real scripts",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74252ab0dedd42382fd7dc",
+      "name": "[P2] Run functional tests on automation scripts",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74252bd046248f139d03ec",
+      "name": "[P3] Obsidian vault audit report + remediation",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74b2327009cfd19cf4cedf",
+      "name": "\u2705 FIXED: torus-backup container started",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74b2334a6b2174ff92427b",
+      "name": "\u2705 FIXED: Prometheus scrape config cleaned",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a34fc2af9c41aa979789",
+      "name": "New Vendor Onboarding Checklist",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a34af3ff4d1dbad1a5d5",
+      "name": "Prepare Monthly Financial Summary",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a34c35d89311b60c3cb1",
+      "name": "Weekly Inventory Count",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70b75c8eb09699eac6d51e",
+      "name": "Link social media accounts to vault",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c2e82e09b1a0974ab913",
+      "name": "Draft vendor applications \u2014 Iowa City + Cedar Rapids + all markets",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c2e98ca3bfb0ad902c5b",
+      "name": "Link social media accounts \u2014 Facebook + Pinterest handles",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70dc395f89fdc65e317243",
+      "name": "Holiday Market Prep - Q4 2026",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70da79f9c343975b0d70a8",
+      "name": "Vendor Pricing Sheet - Complete",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70da7a9863bd022c98fb5c",
+      "name": "Website Content - About Page",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70da7a476d98a030620c9c",
+      "name": "Website Content - Product Descriptions",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70da7bc6d7955609b51884",
+      "name": "Website Content - Legal Pages",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70da7ebb27e2061e6d0d33",
+      "name": "Send vendor pricing sheet to markets",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70da7e81e778646cc01051",
+      "name": "Publish website content",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70da7f61b451cfa8e0abd9",
+      "name": "Review and finalize all brand assets",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f8cb64512854cb6cca1e",
+      "name": "Enable obsidian-git in community-plugins.json",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70dc3a3f6cebc0d3940f6c",
+      "name": "Finalize vendor applications",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70dc3e7f9c2cba54f98c6c",
+      "name": "Weekly Inventory Count",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f1b19ee74c249be024f0",
+      "name": "Setup Instagram business account",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f3a76619ffd30e8a133f",
+      "name": "Setup Instagram business account",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f8ce24dcd595547c33c6",
+      "name": "Setup Zapier account",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f8cef53e66596583fb68",
+      "name": "Setup Buffer account",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f8d11c23b84460a50564",
+      "name": "Schedule first week of social posts",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70fd6168484eac3e8f306a",
+      "name": "Setup Meta Business Suite",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71089111eac7787a2f0ca0",
+      "name": "Import vendor/customer contacts into HubSpot",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73e0bdfa6e0cdc6b681f29",
+      "name": "\ud83d\udce8 RE PINKCADY VIRTUALIZATION SETUP PLAN 20260806T002500Z misspink.msg",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73f5a03041dff74d8e234f",
+      "name": "\ud83d\udce8 RE PINKCADY BIOS SVM XMP STEPS 20260806T011500Z misspink.msg",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7108915c4b0cc56b3e32fc",
+      "name": "Setup Meta Business Suite for Facebook/Instagram",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d0b5637c346376c61fa",
+      "name": "Setup Meta Business Suite for Facebook/Instagram",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d0db4afc1142bfc8b01",
+      "name": "Get HubSpot API key from settings",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70d704b74aaaa1fab457b7",
+      "name": "Q3 2026 Campaign: Cedar Rapids Farmers Market",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70dc3997cbc166ca55ba26",
+      "name": "Vintage Market Days Eastern Iowa",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73940541f38ea5c4be3ac3",
+      "name": "\u2705 RESOLVED: Sir Azure chose SQUIDSTATION path",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a738f52fe501b7b689024e0",
+      "name": "\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1 Invite Sir Green + Sir Azure as limited toruscoffeecompany collaborators",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a738887f6650cda2babf052",
+      "name": "\ud83d\udc65 Grant Sir Green/Sir Azure limited access to toruscoffeecompany GitHub",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a737337b808313b8942d6b9",
+      "name": "\ud83e\udded Track Miss Pink persona/lore + Cosmos Library updates",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a737f7d7b5c0791fcc84893",
+      "name": "\ud83d\udd14 End-to-end inbox automation test: Pink + Sir Green + Sir Azure",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a739d222bd6e3516ce48b2a",
+      "name": "\u2705 RESOLVED: Sir Azure chose SQUIDSTATION path",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70d70932d8f515c7d9fdcd",
+      "name": "Vendor Booth Backdrop - Generate Artwork",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714fb51d44768a178a631c",
+      "name": "Sir Azure build template created",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a717fb8e671d706999c4fa8",
+      "name": "SQUIDSTATION container list verified",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714aeef2c81fde2c8d5e12",
+      "name": "Audit Sir Azure build template",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714fb6c7549ce4c7365bbe",
+      "name": "Create Discord app for Sir Azure",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714fb601fc85b68a98e53e",
+      "name": "\u2705 RESOLVED: Sir Azure chose SQUIDSTATION path",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714fb7434d7ffe092a2d54",
+      "name": "\u2705 RESOLVED: Sir Azure chose SQUIDSTATION path",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714fb7d843507b468344c8",
+      "name": "Create Sir Azure Discord assets",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714fb9d0b9c200d627d98b",
+      "name": "Finalize product photos",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a715c015bc57d1fa1f5f4fe",
+      "name": "Product photo strategy without Sir Azure",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73a519eb4401aa2e6100e9",
+      "name": "\ud83c\udfa8 Sir Azure: confirm asset pipeline paths and brand specs",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73a59b92680cb03966b55b",
+      "name": "\ud83c\udfa8 Sir Azure: confirm asset pipeline paths and brand specs",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73a59d2164c17fb971a96c",
+      "name": "\ud83d\udce1 Sir Azure: confirm connectivity state and Docker needs",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73a92ff0befa0e5f636e54",
+      "name": "\u2705 RESOLVED: Sir Azure chose SQUIDSTATION path",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73a93022acc7b4ae6f9d60",
+      "name": "\u2705 RESOLVED: Sir Azure chose SQUIDSTATION path",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73b81f003a0a72cc1abf35",
+      "name": "\ud83c\udfa8 Sir Azure: confirm asset pipeline paths and brand specs",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73d74dbd6ba6cc5837485c",
+      "name": "\ud83d\udce8 FULL AUTOMATION BOOTSTRAP AND CREW COORDINATION 20260805T233900Z sirazure.msg",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73c1e00fdb1790cc4824fe",
+      "name": "\ud83d\udd17 Forward Sir Azure container requests to Sir Green",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73e04cf2e622126e932a1f",
+      "name": "\ud83d\udee1\ufe0f [P2] Windows Sandbox + Credential Guard",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73e04d15dc8df1b472c853",
+      "name": "\ud83d\udd11 [P2] NVENC worker for lightweight transcoding",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74258fccfb039be36a647b",
+      "name": "\ud83d\udce8 [INBOX] process sir azure inbox backlog sirazure 20260806",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7425927231f255194428b2",
+      "name": "\u2705 RESOLVED: Sir Azure chose SQUIDSTATION path",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74259d7c59347b551854ae",
+      "name": "\u2705 RESOLVED: Sir Azure chose SQUIDSTATION path",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a742d44d78b36791321db9a",
+      "name": "\ud83d\udce8 [INBOX] livesync peer and overlay preference sirazure 20260806",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74350fc812e192f7f71b0e",
+      "name": "\ud83d\udce8 [INBOX] miss gordon k8s jobs cronjobs sirazure 20260806",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74480ae9edf582f84e44dc",
+      "name": "\ud83d\udce8 [INBOX] sirazure final progress summary and asks sirazure 20260806",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74ab8625a22d6f60e63045",
+      "name": "\ud83d\udce8 [INBOX] sirazure final ooda summary sirazure 20260806",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74b234b82d00af67822d4d",
+      "name": "\u2705 RESOLVED: Sir Azure chose SQUIDSTATION path",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a739406661f65ccc2e16d1e",
+      "name": "\ud83d\udcac Sir Green: send Discord bot token + Torus Coffee server invite",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73940578b24bfdeb98c25e",
+      "name": "\ud83d\udd10 Sir Green: invite limited toruscoffeecompany collaborators",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a34f38aaf554bb9bb95f",
+      "name": "Setup Obsidian Vault",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a34b48dafeca2578e5df",
+      "name": "Setup Google Analytics",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a739d230cd2b4478364e076",
+      "name": "\ud83d\udc65 Sir Green: invite limited toruscoffeecompany collaborators",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71398e0a40ff9f1cad3ce7",
+      "name": "Deep vault audit completed",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a713ee48d4ca74b1ee0b99e",
+      "name": "Gordon caught Sir Green's overclaim",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714aed8d4f5ec325be3f3c",
+      "name": "Add PINKCADY network stats feed",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a715f7151a87ada35c6e1f6",
+      "name": "Notify Sir Green: Torus crew roster final",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71b2196b3c16f649e81b87",
+      "name": "Comms Bridge \u2014 Pinkcady Watcher Created",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a723f8eddfb7c2f2f5bf1eb",
+      "name": "Build Torus Coffee Company Discord bot for Torus Coffee Company only",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71b462b21cd08f9f3f6eb9",
+      "name": "Master OODA Execution Tasklist \u2014 P0-P3",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73a51af6fb6a570b4511f2",
+      "name": "\ud83d\udce1 Wire PINKCADY rig reporter to dashboard API",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73a51b79a8fd3abab36894",
+      "name": "\ud83d\udd10 Provide dashboard shared secret for X-Rig-Key",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73a59d654c39c648ec7880",
+      "name": "\ud83d\udce1 Wire PINKCADY rig reporter to dashboard API",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73a59e3df90efb6af79d6b",
+      "name": "\ud83d\udd10 Provide dashboard shared secret for X-Rig-Key",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73d3bc999e3bb7c1ec6ab2",
+      "name": "\ud83d\udce8 [INBOX] BUG HUNT DISCORD BOT SETUP AND VERIFICATION 20260805T232500Z sirgreen.msg",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73a92e52aa321976e9ed94",
+      "name": "\ud83d\udce1 Wire PINKCADY rig reporter to dashboard API",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73d3bdd3ef8f9aed5fc03c",
+      "name": "\ud83d\udce8 [INBOX] HARDWARE TAB LIVE AND OODA CYCLE RUNNING 20260805T232000Z sirgreen.msg",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73d3c0517180f99713d010",
+      "name": "\ud83d\udce8 [INBOX] OODA PROGRESS HARDWARE TAB AND OWNERSHIP LOCK 20260805T231000Z sirgreen.msg",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73bed2a4a83081bb23d379",
+      "name": "\ud83e\udded Fleet backend automation + TreasureMap linkage",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73d3cb3f0d88e420facc7c",
+      "name": "\ud83d\udce8 [INBOX] OFFLINE QUEUE MANAGER AND WINDOWS UPDATES 20260805T231000Z sirgreen.msg",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73bed272d0e9a75a4a3480",
+      "name": "\ud83d\udd0c Wire /api/fleet into dashboard panel",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73e04ca2b518341722a540",
+      "name": "\ud83d\udda5\ufe0f [P2] WSL2 distro + Docker CLI",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73e0bee66b93fabe129cfb",
+      "name": "\ud83d\udce8 RE PINKCADY VIRTUALIZATION SETUP PLAN 20260806T003000Z sirgreen.msg",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73f9d24e1c74eed8aa645e",
+      "name": "\ud83d\udcca [P2] Prometheus + Grafana fleet dashboard for Torus",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7408dfe86bf10d8caf2332",
+      "name": "\ud83d\udce8 SIR GREEN BOT AND WATCHER BOTH RUNNING END TO END BRIDGE VERIFIED 20260806T041200Z sirgreen.msg",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a741fca50f36e714b7a298d",
+      "name": "[P2] API auth + input validation",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74214103af6218adb382ec",
+      "name": "\u2705 FIXED: .env.example template created",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74226b1f9bc20e72623e1f",
+      "name": "[P2] Connect FleetWatcher/SirGreenBot/AutomationWatcher to dashboard",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74226c902c5500b52a1ceb",
+      "name": "[P3] Dashboard API auth + rate limiting",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7422a8dbca66ab6713d68a",
+      "name": "\ud83d\udce8 [INBOX] RE FULL AUTOMATION BOOTSTRAP AND CREW COORDINATION 20260806T005951Z sirgreen.msg",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74252b9998b1247a82cefa",
+      "name": "[P3] Add vault automation status reporting to dashboard",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74252b37ac382ea08b3da0",
+      "name": "[P3] Self-learning/self-correcting automation wrapper",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a742599f69fc5df2d809911",
+      "name": "\ud83d\udce8 [INBOX] SIR GREEN BOT AND WATCHER VERIFIED END TO END BRIDGE LIVE 20260806T041200Z sirgreen.msg",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7427775f9c237ef495088a",
+      "name": "\ud83d\udce8 [INBOX] miss gordon review action plan sirgreen 20260806",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a742ad6fae85c30ee0422b5",
+      "name": "\ud83d\udce8 ooda plugin automation update sirgreen 20260806T0624Z",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a742c03ad6fa19a4f3e130b",
+      "name": "\ud83d\udce8 [INBOX] ooda plugin automation update sirgreen 20260806T0624Z",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a742c05d94ca1f396de0f38",
+      "name": "\ud83d\udce8 [INBOX] ooda plugin automation complete sirgreen 20260806T0624Z",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a742f893c2da35d754ec648",
+      "name": "\ud83d\udce8 verify claimed changes and asks sirgreen 20260806T0645Z",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a7435104fa8b81e02c904d5",
+      "name": "\ud83d\udce8 [INBOX] verify claimed changes and asks sirgreen 20260806T0645Z",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a743512f2ac2a46a164f303",
+      "name": "\ud83d\udce8 [INBOX] miss gordon k8s jobs cronjobs sirgreen 20260806",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74480c4c57f905a1049d2a",
+      "name": "\ud83d\udce8 [INBOX] sirgreen final progress summary and asks sirgreen 20260806",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a744cb89860ca3dcfc04994",
+      "name": "\ud83d\udce8 [INBOX] sirgreen continuous tasklist live sirgreen 20260806",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74ab87a3fbe8c54ef95453",
+      "name": "\ud83d\udce8 [INBOX] sirgreen final ooda summary sirgreen 20260806",
+      "priority": "P2",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70d7064c086cda47655562",
+      "name": "Q1 2027 Campaign: Valentine's Day",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70d703a41398b6dd95f7e4",
+      "name": "Marketing Campaign Calendar 2026-2027",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70dc38b1d094fb7520c275",
+      "name": "Winter 2026 Venue Research",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70dc37fcf5d326ef051b4a",
+      "name": "Fall 2026 Venue Research",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71170e0c37debad5cd96d1",
+      "name": "Automation Alert",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a711b321045b3ad555d40f1",
+      "name": "Automation Alert",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a714fbba57781472bf136b6",
+      "name": "Review legal pages",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73bd4598c8945e541598fd",
+      "name": "\ud83d\udcc1 Confirm vault edit access for security/tools paths",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74214478afc713041996a6",
+      "name": "[P3] Webhooks + logs centralization",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a351c98f4292654148bc",
+      "name": "Review Obsidian Plugins",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a34911ff089693e043e2",
+      "name": "Staff Training Plan \u2014 Q4",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c2e9e871f4d561d1d35d",
+      "name": "Setup Google Analytics (GA4)",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c92da63c4219a335e3aa",
+      "name": "Create Brand Style Guide",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c92dc480e62400b29424",
+      "name": "Create Marketing Campaign Calendar",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c92f633aab641f597f6f",
+      "name": "Create Email Signature Graphics",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70cc2c813f2eea45f37bec",
+      "name": "Create Product Photo tracking spreadsheet",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70cc2ce18add7807410258",
+      "name": "Create Marketing Campaign Calendar",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70d70613fdbf67f920df70",
+      "name": "Email Signature Graphics - Miss Pink",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70d706a87b229beb981d9c",
+      "name": "Email Signature Graphics - Sara Jane",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70d707920c145749b2f4ed",
+      "name": "Product Photo Tracking Spreadsheet",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70da7db362387e490501eb",
+      "name": "Finalize email signatures for Gmail/Outlook",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70dc3b3d734a5d709c35f2",
+      "name": "Setup Google Analytics (GA4)",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70dc3ce8d914e66a89ebcc",
+      "name": "Create Supplier Agreement Template",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70fd5f36d61f648be9359c",
+      "name": "Create Free_Tools_Reference.md with all findings",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f1b281c817920ee595e8",
+      "name": "Create Pinterest business account",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f1b222a6bcea1ae81154",
+      "name": "Create/verify TikTok account",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f3a89af29722edde5267",
+      "name": "Create Pinterest business account",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71088e99bafbc680c241af",
+      "name": "Create Free_Tools_Reference.md with 2026 research",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f3a84e41187fc7023da2",
+      "name": "Create TikTok business account",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f3a93eaccbc40f76275b",
+      "name": "Create LinkedIn company page",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f3a95647e3d736bb9d81",
+      "name": "Update X/Twitter profile/banner",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f3aa96f6f549b354d773",
+      "name": "Update YouTube channel art",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70fd63d0d5590389cf4398",
+      "name": "Create Calendly account",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d0b00a317e0c600244b",
+      "name": "Create Pinterest business account @toruscoffeecompany",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d0b054d5707632b658a",
+      "name": "Create TikTok account @toruscoffeecompany",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d0c194aceae34b21f51",
+      "name": "Create LinkedIn company page: Torus Coffee Company LLC",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d0f316fa756a26b179e",
+      "name": "Update X/Twitter profile photo and banner",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a710d0f19ba000a6ad3c50b",
+      "name": "Update YouTube channel art",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712430c23652fc10741b14",
+      "name": "Create shared config/credentials loader",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712fa8b87992ca53526858",
+      "name": "Track flea market sales in Revenue_Stream_Plan.md",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712fa8b1e5ac88066e2dbf",
+      "name": "Track wholesale accounts in Revenue_Stream_Plan.md",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712fa9b9a2a4f8f045261c",
+      "name": "Track website orders in Revenue_Stream_Plan.md",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712fa9bf02acbd07393f67",
+      "name": "Track Amazon FBA/FBM sales in Revenue_Stream_Plan.md",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712fa97713201aff8593c9",
+      "name": "Track YouTube ad revenue in Revenue_Stream_Plan.md",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712faa3770fa51827b7073",
+      "name": "Track sponsorships/brand deals in Revenue_Stream_Plan.md",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712faa0a49729bce0cb0a5",
+      "name": "Track subscription box revenue in Revenue_Stream_Plan.md",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a712fabf7600ec68b50e1e3",
+      "name": "Track local delivery revenue in Revenue_Stream_Plan.md",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a715c00e6a6ed0d46d63774",
+      "name": "Set up Formspree for contact form",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a715c001d8423b2a0988108",
+      "name": "Finalize legal pages for review",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a3484d662eadb7d73be1",
+      "name": "Lease Commercial Space",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c2eb1cf10e9c2a502c4a",
+      "name": "Amazon GTIN exemption \u2014 prepare docs only",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c927f4468b0587d2a6df",
+      "name": "Product images \u2014 Neapolitan Orbit Cream Crunch (TCC-NOCC-200)",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c928bc93eb271c7ae735",
+      "name": "Product images \u2014 Orbit Cream Crunch (TCC-OCC-200)",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c928a958e047ece24d0b",
+      "name": "Product images \u2014 Apple Cinnamon Comets (TCC-ACC-115)",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c9283ce88eda267142c5",
+      "name": "Product images \u2014 Star-Dusted Banana Crunch (TCC-SDB-115)",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c929e723e4e90f94da44",
+      "name": "Product images \u2014 Aurora Berryalis (TCC-ARB-26)",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c929210ecc4a3cfe53bb",
+      "name": "Product images \u2014 Sour Aurora Bites (TCC-SAB-26)",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c92a45c5fbc4b69417ab",
+      "name": "Product images \u2014 Solar Strawberries (TCC-SS-05)",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c92bdddadbf13fd3ec0d",
+      "name": "Product images \u2014 Cosmic Bananas (TCC-CB-155)",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c92b0db3cff4cd93a2d0",
+      "name": "Product images \u2014 Aurora Bites (TCC-AB-26)",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c92c96bc4a26639b681f",
+      "name": "Product images \u2014 Apple Zephyr Chips (TCC-AZC-115)",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70cc2b4e8f1d0ad4bb8d6b",
+      "name": "Organize existing product photos into vault",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70d70464a1abbb00138471",
+      "name": "Q3 2026 Campaign: Iowa City Farmers Market",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70da7fcd2379a3f1dc482a",
+      "name": "Setup daily ops Task Scheduler jobs",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70dc3b948b8b9ae40b47fa",
+      "name": "Setup Customer CRM",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70dc3c5cd3fc4d731e3915",
+      "name": "Amazon GTIN exemption",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f3aaa5e9659c8bb799e1",
+      "name": "Post consistent content across platforms",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a742143059b59ffe6d2c68a",
+      "name": "[P2] TROUBLESHOOTING_GUIDE.md",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70cc2afd0a5550cc79a8f5",
+      "name": "Complete Brand Style Guide",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70d70788d98bbf077e9c8e",
+      "name": "Aurora Bites Photo Set - Complete Missing",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70d708c1a72f0f064d8e3d",
+      "name": "Sour Aurora Bites Photo Set - Complete Missing",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70d708501c31fd40a2080e",
+      "name": "Orbit Cream Crunch Photo Set - ALL PHOTOS",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70f8cb50d5e5c87c22ff3c",
+      "name": "Install Obsidian Git plugin",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71088c68341b4e6174adaa",
+      "name": "Repair C:\\Python314\\python.exe install",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a71088cd3e3537db248738f",
+      "name": "Install packages into C:\\Python314 cleanly",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70d705c5850f87134e7f01",
+      "name": "Q4 2026 Campaign: Holiday Season",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70a3516c798cc029da8056",
+      "name": "Review Task Scheduler Jobs",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70da7c2fc3cf3bedee3f6a",
+      "name": "Generate social templates with Sir Azure",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70c92ea7f6be7da92f7251",
+      "name": "Setup AI Art Pipeline (Sir Azure)",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a70d70a1505a9ebffa9ba17",
+      "name": "Sir Azure AI Media Pipeline Setup",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a713ee4facbe4cf808e7072",
+      "name": "Review Gordon's audit findings",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a739d24dae2a1953e91623c",
+      "name": "\ud83d\udd14 End-to-end inbox automation test: Pink + Sir Green + Sir Azure",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74214308ec02a3ab7779e5",
+      "name": "[P3] Kubernetes enablement on PINKCADY/SQUIDSTATION",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74276f0ec170ca9ad2e065",
+      "name": "\u2705 RESOLVED: Sir Azure chose SQUIDSTATION path",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74b184e69ba257109d9153",
+      "name": "\ud83d\udce8 [INBOX] DOCKER TRELLO AUTH AND LOCAL BUILD REQUEST 20260806 sirazure.msg",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74b29a4540834ebff53ce9",
+      "name": "\ud83d\udce8 [INBOX] sirazure docker deep dive request sirazure 20260806",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74b7dce8721b2a1d03f455",
+      "name": "\ud83d\udce8 [INBOX] sirazure docker deep dive response sirazure 20260806",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74b7ded796e13e1b72146e",
+      "name": "\ud83d\udce8 [INBOX] sirazure re docker urgent findings sirazure 20260806",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74b7df6169982b25eff6d1",
+      "name": "\ud83d\udce8 [INBOX] sirazure docker progress and actions sirazure 20260806",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74b7e0dfe2e5ed89f75a31",
+      "name": "\ud83d\udce8 [INBOX] ACCESS REPLY AND SECRET RETRIEVAL 20260806 sirazure.msg",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74b7e421b64d1290bb3df7",
+      "name": "\ud83d\udce8 [INBOX] SIR AZURE ACCESS AND DOCKER REPLY 20260806",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74b82a352406b3ef73f0e7",
+      "name": "\u2705 RESOLVED: Sir Azure chose SQUIDSTATION path",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74c47b7d005b51b8a922c8",
+      "name": "\ud83d\udce8 [INBOX] SQUIDSTATION DEPLOY STATUS 20260806 sirazure.msg",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a739d22f53de653cabed472",
+      "name": "\ud83d\udcac Sir Green: send Discord bot token + Torus Coffee server invite",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73bed35cdbcd4cbd8c9a9a",
+      "name": "\ud83e\uddea Dashboard test batch processing",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a73c8156b0f27b5cb62c00d",
+      "name": "\ud83d\udd0d #262 False-positive audit for dashboard counts",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a742590272c35be9fea6abc",
+      "name": "\ud83d\udce8 [INBOX] RE FULL AUTOMATION BOOTSTRAP AND CREW COORDINATION 20260806T005951Z sirgreen.msg",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74b29c3044b7700aa7eb10",
+      "name": "\ud83d\udce8 [INBOX] sirgreen docker deep dive urgent sirgreen 20260806",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74b7e548081f21ab1e24b1",
+      "name": "\ud83d\udce8 [INBOX] sirgreen docker progress and actions sirgreen 20260806",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74b82bde3ddc22ffc93bdc",
+      "name": "\ud83d\udce8 [INBOX] sirgreen docker fixes summary sirgreen 20260806",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74c4a42455eb616dd24d06",
+      "name": "\ud83d\udce8 [INBOX] sirgreen docker hub and dashboard request sirgreen 20260806",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    },
+    {
+      "id": "6a74ce2411677d88634894fb",
+      "name": "\ud83d\udce8 [INBOX] sirgreen void ops mirror request sirgreen 20260806",
+      "priority": "P3",
+      "reason": "No capacity this week"
+    }
+  ]
+}

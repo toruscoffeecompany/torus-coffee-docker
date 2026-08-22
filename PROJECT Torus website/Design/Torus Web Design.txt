@@ -1,0 +1,71 @@
+Privacy Policy
+
+Accessibility Statement
+
+Terms & Conditions
+
+Refund Policy
+
+Shipping Policy
+
+
+🌌 Torus Coffee Company Website Theme Guide
+✦ Theme Overview:
+The Torus Coffee Company website should feel like a stroll through a cozy, enchanted space emporium—part vintage bookshop, part candy alchemy lab, part celestial café. The design should balance clean minimalism with magical whimsy, evoking a space that’s warm, curious, and a little spellbound. It must appeal to both children and adults who are drawn to nostalgic treats, playful fantasy, and cosmic vibes.
+
+The theme is a blend of:
+
+Celestial + Witchy + Playful
+
+Minimalist layout with pops of color and sparkle
+
+Friendly, welcoming, and a little mysterious—like stepping into a cosmic candy spellbook.
+
+✦ Design Goals:
+Visual clarity: Easy-to-read product info, clean layout
+
+Brand immersion: Starry, magical accents without overwhelming the content
+
+Mobile-first responsive design
+
+Highlight the product experience: Fun names, unique textures, vibrant visuals
+
+✦ Suggested Color Palette:
+Color Name	Hex Code	Usage
+Midnight Indigo	#2A2D43	Backgrounds, headers, footers, large sections
+Stardust White	#F9F9F9	Main content background, text backgrounds
+Cosmic Lavender	#B49FCC	Buttons, borders, product cards
+Celestial Gold	#F6C177	Highlights, icons, hover elements
+Nebula Pink	#F18BA8	Accents, taglines, badges (e.g., “New!”)
+
+✦ Typography:
+Headings: Elegant with a touch of mystery
+Suggested Fonts: Playfair Display, Cormorant Garamond, or Yeseva One
+
+Body Text: Clean and modern sans-serif for readability
+Suggested Fonts: Lato, Quicksand, Inter, or Poppins
+
+✦ Visual Elements & Accents:
+Starbursts, constellations, moons, potion bottles, planetary rings
+
+Gentle floating animations or sparkles on hover
+
+Candies illustrated as cosmic objects (e.g., a gummy worm orbiting a star)
+
+✦ Layout & User Experience:
+Homepage: Featured product carousel, short brand story, product categories
+
+Shop Page: Filter by category (e.g., fruity, chocolatey, sour)
+
+Product Pages: Large product images, fun descriptions, texture details
+
+About Page: Magical brand story, founder vibe, photos from craft shows
+
+Contact: Simple form with playful call-to-action (e.g., “Cast a Message”)
+
+✦ Tone & Messaging:
+Friendly, enchanted, a little nerdy
+
+Use copy that evokes wonder, e.g., “Freeze-dried spells in every bag,” “From our cauldron to your cosmos,” etc.
+
+Product names and descriptions should feel like part of a magical universe

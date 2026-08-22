@@ -1,0 +1,148 @@
+[
+  {
+    "id": "6a712432839f43f287a0877b",
+    "short": "6a712432839f",
+    "name": "Fix any broken scheduled jobs",
+    "in_top10": false,
+    "labels": [
+      "P0"
+    ],
+    "action": "DONE",
+    "target": "6a70a32a723c0312a3d5fbb4",
+    "reason": "Scheduler scripts confirmed in scripts/ dir"
+  },
+  {
+    "id": "6a712bc6638b14d57fd28dd6",
+    "short": "6a712bc6638b",
+    "name": "Add authentication to website",
+    "in_top10": false,
+    "labels": [
+      "P0"
+    ],
+    "action": "ROUTE_SG",
+    "target": "6a74cbd679972be49ea46dae",
+    "reason": "Requires Docker Hub/PAT from Sir Green"
+  },
+  {
+    "id": "6a74252aa4669a765afe7b1d",
+    "short": "6a74252aa466",
+    "name": "[P2] Scan vault for broken wikilinks and duplicate names",
+    "in_top10": false,
+    "labels": [
+      "P0"
+    ],
+    "action": "ROUTE_P3",
+    "target": "6a70a32923622d3e00107d70",
+    "reason": "Vault scan paused per Captain directive \u2014 routed to P3 for later"
+  },
+  {
+    "id": "6a75890c6c69623853472e9e",
+    "short": "6a75890c6c69",
+    "name": "\ud83d\udd14 Alert automation: confirm Sir Green/Sir Azure read and act on inbox messages",
+    "in_top10": false,
+    "labels": [],
+    "action": "ROUTE_MP_INBOX",
+    "target": "6a75869a95f875e18db6c081",
+    "reason": "New alert/automation item \u2192 intake in Miss Pink's Inbox for classification"
+  },
+  {
+    "id": "6a75890e8dc27defd0a1ca9c",
+    "short": "6a75890e8dc2",
+    "name": "\ud83d\udce8 Auto-alert when new PINKCADY inbox messages arrive",
+    "in_top10": false,
+    "labels": [],
+    "action": "ROUTE_MP_INBOX",
+    "target": "6a75869a95f875e18db6c081",
+    "reason": "New alert/automation item \u2192 intake in Miss Pink's Inbox for classification"
+  },
+  {
+    "id": "6a7589103196cfb8339ed071",
+    "short": "6a7589103196",
+    "name": "\ud83d\udd14 Build inbox-to-Trello/GitHub alert automation",
+    "in_top10": false,
+    "labels": [],
+    "action": "ROUTE_MP_INBOX",
+    "target": "6a75869a95f875e18db6c081",
+    "reason": "New alert/automation item \u2192 intake in Miss Pink's Inbox for classification"
+  },
+  {
+    "id": "6a758912e26acc7f18cd72c5",
+    "short": "6a758912e26a",
+    "name": "\ud83d\udce8 [INBOX] RE HARDWARE TAB AND ISSUE OWNERSHIP ACK 20260805T233800Z misspink.msg",
+    "in_top10": false,
+    "labels": [],
+    "action": "ROUTE_MP_INBOX",
+    "target": "6a75869a95f875e18db6c081",
+    "reason": "New alert/automation item \u2192 intake in Miss Pink's Inbox for classification"
+  },
+  {
+    "id": "6a75891358c5c39aed7a8c1b",
+    "short": "6a75891358c5",
+    "name": "\ud83d\udce8 [INBOX] RE DISCORD BOT GITHUB ACCESS AND WINDOWS UPDATE REMINDER 20260805T2359",
+    "in_top10": false,
+    "labels": [],
+    "action": "ROUTE_MP_INBOX",
+    "target": "6a75869a95f875e18db6c081",
+    "reason": "New alert/automation item \u2192 intake in Miss Pink's Inbox for classification"
+  },
+  {
+    "id": "6a75891ad087b6a6374f14b6",
+    "short": "6a75891ad087",
+    "name": "\ud83d\udce8 [INBOX] sirazure security tools missing sirazure 20260806",
+    "in_top10": false,
+    "labels": [],
+    "action": "ROUTE_MP_INBOX",
+    "target": "6a75869a95f875e18db6c081",
+    "reason": "New alert/automation item \u2192 intake in Miss Pink's Inbox for classification"
+  },
+  {
+    "id": "6a75891b97c47cb667d90245",
+    "short": "6a75891b97c4",
+    "name": "\ud83d\udce8 [INBOX] sirgreen dashboard 502 regression sirgreen 20260806",
+    "in_top10": false,
+    "labels": [],
+    "action": "ROUTE_SG",
+    "target": "6a74cbd679972be49ea46dae",
+    "reason": "Dashboard routes owned by Sir Green"
+  },
+  {
+    "id": "6a75891c3bcf75d5aa770214",
+    "short": "6a75891c3bcf",
+    "name": "\ud83d\udce8 [INBOX] sirazure security deep dive summary sirazure 20260806",
+    "in_top10": false,
+    "labels": [],
+    "action": "ROUTE_MP_INBOX",
+    "target": "6a75869a95f875e18db6c081",
+    "reason": "New alert/automation item \u2192 intake in Miss Pink's Inbox for classification"
+  },
+  {
+    "id": "6a75891e312b9cc7ccbbfd00",
+    "short": "6a75891e312b",
+    "name": "\ud83d\udce8 [INBOX] sirgreen dashboard 502 second regression sirgreen 20260806",
+    "in_top10": false,
+    "labels": [],
+    "action": "ROUTE_SG",
+    "target": "6a74cbd679972be49ea46dae",
+    "reason": "Dashboard routes owned by Sir Green"
+  },
+  {
+    "id": "6a7589238a3983b8a50f08e8",
+    "short": "6a7589238a39",
+    "name": "\ud83d\udce8 [INBOX] sirazure squidstation deploy reply sirazure 20260806",
+    "in_top10": false,
+    "labels": [],
+    "action": "ROUTE_MP_INBOX",
+    "target": "6a75869a95f875e18db6c081",
+    "reason": "New alert/automation item \u2192 intake in Miss Pink's Inbox for classification"
+  },
+  {
+    "id": "6a75899de72bd0cf31beb36f",
+    "short": "6a75899de72b",
+    "name": "Test Critical System Alert",
+    "in_top10": false,
+    "labels": [],
+    "action": "ROUTE_MP_INBOX",
+    "target": "6a75869a95f875e18db6c081",
+    "reason": "New alert/automation item \u2192 intake in Miss Pink's Inbox for classification"
+  }
+]

@@ -1,0 +1,175 @@
+2026-08-03 18:29:53,367 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:29:54,012 | WARNING | Attempt 1/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "username" on type "Channel". Did you mean "name" or "service"?
+2026-08-03 18:29:54,012 | INFO | Retrying in 2s...
+2026-08-03 18:29:56,272 | WARNING | Attempt 2/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "username" on type "Channel". Did you mean "name" or "service"?
+2026-08-03 18:29:56,272 | INFO | Retrying in 4s...
+2026-08-03 18:30:00,493 | WARNING | Attempt 3/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "username" on type "Channel". Did you mean "name" or "service"?
+2026-08-03 18:30:00,494 | ERROR | All 3 attempts failed for graphql_request
+2026-08-03 18:30:00,494 | ERROR | Buffer status check failed: Buffer GraphQL errors: Cannot query field "username" on type "Channel". Did you mean "name" or "service"?
+2026-08-03 18:30:00,643 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:30:01,063 | WARNING | Attempt 1/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "username" on type "Channel". Did you mean "name" or "service"?
+2026-08-03 18:30:01,063 | INFO | Retrying in 2s...
+2026-08-03 18:30:03,259 | WARNING | Attempt 2/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "username" on type "Channel". Did you mean "name" or "service"?
+2026-08-03 18:30:03,260 | INFO | Retrying in 4s...
+2026-08-03 18:30:07,430 | WARNING | Attempt 3/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "username" on type "Channel". Did you mean "name" or "service"?
+2026-08-03 18:30:07,430 | ERROR | All 3 attempts failed for graphql_request
+2026-08-03 18:30:07,566 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:30:36,583 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:30:37,042 | WARNING | Attempt 1/3 failed for graphql_request: Buffer GraphQL errors: Variable "$input" got invalid value { first: 20 }; Field "organizationId" of required type "OrganizationId!" was not provided., Variable "$input" got invalid value { first: 20 }; Field "first" is not defined by type "ChannelsInput".
+2026-08-03 18:30:37,042 | INFO | Retrying in 2s...
+2026-08-03 18:30:39,294 | WARNING | Attempt 2/3 failed for graphql_request: Buffer GraphQL errors: Variable "$input" got invalid value { first: 20 }; Field "organizationId" of required type "OrganizationId!" was not provided., Variable "$input" got invalid value { first: 20 }; Field "first" is not defined by type "ChannelsInput".
+2026-08-03 18:30:39,294 | INFO | Retrying in 4s...
+2026-08-03 18:30:43,470 | WARNING | Attempt 3/3 failed for graphql_request: Buffer GraphQL errors: Variable "$input" got invalid value { first: 20 }; Field "organizationId" of required type "OrganizationId!" was not provided., Variable "$input" got invalid value { first: 20 }; Field "first" is not defined by type "ChannelsInput".
+2026-08-03 18:30:43,470 | ERROR | All 3 attempts failed for graphql_request
+2026-08-03 18:30:43,470 | ERROR | Buffer status check failed: Buffer GraphQL errors: Variable "$input" got invalid value { first: 20 }; Field "organizationId" of required type "OrganizationId!" was not provided., Variable "$input" got invalid value { first: 20 }; Field "first" is not defined by type "ChannelsInput".
+2026-08-03 18:30:43,623 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:30:43,878 | WARNING | Attempt 1/3 failed for graphql_request: Buffer GraphQL errors: Variable "$input" got invalid value { first: 20 }; Field "organizationId" of required type "OrganizationId!" was not provided., Variable "$input" got invalid value { first: 20 }; Field "first" is not defined by type "ChannelsInput".
+2026-08-03 18:30:43,878 | INFO | Retrying in 2s...
+2026-08-03 18:30:46,094 | WARNING | Attempt 2/3 failed for graphql_request: Buffer GraphQL errors: Variable "$input" got invalid value { first: 20 }; Field "organizationId" of required type "OrganizationId!" was not provided., Variable "$input" got invalid value { first: 20 }; Field "first" is not defined by type "ChannelsInput".
+2026-08-03 18:30:46,095 | INFO | Retrying in 4s...
+2026-08-03 18:30:50,269 | WARNING | Attempt 3/3 failed for graphql_request: Buffer GraphQL errors: Variable "$input" got invalid value { first: 20 }; Field "organizationId" of required type "OrganizationId!" was not provided., Variable "$input" got invalid value { first: 20 }; Field "first" is not defined by type "ChannelsInput".
+2026-08-03 18:30:50,269 | ERROR | All 3 attempts failed for graphql_request
+2026-08-03 18:30:50,406 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:31:51,325 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:31:51,775 | WARNING | Attempt 1/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "me" on type "Query".
+2026-08-03 18:31:51,775 | INFO | Retrying in 2s...
+2026-08-03 18:31:53,959 | WARNING | Attempt 2/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "me" on type "Query".
+2026-08-03 18:31:53,959 | INFO | Retrying in 4s...
+2026-08-03 18:31:58,146 | WARNING | Attempt 3/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "me" on type "Query".
+2026-08-03 18:31:58,147 | ERROR | All 3 attempts failed for graphql_request
+2026-08-03 18:31:58,147 | ERROR | Buffer status check failed: Buffer GraphQL errors: Cannot query field "me" on type "Query".
+2026-08-03 18:31:58,328 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:31:58,583 | WARNING | Attempt 1/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "me" on type "Query".
+2026-08-03 18:31:58,583 | INFO | Retrying in 2s...
+2026-08-03 18:32:00,785 | WARNING | Attempt 2/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "me" on type "Query".
+2026-08-03 18:32:00,786 | INFO | Retrying in 4s...
+2026-08-03 18:32:04,947 | WARNING | Attempt 3/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "me" on type "Query".
+2026-08-03 18:32:04,947 | ERROR | All 3 attempts failed for graphql_request
+2026-08-03 18:32:05,116 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:54:57,927 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 18:56:15,588 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:56:16,129 | WARNING | Attempt 1/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "me" on type "Query".
+2026-08-03 18:56:16,129 | INFO | Retrying in 2s...
+2026-08-03 18:56:18,376 | WARNING | Attempt 2/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "me" on type "Query".
+2026-08-03 18:56:18,376 | INFO | Retrying in 4s...
+2026-08-03 18:56:22,611 | WARNING | Attempt 3/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "me" on type "Query".
+2026-08-03 18:56:22,611 | ERROR | All 3 attempts failed for graphql_request
+2026-08-03 18:56:22,611 | ERROR | Buffer status check failed: Buffer GraphQL errors: Cannot query field "me" on type "Query".
+2026-08-03 18:56:22,756 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:56:23,084 | WARNING | Attempt 1/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "me" on type "Query".
+2026-08-03 18:56:23,085 | INFO | Retrying in 2s...
+2026-08-03 18:56:25,262 | WARNING | Attempt 2/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "me" on type "Query".
+2026-08-03 18:56:25,262 | INFO | Retrying in 4s...
+2026-08-03 18:56:29,430 | WARNING | Attempt 3/3 failed for graphql_request: Buffer GraphQL errors: Cannot query field "me" on type "Query".
+2026-08-03 18:56:29,430 | ERROR | All 3 attempts failed for graphql_request
+2026-08-03 18:56:29,564 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 18:57:12,458 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:57:12,977 | WARNING | Attempt 1/3 failed for graphql_request: Buffer GraphQL errors: Variable "$organizationId" of type "ID!" used in position expecting type "OrganizationId!".
+2026-08-03 18:57:12,977 | INFO | Retrying in 2s...
+2026-08-03 18:57:15,153 | WARNING | Attempt 2/3 failed for graphql_request: Buffer GraphQL errors: Variable "$organizationId" of type "ID!" used in position expecting type "OrganizationId!".
+2026-08-03 18:57:15,154 | INFO | Retrying in 4s...
+2026-08-03 18:57:19,317 | WARNING | Attempt 3/3 failed for graphql_request: Buffer GraphQL errors: Variable "$organizationId" of type "ID!" used in position expecting type "OrganizationId!".
+2026-08-03 18:57:19,317 | ERROR | All 3 attempts failed for graphql_request
+2026-08-03 18:57:19,317 | ERROR | Buffer status check failed: Buffer GraphQL errors: Variable "$organizationId" of type "ID!" used in position expecting type "OrganizationId!".
+2026-08-03 18:57:19,444 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:57:19,757 | WARNING | Attempt 1/3 failed for graphql_request: Buffer GraphQL errors: Variable "$organizationId" of type "ID!" used in position expecting type "OrganizationId!".
+2026-08-03 18:57:19,757 | INFO | Retrying in 2s...
+2026-08-03 18:57:21,928 | WARNING | Attempt 2/3 failed for graphql_request: Buffer GraphQL errors: Variable "$organizationId" of type "ID!" used in position expecting type "OrganizationId!".
+2026-08-03 18:57:21,929 | INFO | Retrying in 4s...
+2026-08-03 18:57:26,108 | WARNING | Attempt 3/3 failed for graphql_request: Buffer GraphQL errors: Variable "$organizationId" of type "ID!" used in position expecting type "OrganizationId!".
+2026-08-03 18:57:26,108 | ERROR | All 3 attempts failed for graphql_request
+2026-08-03 18:57:42,070 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:57:43,055 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:59:08,123 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 18:59:08,788 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:02:34,521 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:02:35,335 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:15:07,350 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:15:08,294 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:15:08,944 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:15:48,525 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:15:49,478 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:15:50,347 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:15:51,134 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:17:04,202 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:17:04,940 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:17:05,905 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:17:06,927 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:17:07,763 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:22:50,874 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:22:51,886 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:22:53,246 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:22:54,063 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:28:04,963 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:28:05,856 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:29:10,249 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:29:11,036 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:29:49,899 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:29:50,732 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:30:51,270 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:30:52,035 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:31:41,863 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:31:42,544 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:33:05,150 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:33:05,845 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:38:33,206 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:38:33,972 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 19:56:40,847 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 19:56:41,618 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 20:06:50,573 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 20:06:51,383 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 20:29:23,143 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 20:29:24,292 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 20:36:45,561 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 20:36:46,336 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 21:25:27,433 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 21:25:28,249 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 22:26:28,911 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 22:26:29,763 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 22:28:21,917 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 22:28:22,636 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 22:47:25,666 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 22:47:26,400 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 22:49:07,726 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 22:49:08,457 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 22:52:15,818 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 22:52:16,549 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 22:55:59,774 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 22:56:00,607 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 22:56:49,786 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 22:56:50,739 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 22:57:38,077 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 22:57:38,862 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 22:57:50,682 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 22:57:50,800 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 22:58:13,136 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 22:58:13,934 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 22:58:22,262 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 22:58:22,991 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 22:58:23,054 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 22:58:23,768 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 22:58:25,055 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 22:58:25,842 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 22:58:54,512 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 22:58:55,299 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 22:59:33,262 | WARNING | Config not found: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\trello_credentials.json
+2026-08-03 22:59:33,965 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 22:59:36,004 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 23:01:15,788 | WARNING | Config not found: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\trello_credentials.json
+2026-08-03 23:01:16,470 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 23:01:18,484 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 23:01:26,123 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 23:01:27,008 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 23:02:20,836 | WARNING | Config not found: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\trello_credentials.json
+2026-08-03 23:02:21,547 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 23:02:23,746 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 23:02:31,438 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 23:02:32,177 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 23:03:12,836 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 23:03:13,560 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 23:06:04,393 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 23:06:05,121 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 23:06:55,525 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 23:06:56,252 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===
+2026-08-03 23:10:55,098 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===
+2026-08-03 23:10:55,858 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===

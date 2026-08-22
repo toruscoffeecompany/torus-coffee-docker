@@ -1,0 +1,101 @@
+{
+  "timestamp": "2026-08-12T16:03:27Z",
+  "torus_ops": {
+    "open": 34,
+    "sg_only": 3,
+    "mp_only": 10,
+    "sa_only": 1,
+    "cross": 1,
+    "unlabeled": 19
+  },
+  "void_ops": {
+    "open": 1050,
+    "bugs": 714,
+    "deploy": 336,
+    "closed": 50,
+    "closed_bugs": 36
+  },
+  "tm_api": {
+    "account": {
+      "balance": 200.0,
+      "daily_pnl": 0,
+      "open_trades": 0,
+      "total_pnl": 0
+    },
+    "download_status": {},
+    "fund_progress": {
+      "completed": 0,
+      "current_ticker": "",
+      "last_updated": null,
+      "percent": 0.0,
+      "phase": "",
+      "running": false,
+      "total": 0
+    },
+    "hardware": {
+      "cpu_pct": 0.0,
+      "disk_free_gb": 935.2,
+      "net_recv_kbps": 0,
+      "net_send_kbps": 0,
+      "pc_name": "NINJAFOO",
+      "profile": "unknown",
+      "ram_available": 13.6,
+      "ram_pct": 12.7
+    },
+    "kill_learning": false,
+    "kill_paper": false,
+    "kill_trading": true,
+    "last_AUGUR_at": "2026-08-11T01:30:12.270256+00:00",
+    "last_sync_at": "2026-08-12T04:51:13.807457+00:00",
+    "latest_augur_run": null,
+    "learner": {
+      "auto_adjustments": 0,
+      "current_task": "Idle",
+      "last_learned": null,
+      "last_learned_at": null,
+      "last_updated": null,
+      "next_review": null,
+      "proposals_pending": 0,
+      "running": false,
+      "total_proposals": 0
+    },
+    "panic_active": false,
+    "paper_mode": true,
+    "phase1_progress": {
+      "ai_learning": 50,
+      "dashboard": 65,
+      "data_market": 70,
+      "infrastructure": 85,
+      "overall": 47,
+      "risk_management": 60,
+      "schwab_api": 0,
+      "security": 40,
+      "signal_engine": 55
+    },
+    "proposals_pending": 0,
+    "signals": [],
+    "sim_lifetime_count": 0,
+    "status": "running",
+    "timestamp": "2026-08-12T16:03:34.804292",
+    "version": "0.5.33.28.38",
+    "what_ai_needs": [
+      "Need 30 more paper trades before Yellow Belt review",
+      "Sector rotation data missing \u2014 download fundamentals to score sectors"
+    ]
+  },
+  "api_missing_sections": [
+    "ships",
+    "ship_details",
+    "latency",
+    "services",
+    "containers",
+    "network",
+    "vault",
+    "opsec",
+    "comms",
+    "cipher",
+    "tools",
+    "internal_services",
+    "tailscale_status"
+  ]
+}

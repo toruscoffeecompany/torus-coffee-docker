@@ -1,0 +1,72 @@
+{
+  "TCC-NOCC-200": {
+    "name": "Neapolitan Orbit Cream Crunch",
+    "price": 0,
+    "inStock": false,
+    "qty": 0,
+    "reorderPoint": 10
+  },
+  "TCC-OCC-200": {
+    "name": "Orbit Cream Crunch",
+    "price": 0,
+    "inStock": false,
+    "qty": 0,
+    "reorderPoint": 10
+  },
+  "TCC-SDB-115": {
+    "name": "Star-Dusted Banana Crunch",
+    "price": 0,
+    "inStock": false,
+    "qty": 0,
+    "reorderPoint": 15
+  },
+  "TCC-ACC-115": {
+    "name": "Apple Cinnamon Comets",
+    "price": 0,
+    "inStock": false,
+    "qty": 0,
+    "reorderPoint": 15
+  },
+  "TCC-ARB-26": {
+    "name": "Aurora Berryalis",
+    "price": 0,
+    "inStock": false,
+    "qty": 0,
+    "reorderPoint": 20
+  },
+  "TCC-SAB-26": {
+    "name": "Sour Aurora Bites",
+    "price": 0,
+    "inStock": false,
+    "qty": 0,
+    "reorderPoint": 20
+  },
+  "TCC-SS-05": {
+    "name": "Solar Strawberries",
+    "price": 0,
+    "inStock": false,
+    "qty": 0,
+    "reorderPoint": 15
+  },
+  "TCC-CB-155": {
+    "name": "Cosmic Bananas",
+    "price": 0,
+    "inStock": false,
+    "qty": 0,
+    "reorderPoint": 15
+  },
+  "TCC-AB-26": {
+    "name": "Aurora Bites",
+    "price": 0,
+    "inStock": false,
+    "qty": 0,
+    "reorderPoint": 20
+  },
+  "TCC-AZC-115": {
+    "name": "Apple Zephyr Chips",
+    "price": 0,
+    "inStock": false,
+    "qty": 0,
+    "reorderPoint": 15
+  }
+}

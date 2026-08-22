@@ -1,0 +1,38 @@
+[
+  {
+    "name": "WHITe WHALE: /api/whale returns HTML not JSON \u2014 unlock flow broken",
+    "priority": "P0",
+    "card_id": "6a7c17e5e2fc66914491c838",
+    "filed_at": "2026-08-12T06:51:13Z"
+  },
+  {
+    "name": "DASHBOARD: 8 redundant fetch('/api/status) calls every 3s \u2014 API rate limit storm",
+    "priority": "P2",
+    "card_id": "6a7c17e89a5d1a48a20687a6",
+    "filed_at": "2026-08-12T06:51:13Z"
+  },
+  {
+    "name": "ALERTS: /api/alerts returns empty [] \u2014 alert panel broken",
+    "priority": "P1",
+    "card_id": "6a7c17eb23bdc0a03220701e",
+    "filed_at": "2026-08-12T06:51:13Z"
+  },
+  {
+    "name": "TOOLS: Dashboard applyTools() expects tools.classification_levels \u2014 API schema mismatch",
+    "priority": "P2",
+    "card_id": "6a7c17eef4918c79a371129b",
+    "filed_at": "2026-08-12T06:51:13Z"
+  },
+  {
+    "name": "OPSEC: Chinese content detection broken \u2014 no d.opsec in API response",
+    "priority": "P2",
+    "card_id": "6a7c17f170e1001fffb04e07",
+    "filed_at": "2026-08-12T06:51:13Z"
+  },
+  {
+    "name": "DASHBOARD: Dual-refresh race condition \u2014 10s full + 3s partial updates",
+    "priority": "P2",
+    "card_id": "6a7c17f4428de7f0a52972e5",
+    "filed_at": "2026-08-12T06:51:13Z"
+  }
+]

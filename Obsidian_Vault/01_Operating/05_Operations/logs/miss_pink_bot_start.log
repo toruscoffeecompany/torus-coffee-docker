@@ -1,0 +1,33 @@
+[2026-08-07 18:24:40] [INFO    ] discord.client: logging in using static token
+Traceback (most recent call last):
+  File "D:\Work\Torus Coffee Company LLC\02_Business_Operations\Communications\Discord\miss_pink_bot\bot.py", line 156, in <module>
+    raise SystemExit(run_bot())
+                     ~~~~~~~^^
+  File "D:\Work\Torus Coffee Company LLC\02_Business_Operations\Communications\Discord\miss_pink_bot\bot.py", line 151, in run_bot
+    bot.run(DISCORD_BOT_TOKEN)
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\torus\AppData\Local\hermes\hermes-agent\venv\Lib\site-packages\discord\client.py", line 933, in run
+    asyncio.run(runner())
+    ~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Python314\Lib\asyncio\runners.py", line 205, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\runners.py", line 128, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\torus\AppData\Local\hermes\hermes-agent\venv\Lib\site-packages\discord\client.py", line 922, in runner
+    await self.start(token, reconnect=reconnect)
+  File "C:\Users\torus\AppData\Local\hermes\hermes-agent\venv\Lib\site-packages\discord\client.py", line 850, in start
+    await self.login(token)
+  File "C:\Users\torus\AppData\Local\hermes\hermes-agent\venv\Lib\site-packages\discord\client.py", line 679, in login
+    data = await self.http.static_login(token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\torus\AppData\Local\hermes\hermes-agent\venv\Lib\site-packages\discord\http.py", line 844, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\torus\AppData\Local\hermes\hermes-agent\venv\Lib\site-packages\discord\http.py", line 714, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being blocked from accessing our API temporarily due to exceeding global rate limits. Refer to https://discord.com/developers/docs/topics/rate-limits for more information.

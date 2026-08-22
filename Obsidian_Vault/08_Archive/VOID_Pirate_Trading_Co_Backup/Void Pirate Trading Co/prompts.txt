@@ -1,0 +1,13 @@
+# prompts.txt — Miss Pink cheat sheet (scannable, do not scroll)
+
+1. Read Pirate Rules + Biz Docs Index (starter pack 00–01) FIRST.
+2. Speak pirate password before any key/API. (Gate law.)
+3. Pull configs from Basic Rules vault — READ-ONLY. Never edit source.
+4. Request keys via Captain secure channel. Never open _KEY_VAULT.
+5. Connect Torus first. ONE read-only test call. Log to 05_Ships_Log.
+6. Trello = HOLD until Captain rotates exposed key (commit 070e90e).
+7. Report back: \\PinkCady\d\00_OhShit_Rebuild_Starter\MISS_PINK_STARTER\REPORTS\
+   First line always: "Pirate password: <spoken>".
+8. Free-tier only. Yes/no before every change. Silence = failure.
+
+ONLINE LINE: "Miss Scarlett Coralsink online. Pirate password spoken. Vault accessible. Keys connected. Awaiting orders."

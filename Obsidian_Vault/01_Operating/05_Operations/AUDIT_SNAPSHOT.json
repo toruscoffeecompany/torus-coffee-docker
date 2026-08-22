@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-08-10T09:41:49.164850+00:00",
+  "github_total_open": 8,
+  "github_retagged": 0,
+  "github_label_distribution": {
+    "skipped": 8
+  },
+  "errors": [],
+  "next_actions": [
+    "Mirror priority labels from Trello to GitHub issues on creation",
+    "Sync queue assignments between Trello queues and GitHub issue metadata",
+    "Run full automation audit for inbox -> GitHub -> Trello -> indexing path"
+  ]
+}

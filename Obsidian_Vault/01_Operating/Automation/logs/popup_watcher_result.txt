@@ -1,0 +1,5 @@
+=== POPUP WATCHER STARTED ===
+Monitoring: C:\Users\torus\AppData\Local\Temp
+
+[01:50:11] ⚡ cmd.exe DETECTED — killing
+=== WATCHER COMPLETE ===

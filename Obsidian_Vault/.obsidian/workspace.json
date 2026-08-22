@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "f0a32115e9fda3e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ce520a0ad34bd31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "971ebe99ecf78864",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59ba2159199f5e3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2df3da6c909c66c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa938e5664241f7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "39186ec03c827692",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d66eef3cc11c2fee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cffa5d4aadb81b9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd2efbf870fd8281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a9b5f5a6eb22910",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0e39d6447531326f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "32d23c180e0c1eea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ae9350439ffdfa32",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "604aa20ae264213b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "506f7f170e839fcb",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "footnotes"
+            }
+          },
+          {
+            "id": "321962fefdb0ee50",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "e928dcff32a9c8c4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "be2275ccc7617591",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-importer:Import notes": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Show Customization sync": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false
+    }
+  },
+  "active": "971ebe99ecf78864",
+  "lastOpenFiles": [
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/out/_next/static/chunks/pages/_error-7688f4c9a69e67c8.js",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/out/_next/static/chunks/pages/_app-a66f9296699c5863.js",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/out/_next/static/chunks/app/_not-found",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/out/_next/static/chunks/app/products",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/out/_next/static/chunks/app/page-3a06410a52a81423.js",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/out/_next/static/chunks/app/legal",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/out/_next/static/chunks/app/layout-4dccc77955784e96.js",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/out/_next/static/chunks/app/contact",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/out/_next/static/chunks/app/about",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/node_modules/uri-js/dist/esnext/schemes/wss.js.map",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/node_modules/uri-js/dist/esnext/schemes/wss.js",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/node_modules/next/dist/compiled/regenerator-runtime/README.md",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/node_modules/next/dist/compiled/react-refresh/README.md",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/node_modules/next/dist/compiled/react-is/README.md",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/node_modules/@typescript-eslint/visitor-keys/node_modules/eslint-visitor-keys/README.md",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/node_modules/@typescript-eslint/typescript-estree/node_modules/minimatch/README.md",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/node_modules/@typescript-eslint/typescript-estree/node_modules/minimatch/LICENSE.md",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/node_modules/@typescript-eslint/typescript-estree/node_modules/brace-expansion/README.md",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/node_modules/@typescript-eslint/typescript-estree/node_modules/balanced-match/README.md",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/node_modules/@typescript-eslint/typescript-estree/node_modules/balanced-match/LICENSE.md",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/node_modules/@typescript-eslint/eslint-plugin/node_modules/ignore/README.md",
+    "Obsidian_Vault/06_Website/website_legacy_2026-08-04/node_modules/@eslint-community/eslint-utils/node_modules/eslint-visitor-keys/README.md",
+    "Obsidian_Vault/06_Website/next-storefront/node_modules/next/dist/compiled/regenerator-runtime/README.md",
+    "Obsidian_Vault/06_Website/next-storefront/node_modules/next/dist/compiled/react-refresh/README.md",
+    "Obsidian_Vault/06_Website/next-storefront/node_modules/next/dist/compiled/react-is/README.md",
+    "Obsidian_Vault/06_Website/next-storefront/node_modules/@typescript-eslint/visitor-keys/node_modules/eslint-visitor-keys/README.md",
+    "Obsidian_Vault/06_Website/next-storefront/node_modules/@typescript-eslint/typescript-estree/node_modules/brace-expansion/README.md",
+    "Obsidian_Vault/06_Website/next-storefront/node_modules/@typescript-eslint/typescript-estree/node_modules/minimatch/README.md",
+    "Obsidian_Vault/06_Website/next-storefront/node_modules/@typescript-eslint/typescript-estree/node_modules/minimatch/LICENSE.md",
+    "Obsidian_Vault/06_Website/next-storefront/node_modules/@typescript-eslint/typescript-estree/node_modules/balanced-match/README.md",
+    "Obsidian_Vault/06_Website/next-storefront/node_modules/@typescript-eslint/typescript-estree/node_modules/balanced-match/LICENSE.md",
+    "Obsidian_Vault/06_Website/next-storefront/node_modules/@typescript-eslint/eslint-plugin/node_modules/ignore/README.md",
+    "Obsidian_Vault/06_Website/next-storefront/node_modules/@supabase/phoenix/priv/static/phoenix.png",
+    "Obsidian_Vault/06_Website/next-storefront/node_modules/@supabase/phoenix/priv/static/phoenix-orange.png",
+    "Obsidian_Vault/06_Website/next-storefront/node_modules/@eslint-community/eslint-utils/node_modules/eslint-visitor-keys/README.md",
+    "Obsidian_Vault/06_Website/dashboard/node_modules/next/dist/compiled/regenerator-runtime/README.md",
+    "Obsidian_Vault/06_Website/dashboard/node_modules/next/dist/compiled/react-refresh/README.md",
+    "Obsidian_Vault/06_Website/dashboard/node_modules/next/dist/compiled/react-is/README.md",
+    "Obsidian_Vault/06_Website/Design/Website/public/images/products/product-placeholder.svg",
+    "Obsidian_Vault/06_Website/next-storefront/public/images/products/star-dusted-banana-crunch.jpg",
+    "Obsidian_Vault/06_Website/next-storefront/public/images/products/sour-aurora-bites.png",
+    "Obsidian_Vault/06_Website/next-storefront/public/images/products/sour-aurora-bites.jpg",
+    "Obsidian_Vault/06_Website/next-storefront/public/images/products/solar-strawberries.jpg",
+    "Obsidian_Vault/06_Website/next-storefront/public/images/products/cosmic-bananas.jpg",
+    "Obsidian_Vault/06_Website/next-storefront/public/images/products/product-placeholder.svg",
+    "Obsidian_Vault/06_Website/next-storefront/public/images/products/apple-zephyr-chips.jpg"
+  ]
+}

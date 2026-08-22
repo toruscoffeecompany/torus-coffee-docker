@@ -1,0 +1,578 @@
+{
+  "total_files": 647,
+  "total_folders": 73,
+  "top_folders": [
+    {
+      "path": "08_Archive",
+      "files": 2,
+      "size_bytes": 545970754,
+      "size_human": "520.7 MB"
+    },
+    {
+      "path": "06_Growth_Marketing",
+      "files": 193,
+      "size_bytes": 462157603,
+      "size_human": "440.7 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas",
+      "files": 35,
+      "size_bytes": 128749193,
+      "size_human": "122.8 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples",
+      "files": 29,
+      "size_bytes": 104568517,
+      "size_human": "99.7 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles",
+      "files": 31,
+      "size_bytes": 89847905,
+      "size_human": "85.7 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles",
+      "files": 23,
+      "size_bytes": 77368189,
+      "size_human": "73.8 MB"
+    },
+    {
+      "path": "08_Design_Brand",
+      "files": 108,
+      "size_bytes": 60760554,
+      "size_human": "57.9 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug",
+      "files": 17,
+      "size_bytes": 36741275,
+      "size_human": "35.0 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles",
+      "files": 18,
+      "size_bytes": 34035322,
+      "size_human": "32.5 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries",
+      "files": 14,
+      "size_bytes": 32995866,
+      "size_human": "31.5 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Star-Dusted Banana Crunch - Freeze-dried Bananas with Cin Sug",
+      "files": 11,
+      "size_bytes": 28585005,
+      "size_human": "27.3 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Halloween 2025",
+      "files": 6,
+      "size_bytes": 18901398,
+      "size_human": "18.0 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream",
+      "files": 8,
+      "size_bytes": 15354318,
+      "size_human": "14.6 MB"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork",
+      "files": 13,
+      "size_bytes": 11486669,
+      "size_human": "11.0 MB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed",
+      "files": 8,
+      "size_bytes": 10634202,
+      "size_human": "10.1 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Orbit Cream Crunch - Freeze-dried Ice Cream",
+      "files": 6,
+      "size_bytes": 7973328,
+      "size_human": "7.6 MB"
+    },
+    {
+      "path": "07_Photos\\Stickers",
+      "files": 4,
+      "size_bytes": 5711899,
+      "size_human": "5.4 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Gummy Critters",
+      "files": 3,
+      "size_bytes": 5271403,
+      "size_human": "5.0 MB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\State Completed",
+      "files": 3,
+      "size_bytes": 5075320,
+      "size_human": "4.8 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Supernova Strawberries & Bananas",
+      "files": 4,
+      "size_bytes": 2903688,
+      "size_human": "2.8 MB"
+    },
+    {
+      "path": "02_Tax\\Taxes",
+      "files": 1,
+      "size_bytes": 2654756,
+      "size_human": "2.5 MB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025",
+      "files": 2,
+      "size_bytes": 1408455,
+      "size_human": "1.3 MB"
+    },
+    {
+      "path": "04_Products",
+      "files": 14,
+      "size_bytes": 787573,
+      "size_human": "769.1 KB"
+    },
+    {
+      "path": "01_Operating",
+      "files": 9,
+      "size_bytes": 761695,
+      "size_human": "743.8 KB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Federal IRS",
+      "files": 4,
+      "size_bytes": 725148,
+      "size_human": "708.2 KB"
+    }
+  ],
+  "top_files": [
+    {
+      "path": "08_Archive\\Torus_Coffee_Company_20260528.zip",
+      "size_bytes": 545744531,
+      "size_human": "520.5 MB",
+      "ext": ".zip"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMR0013.mp4",
+      "size_bytes": 29472098,
+      "size_human": "28.1 MB",
+      "ext": ".mp4"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-2-25 v6.jpg",
+      "size_bytes": 11007640,
+      "size_human": "10.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Stain Glass Leaf Art 2025 v3.jpg",
+      "size_bytes": 10897272,
+      "size_human": "10.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-2-25 v7.jpg",
+      "size_bytes": 10515703,
+      "size_human": "10.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-2-25 v8.jpg",
+      "size_bytes": 10252058,
+      "size_human": "9.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Stain Glass Leaf Art 2025 v4.jpg",
+      "size_bytes": 9922804,
+      "size_human": "9.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride video 6-30-25 v1.mp4",
+      "size_bytes": 8064205,
+      "size_human": "7.7 MB",
+      "ext": ".mp4"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0014.jpg",
+      "size_bytes": 7440132,
+      "size_human": "7.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-30-25 v5.jpg",
+      "size_bytes": 7160553,
+      "size_human": "6.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-30-25 v2.jpg",
+      "size_bytes": 7142977,
+      "size_human": "6.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-30-25 v1.jpg",
+      "size_bytes": 7121405,
+      "size_human": "6.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-30-25 v6.jpg",
+      "size_bytes": 7101207,
+      "size_human": "6.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Stain Glass Leaf Art 2025 v5.jpg",
+      "size_bytes": 6263259,
+      "size_human": "6.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\TM Search Guide.pdf",
+      "size_bytes": 6106815,
+      "size_human": "5.8 MB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0004.jpg",
+      "size_bytes": 5954620,
+      "size_human": "5.7 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0005.jpg",
+      "size_bytes": 5840671,
+      "size_human": "5.6 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-2-25 v9.jpg",
+      "size_bytes": 5695583,
+      "size_human": "5.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0006.jpg",
+      "size_bytes": 5673712,
+      "size_human": "5.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\f1065.pdf",
+      "size_bytes": 5548012,
+      "size_human": "5.3 MB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\Cosmic Bananas - Website Picture v1.jpg",
+      "size_bytes": 5535143,
+      "size_human": "5.3 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0001.jpg",
+      "size_bytes": 5432884,
+      "size_human": "5.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0000.jpg",
+      "size_bytes": 5292105,
+      "size_human": "5.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0009.jpg",
+      "size_bytes": 5162209,
+      "size_human": "4.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0016 (1).jpg",
+      "size_bytes": 5155349,
+      "size_human": "4.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0016.jpg",
+      "size_bytes": 5155349,
+      "size_human": "4.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0014 (1).jpg",
+      "size_bytes": 5145016,
+      "size_human": "4.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0014.jpg",
+      "size_bytes": 5145016,
+      "size_human": "4.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0012.jpg",
+      "size_bytes": 5095653,
+      "size_human": "4.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0010.jpg",
+      "size_bytes": 5088043,
+      "size_human": "4.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0015 (1).jpg",
+      "size_bytes": 5080946,
+      "size_human": "4.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0015.jpg",
+      "size_bytes": 5080946,
+      "size_human": "4.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0017 (1).jpg",
+      "size_bytes": 5079198,
+      "size_human": "4.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0017.jpg",
+      "size_bytes": 5079198,
+      "size_human": "4.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0018 (1).jpg",
+      "size_bytes": 5059795,
+      "size_human": "4.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Halloween 2025\\Neapolitan Orbit Cream Crunch - Website Picture Halloween 2025 v5.jpg",
+      "size_bytes": 5057937,
+      "size_human": "4.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0018.jpg",
+      "size_bytes": 5044173,
+      "size_human": "4.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\ANMP0003 (1).jpg",
+      "size_bytes": 4967490,
+      "size_human": "4.7 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\ANMP0003.jpg",
+      "size_bytes": 4967490,
+      "size_human": "4.7 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-30-25 v4.jpg",
+      "size_bytes": 4878397,
+      "size_human": "4.7 MB",
+      "ext": ".jpg"
+    }
+  ],
+  "dups": [
+    [
+      72,
+      "desktop.ini",
+      [
+        "02_Tax\\Taxes\\2025\\Accounting Docs\\desktop.ini",
+        "02_Tax\\Taxes\\2025\\Invoices\\desktop.ini",
+        "02_Tax\\Taxes\\2025\\Iowa Sales and Use Returns 2025\\desktop.ini",
+        "02_Tax\\Taxes\\2025\\Iowa Sales and Use Returns 2025\\2025\\desktop.ini",
+        "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\desktop.ini",
+        "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\desktop.ini",
+        "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q1\\desktop.ini",
+        "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q2\\desktop.ini",
+        "04_Products\\Freeze-Dried Candy\\desktop.ini",
+        "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\desktop.ini",
+        "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\desktop.ini",
+        "04_Products\\Freeze-Dried Candy\\Gummy Critters\\desktop.ini",
+        "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\desktop.ini",
+        "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Halloween 2025\\desktop.ini",
+        "04_Products\\Freeze-Dried Candy\\Orbit Cream Crunch - Freeze-dried Ice Cream\\desktop.ini",
+        "04_Products\\Freeze-Dried Candy\\Rancher Rocks\\desktop.ini",
+        "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\desktop.ini",
+        "04_Products\\Freeze-Dried Fruit\\desktop.ini",
+        "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\desktop.ini",
+        "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\desktop.ini",
+        "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\desktop.ini",
+        "04_Products\\Freeze-Dried Fruit\\Name TBD - Freeze-Dried Apricots\\desktop.ini",
+        "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries\\desktop.ini",
+        "04_Products\\Freeze-Dried Fruit\\Star-Dusted Banana Crunch - Freeze-dried Bananas with Cin Sug\\desktop.ini",
+        "04_Products\\Freeze-Dried Fruit\\Supernova Strawberries & Bananas\\desktop.ini",
+        "05_Research\\Research\\desktop.ini",
+        "05_Research\\Research\\Leads\\desktop.ini",
+        "07_Photos\\Stickers\\desktop.ini",
+        "Product Production\\desktop.ini"
+      ]
+    ],
+    [
+      9286,
+      "Form1065_Line21_OtherDeductions_Statement.docx",
+      [
+        "02_Tax\\Taxes\\2025\\Federal IRS\\Form1065_Line21_OtherDeductions_Statement.docx",
+        "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\Form1065_Line21_OtherDeductions_Statement.docx"
+      ]
+    ],
+    [
+      137258,
+      "Iowa Sales and Use Return Q2 2025.pdf",
+      [
+        "02_Tax\\Taxes\\2025\\Iowa Sales and Use Returns 2025\\Iowa Sales and Use Return Q2 2025.pdf",
+        "02_Tax\\Taxes\\2025\\Iowa Sales and Use Returns 2025\\2025\\Iowa Sales and Use Return Q2 2025.pdf"
+      ]
+    ],
+    [
+      259978,
+      "2025-04-30 Statement - USB Checking 5287.pdf",
+      [
+        "02_Tax\\Taxes\\2025\\Q2\\2025-04-30 Statement - USB Checking 5287.pdf",
+        "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q2\\2025-04-30 Statement - USB Checking 5287.pdf",
+        "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q2\\2025-04-30 Statement - USB Checking 5287.pdf"
+      ]
+    ],
+    [
+      203969,
+      "2025-05-31 Statement - USB Checking 5287.pdf",
+      [
+        "02_Tax\\Taxes\\2025\\Q2\\2025-05-31 Statement - USB Checking 5287.pdf",
+        "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q2\\2025-05-31 Statement - USB Checking 5287.pdf",
+        "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q2\\2025-05-31 Statement - USB Checking 5287.pdf"
+      ]
+    ],
+    [
+      220383,
+      "2025-06-30 Statement - USB Checking 5287.pdf",
+      [
+        "02_Tax\\Taxes\\2025\\Q2\\2025-06-30 Statement - USB Checking 5287.pdf",
+        "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q2\\2025-06-30 Statement - USB Checking 5287.pdf",
+        "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q2\\2025-06-30 Statement - USB Checking 5287.pdf"
+      ]
+    ],
+    [
+      189008,
+      "2025-02-28 Statement - USB Checking 5287.pdf",
+      [
+        "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q1\\2025-02-28 Statement - USB Checking 5287.pdf",
+        "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q1\\2025-02-28 Statement - USB Checking 5287.pdf"
+      ]
+    ],
+    [
+      217309,
+      "2025-03-31 Statement - USB Checking 5287.pdf",
+      [
+        "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q1\\2025-03-31 Statement - USB Checking 5287.pdf",
+        "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q1\\2025-03-31 Statement - USB Checking 5287.pdf"
+      ]
+    ],
+    [
+      1801,
+      "contacts.csv",
+      [
+        "05_Research\\Research\\Leads\\contacts.csv",
+        "06_Growth_Marketing\\contacts.csv"
+      ]
+    ]
+  ],
+  "versioned_count": 0,
+  "versioned_samples": [],
+  "inbox_count": 0,
+  "inbox_samples": [],
+  "category_coverage": {
+    "Website files": 102,
+    "Operating/governance": 27,
+    "Financials": 40,
+    "Tax docs/returns": 61,
+    "Product catalog/assets": 361,
+    "Business plans/strategy": 7,
+    "Skill templates/playbooks": 8,
+    "Legal/entity docs": 10,
+    "Stickers/packaging": 18,
+    "Linear exports/projects": 4,
+    "Photos/media": 79,
+    "Research/notes": 231
+  },
+  "tax_paths": [
+    "02_Tax\\Bill of Sale for the Vehicle.docx",
+    "02_Tax\\Notes.xlsx",
+    "02_Tax\\Torus_Coffee_Company_LLC_2025_Expense_Report.xlsx",
+    "02_Tax\\Torus_Coffee_Company_LLC_2025_Financial_Statements.xlsx",
+    "02_Tax\\Taxes\\Form SS4 - EIN Obtained.pdf",
+    "02_Tax\\Taxes\\2025\\537.2301.pdf",
+    "02_Tax\\Taxes\\2025\\Torus Coffee Company - 2025 Recepits.pdf",
+    "02_Tax\\Taxes\\2025\\Accounting Docs\\desktop.ini",
+    "02_Tax\\Taxes\\2025\\Federal IRS\\Bryon Smith K-1 - f1065sk1-v2.pdf",
+    "02_Tax\\Taxes\\2025\\Federal IRS\\Form1065_Line21_OtherDeductions_Statement.docx",
+    "02_Tax\\Taxes\\2025\\Federal IRS\\Sara Jane Schedule K-1 - f1065sk1.pdf",
+    "02_Tax\\Taxes\\2025\\Federal IRS\\Torus Coffee Needs Signed - f1065.pdf",
+    "02_Tax\\Taxes\\2025\\Invoices\\desktop.ini",
+    "02_Tax\\Taxes\\2025\\Invoices\\Wix Invoice 1169537835.pdf",
+    "02_Tax\\Taxes\\2025\\Invoices\\Wix Invoice 1169538031.pdf",
+    "02_Tax\\Taxes\\2025\\Invoices\\Wix Invoice 1169542927.pdf",
+    "02_Tax\\Taxes\\2025\\Iowa Sales and Use Returns 2025\\desktop.ini",
+    "02_Tax\\Taxes\\2025\\Iowa Sales and Use Returns 2025\\Iowa Sales and Use Return Q2 2025.pdf",
+    "02_Tax\\Taxes\\2025\\Iowa Sales and Use Returns 2025\\2025\\desktop.ini",
+    "02_Tax\\Taxes\\2025\\Iowa Sales and Use Returns 2025\\2025\\Iowa Sales and Use Return Q2 2025.pdf",
+    "02_Tax\\Taxes\\2025\\Q2\\2025-04-30 Statement - USB Checking 5287.pdf",
+    "02_Tax\\Taxes\\2025\\Q2\\2025-05-31 Statement - USB Checking 5287.pdf",
+    "02_Tax\\Taxes\\2025\\Q2\\2025-06-30 Statement - USB Checking 5287.pdf",
+    "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\Bryon Smith K-1 - f1065sk1-v2.pdf",
+    "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\Bryon_Smith_ScheduleK1_2025 ai.pdf",
+    "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\f1065.pdf",
+    "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\Form1065_Line21_OtherDeductions_Statement.docx",
+    "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\IA1065(41016)_1.pdf",
+    "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\Sara Jane Schedule K-1 - f1065sk1.pdf",
+    "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\Torus Coffee Needs Signed - f1065.pdf",
+    "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\Torus_Coffee_Company_LLC_Form1065_2025 ai (Cant Edit).pdf",
+    "02_Tax\\Taxes\\2025\\Taxes\\2025\\Forms\\Federal IRS Forms\\f1065.pdf",
+    "02_Tax\\Taxes\\2025\\Taxes\\2025\\Forms\\Federal IRS Forms\\f1065sk1.pdf",
+    "02_Tax\\Taxes\\2025\\Taxes\\2025\\State Completed\\Bryon Smith 41-018 IA 1065 Schedule K-1.pdf",
+    "02_Tax\\Taxes\\2025\\Taxes\\2025\\State Completed\\Sara Jane Shelvock 41-018 IA 1065 Schedule K-1.pdf",
+    "02_Tax\\Taxes\\2025\\Taxes\\2025\\State Completed\\Torus Coffee 41-016 IA 1065 Partnership Return of Income Needs Signed.pdf",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Checking - 5287_01-01-2025_12-31-2025.csv",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Savings - 5016_01-01-2025_12-31-2025.csv",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Torus Coffee US Bank Records.PNG",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\US Bank Fraud Charges.PNG",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q1\\2025-02-28 Statement - USB Checking 5287.pdf",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q1\\2025-03-31 Statement - USB Checking 5287.pdf",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q2\\2025-04-30 Statement - USB Checking 5287.pdf",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q2\\2025-05-31 Statement - USB Checking 5287.pdf",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q2\\2025-06-30 Statement - USB Checking 5287.pdf",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\desktop.ini",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Checking - 5287_02-20-2025_02-23-2026.csv",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\desktop.ini",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Savings - 5016_02-20-2025_02-23-2026.csv",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q1\\2025-02-28 Statement - USB Checking 5287.pdf",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q1\\2025-03-31 Statement - USB Checking 5287.pdf",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q1\\desktop.ini",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q2\\2025-04-30 Statement - USB Checking 5287.pdf",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q2\\2025-05-31 Statement - USB Checking 5287.pdf",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q2\\2025-06-30 Statement - USB Checking 5287.pdf",
+    "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q2\\desktop.ini"
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "sir_green_inbox_processed": [
+    "20260804T143500Z_sirgreen_auto_prompt_loop_004.msg.md",
+    "AUTO_AUTO_CYCLE_20260804T143537Z_DASHBOARD.msg.md",
+    "AUTO_AUTO_CYCLE_20260804T143537Z_GITHUB.msg.md",
+    "AUTO_AUTO_CYCLE_20260804T143537Z_HEALING.msg.md",
+    "AUTO_AUTO_CYCLE_20260804T143537Z_SECURITY.msg.md",
+    "20260804T144500Z_sirgreen_cosmos_ooda_001.msg.md"
+  ],
+  "last_processed": "2026-08-04T15:45:00.000000+00:00",
+  "topics_received": [
+    "dashboard",
+    "github",
+    "healing",
+    "security",
+    "ooda-loop",
+    "cosmos-library-backfill",
+    "research"
+  ],
+  "requires_human_action": [
+    "Gmail SMTP app password",
+    "Discord webhook URL creation",
+    "Square payment links",
+    "Vercel login/token",
+    "GitHub API token",
+    "Supabase decision",
+    "Wazuh manager endpoint confirmation",
+    "Dashboard host decision: PINKCADY vs SQUIDSTATION"
+  ],
+  "processed": {
+    "AUTO_AUTO_CYCLE_20260805T055649Z_DASHBOARD.msg.md": {
+      "processed_at": "2026-08-05T06:15:00.802735+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T055649Z_DASHBOARD_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T055649Z_GITHUB.msg.md": {
+      "processed_at": "2026-08-05T06:15:00.868720+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T055649Z_GITHUB_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T055649Z_HEALING.msg.md": {
+      "processed_at": "2026-08-05T06:15:00.935414+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T055649Z_HEALING_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T055649Z_SECURITY.msg.md": {
+      "processed_at": "2026-08-05T06:15:01.015265+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T055649Z_SECURITY_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T060746Z_DASHBOARD.msg.md": {
+      "processed_at": "2026-08-05T06:15:01.087327+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T060746Z_DASHBOARD_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T060746Z_GITHUB.msg.md": {
+      "processed_at": "2026-08-05T06:15:01.158037+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T060746Z_GITHUB_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T060746Z_HEALING.msg.md": {
+      "processed_at": "2026-08-05T06:15:01.235194+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T060746Z_HEALING_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T060746Z_SECURITY.msg.md": {
+      "processed_at": "2026-08-05T06:15:01.306348+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T060746Z_SECURITY_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T061353Z_DASHBOARD.msg.md": {
+      "processed_at": "2026-08-05T06:15:01.381818+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T061353Z_DASHBOARD_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T061353Z_GITHUB.msg.md": {
+      "processed_at": "2026-08-05T06:15:01.458145+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T061353Z_GITHUB_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T061353Z_HEALING.msg.md": {
+      "processed_at": "2026-08-05T06:15:01.550864+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T061353Z_HEALING_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T061353Z_SECURITY.msg.md": {
+      "processed_at": "2026-08-05T06:15:01.637435+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T061353Z_SECURITY_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T061431Z_DASHBOARD.msg.md": {
+      "processed_at": "2026-08-05T06:15:01.750853+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T061431Z_DASHBOARD_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T061431Z_GITHUB.msg.md": {
+      "processed_at": "2026-08-05T06:15:01.848803+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T061431Z_GITHUB_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T061431Z_HEALING.msg.md": {
+      "processed_at": "2026-08-05T06:15:01.933389+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T061431Z_HEALING_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T061431Z_SECURITY.msg.md": {
+      "processed_at": "2026-08-05T06:15:02.018471+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T061431Z_SECURITY_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T062008Z_DASHBOARD.msg.md": {
+      "processed_at": "2026-08-05T06:28:25.403508+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T062008Z_DASHBOARD_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T062008Z_GITHUB.msg.md": {
+      "processed_at": "2026-08-05T06:28:25.466798+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T062008Z_GITHUB_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T062008Z_HEALING.msg.md": {
+      "processed_at": "2026-08-05T06:28:25.532894+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T062008Z_HEALING_misspink.msg.md"
+    },
+    "AUTO_AUTO_CYCLE_20260805T062008Z_SECURITY.msg.md": {
+      "processed_at": "2026-08-05T06:28:25.606936+00:00",
+      "status": "replied",
+      "reply": "RE_AUTO_CYCLE_20260805T062008Z_SECURITY_misspink.msg.md"
+    }
+  }
+}

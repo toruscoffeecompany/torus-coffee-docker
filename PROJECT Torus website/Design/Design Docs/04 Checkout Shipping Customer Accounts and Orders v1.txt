@@ -1,0 +1,268 @@
+﻿Torus Coffee Company - Checkout Shipping Customer Accounts and Orders Design
+Last updated: 2026-05-29
+
+Purpose
+This document defines the purchase flow, Square payment-link launch strategy, future checkout, U.S. shipping, optional customer accounts, and order handling.
+
+Primary Checkout Strategy
+Phase 1 uses Square Payment Links / Square-hosted checkout.
+
+Why:
+- Torus already uses Square.
+- Customers pay through Square's secure checkout.
+- The website does not handle card data.
+- Lower security/compliance burden for launch.
+- Faster path to real sales.
+
+Phase 1 Product Buying Flow
+1. Customer opens product page.
+2. Customer clicks Buy with Square.
+3. Customer is sent to Square checkout/payment link.
+4. Square collects payment and required checkout details.
+5. Square sends receipt/confirmation.
+6. Owner fulfills order using Square Dashboard and shipping workflow.
+7. Owner manually updates website inventory until automation exists.
+
+Square Link Requirements
+Every active sellable product should have:
+- Square payment link URL
+- Website product price matching Square price
+- Product name matching or clearly corresponding to Square item
+- Shipping/tax behavior tested before launch
+
+Important pre-launch Square tests:
+- Does the checkout collect shipping address correctly?
+- Does it calculate or collect shipping fee correctly?
+- Does it apply sales tax as needed?
+- Does the order show product name/SKU clearly in Square Dashboard?
+- Does the customer receive a receipt?
+- Does Torus receive notification?
+- Can orders be exported or reviewed easily?
+
+Checkout Button Design
+Button text options:
+- Buy with Square
+- Buy Now
+- Secure Checkout
+
+Recommended:
+Primary button: Buy Now
+Small note below: Secure checkout powered by Square.
+
+If leaving the site:
+Add note near the button:
+Checkout opens securely through Square. U.S. shipping only.
+
+Guest Checkout
+Customer accounts should be optional.
+In Phase 1, Square checkout acts as guest checkout.
+
+Customer Accounts Future
+Purpose:
+- Customer profile
+- Saved contact/shipping details if user opts in
+- Email signup preferences
+- Order history once Square integration exists
+- Client/customer database
+
+Account features:
+- Sign up / log in
+- Magic link or email/password, final decision later
+- Profile page
+- Saved name/email/phone
+- Saved shipping address, optional
+- Marketing consent controls
+- Order history, future
+- Password reset or magic-link login
+
+Account not required to buy.
+
+Customer Data Fields
+Recommended customer profile fields:
+- id
+- email
+- first_name
+- last_name
+- phone
+- default_shipping_address_id
+- marketing_consent
+- consent_timestamp
+- account_created_at
+- last_login_at
+- role: customer/admin/editor etc.
+- notes, admin-only later
+
+Address fields:
+- customer_id
+- name
+- address_line_1
+- address_line_2
+- city
+- state
+- postal_code
+- country, default US
+- phone optional
+
+Privacy rule:
+Collect only what is needed. Explain data usage in Privacy Policy.
+
+Order Handling Phase 1
+The website should not treat a product click or form submission as a paid order.
+
+Rule:
+A real order exists only when Square confirms payment.
+
+Phase 1 order source of truth:
+Square Dashboard.
+
+Website may store:
+- Product views
+- Product click events, if analytics enabled
+- Contact inquiries
+- Email signups
+
+Website should not store full payment data.
+
+Future Order Model
+When Square API/webhooks are integrated, website can store order summaries.
+
+Order fields:
+- id
+- square_order_id
+- square_payment_id
+- customer_id, optional
+- guest_email
+- status: pending, paid, fulfilled, cancelled, refunded
+- subtotal_cents
+- shipping_cents
+- tax_cents
+- total_cents
+- currency
+- shipping_name
+- shipping_address_snapshot
+- created_at
+- updated_at
+
+Order item fields:
+- order_id
+- product_id
+- sku
+- product_name_snapshot
+- quantity
+- unit_price_cents
+- total_price_cents
+
+Order security:
+- Create/fulfill/subtract inventory only from verified Square events.
+- Verify Square webhook signature.
+- Store snapshots so price/name at order time are preserved.
+
+Fake Order Prevention
+- Do not allow public users to create paid/fulfilled orders directly.
+- Do not reduce inventory from browser actions alone.
+- Do not trust client-side price/quantity values.
+- Server must verify all payment/order events.
+- Use rate limiting on forms and account creation.
+
+Shipping Scope
+Launch shipping area:
+United States only.
+
+No international shipping at launch.
+
+Phase 1 shipping options:
+- Use Square payment link shipping settings if workable.
+- If needed, use flat-rate shipping through Square.
+- Manual fulfillment/label buying through Square/Pirate Ship/etc.
+
+Future shipping features:
+- Shipping settings in admin
+- Free shipping threshold
+- Flat-rate shipping
+- Weight-based shipping
+- Shipping label service integration later
+- Tracking number storage
+- Shipping notification emails
+
+Shipping Policy Page Must Explain
+- U.S. shipping only
+- Processing time
+- Estimated delivery time
+- Carrier(s), if known
+- Shipping costs
+- What happens with incorrect addresses
+- Lost/damaged package policy
+- Weather/heat note if needed for product quality
+
+Taxes
+Initial tax handling should happen through Square settings.
+
+Need to confirm:
+- Iowa sales tax setup
+- Tax requirements for nationwide online sales
+- Square tax automation options
+
+This may require accountant/legal review, especially as sales grow.
+
+Returns/Refunds
+Refund & Returns Policy must be visible before launch.
+
+Questions to answer:
+- Are food products returnable?
+- What if package is damaged?
+- What if wrong item is shipped?
+- What if customer enters wrong address?
+- How long does customer have to contact Torus?
+
+Refunds in Phase 1:
+Handled in Square.
+
+Discounts/Coupons
+Phase 1:
+Use Square's available discount/payment link capabilities if needed.
+
+Future:
+- Promo codes in site checkout only after full checkout exists.
+- Marketing campaigns and referral program later.
+
+Cart Behavior
+Phase 1 with Square links:
+- No true multi-product cart unless Square payment links/items support the needed flow.
+- Each product may have a direct buy link.
+
+Potential limitation:
+If customers want multiple products, Square link setup may need item library/shop configuration or a broader checkout approach.
+
+Design note:
+During Square testing, determine whether we can support multi-item purchase cleanly. If not, Phase 1 should state product-by-product checkout or use Square Online/checkout mechanism that supports cart behavior.
+
+Future cart:
+- Add to cart
+- Quantity selector
+- Cart page/drawer
+- Checkout via Square Web Payments/Online Checkout
+- Inventory verification before payment
+
+Email Notifications
+Phase 1:
+Square sends payment/order emails.
+
+Website can send:
+- Contact form notification
+- Email signup confirmation, optional
+
+Future:
+- Account emails
+- Order confirmation from Torus, if not duplicating Square
+- Shipping/tracking notification
+- Low-stock admin alert
+
+Open Decisions
+1. Exact Square payment-link setup for multi-product buying.
+2. Launch shipping pricing: flat rate, weight-based, free threshold, or Square settings.
+3. Whether customer accounts launch before or after public shop launch.
+4. Whether order summaries are stored before full Square webhook integration.
+5. Refund/return rules for food products.
+
+Recommended Decision
+Launch with Square-hosted checkout and manual inventory updates. Before launch, thoroughly test Square checkout for shipping, tax, and order clarity. Build full cart/order automation only after the product/admin foundation is stable.

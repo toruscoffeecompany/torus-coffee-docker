@@ -1,0 +1,135 @@
+{
+  "platforms": {
+    "facebook": {
+      "enabled": true,
+      "page_id": "61577390931175"
+    },
+    "twitter": {
+      "enabled": true,
+      "handle": "@TorusCoffee"
+    },
+    "youtube": {
+      "enabled": true,
+      "handle": "@TorusCoffeeCompany"
+    },
+    "instagram": {
+      "enabled": false,
+      "handle": "@glvwriter"
+    },
+    "pinterest": {
+      "enabled": false,
+      "handle": "@toruscoffeecompany"
+    },
+    "tiktok": {
+      "enabled": false,
+      "handle": "@toruscoffeecompany"
+    },
+    "linkedin": {
+      "enabled": false,
+      "company": "Torus Coffee Company LLC"
+    }
+  },
+  "posting_schedule": {
+    "monday": [
+      "facebook",
+      "twitter",
+      "instagram"
+    ],
+    "wednesday": [
+      "facebook",
+      "twitter",
+      "pinterest"
+    ],
+    "friday": [
+      "facebook",
+      "twitter",
+      "instagram",
+      "tiktok"
+    ],
+    "saturday": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "content_calendar": [
+    {
+      "date": "2026-08-10",
+      "day": "Monday",
+      "platforms": [
+        "facebook",
+        "twitter",
+        "instagram"
+      ],
+      "type": "product_highlight",
+      "title": "Product of the Week",
+      "body": "This week's spotlight: {product_name} - {product_desc}",
+      "hashtags": [
+        "#TorusCoffee",
+        "#FreezeDried",
+        "#IowaCity",
+        "#FreezeDriedSnacks"
+      ],
+      "status": "draft",
+      "created_at": "2026-08-03T22:58:29.148746"
+    },
+    {
+      "date": "2026-08-10",
+      "day": "Wednesday",
+      "platforms": [
+        "facebook",
+        "twitter",
+        "pinterest"
+      ],
+      "type": "behind_scenes",
+      "title": "Behind the Scenes",
+      "body": "Ever wondered how we make our freeze-dried snacks? Here's a peek!",
+      "hashtags": [
+        "#TorusCoffee",
+        "#BehindTheScenes",
+        "#SmallBusiness"
+      ],
+      "status": "draft",
+      "created_at": "2026-08-03T22:58:29.148760"
+    },
+    {
+      "date": "2026-08-10",
+      "day": "Friday",
+      "platforms": [
+        "facebook",
+        "twitter",
+        "instagram",
+        "tiktok"
+      ],
+      "type": "market_announcement",
+      "title": "Weekend Market Schedule",
+      "body": "Find us this weekend at {market_location}!",
+      "hashtags": [
+        "#TorusCoffee",
+        "#FarmersMarket",
+        "#IowaCity",
+        "#WeekendVibes"
+      ],
+      "status": "draft",
+      "created_at": "2026-08-03T22:58:29.148768"
+    },
+    {
+      "date": "2026-08-10",
+      "day": "Saturday",
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "type": "customer_spotlight",
+      "title": "Customer Love",
+      "body": "Shoutout to our amazing customers!",
+      "hashtags": [
+        "#TorusCoffee",
+        "#CustomerLove",
+        "#FreezeDried"
+      ],
+      "status": "draft",
+      "created_at": "2026-08-03T22:58:29.148774"
+    }
+  ],
+  "last_run": "2026-08-03T22:58:29.148779"
+}

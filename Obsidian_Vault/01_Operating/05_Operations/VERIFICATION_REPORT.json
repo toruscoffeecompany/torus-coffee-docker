@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-08-11T17:36:41.617106",
+  "trello": {
+    "ok": true,
+    "total": 1000,
+    "top10_list": 8,
+    "top10_label_matches_list": 6,
+    "p1": 19,
+    "p2": 5,
+    "p0": 7,
+    "duplicate_groups": 3,
+    "duplicate_cards": 959,
+    "weird_lists": [
+      "Miss Pink's Inbox"
+    ],
+    "label_counts": {
+      "sir-azure": 938,
+      "P1": 11,
+      "miss-pink": 66,
+      "P2": 30,
+      "Top 10": 6,
+      "": 19,
+      "ops": 1,
+      "sir-green": 6,
+      "P0": 4,
+      "P3": 1,
+      "Fleet Ops": 2,
+      "Verification": 2
+    }
+  },
+  "github": {
+    "ok": true,
+    "open_issues": 8,
+    "label_counts": {
+      "inbox": 1,
+      "Future Ideas": 1,
+      "automation": 5,
+      "docker": 1,
+      "obsidian": 1,
+      "trello": 1,
+      "P0": 5,
+      "Sir Green": 2,
+      "ops": 4,
+      "P1": 4,
+      "P2": 1
+    }
+  },
+  "inbox": {
+    "ok": true,
+    "recent": false,
+    "processed_at": "2026-08-06T15:44:29.189095",
+    "processed": 1,
+    "trello_created": 1,
+    "github_created": 1,
+    "errors": []
+  },
+  "calendar": {
+    "ok": false,
+    "blocked": true,
+    "error": "Google Calendar token invalid or missing scope"
+  },
+  "processes": {
+    "ok": false,
+    "present": [],
+    "missing": [
+      "ooda_loop.py",
+      "verifier_daemon.py",
+      "pinkcady_crew_heartbeat.py",
+      "progress_updater.py",
+      "self_healing_loop.py",
+      "cmd_popup_blocker.py",
+      "crew_api.py",
+      "docker_proxy.py",
+      "pirate_dashboard.py"
+    ],
+    "raw_lines": 18
+  },
+  "docker": {
+    "ok": false,
+    "error": "Command '['docker', 'ps', '--format', '{{.Names}}\\t{{.Status}}\\t{{.Ports}}']' returned non-zero exit status 1."
+  },
+  "index": {
+    "ok": true,
+    "indexed_count": 354,
+    "duplicate_ids": []
+  },
+  "crew_queue": {
+    "ok": true,
+    "state_ok": true,
+    "transfer_ok": true,
+    "processed_count": 0,
+    "transfer_count": 6511,
+    "failed_count": 0,
+    "last_run": null
+  },
+  "file_integrity": {
+    "ok": true,
+    "mutated_files": []
+  },
+  "summary": {
+    "hard_fails": [],
+    "soft_fails": [
+      "docker",
+      "processes"
+    ],
+    "status": "PASS"
+  }
+}

@@ -1,0 +1,53 @@
+﻿Torus Coffee Company Website Design Docs Index
+Last updated: 2026-05-29
+
+Purpose
+This index explains the design documentation package for the Torus Coffee Company website. All files are plain .txt files so they can be opened in Notepad or any standard text editor.
+
+Recommended reading order
+
+1. Website Design Brief v1.txt
+High-level vision and business goals.
+
+2. Website Research - Accounts APIs and Helpful Code v1.txt
+Research notes for services, APIs, hosting, starter code, and account needs.
+
+3. Website Revenue Ideas and Free Tools v1.txt
+Free/low-cost ideas to help the website make money.
+
+4. Accounts and API Keys To Apply For First v1.txt
+Prioritized signup/API checklist.
+
+5. 01 Public Website Pages and User Flows v1.txt
+Detailed public website design and customer journeys.
+
+6. 02 Product Inventory and Data Model v1.txt
+Detailed product, inventory, pricing, image, and product-feed data design.
+
+7. 03 Admin Dashboard Blog and Content Design v1.txt
+Admin dashboard, product manager, inventory manager, and blog editor design.
+
+8. 04 Checkout Shipping Customer Accounts and Orders v1.txt
+Checkout, Square links, shipping, optional customer accounts, and order handling.
+
+9. 05 Security Error Reporting Backups and Operations v1.txt
+Security, abuse prevention, error reporting, backups, recovery, and operations.
+
+10. 06 SEO Social Product Feeds and Revenue Design v1.txt
+SEO, product feeds, social commerce, analytics, and revenue features.
+
+Planning files are in:
+G:\My Drive\Torus Coffee Company\Design\Website Design\Plan Docs
+
+Planning files:
+- Website Build Phase Plan v1.txt
+- Website Notes and Decisions v1.txt
+- Website To Do and Bug Tracker v1.txt
+
+Documentation style
+- Design Docs describe what the website should become.
+- Plan Docs describe when/how to build it.
+- Notes and To-Do files are living tracking documents.
+
+Important principle
+Design the full platform now, build it in phases, and keep the first public launch focused on real sales with minimal cost.

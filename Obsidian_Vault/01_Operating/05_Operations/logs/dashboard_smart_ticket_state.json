@@ -1,0 +1,244 @@
+{
+  "timestamp": "2026-08-08T01:40:49.180603+00:00",
+  "trello_counts": {
+    "Torus Coffee Future Ideas": 3,
+    "P1 - High / Doing Now": 55,
+    "P2 - Med High / This Week": 179,
+    "P3 - Medium / Follow Up": 44,
+    "P4 - Medium Low / Backlog": 103,
+    "P5 - Low / Review": 5,
+    "P6 - Very Low / Blocked / Waiting": 10,
+    "Done": 24
+  },
+  "github_counts": {
+    "GitHub Open": 8
+  },
+  "tasklist": {
+    "updated": "2026-08-08T00:36:55.041708+00:00",
+    "count": 20,
+    "pending": 1,
+    "completed": 19,
+    "tasks": [
+      {
+        "id": "6a7124371696c8171433b8fe",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "Bug hunt weekly_review_automation.py",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/SAgUh4hR",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:40:26.339397+00:00"
+      },
+      {
+        "id": "6a712433d986e5476af125d7",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "Bug hunt social_media_automation.py",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/JKU0Idmn",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:40:23.427837+00:00"
+      },
+      {
+        "id": "6a7124373711a67b1299cbcb",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "Bug hunt monthly_review_automation.py",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/Jzi2YqH9",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:40:19.951195+00:00"
+      },
+      {
+        "id": "6a7124361db42f66b1aadd83",
+        "priority": "P1",
+        "status": "pending",
+        "lane": "miss_pink",
+        "title": "Bug hunt daily_ops_automation.py",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/uRUXLxRz",
+        "source": "trello",
+        "completed_at": null
+      },
+      {
+        "id": "6a758919687b61bbb3db9255",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "\ud83d\udce8 [INBOX] trello api 401 invalid key blocker sirgreen 20260806",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/eki12c7i",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:40:13.657511+00:00"
+      },
+      {
+        "id": "6a71243471edb3eff4f49bc3",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "Bug hunt buffer_automation.py",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/NbAeFdFE",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:40:01.950683+00:00"
+      },
+      {
+        "id": "6a76281e35758521a2952345",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "\ud83d\udea8 [P1] Dashboard image blocked \u2014 need Docker Hub auth",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/BhiiSMda",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:39:58.823405+00:00"
+      },
+      {
+        "id": "6a7589189ca085ca8dce78a8",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "\ud83d\udce8 [INBOX] trello api 401 invalid key blocker sirazure 20260806",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/wBjiNiQX",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:39:55.836974+00:00"
+      },
+      {
+        "id": "6a75891fe2e1acad47a8101d",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "\ud83d\udce8 [INBOX] sirgreen docker deep dive urgent sirgreen 20260806",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/da6AVCGc",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:39:52.995334+00:00"
+      },
+      {
+        "id": "6a7589217259b91d11ae66f1",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "\ud83d\udce8 [INBOX] sirazure re docker urgent findings sirazure 20260806",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/QOsSORTv",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:39:49.934143+00:00"
+      },
+      {
+        "id": "6a758916afae5cf53ccccf33",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "\ud83d\udce8 [INBOX] miss gordon docker blockers sirgreen 20260806",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/DBt9Lo9F",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:39:14.747793+00:00"
+      },
+      {
+        "id": "6a758914570bb5e64769122a",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "\ud83d\udce8 [INBOX] STATUS UPDATE DASHBOARD 8080 FIXED PLUGIN AUDIT PENDING AND DISCORD TOKEN BLOCKER 20260806T024500Z sirgreen.msg",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/ZtoJ8YLs",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:39:00.556485+00:00"
+      },
+      {
+        "id": "6a762810cf4143153a5250b7",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "\ud83d\udce8 [INBOX] RE HARDWARE TAB AND ISSUE OWNERSHIP ACK 20260805T233800Z misspink.msg",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/dAPhXHY8",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:38:57.472734+00:00"
+      },
+      {
+        "id": "6a762811c5882873a4d3fab3",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "\ud83d\udce8 [INBOX] RE DISCORD BOT GITHUB ACCESS AND WINDOWS UPDATE REMINDER 20260805T235900Z misspink.msg",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/muiRdNke",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:38:54.030270+00:00"
+      },
+      {
+        "id": "6a76281b6f4e3f7f50a9fbcf",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "\ud83d\udce8 ONE ACTION GRANT WRITE ACCESS OR PROVIDE PAT FOR ALERT ROUTER 20260806T043000Z sirgreen.msg",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/Y4ZukTiV",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:38:51.058028+00:00"
+      },
+      {
+        "id": "6a762818d5da329fde279451",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "\ud83d\udce8 DOCKER HUB PUSH STATUS SQUIDSTATION IMAGES PUSH BLOCKED BY AUTH 20260806T042700Z sirgreen.msg",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/XHMIZE7Z",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:38:47.474152+00:00"
+      },
+      {
+        "id": "6a76281735fbe026273b3460",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "\ud83d\udce8 DOCKER HUB PUSH RESULTS 5 OF 6 IMAGES PUSHED ALERT ROUTER BLOCKED 20260806T042800Z sirgreen.msg",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/AxIrRTvk",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:38:13.802466+00:00"
+      },
+      {
+        "id": "6a76281c1833984386f186a9",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "\ud83d\udce8 CODING ORDER DOCKER HUB WRITE ACCESS FOR ALERT ROUTER 20260806T051400Z sirgreen.msg",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/ZKN2PLUL",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:38:11.147220+00:00"
+      },
+      {
+        "id": "6a762819694f94ec8ae35ba5",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "\ud83d\udce8 ALERT ROUTER REPO EXISTS BUT SQUIDSTATION LACKS WRITE PERMISSION 20260806T042900Z sirgreen.msg",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/PA0cXfnz",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:37:55.954581+00:00"
+      },
+      {
+        "id": "6a73c1df44ddb17b0142b8c9",
+        "priority": "P1",
+        "status": "completed",
+        "lane": "miss_pink",
+        "title": "\ud83d\udc33 Sir Azure: ComfyUI/Redis/MinIO/Postgres/Nginx on SQUIDSTATION",
+        "acceptance": "Advanced by MASTER_OODA",
+        "next_action": "https://trello.com/c/LfZ5gtCL",
+        "source": "trello",
+        "completed_at": "2026-08-08T01:37:07.919480+00:00"
+      }
+    ]
+  }
+}

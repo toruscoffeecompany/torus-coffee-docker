@@ -1,0 +1,64 @@
+2026-08-03 19:15:50,251 | INFO | ============================================================
+2026-08-03 19:15:50,251 | INFO | STARTING TORUS COFFEE AUTOMATION ORCHESTRATOR
+2026-08-03 19:15:50,251 | INFO | ============================================================
+2026-08-03 19:15:50,251 | INFO | 
+--- Running buffer_automation ---
+2026-08-03 19:15:50,930 | INFO | ✓ buffer_automation: success
+2026-08-03 19:15:50,930 | INFO | ✓ buffer_automation completed successfully
+2026-08-03 19:15:50,930 | INFO | 
+--- Running zapier_automation ---
+2026-08-03 19:15:51,032 | ERROR | ✗ zapier_automation: failed with return code 1
+2026-08-03 19:15:51,032 | WARNING | ⚠ zapier_automation completed with issues: Traceback (most recent call last):
+  File "D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\scripts\zapier_automation.py", line 158, in <module>
+    logger = setup_logger()
+  File "D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\scripts\zapier_automation.py", line 151, in setup_logger
+    logging.basicConfig(
+    ^^^^^^^
+NameError: name 'logging' is not defined. Did you forget to import 'logging'?
+2026-08-03 19:15:51,033 | INFO | 
+--- Running hubspot_crm ---
+2026-08-03 19:15:51,764 | INFO | ✓ hubspot_crm: success
+2026-08-03 19:15:51,764 | INFO | ✓ hubspot_crm completed successfully
+2026-08-03 19:15:51,764 | INFO | 
+--- Running social_media_automation ---
+2026-08-03 19:15:51,834 | INFO | ✓ social_media_automation: success
+2026-08-03 19:15:51,834 | INFO | ✓ social_media_automation completed successfully
+2026-08-03 19:15:51,834 | INFO | 
+--- Running inventory_tracker ---
+2026-08-03 19:15:51,929 | INFO | ✓ inventory_tracker: success
+2026-08-03 19:15:51,929 | INFO | ✓ inventory_tracker completed successfully
+2026-08-03 19:15:51,929 | INFO | 
+--- Running daily_ops_automation ---
+2026-08-03 19:15:52,053 | INFO | ✓ daily_ops_automation: success
+2026-08-03 19:15:52,053 | INFO | ✓ daily_ops_automation completed successfully
+2026-08-03 19:15:52,053 | INFO | 
+--- Running weekly_review_automation ---
+2026-08-03 19:15:52,118 | INFO | ✓ weekly_review_automation: success
+2026-08-03 19:15:52,118 | INFO | ✓ weekly_review_automation completed successfully
+2026-08-03 19:15:52,118 | INFO | 
+--- Running monthly_review_automation ---
+2026-08-03 19:15:52,183 | INFO | ✓ monthly_review_automation: success
+2026-08-03 19:15:52,183 | INFO | ✓ monthly_review_automation completed successfully
+2026-08-03 19:15:52,183 | INFO | 
+============================================================
+2026-08-03 19:15:52,183 | INFO | AUTOMATION ORCHESTRATOR REPORT
+2026-08-03 19:15:52,183 | INFO | ============================================================
+2026-08-03 19:15:52,184 | INFO | Total scripts: 8
+2026-08-03 19:15:52,184 | INFO | Successful: 7
+2026-08-03 19:15:52,184 | INFO | Failed/Warnings: 1
+2026-08-03 19:15:52,184 | INFO | Success rate: 87.5%
+2026-08-03 19:15:52,184 | INFO | 
+Detailed Results:
+2026-08-03 19:15:52,184 | INFO |   ✓ buffer_automation: success
+2026-08-03 19:15:52,184 | INFO |   ✗ zapier_automation: error
+2026-08-03 19:15:52,184 | INFO |       Error: Traceback (most recent call last):
+  File "D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Ope
+2026-08-03 19:15:52,184 | INFO |   ✓ hubspot_crm: success
+2026-08-03 19:15:52,184 | INFO |   ✓ social_media_automation: success
+2026-08-03 19:15:52,184 | INFO |   ✓ inventory_tracker: success
+2026-08-03 19:15:52,184 | INFO |   ✓ daily_ops_automation: success
+2026-08-03 19:15:52,184 | INFO |   ✓ weekly_review_automation: success
+2026-08-03 19:15:52,184 | INFO |   ✓ monthly_review_automation: success
+2026-08-03 19:15:52,185 | INFO | 
+✓ Report saved to: D:\Work\Torus Coffee Company LLC\10_Skills_Library\05_Operations\logs\orchestrator_report_20260803_191552.json
+2026-08-03 19:15:52,185 | INFO | ============================================================

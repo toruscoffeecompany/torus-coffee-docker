@@ -1,0 +1,264 @@
+[2026-08-05T07:45:53.523507+00:00] task_trello_sync: completed - Trello sync verified
+[2026-08-05T07:45:53.574437+00:00] task_fastapi_verify: completed - FastAPI verified at 127.0.0.1:8000
+[2026-08-05T07:46:15.124383+00:00] task_nextjs_build: completed - Next.js build passed
+[2026-08-05T07:46:15.241983+00:00] task_git_status: completed - Git OK, 10 changes
+[2026-08-05T07:46:15.371510+00:00] task_docker_health: completed - Security containers up: 5/5
+[2026-08-05T07:46:15.372040+00:00] task_update_backlog: completed - Backlog updated
+[2026-08-05T07:58:59.507187+00:00] task_trello_sync: completed - Trello sync verified
+[2026-08-05T07:58:59.566570+00:00] task_fastapi_verify: completed - FastAPI verified at 127.0.0.1:8000
+[2026-08-05T07:58:59.677739+00:00] task_git_status: completed - Git OK, 11 changes
+[2026-08-05T07:58:59.791573+00:00] task_docker_health: completed - Security containers up: 5/5
+[2026-08-05T08:04:00.057026+00:00] ooda_task_loop started
+[2026-08-05T08:09:47.233887+00:00] task_trello_sync: completed - Trello sync verified
+[2026-08-05T08:09:47.285589+00:00] task_fastapi_verify: completed - FastAPI verified at 127.0.0.1:8000
+[2026-08-05T08:09:47.394955+00:00] task_git_status: completed - Git OK, 11 changes
+[2026-08-05T08:09:47.509002+00:00] task_docker_health: completed - Security containers up: 5/5
+[2026-08-05T08:10:37.855592+00:00] task_trello_sync: completed - Trello sync verified
+[2026-08-05T08:10:37.907177+00:00] task_fastapi_verify: completed - FastAPI verified at 127.0.0.1:8000
+[2026-08-05T08:10:38.020433+00:00] task_git_status: completed - Git OK, 11 changes
+[2026-08-05T08:10:38.136609+00:00] task_docker_health: completed - Security containers up: 5/5
+[2026-08-05T08:15:24.199659+00:00] task_inbox_check: failed - Processed 20 inbox messages
+[2026-08-05T08:15:24.199948+00:00] bug_created: inbox_check - Processed 20 inbox messages
+[2026-08-05T08:15:26.258095+00:00] task_git_auto: completed - git push: OK
+[2026-08-05T08:15:48.073174+00:00] task_nextjs_build: completed - Next.js build passed
+[2026-08-05T08:15:48.073839+00:00] task_update_backlog: completed - Backlog updated
+[2026-08-05T08:15:48.074696+00:00] task_failed: inbox_check - Processed 20 inbox messages
+[2026-08-05T08:16:48.075784+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:17:48.077308+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:23:54.505163+00:00] task_trello_sync: completed - Trello sync verified
+[2026-08-05T08:23:54.567905+00:00] task_fastapi_verify: completed - FastAPI verified at 127.0.0.1:8000
+[2026-08-05T08:23:54.643201+00:00] task_git_status: completed - Git OK, 8 changes
+[2026-08-05T08:23:54.767575+00:00] task_docker_health: completed - Security containers up: 5/5
+[2026-08-05T08:23:54.775013+00:00] task_inbox_check: completed - Processed 20 inbox messages
+[2026-08-05T08:23:56.702700+00:00] task_git_auto: completed - git push: OK
+[2026-08-05T08:24:18.424978+00:00] task_nextjs_build: completed - Next.js build passed
+[2026-08-05T08:24:18.425531+00:00] task_update_backlog: completed - Backlog updated
+[2026-08-05T08:24:21.362683+00:00] task_trello_sync: completed - Trello sync verified
+[2026-08-05T08:24:21.396019+00:00] task_fastapi_verify: completed - FastAPI verified at 127.0.0.1:8000
+[2026-08-05T08:24:21.490063+00:00] task_git_status: completed - Git OK, 9 changes
+[2026-08-05T08:24:21.602215+00:00] task_docker_health: completed - Security containers up: 5/5
+[2026-08-05T08:29:57.605726+00:00] task_inbox_check: failed - Processed 20 inbox messages
+[2026-08-05T08:29:57.606011+00:00] bug_created: inbox_check - Processed 20 inbox messages
+[2026-08-05T08:29:59.473927+00:00] task_git_auto: completed - git push: OK
+[2026-08-05T08:30:21.098155+00:00] task_nextjs_build: completed - Next.js build passed
+[2026-08-05T08:30:21.098828+00:00] task_update_backlog: completed - Backlog updated
+[2026-08-05T08:30:21.099535+00:00] task_failed: inbox_check - Processed 20 inbox messages
+[2026-08-05T08:31:21.110212+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:32:21.111862+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:33:21.112684+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:34:21.114038+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:35:21.115370+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:36:21.116081+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:37:21.116970+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:38:21.117744+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:39:21.119177+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:40:21.120169+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:41:21.120933+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:42:21.121969+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:43:21.123173+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:44:21.123933+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:45:21.124996+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:46:21.126652+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:47:21.127536+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:48:21.128776+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:49:21.129681+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:50:21.130768+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:51:21.132241+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:52:21.133092+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:53:21.134562+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:54:21.135335+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:55:21.136520+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:56:21.137336+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:57:21.138912+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:58:21.139906+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T08:59:21.140590+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:00:21.141819+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:01:21.142671+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:02:21.143496+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:03:21.145015+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:04:21.145977+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:05:21.147419+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:06:21.148121+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:07:21.149586+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:08:21.150775+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:09:21.151785+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:10:21.153266+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:11:21.154689+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:12:21.155765+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:13:21.157326+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:14:21.158768+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:15:21.160352+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:16:21.161798+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:17:21.162614+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:18:21.164148+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:19:21.165660+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:20:21.166376+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:21:21.167806+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:22:21.169058+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:23:21.169876+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:24:21.171054+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:25:21.171977+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:26:21.172871+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:27:21.173968+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:28:21.175487+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:29:21.176447+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:30:21.178128+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:31:21.179148+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:32:21.180468+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:33:21.181991+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:34:21.183470+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:35:21.184477+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:36:21.186055+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:37:21.187343+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:38:21.188370+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:39:21.189567+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:40:21.190597+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:41:21.191861+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:42:21.193402+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:43:21.194760+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:44:21.195540+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:45:21.196969+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:46:21.197876+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:47:21.199398+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:48:21.200114+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:49:21.201004+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:50:21.202222+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:51:21.203443+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:52:21.205092+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:53:21.206481+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:54:21.207839+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:55:21.208645+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:56:21.210112+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:57:21.210858+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:58:21.212150+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T09:59:21.212838+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:00:21.214105+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:01:21.214878+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:02:21.215595+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:03:21.216900+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:04:21.218222+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:05:21.219823+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:06:21.221017+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:07:21.222661+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:08:21.223639+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:09:21.224496+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:10:21.226083+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:11:21.227260+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:12:21.228270+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:13:21.229389+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:14:21.230019+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:15:21.242078+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:16:21.242929+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:17:21.244448+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:18:21.245170+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:19:21.246640+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:20:21.247678+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:21:21.248914+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:22:21.249634+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:23:21.250772+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:24:21.252218+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:25:21.253743+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:26:21.255017+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:27:21.256130+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:28:21.257067+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:29:21.257769+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:30:21.259051+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:31:21.260094+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:32:21.261647+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:33:21.262481+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:34:21.263262+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:35:21.264300+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:36:21.265181+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:37:21.265955+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:38:21.266730+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:39:21.267572+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:40:21.268283+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:41:21.268999+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:42:21.270582+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:43:21.271642+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:44:21.272960+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:45:21.274659+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:46:21.275783+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:47:21.277264+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:48:21.278409+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:49:21.279178+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:50:21.280714+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:51:21.281486+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:52:21.282917+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:53:21.284341+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:54:21.285064+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:55:21.286343+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:56:21.287126+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:57:21.288605+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:58:21.289842+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T10:59:21.290621+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:00:21.291296+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:01:21.292373+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:02:21.294033+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:03:21.295540+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:04:21.297148+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:05:21.298040+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:06:21.299026+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:07:21.300691+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:08:21.301833+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:09:21.303331+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:10:21.304605+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:11:21.305491+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:12:21.306225+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:13:21.307650+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:14:21.309048+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:15:21.310139+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:16:21.311492+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:17:21.312754+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:18:21.314336+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:19:21.315231+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:20:21.316715+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:21:21.318257+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:22:21.319027+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:23:21.320543+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:24:21.321354+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:25:21.322507+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:26:21.324034+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:27:21.325136+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:28:21.326679+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:28:24.621011+00:00] ooda_task_loop started
+[2026-08-05T11:29:21.327529+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:35:45.385164+00:00] task_trello_sync: completed - Trello sync verified
+[2026-08-05T11:35:45.457301+00:00] task_fastapi_verify: completed - FastAPI verified at 127.0.0.1:8000
+[2026-08-05T11:35:45.531484+00:00] task_git_status: completed - Git OK, 8 changes
+[2026-08-05T11:35:47.035001+00:00] task_docker_health: completed - Security containers up: 5/5
+[2026-08-05T11:35:47.044488+00:00] task_inbox_check: completed - No new inbox messages
+[2026-08-05T11:35:49.387933+00:00] task_git_auto: completed - git push: OK
+[2026-08-05T11:36:04.204378+00:00] task_trello_sync: completed - Trello sync verified
+[2026-08-05T11:36:04.256672+00:00] task_fastapi_verify: completed - FastAPI verified at 127.0.0.1:8000
+[2026-08-05T11:36:04.372043+00:00] task_git_status: completed - Git OK, 7 changes
+[2026-08-05T11:36:04.488462+00:00] task_docker_health: completed - Security containers up: 5/5
+[2026-08-05T11:36:04.492165+00:00] task_inbox_check: completed - No new inbox messages
+[2026-08-05T11:36:06.438966+00:00] task_git_auto: completed - git push: OK
+[2026-08-05T11:36:30.836389+00:00] task_nextjs_build: failed - Next.js build failed
+[2026-08-05T11:36:30.836723+00:00] bug_created: nextjs_build - Next.js build failed
+[2026-08-05T11:36:30.849982+00:00] task_update_backlog: completed - Backlog updated
+[2026-08-05T11:36:30.850722+00:00] task_failed: nextjs_build - Next.js build failed
+[2026-08-05T11:36:39.499616+00:00] task_nextjs_build: completed - Next.js build passed
+[2026-08-05T11:36:39.500175+00:00] task_update_backlog: completed - Backlog updated
+[2026-08-05T11:36:57.292419+00:00] ooda_task_loop started
+[2026-08-05T11:37:07.142558+00:00] ooda_task_loop started
+[2026-08-05T11:37:30.851672+00:00] loop_error: can't compare offset-naive and offset-aware datetimes
+[2026-08-05T11:39:05.757267+00:00] ooda_task_loop started
+[2026-08-05T15:16:18.514732Z] task_trello_sync: completed - Trello sync verified
+[2026-08-05T15:16:20.588794Z] task_fastapi_verify: failed - FastAPI not responding
+[2026-08-05T15:16:20.589027Z] bug_created: fastapi_verify - FastAPI not responding
+[2026-08-05T15:16:20.653249Z] task_git_status: completed - Git OK, 12 changes
+[2026-08-05T15:16:21.918612Z] task_docker_health: completed - Security containers up: 5/5
+[2026-08-05T15:16:21.931152Z] task_inbox_check: completed - No new inbox messages
+[2026-08-05T15:16:24.639162Z] task_git_auto: completed - git push: OK
+[2026-08-05T15:17:07.366361Z] task_nextjs_build: completed - Next.js build passed
+[2026-08-05T15:17:07.379130Z] task_update_backlog: completed - Backlog updated
+[2026-08-05T15:23:19.771018Z] task_trello_sync: completed - Trello sync verified
+[2026-08-05T15:23:19.812854Z] task_fastapi_verify: completed - FastAPI verified at 127.0.0.1:8000
+[2026-08-05T15:23:19.874681Z] task_git_status: completed - Git OK, 10 changes
+[2026-08-05T15:23:19.980857Z] task_docker_health: completed - Security containers up: 5/5
+[2026-08-05T15:23:19.992370Z] task_inbox_check: completed - No new inbox messages
+[2026-08-05T15:23:22.030825Z] task_git_auto: completed - git push: OK
+[2026-08-05T15:23:41.029618Z] task_nextjs_build: completed - Next.js build passed
+[2026-08-05T15:23:41.030178Z] task_update_backlog: completed - Backlog updated

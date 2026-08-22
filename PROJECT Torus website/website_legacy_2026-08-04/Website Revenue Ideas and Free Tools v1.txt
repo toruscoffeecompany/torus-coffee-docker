@@ -1,0 +1,375 @@
+﻿Torus Coffee Company Website Revenue Ideas - Free Tools and Borrowable Patterns
+Last updated: 2026-05-29
+
+Purpose
+This document captures free ideas, open-source code patterns, and platform features that can help Torus Coffee Company make money online without paying Wix or locking the business into a proprietary website builder.
+
+Important Rule
+We can borrow ideas and patterns from Wix, Shopify, Square, and other ecommerce platforms, but we should not copy proprietary code, paid templates, or locked design assets. We should use free/open-source code, official APIs, our own branding, and our own implementation.
+
+------------------------------------------------------------
+1. Big Revenue Strategy: Build A Product Data Engine
+------------------------------------------------------------
+
+The most useful pattern from Wix/Shopify-style platforms is not the visual template. It is the product data system.
+
+One clean product database should power:
+- Website shop pages
+- Product detail pages
+- Inventory dashboard
+- Square payment links now
+- Square API checkout later
+- Google Merchant Center feed
+- Pinterest catalog feed
+- Meta/Facebook/Instagram catalog feed
+- Product cards for social sharing
+- Email/newsletter product features
+- SEO structured data
+- Future wholesale line sheet
+
+This means each product should eventually have fields for:
+- Product ID
+- SKU
+- Name
+- Slug/URL
+- Description
+- Short description
+- Price
+- Sale price, optional
+- Inventory count
+- Availability status
+- Category
+- Tags
+- Main image
+- Additional images
+- Weight
+- Ingredients/allergens, if needed
+- Shelf life/storage instructions
+- Square checkout/payment link
+- Google category/feed fields
+- Meta/Pinterest feed fields
+- SEO title/meta description
+- Active/inactive status
+
+Recommendation
+Treat product data quality as a revenue feature. Better product data means better search, better social previews, better feeds, easier ads, and fewer manual updates.
+
+------------------------------------------------------------
+2. Free Google Product Visibility
+------------------------------------------------------------
+
+Google Merchant Center has free product listings. Google says eligible products can appear for free across Google Search, Maps, Images, Lens, YouTube, Gemini, the Shopping tab, and the product module on a Business Profile.
+
+Official source:
+https://support.google.com/merchants/answer/9826670
+
+Important requirements from Google include:
+- Return policy information
+- Shipping settings or shipping attributes
+- Product feed attributes like id, title, link, image_link, price, description, availability, condition, brand, and more where applicable
+
+Design implication:
+Build product pages and product feed fields correctly from the start.
+
+Website features to support this:
+- Product structured data on product pages
+- Product feed export for Google Merchant Center
+- Shipping policy page
+- Return/refund policy page
+- Clear product price and availability
+- Canonical product URLs
+- High-quality product images
+
+Google also has Product structured data for richer product results.
+
+Official source:
+https://developers.google.com/search/docs/appearance/structured-data/product
+
+Design implication:
+Each product page should include merchant/product structured data where appropriate: price, availability, product name, images, description, brand, shipping/return policy when possible.
+
+------------------------------------------------------------
+3. Free/Low-Cost Social Shopping Feeds
+------------------------------------------------------------
+
+Pinterest Catalogs
+Pinterest says merchants can upload retail catalog data and turn products into product Pins. Pinterest also says catalog upload is a free way to boost reach and sales.
+
+Official sources:
+https://help.pinterest.com/en/business/article/before-you-get-started-with-catalogs
+https://create.pinterest.com/en-ca/product-features/catalog-upload/
+
+Design implication:
+Create a Pinterest-ready product feed later from the same product database.
+
+Meta/Facebook/Instagram Catalogs
+Meta product catalogs can power Facebook Shops, Instagram Shopping, and dynamic/catalog ads. We already have an FB marketplace catalog CSV draft locally, but the actual feed should eventually be generated from the product database instead of manually edited.
+
+Design implication:
+Add fields that map to Meta catalog requirements:
+- id
+- title
+- description
+- availability
+- condition
+- price
+- link
+- image_link
+- brand
+- shipping_weight
+- product tags/custom labels
+
+Note:
+For Meta, use official Commerce Manager docs during implementation. Third-party feed specs are useful references, but final setup should follow Meta's current requirements.
+
+Google Business Profile Products
+Google Business Profile has a product editor for businesses that sell products without barcodes.
+
+Official source:
+https://support.google.com/business/answer/9124203
+
+Design implication:
+The product database can also become the source for manually adding best sellers to Google Business Profile.
+
+------------------------------------------------------------
+4. Product Page Conversion Ideas
+------------------------------------------------------------
+
+Product pages should do more than show a photo and a button.
+
+Recommended product page sections:
+- Product name
+- Price
+- Main product photo and gallery
+- Buy button linked to Square checkout/payment link
+- Short flavor/texture description
+- Size/weight
+- In-stock/low-stock/out-of-stock status
+- Ingredients/allergen note, if applicable
+- Shelf life/storage note
+- Shipping note: Ships in the U.S. only
+- Trust note: Secure checkout by Square
+- Related products
+- Social share buttons
+- Customer review/testimonial area, later
+- FAQ accordion for common buyer questions
+
+Revenue-friendly details:
+- Use real product photography.
+- Make the first buy button visible without scrolling on mobile.
+- Show price clearly.
+- Explain texture and flavor quickly.
+- Use badges honestly: Best Seller, New, Seasonal, Low Stock.
+- Do not fake scarcity.
+- Show secure checkout language because checkout leaves the site for Square in Phase 1.
+
+------------------------------------------------------------
+5. Home Page Revenue Structure
+------------------------------------------------------------
+
+The home page should make the product obvious immediately.
+
+Recommended home page flow:
+1. Hero with product/brand visual, tagline, and Shop Now button.
+2. Featured products or best sellers.
+3. Why freeze-dried? Short, visual explanation.
+4. Product categories: Candy, Fruit, Seasonal, Gift/Variety Packs later.
+5. Trust section: Midwest made, small batch, secure Square checkout, U.S. shipping.
+6. Blog/content teaser: The Orbit Report, The Orbit Workshop, The Orbit Kitchen.
+7. Email signup for launches/restocks/discounts.
+8. Social links and market/event callout.
+
+Wix-style idea to borrow:
+Wix sites often make it easy to edit hero sections, featured products, banners, and calls to action. We can build our own admin settings for these later.
+
+------------------------------------------------------------
+6. Email List As A Revenue Asset
+------------------------------------------------------------
+
+The site should capture email signups early, even before customer accounts are fully built.
+
+Email signup offers:
+- Product launch alerts
+- Restock alerts
+- Flea market/event updates
+- Blog digest
+- Occasional discounts
+- Behind-the-scenes freeze-drying notes
+
+Future email segments:
+- Customers
+- Newsletter-only subscribers
+- Wholesale leads
+- Local event shoppers
+- Recipe/blog readers
+
+Recommended implementation:
+- Start simple with an email signup form stored in Supabase.
+- Add clear consent text.
+- Later connect to Resend Marketing, Mailchimp, Brevo, or another marketing platform.
+
+Do not spam. The list should be opt-in and useful.
+
+------------------------------------------------------------
+7. Blog As Search And Trust Engine
+------------------------------------------------------------
+
+Three blog categories:
+- The Orbit Report: life/community/story posts
+- The Orbit Workshop: how-to/business/freeze-drying education
+- The Orbit Kitchen: recipes and ways to use Torus products
+
+Revenue purpose:
+- Builds trust
+- Gives Google more pages to index
+- Creates social content
+- Supports email newsletters
+- Creates product education
+- Helps wholesale buyers see that the business is active and real
+
+Blog features that help sales:
+- Related product callouts inside blog posts
+- Recipe posts that link to products
+- Product launch posts
+- Email signup below posts
+- Social share images
+- Author bios
+- SEO title/meta description
+
+Open-source/free CMS idea:
+Outstatic is an open-source CMS for Markdown/MDX stored in GitHub. It could be considered for blog editing if we want content files in Git rather than a database.
+Source: https://outstatic.com/
+
+However, because Torus also needs product/inventory/admin features, Supabase-backed blog posts may fit better long term.
+
+------------------------------------------------------------
+8. Free/Open-Source UI And Code Ideas
+------------------------------------------------------------
+
+Useful open-source/free code sources:
+
+Next.js Ecommerce Starter
+https://nextjsecommercestarter.com/
+Useful for ecommerce page/layout ideas.
+
+Vercel Commerce
+https://github.com/vercel/commerce
+Useful as a high-quality reference for ecommerce structure, though probably heavier than needed.
+
+shadcn/ui
+https://ui.shadcn.com/
+Good free component foundation for a custom admin and storefront.
+
+ReUI shadcn components
+https://reui.io/
+Large free/open-source component/block library. Useful for dashboards, filters, file uploads, and admin UI patterns.
+
+Outstatic CMS
+https://outstatic.com/
+Open-source Git-backed CMS option for blogs/content.
+
+Reviewskits
+https://reviewskits.com/
+Open-source testimonial/review components. Could inspire a later customer testimonial/review section.
+
+Recommendation:
+Use these for patterns/components, but keep the Torus codebase custom and lightweight.
+
+------------------------------------------------------------
+9. Wix Features Worth Recreating In Our Own Way
+------------------------------------------------------------
+
+Useful Wix-like ideas to recreate:
+- Easy product editor
+- Easy image uploads
+- Product collections/categories
+- Coupon/discount settings, later
+- Featured product controls
+- Blog editor with draft/publish
+- SEO fields per page/product/post
+- Social sharing images
+- Contact form inbox or notifications
+- Customer list
+- Basic analytics dashboard
+- Product feed integrations
+- Announcement bar for sales/restocks/events
+- Mobile-friendly editing/preview, later if practical
+
+What not to copy:
+- Proprietary Wix templates/code
+- Paid app behavior that depends on Wix APIs
+- Any visual design too close to a specific Wix template
+
+------------------------------------------------------------
+10. Revenue Features To Add To Design
+------------------------------------------------------------
+
+High priority:
+- Featured products on home page
+- Best sellers/manual featured flag
+- Email signup
+- Product page SEO and structured data
+- Square secure checkout language
+- Social share links
+- Product image gallery
+- Google Merchant Center-ready product feed design
+- Pinterest/Meta feed-ready product fields
+- Related products
+- Low stock/out-of-stock display
+
+Medium priority:
+- Reviews/testimonials
+- Product bundles/variety packs
+- Gift boxes
+- Discount codes, once checkout supports them
+- Restock notifications
+- Abandoned cart is later, because Square links limit what we can track
+- Referral program page, based on existing referral promo assets
+
+Later priority:
+- Direct ad publishing
+- Full social catalog sync automation
+- Advanced analytics dashboard
+- Wholesale account/pricing tools
+- Loyalty/rewards
+
+------------------------------------------------------------
+11. Accounts To Consider For Making Money
+------------------------------------------------------------
+
+Soon/free or mostly free:
+- Google Search Console
+- Google Merchant Center
+- Google Business Profile access
+- Pinterest Business account
+- Meta Business Manager / Commerce Manager
+- TikTok Business or TikTok Shop Seller Center, optional and later
+
+Already planned:
+- Square
+- Supabase
+- GitHub
+- Vercel or Netlify
+
+Later:
+- Resend or another email platform
+- Sentry for error reporting
+- Pirate Ship or shipping service
+- Analytics/pixel accounts
+
+------------------------------------------------------------
+12. My Practical Recommendation
+------------------------------------------------------------
+
+Build the website around a clean product database and product feed strategy.
+
+The first launch does not need automated ads, full checkout, or advanced integrations. But the design should include the data fields and page structure needed for:
+- Google free listings
+- Pinterest product pins
+- Meta catalog
+- SEO rich product results
+- Email product promos
+- Square checkout now
+- Square API checkout later
+
+That gives Torus the best chance to turn the website into a sales machine instead of just an online brochure.

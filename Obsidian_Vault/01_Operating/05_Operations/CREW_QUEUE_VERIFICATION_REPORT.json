@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-08-07T01:46:41.402054+00:00",
+  "ok": false,
+  "details": {
+    "last_run": null,
+    "processed_recent": 0,
+    "counts_recent": {},
+    "total_processed": null,
+    "failed_count": null,
+    "queue_counts": {
+      "Sir Azure's Queue": 51,
+      "Sir Green's Queue": 118
+    },
+    "latest_failures": []
+  },
+  "summary": "no queue transfers yet"
+}

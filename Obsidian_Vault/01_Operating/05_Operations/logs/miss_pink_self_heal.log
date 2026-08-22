@@ -1,0 +1,1090 @@
+[2026-08-09T16:33:00.312008+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T16:33:00.321705+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T16:33:00.340008+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T16:33:00.349564+00:00] HEAL_STARTED automated_verification
+[2026-08-09T16:33:00.982972+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T16:33:01.200012+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T16:33:01.200968+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T16:38:00.218568+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T16:38:00.225949+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T16:38:00.235039+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T16:38:00.321564+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T16:38:00.330298+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T16:38:00.348399+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T16:38:00.357279+00:00] HEAL_STARTED automated_verification
+[2026-08-09T16:38:00.832143+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T16:38:00.939049+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T16:38:00.939411+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T16:43:00.274326+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T16:43:00.282988+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T16:43:00.297103+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T16:43:00.386622+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T16:43:00.396683+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T16:43:00.403656+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T16:43:00.414475+00:00] HEAL_STARTED automated_verification
+[2026-08-09T16:43:00.996891+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T16:43:01.134682+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T16:43:01.135006+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T16:48:00.231497+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T16:48:00.237594+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T16:48:00.248243+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T16:48:00.314790+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T16:48:00.324066+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T16:48:00.330324+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T16:48:00.340326+00:00] HEAL_STARTED automated_verification
+[2026-08-09T16:48:00.901110+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------
+ 1 file changed, 22 insertions(+), 22 deletions(-)
+[2026-08-09T16:48:00.997557+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T16:48:00.997929+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------\n 1 file changed, 22 insertions(+), 22 deletions(-)"]}}
+[2026-08-09T16:53:00.241455+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T16:53:00.253096+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T16:53:00.267142+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T16:53:00.358411+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T16:53:00.367527+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T16:53:00.374810+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T16:53:00.384041+00:00] HEAL_STARTED automated_verification
+[2026-08-09T16:53:00.913840+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T16:53:01.015306+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T16:53:01.015631+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T16:58:00.231672+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T16:58:00.236076+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T16:58:00.244987+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T16:58:00.301605+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T16:58:00.310508+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T16:58:00.315997+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T16:58:00.323682+00:00] HEAL_STARTED automated_verification
+[2026-08-09T16:58:00.817570+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T16:58:00.908028+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T16:58:00.908344+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T17:03:00.272244+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T17:03:00.279076+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T17:03:00.292086+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T17:03:00.374316+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T17:03:00.385235+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T17:03:00.392916+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T17:03:00.401364+00:00] HEAL_STARTED automated_verification
+[2026-08-09T17:03:00.951028+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T17:03:01.052294+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T17:03:01.052804+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T17:08:00.256789+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T17:08:00.262021+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T17:08:00.271325+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T17:08:00.341343+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T17:08:00.349897+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T17:08:00.356088+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T17:08:00.366076+00:00] HEAL_STARTED automated_verification
+[2026-08-09T17:08:01.033289+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T17:08:01.143536+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T17:08:01.143910+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T17:13:00.286520+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T17:13:00.294321+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T17:13:00.303211+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T17:13:00.395282+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T17:13:00.403407+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T17:13:00.410517+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T17:13:00.420381+00:00] HEAL_STARTED automated_verification
+[2026-08-09T17:13:01.023683+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T17:13:01.154808+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T17:13:01.155224+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T17:18:00.285185+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T17:18:00.293275+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T17:18:00.304687+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T17:18:00.403844+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T17:18:00.414389+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T17:18:00.422842+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T17:18:00.433142+00:00] HEAL_STARTED automated_verification
+[2026-08-09T17:18:00.991901+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------
+ 1 file changed, 22 insertions(+), 22 deletions(-)
+[2026-08-09T17:18:01.086858+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T17:18:01.087181+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------\n 1 file changed, 22 insertions(+), 22 deletions(-)"]}}
+[2026-08-09T17:23:00.292413+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T17:23:00.300751+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T17:23:00.310463+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T17:23:00.403572+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T17:23:00.412659+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T17:23:00.417596+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T17:23:00.425271+00:00] HEAL_STARTED automated_verification
+[2026-08-09T17:23:00.946110+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 24 +++++++++++-----------
+ 1 file changed, 12 insertions(+), 12 deletions(-)
+[2026-08-09T17:23:01.064613+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T17:23:01.064978+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 24 +++++++++++-----------\n 1 file changed, 12 insertions(+), 12 deletions(-)"]}}
+[2026-08-09T17:28:00.286725+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T17:28:00.291166+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T17:28:00.299695+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T17:28:00.358370+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T17:28:00.366706+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T17:28:00.372598+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T17:28:00.380295+00:00] HEAL_STARTED automated_verification
+[2026-08-09T17:28:00.881348+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T17:28:01.008049+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T17:28:01.008412+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "ERROR", "Error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T17:33:00.732306+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T17:33:00.745598+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T17:33:00.753557+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T17:33:00.815006+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T17:33:00.823076+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T17:33:00.838509+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T17:33:00.848048+00:00] HEAL_STARTED automated_verification
+[2026-08-09T17:33:01.393543+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------
+ 1 file changed, 22 insertions(+), 22 deletions(-)
+[2026-08-09T17:33:01.512629+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T17:33:01.513045+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------\n 1 file changed, 22 insertions(+), 22 deletions(-)"]}}
+[2026-08-09T17:38:00.300193+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T17:38:00.304869+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T17:38:00.313368+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T17:38:00.376469+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T17:38:00.384469+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T17:38:00.390698+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T17:38:00.398372+00:00] HEAL_STARTED automated_verification
+[2026-08-09T17:38:00.896953+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T17:38:00.984804+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T17:38:00.985113+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T17:43:00.303080+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T17:43:00.307938+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T17:43:00.316177+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T17:43:00.375975+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T17:43:00.383594+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T17:43:00.388443+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T17:43:00.396312+00:00] HEAL_STARTED automated_verification
+[2026-08-09T17:43:00.932504+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T17:43:01.025189+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T17:43:01.025657+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T17:48:00.309639+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T17:48:00.314237+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T17:48:00.322692+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T17:48:00.383408+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T17:48:00.390963+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T17:48:00.395942+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T17:48:00.403681+00:00] HEAL_STARTED automated_verification
+[2026-08-09T17:48:00.803743+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T17:53:00.352537+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T17:53:00.358374+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T17:53:00.367394+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T17:53:00.431380+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T17:53:00.439353+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T17:53:00.444472+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T17:53:00.452752+00:00] HEAL_STARTED automated_verification
+[2026-08-09T17:53:00.830491+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T17:58:00.333002+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T17:58:00.337703+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T17:58:00.345740+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T17:58:00.406576+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T17:58:00.415379+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T17:58:00.421044+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T17:58:00.430155+00:00] HEAL_STARTED automated_verification
+[2026-08-09T17:58:00.856004+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T18:03:00.331460+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T18:03:00.336305+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T18:03:00.344754+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T18:03:00.406512+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T18:03:00.414344+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T18:03:00.419398+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T18:03:00.426972+00:00] HEAL_STARTED automated_verification
+[2026-08-09T18:03:00.883269+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T18:08:00.332687+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T18:08:00.337117+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T18:08:00.346392+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T18:08:00.414892+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T18:08:00.425627+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T18:08:00.433785+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T18:08:00.445893+00:00] HEAL_STARTED automated_verification
+[2026-08-09T18:08:00.836935+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T18:13:00.342213+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T18:13:00.346725+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T18:13:00.354709+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T18:13:00.413569+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T18:13:00.421121+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T18:13:00.426021+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T18:13:00.433439+00:00] HEAL_STARTED automated_verification
+[2026-08-09T18:13:00.805733+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T18:18:00.345140+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T18:18:00.349694+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T18:18:00.357716+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T18:18:00.416835+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T18:18:00.424312+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T18:18:00.437525+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T18:18:00.445894+00:00] HEAL_STARTED automated_verification
+[2026-08-09T18:18:00.857255+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T18:23:00.349371+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T18:23:00.354600+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T18:23:00.363725+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T18:23:00.427230+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T18:23:00.435445+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T18:23:00.442536+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T18:23:00.452042+00:00] HEAL_STARTED automated_verification
+[2026-08-09T18:23:00.943167+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T18:28:00.356905+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T18:28:00.361719+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T18:28:00.370393+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T18:28:00.431275+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T18:28:00.438968+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T18:28:00.443888+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T18:28:00.452596+00:00] HEAL_STARTED automated_verification
+[2026-08-09T18:28:00.842086+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T18:33:00.373612+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T18:33:00.378613+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T18:33:00.387042+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T18:33:00.445573+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T18:33:00.454369+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T18:33:00.460300+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T18:33:00.471894+00:00] HEAL_STARTED automated_verification
+[2026-08-09T18:33:01.163910+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T18:38:00.394632+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T18:38:00.399267+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T18:38:00.407593+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T18:38:00.478945+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T18:38:00.488296+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T18:38:00.494897+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T18:38:00.502645+00:00] HEAL_STARTED automated_verification
+[2026-08-09T18:38:00.871890+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T18:43:00.392405+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T18:43:00.397913+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T18:43:00.410397+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T18:43:00.495742+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T18:43:00.503561+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T18:43:00.508755+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T18:43:00.517004+00:00] HEAL_STARTED automated_verification
+[2026-08-09T18:43:01.240899+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T18:48:00.404752+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T18:48:00.410944+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T18:48:00.424247+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T18:48:00.497592+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T18:48:00.505281+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T18:48:00.511292+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T18:48:00.519115+00:00] HEAL_STARTED automated_verification
+[2026-08-09T18:48:01.375670+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 24 +++++++++++-----------
+ 1 file changed, 12 insertions(+), 12 deletions(-)
+[2026-08-09T18:48:01.521704+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T18:48:01.522009+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 24 +++++++++++-----------\n 1 file changed, 12 insertions(+), 12 deletions(-)"]}}
+[2026-08-09T18:53:00.430084+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T18:53:00.435742+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T18:53:00.445435+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T18:53:00.508713+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T18:53:00.517558+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T18:53:00.522505+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T18:53:00.530550+00:00] HEAL_STARTED automated_verification
+[2026-08-09T18:53:01.190770+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T18:53:01.331292+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T18:53:01.331597+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T18:58:00.428658+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T18:58:00.433289+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T18:58:00.441837+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T18:58:00.500752+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T18:58:00.509870+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T18:58:00.515520+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T18:58:00.523966+00:00] HEAL_STARTED automated_verification
+[2026-08-09T18:58:00.991597+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T18:58:01.099839+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T18:58:01.100155+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "ERROR", "Error", "error", "error", "ERROR", "Error", "error", "error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T19:03:00.430896+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T19:03:00.436115+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T19:03:00.444414+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T19:03:00.505432+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T19:03:00.512996+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T19:03:00.518010+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T19:03:00.525961+00:00] HEAL_STARTED automated_verification
+[2026-08-09T19:03:01.001902+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T19:03:01.091782+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T19:03:01.092068+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "ERROR", "Error", "error", "error", "ERROR", "Error", "error", "error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T19:08:00.423911+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T19:08:00.428759+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T19:08:00.436988+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T19:08:00.500360+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T19:08:00.508094+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T19:08:00.512968+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T19:08:00.521347+00:00] HEAL_STARTED automated_verification
+[2026-08-09T19:08:01.009019+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T19:08:01.102142+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T19:08:01.102465+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "ERROR", "Error", "error", "error", "ERROR", "Error", "error", "error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T19:13:00.425027+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T19:13:00.429934+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T19:13:00.438451+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T19:13:00.504858+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T19:13:00.512665+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T19:13:00.519347+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T19:13:00.528158+00:00] HEAL_STARTED automated_verification
+[2026-08-09T19:13:01.348061+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T19:13:01.488264+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T19:13:01.488664+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "error", "error", "ERROR", "Error", "error", "error", "ERROR", "Error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T19:18:00.428905+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T19:18:00.433336+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T19:18:00.441452+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T19:18:00.500434+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T19:18:00.508034+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T19:18:00.513403+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T19:18:00.521686+00:00] HEAL_STARTED automated_verification
+[2026-08-09T19:18:01.020614+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 104 ++++++++++-----------
+ 1 file changed, 52 insertions(+), 52 deletions(-)
+[2026-08-09T19:18:01.116734+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T19:18:01.117030+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "ERROR", "Error", "ERROR", "Error", "error", "error", "ERROR", "Error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 104 ++++++++++-----------\n 1 file changed, 52 insertions(+), 52 deletions(-)"]}}
+[2026-08-09T19:23:00.432961+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T19:23:00.437324+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T19:23:00.446145+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T19:23:00.506670+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T19:23:00.514172+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T19:23:00.519460+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T19:23:00.528199+00:00] HEAL_STARTED automated_verification
+[2026-08-09T19:23:00.995291+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T19:23:01.084673+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T19:23:01.085011+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "error", "ERROR", "Error", "error", "error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T19:28:00.442478+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T19:28:00.447180+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T19:28:00.455583+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T19:28:00.515475+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T19:28:00.523071+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T19:28:00.537029+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T19:28:00.544674+00:00] HEAL_STARTED automated_verification
+[2026-08-09T19:28:01.023236+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T19:28:01.112763+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T19:28:01.113060+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T19:33:00.449646+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T19:33:00.454170+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T19:33:00.462407+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T19:33:00.526781+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T19:33:00.534200+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T19:33:00.539650+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T19:33:00.546905+00:00] HEAL_STARTED automated_verification
+[2026-08-09T19:33:01.135372+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T19:33:01.228113+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T19:33:01.228391+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T19:38:00.460575+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T19:38:00.465486+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T19:38:00.473846+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T19:38:00.531700+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T19:38:00.539390+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T19:38:00.545400+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T19:38:00.555240+00:00] HEAL_STARTED automated_verification
+[2026-08-09T19:38:01.150847+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T19:38:01.263527+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T19:38:01.263926+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T19:43:00.477892+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T19:43:00.485214+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T19:43:00.493256+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T19:43:00.583960+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T19:43:00.592113+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T19:43:00.600187+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T19:43:00.609160+00:00] HEAL_STARTED automated_verification
+[2026-08-09T19:43:01.101437+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------
+ 1 file changed, 22 insertions(+), 22 deletions(-)
+[2026-08-09T19:43:01.196250+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T19:43:01.196631+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------\n 1 file changed, 22 insertions(+), 22 deletions(-)"]}}
+[2026-08-09T19:48:00.483394+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T19:48:00.489377+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T19:48:00.499394+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T19:48:00.573640+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T19:48:00.583276+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T19:48:00.589983+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T19:48:00.600826+00:00] HEAL_STARTED automated_verification
+[2026-08-09T19:48:01.110304+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 94 +++++++++++-----------
+ 1 file changed, 47 insertions(+), 47 deletions(-)
+[2026-08-09T19:48:01.203450+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T19:48:01.203760+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 94 +++++++++++-----------\n 1 file changed, 47 insertions(+), 47 deletions(-)"]}}
+[2026-08-09T19:53:00.482667+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T19:53:00.488555+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T19:53:00.496944+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T19:53:00.560701+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T19:53:00.568576+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T19:53:00.575480+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T19:53:00.583397+00:00] HEAL_STARTED automated_verification
+[2026-08-09T19:53:01.049352+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T19:53:01.137624+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T19:53:01.137956+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T19:58:00.563611+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T19:58:00.572087+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T19:58:00.584506+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T19:58:00.706382+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T19:58:00.717528+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T19:58:00.727091+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T19:58:00.741206+00:00] HEAL_STARTED automated_verification
+[2026-08-09T19:58:02.190701+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T19:58:02.451284+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T19:58:02.451786+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T20:03:00.510874+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T20:03:00.518154+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T20:03:00.526326+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T20:03:00.615113+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T20:03:00.622573+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T20:03:00.628973+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T20:03:00.638581+00:00] HEAL_STARTED automated_verification
+[2026-08-09T20:03:01.164776+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------
+ 1 file changed, 22 insertions(+), 22 deletions(-)
+[2026-08-09T20:03:01.255284+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T20:03:01.255585+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "ERROR", "Error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------\n 1 file changed, 22 insertions(+), 22 deletions(-)"]}}
+[2026-08-09T20:23:02.040085+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T20:23:02.044677+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T20:23:02.052786+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T20:23:02.113465+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T20:23:02.121731+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T20:23:02.136137+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T20:23:02.143598+00:00] HEAL_STARTED automated_verification
+[2026-08-09T20:23:02.662947+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 194 ++++++++++-----------
+ 1 file changed, 97 insertions(+), 97 deletions(-)
+[2026-08-09T20:23:02.758015+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T20:23:02.758334+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 194 ++++++++++-----------\n 1 file changed, 97 insertions(+), 97 deletions(-)"]}}
+[2026-08-09T20:28:01.041751+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T20:28:01.046389+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T20:28:01.054090+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T20:28:01.115166+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T20:28:01.122662+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T20:28:01.128789+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T20:28:01.140775+00:00] HEAL_STARTED automated_verification
+[2026-08-09T20:28:01.679831+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T20:28:01.766390+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T20:28:01.766674+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T20:33:01.073363+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T20:33:01.079568+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T20:33:01.090052+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T20:33:01.171128+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T20:33:01.180694+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T20:33:01.188469+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T20:33:01.198501+00:00] HEAL_STARTED automated_verification
+[2026-08-09T20:33:01.913335+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json              | 14 +++++++-------
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+[2026-08-09T20:33:02.055732+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T20:33:02.056171+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json              | 14 +++++++-------\n 1 file changed, 7 insertions(+), 7 deletions(-)"]}}
+[2026-08-09T20:38:00.066352+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T20:38:00.071019+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T20:38:00.079507+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T20:38:00.141512+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T20:38:00.149069+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T20:38:00.154605+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T20:38:00.162469+00:00] HEAL_STARTED automated_verification
+[2026-08-09T20:38:01.046747+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------
+ 1 file changed, 22 insertions(+), 22 deletions(-)
+[2026-08-09T20:38:01.302924+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T20:38:01.304227+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------\n 1 file changed, 22 insertions(+), 22 deletions(-)"]}}
+[2026-08-09T20:43:00.077918+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T20:43:00.082578+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T20:43:00.090912+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T20:43:00.165782+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T20:43:00.176367+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T20:43:00.181858+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T20:43:00.192668+00:00] HEAL_STARTED automated_verification
+[2026-08-09T20:43:01.393390+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 24 +++++++++++-----------
+ 1 file changed, 12 insertions(+), 12 deletions(-)
+[2026-08-09T20:43:01.631699+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T20:43:01.632139+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 24 +++++++++++-----------\n 1 file changed, 12 insertions(+), 12 deletions(-)"]}}
+[2026-08-09T20:48:00.085092+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T20:48:00.090390+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T20:48:00.098415+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T20:48:00.166306+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T20:48:00.174190+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T20:48:00.178838+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T20:48:00.186843+00:00] HEAL_STARTED automated_verification
+[2026-08-09T20:48:00.672285+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 74 +++++++++++-----------
+ 1 file changed, 37 insertions(+), 37 deletions(-)
+[2026-08-09T20:48:00.758809+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T20:48:00.759103+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 74 +++++++++++-----------\n 1 file changed, 37 insertions(+), 37 deletions(-)"]}}
+[2026-08-09T20:53:00.080654+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T20:53:00.086639+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T20:53:00.093986+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T20:53:00.153431+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T20:53:00.160672+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T20:53:00.165731+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T20:53:00.172897+00:00] HEAL_STARTED automated_verification
+[2026-08-09T20:53:00.595113+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------
+ 1 file changed, 22 insertions(+), 22 deletions(-)
+[2026-08-09T20:53:00.677731+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T20:53:00.677995+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "ERROR", "Error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------\n 1 file changed, 22 insertions(+), 22 deletions(-)"]}}
+[2026-08-09T20:58:00.093040+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T20:58:00.097874+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T20:58:00.105683+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T20:58:00.165649+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T20:58:00.173538+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T20:58:00.178605+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T20:58:00.186132+00:00] HEAL_STARTED automated_verification
+[2026-08-09T20:58:00.632401+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T20:58:00.719159+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T20:58:00.719491+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T21:03:00.098273+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T21:03:00.102601+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T21:03:00.110271+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T21:03:00.169320+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T21:03:00.176744+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T21:03:00.181804+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T21:03:00.188822+00:00] HEAL_STARTED automated_verification
+[2026-08-09T21:03:00.632443+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T21:03:00.722636+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T21:03:00.722945+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T21:08:00.119854+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T21:08:00.124538+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T21:08:00.132714+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T21:08:00.195541+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T21:08:00.203119+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T21:08:00.208651+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T21:08:00.216143+00:00] HEAL_STARTED automated_verification
+[2026-08-09T21:08:00.696209+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T21:08:00.787739+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T21:08:00.788040+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T21:13:00.203383+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T21:13:00.225080+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T21:13:00.240518+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T21:13:00.347036+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T21:13:00.357328+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T21:13:00.366537+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T21:13:00.376842+00:00] HEAL_STARTED automated_verification
+[2026-08-09T21:13:01.205427+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------
+ 1 file changed, 22 insertions(+), 22 deletions(-)
+[2026-08-09T21:13:01.395425+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T21:13:01.395750+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "error", "ERROR", "Error", "ERROR", "Error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------\n 1 file changed, 22 insertions(+), 22 deletions(-)"]}}
+[2026-08-09T21:18:00.124522+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T21:18:00.130647+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T21:18:00.139858+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T21:18:00.206741+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T21:18:00.215835+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T21:18:00.221257+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T21:18:00.228743+00:00] HEAL_STARTED automated_verification
+[2026-08-09T21:18:01.008703+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 24 +++++++++++-----------
+ 1 file changed, 12 insertions(+), 12 deletions(-)
+[2026-08-09T21:18:01.130829+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T21:18:01.131124+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 24 +++++++++++-----------\n 1 file changed, 12 insertions(+), 12 deletions(-)"]}}
+[2026-08-09T21:23:00.119153+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T21:23:00.123764+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T21:23:00.131620+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T21:23:00.192900+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T21:23:00.202775+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T21:23:00.218137+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T21:23:00.225934+00:00] HEAL_STARTED automated_verification
+[2026-08-09T21:23:00.955341+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 74 +++++++++++-----------
+ 1 file changed, 37 insertions(+), 37 deletions(-)
+[2026-08-09T21:23:01.140289+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T21:23:01.140567+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 74 +++++++++++-----------\n 1 file changed, 37 insertions(+), 37 deletions(-)"]}}
+[2026-08-09T21:38:01.681127+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T21:38:01.685407+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T21:38:01.693176+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T21:38:01.755162+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T21:38:01.762550+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T21:38:01.777266+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T21:38:01.785578+00:00] HEAL_STARTED automated_verification
+[2026-08-09T21:38:02.249141+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json              | 14 +++++++-------
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+[2026-08-09T21:38:02.346392+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T21:38:02.346677+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json              | 14 +++++++-------\n 1 file changed, 7 insertions(+), 7 deletions(-)"]}}
+[2026-08-09T21:43:00.680984+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T21:43:00.685854+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T21:43:00.693659+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T21:43:00.756047+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T21:43:00.763708+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T21:43:00.780187+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T21:43:00.788366+00:00] HEAL_STARTED automated_verification
+[2026-08-09T21:43:01.273709+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------
+ 1 file changed, 22 insertions(+), 22 deletions(-)
+[2026-08-09T21:43:01.362825+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T21:43:01.363095+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------\n 1 file changed, 22 insertions(+), 22 deletions(-)"]}}
+[2026-08-09T21:48:00.685459+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T21:48:00.689775+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T21:48:00.697296+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T21:48:00.757475+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T21:48:00.765415+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T21:48:00.780518+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T21:48:00.788995+00:00] HEAL_STARTED automated_verification
+[2026-08-09T21:48:01.248909+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 94 +++++++++++-----------
+ 1 file changed, 47 insertions(+), 47 deletions(-)
+[2026-08-09T21:48:01.335879+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T21:48:01.336150+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 94 +++++++++++-----------\n 1 file changed, 47 insertions(+), 47 deletions(-)"]}}
+[2026-08-09T21:53:00.690858+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T21:53:00.695327+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T21:53:00.703167+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T21:53:00.763393+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T21:53:00.770640+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T21:53:00.775964+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T21:53:00.783595+00:00] HEAL_STARTED automated_verification
+[2026-08-09T21:53:01.252975+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-09T21:53:01.340956+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T21:53:01.341282+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-09T21:58:00.701650+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T21:58:00.707092+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T21:58:00.716651+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T21:58:00.789853+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T21:58:00.799318+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T21:58:00.805092+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T21:58:00.813820+00:00] HEAL_STARTED automated_verification
+[2026-08-09T21:58:01.458906+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json              | 14 +++++++-------
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+[2026-08-09T21:58:01.578177+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T21:58:01.578494+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json              | 14 +++++++-------\n 1 file changed, 7 insertions(+), 7 deletions(-)"]}}
+[2026-08-09T22:03:00.699429+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T22:03:00.704094+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T22:03:00.711817+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T22:03:00.775122+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T22:03:00.782832+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T22:03:00.788082+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T22:03:00.796268+00:00] HEAL_STARTED automated_verification
+[2026-08-09T22:03:01.508286+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------
+ 1 file changed, 22 insertions(+), 22 deletions(-)
+[2026-08-09T22:03:01.653136+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T22:03:01.653467+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 44 +++++++++++-----------\n 1 file changed, 22 insertions(+), 22 deletions(-)"]}}
+[2026-08-09T22:08:00.715984+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T22:08:00.720738+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T22:08:00.726327+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T22:08:00.792925+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T22:08:00.799511+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T22:08:00.814305+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T22:08:00.819957+00:00] HEAL_STARTED automated_verification
+[2026-08-09T22:08:01.528873+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 24 +++++++++++-----------
+ 1 file changed, 12 insertions(+), 12 deletions(-)
+[2026-08-09T22:08:01.651725+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-09T22:08:01.652110+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 24 +++++++++++-----------\n 1 file changed, 12 insertions(+), 12 deletions(-)"]}}
+[2026-08-09T22:13:00.734020+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T22:13:00.742821+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T22:13:00.751852+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T22:13:00.837258+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T22:13:00.844838+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T22:13:00.873940+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T22:13:00.881895+00:00] HEAL_STARTED automated_verification
+[2026-08-09T22:13:01.621332+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T22:18:00.749108+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T22:18:00.776040+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T22:18:00.782885+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T22:18:00.890583+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T22:18:00.897171+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T22:18:00.919714+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T22:18:01.120294+00:00] HEAL_STARTED automated_verification
+[2026-08-09T22:18:01.874464+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T22:23:00.724501+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T22:23:00.730981+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T22:23:00.736892+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T22:23:00.832021+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T22:23:00.837403+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T22:23:00.842859+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T22:23:00.849458+00:00] HEAL_STARTED automated_verification
+[2026-08-09T22:23:01.473286+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "error", "error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T22:28:00.722465+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T22:28:00.729138+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T22:28:00.735294+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T22:28:00.835311+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T22:28:00.841306+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T22:28:00.849197+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T22:28:00.856180+00:00] HEAL_STARTED automated_verification
+[2026-08-09T22:28:01.486213+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "error", "error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T22:33:00.728201+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T22:33:00.922115+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T22:33:00.930494+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T22:33:01.051891+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T22:33:01.060555+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T22:33:01.099557+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T22:33:01.111803+00:00] HEAL_STARTED automated_verification
+[2026-08-09T22:33:02.617882+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T22:38:00.747553+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T22:38:00.926864+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T22:38:00.933777+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T22:38:01.072741+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T22:38:01.085825+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T22:38:01.125964+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T22:38:01.135862+00:00] HEAL_STARTED automated_verification
+[2026-08-09T22:38:02.662209+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T22:43:00.736142+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T22:43:00.877465+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T22:43:00.884295+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T22:43:00.972420+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T22:43:00.977877+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T22:43:00.983940+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T22:43:00.990890+00:00] HEAL_STARTED automated_verification
+[2026-08-09T22:43:01.993569+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "error", "error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T22:48:00.752604+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T22:48:00.900128+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T22:48:00.907157+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T22:48:01.007755+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T22:48:01.014712+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T22:48:01.032368+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T22:48:01.038491+00:00] HEAL_STARTED automated_verification
+[2026-08-09T22:48:02.459384+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T22:53:00.751174+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T22:53:00.899248+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T22:53:00.905815+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T22:53:00.985804+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T22:53:00.992646+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T22:53:01.008302+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T22:53:01.015639+00:00] HEAL_STARTED automated_verification
+[2026-08-09T22:53:02.370368+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-09T22:58:00.807127+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-09T22:58:01.001453+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-09T22:58:01.011394+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-09T22:58:01.126345+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-09T22:58:01.134161+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-09T22:58:01.154413+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-09T22:58:01.163278+00:00] HEAL_STARTED automated_verification
+[2026-08-09T22:58:02.615336+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "error", "error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-10T01:28:04.075516+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T01:28:04.238091+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T01:28:04.248043+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T01:28:04.423275+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T01:28:04.430782+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T01:28:04.486947+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T01:28:04.582772+00:00] HEAL_STARTED automated_verification
+[2026-08-10T01:28:05.748708+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-10T01:33:00.642797+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T01:33:00.810586+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T01:33:00.819012+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T01:33:00.951854+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T01:33:00.965867+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T01:33:01.030103+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T01:33:01.038524+00:00] HEAL_STARTED automated_verification
+[2026-08-10T01:33:02.543306+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-10T01:38:02.182197+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T01:38:02.464053+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T01:38:02.480431+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T01:38:02.751330+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T01:38:02.757665+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T01:38:02.783494+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T01:38:02.856368+00:00] HEAL_STARTED automated_verification
+[2026-08-10T01:38:04.719856+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-10T01:53:01.174311+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T01:53:01.291443+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T01:53:01.297993+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T01:53:01.405783+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T01:53:01.412739+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T01:53:01.442119+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T01:53:01.449918+00:00] HEAL_STARTED automated_verification
+[2026-08-10T01:53:02.968208+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-10T01:58:00.193287+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T01:58:00.366612+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T01:58:00.378546+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T01:58:00.510864+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T01:58:00.522374+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T01:58:00.559154+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T01:58:00.587467+00:00] HEAL_STARTED automated_verification
+[2026-08-10T01:58:02.057492+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-10T02:03:00.184823+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T02:03:00.297301+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T02:03:00.304306+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T02:03:00.391944+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T02:03:00.397539+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T02:03:00.404306+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T02:03:00.411288+00:00] HEAL_STARTED automated_verification
+[2026-08-10T02:03:01.899783+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json              | 14 +++++++-------
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+[2026-08-10T02:03:02.017556+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T02:03:02.017964+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json              | 14 +++++++-------\n 1 file changed, 7 insertions(+), 7 deletions(-)"]}}
+[2026-08-10T02:08:00.196012+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T02:08:00.317919+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T02:08:00.330864+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T02:08:00.441922+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T02:08:00.449264+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T02:08:00.455436+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T02:08:00.467182+00:00] HEAL_STARTED automated_verification
+[2026-08-10T02:08:01.884746+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-10T02:13:00.212054+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T02:13:00.301229+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T02:13:00.306980+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T02:13:00.379243+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T02:13:00.384621+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T02:13:00.390524+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T02:13:00.396632+00:00] HEAL_STARTED automated_verification
+[2026-08-10T02:13:01.785596+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-10T02:18:00.214905+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T02:18:00.304121+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T02:18:00.311278+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T02:18:00.390403+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T02:18:00.395534+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T02:18:00.412953+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T02:18:00.419446+00:00] HEAL_STARTED automated_verification
+[2026-08-10T02:18:01.806307+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-10T02:18:01.958012+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T02:18:01.958328+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "error", "error", "error", "error", "error", "error", "error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-10T02:23:00.211145+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T02:23:00.301221+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T02:23:00.307003+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T02:23:00.379227+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T02:23:00.384830+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T02:23:00.390437+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T02:23:00.395812+00:00] HEAL_STARTED automated_verification
+[2026-08-10T02:23:01.741553+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "error", "error", "error", "error", "error", "error", "error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-10T02:28:00.232370+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T02:28:00.329608+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T02:28:00.336556+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T02:28:00.417706+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T02:28:00.423515+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T02:28:00.430654+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T02:28:00.437442+00:00] HEAL_STARTED automated_verification
+[2026-08-10T02:28:02.287950+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+[2026-08-10T02:28:02.453479+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T02:28:02.453876+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "error", "error", "error", "error", "error", "error", "error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 54 +++++++++++-----------\n 1 file changed, 27 insertions(+), 27 deletions(-)"]}}
+[2026-08-10T02:33:00.240981+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T02:33:00.340336+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T02:33:00.346657+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T02:33:00.435317+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T02:33:00.441014+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T02:33:00.448377+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T02:33:00.455542+00:00] HEAL_STARTED automated_verification
+[2026-08-10T02:33:02.310374+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 104 ++++++++++-----------
+ 1 file changed, 52 insertions(+), 52 deletions(-)
+[2026-08-10T02:33:02.460768+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T02:33:02.461556+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "error", "error", "error", "error", "error", "error", "error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 104 ++++++++++-----------\n 1 file changed, 52 insertions(+), 52 deletions(-)"]}}
+[2026-08-10T02:38:02.748491+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T02:38:02.873653+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T02:38:02.877100+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T02:38:02.967724+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T02:38:02.969379+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T02:38:02.975660+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T02:38:02.980360+00:00] HEAL_STARTED automated_verification
+[2026-08-10T02:38:04.400680+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 144 ++++++++++-----------
+ 1 file changed, 72 insertions(+), 72 deletions(-)
+[2026-08-10T02:38:05.309741+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T02:38:05.316034+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "error", "error", "error", "ERROR", "Error", "error", "error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 144 ++++++++++-----------\n 1 file changed, 72 insertions(+), 72 deletions(-)"]}}
+[2026-08-10T02:43:00.374336+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T02:43:00.442224+00:00] cmd.exe detected (1 process(es) — emergency blocker should handle)
+[2026-08-10T02:43:00.455324+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T02:43:00.460376+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T02:43:00.521398+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T02:43:00.526438+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T02:43:00.531138+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T02:43:00.579721+00:00] HEAL_STARTED automated_verification
+[2026-08-10T02:43:01.451147+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 194 ++++++++++-----------
+ 1 file changed, 97 insertions(+), 97 deletions(-)
+[2026-08-10T02:43:01.536736+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T02:43:01.537057+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"cmd_kill_count": 1, "miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "error", "error", "error", "error", "error", "error", "error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 194 ++++++++++-----------\n 1 file changed, 97 insertions(+), 97 deletions(-)"]}}
+[2026-08-10T02:48:00.361564+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T02:48:00.430937+00:00] cmd.exe detected (1 process(es) — emergency blocker should handle)
+[2026-08-10T02:48:00.435184+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T02:48:00.440209+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T02:48:00.497226+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T02:48:00.502325+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T02:48:00.506631+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T02:48:00.512144+00:00] HEAL_STARTED automated_verification
+[2026-08-10T02:48:01.396815+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------
+ 1 file changed, 102 insertions(+), 102 deletions(-)
+[2026-08-10T02:48:01.487363+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T02:48:01.487660+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"cmd_kill_count": 1, "miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "error", "error", "error", "error", "error", "error", "error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------\n 1 file changed, 102 insertions(+), 102 deletions(-)"]}}
+[2026-08-10T02:53:00.394874+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T02:53:00.470129+00:00] cmd.exe detected (1 process(es) — emergency blocker should handle)
+[2026-08-10T02:53:00.483201+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T02:53:00.488244+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T02:53:00.545763+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T02:53:00.550580+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T02:53:00.554785+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T02:53:00.597928+00:00] HEAL_STARTED automated_verification
+[2026-08-10T02:53:01.473702+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 186 ++++++++++-----------
+ 1 file changed, 93 insertions(+), 93 deletions(-)
+[2026-08-10T02:53:01.584576+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T02:53:01.585046+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"cmd_kill_count": 1, "miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "error", "error", "error", "ERROR", "Error", "error", "error", "error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 186 ++++++++++-----------\n 1 file changed, 93 insertions(+), 93 deletions(-)"]}}
+[2026-08-10T02:58:00.377199+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T02:58:00.444595+00:00] cmd.exe detected (1 process(es) — emergency blocker should handle)
+[2026-08-10T02:58:00.448800+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T02:58:00.453930+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T02:58:00.514106+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T02:58:00.518989+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T02:58:00.523452+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T02:58:00.529534+00:00] HEAL_STARTED automated_verification
+[2026-08-10T02:58:01.399763+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------
+ 1 file changed, 102 insertions(+), 102 deletions(-)
+[2026-08-10T02:58:01.485062+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T02:58:01.485358+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"cmd_kill_count": 1, "miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "error", "ERROR", "Error", "ERROR", "Error", "error", "error", "error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------\n 1 file changed, 102 insertions(+), 102 deletions(-)"]}}
+[2026-08-10T03:03:00.379113+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T03:03:00.449068+00:00] cmd.exe detected (1 process(es) — emergency blocker should handle)
+[2026-08-10T03:03:00.453774+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T03:03:00.458932+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T03:03:00.516885+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T03:03:00.521885+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T03:03:00.526217+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T03:03:00.531607+00:00] HEAL_STARTED automated_verification
+[2026-08-10T03:03:01.616489+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------
+ 1 file changed, 102 insertions(+), 102 deletions(-)
+[2026-08-10T03:03:01.713545+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T03:03:01.713913+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"cmd_kill_count": 1, "miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "error", "error", "error", "error", "error", "error", "error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------\n 1 file changed, 102 insertions(+), 102 deletions(-)"]}}
+[2026-08-10T03:08:00.402151+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T03:08:00.495749+00:00] cmd.exe detected (1 process(es) — emergency blocker should handle)
+[2026-08-10T03:08:00.501157+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T03:08:00.506814+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T03:08:00.576588+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T03:08:00.582044+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T03:08:00.596275+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T03:08:00.603510+00:00] HEAL_STARTED automated_verification
+[2026-08-10T03:08:02.261919+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------
+ 1 file changed, 102 insertions(+), 102 deletions(-)
+[2026-08-10T03:08:02.420982+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T03:08:02.421276+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"cmd_kill_count": 1, "miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "ERROR", "Error", "error", "error", "error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------\n 1 file changed, 102 insertions(+), 102 deletions(-)"]}}
+[2026-08-10T03:13:00.404818+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T03:13:00.499971+00:00] cmd.exe detected (1 process(es) — emergency blocker should handle)
+[2026-08-10T03:13:00.505122+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T03:13:00.510992+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T03:13:00.578823+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T03:13:00.584010+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T03:13:00.589388+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T03:13:00.595282+00:00] HEAL_STARTED automated_verification
+[2026-08-10T03:13:02.057993+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 174 ++++++++++-----------
+ 1 file changed, 87 insertions(+), 87 deletions(-)
+[2026-08-10T03:13:02.172055+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T03:13:02.172373+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"cmd_kill_count": 1, "miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "error", "error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 174 ++++++++++-----------\n 1 file changed, 87 insertions(+), 87 deletions(-)"]}}
+[2026-08-10T03:18:00.406875+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T03:18:00.492363+00:00] cmd.exe detected (1 process(es) — emergency blocker should handle)
+[2026-08-10T03:18:00.496970+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T03:18:00.502360+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T03:18:00.568896+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T03:18:00.574064+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T03:18:00.578744+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T03:18:00.584441+00:00] HEAL_STARTED automated_verification
+[2026-08-10T03:18:02.117019+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 174 ++++++++++-----------
+ 1 file changed, 87 insertions(+), 87 deletions(-)
+[2026-08-10T03:18:02.250462+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T03:18:02.250852+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"cmd_kill_count": 1, "miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 174 ++++++++++-----------\n 1 file changed, 87 insertions(+), 87 deletions(-)"]}}
+[2026-08-10T03:23:00.433091+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T03:23:00.532779+00:00] cmd.exe detected (1 process(es) — emergency blocker should handle)
+[2026-08-10T03:23:00.538934+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T03:23:00.545302+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T03:23:00.621635+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T03:23:00.628489+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T03:23:00.645160+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T03:23:00.652362+00:00] HEAL_STARTED automated_verification
+[2026-08-10T03:23:02.054687+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------
+ 1 file changed, 102 insertions(+), 102 deletions(-)
+[2026-08-10T03:23:02.203416+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T03:23:02.203758+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"cmd_kill_count": 1, "miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "error", "error", "error", "ERROR", "Error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------\n 1 file changed, 102 insertions(+), 102 deletions(-)"]}}
+[2026-08-10T03:28:00.437821+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T03:28:00.531043+00:00] cmd.exe detected (1 process(es) — emergency blocker should handle)
+[2026-08-10T03:28:00.535886+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T03:28:00.542300+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T03:28:00.606121+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T03:28:00.611758+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T03:28:00.626406+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T03:28:00.632178+00:00] HEAL_STARTED automated_verification
+[2026-08-10T03:28:02.271355+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------
+ 1 file changed, 102 insertions(+), 102 deletions(-)
+[2026-08-10T03:28:02.418821+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T03:28:02.419143+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"cmd_kill_count": 1, "miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "error", "error", "error", "ERROR", "Error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------\n 1 file changed, 102 insertions(+), 102 deletions(-)"]}}
+[2026-08-10T03:33:00.454109+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T03:33:00.544183+00:00] cmd.exe detected (1 process(es) — emergency blocker should handle)
+[2026-08-10T03:33:00.548808+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T03:33:00.554071+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T03:33:00.620854+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T03:33:00.626417+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T03:33:00.632726+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T03:33:00.638952+00:00] HEAL_STARTED automated_verification
+[2026-08-10T03:33:01.785863+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------
+ 1 file changed, 102 insertions(+), 102 deletions(-)
+[2026-08-10T03:33:01.898217+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T03:33:01.898581+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"cmd_kill_count": 1, "miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------\n 1 file changed, 102 insertions(+), 102 deletions(-)"]}}
+[2026-08-10T03:38:00.478599+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T03:38:00.574088+00:00] cmd.exe detected (1 process(es) — emergency blocker should handle)
+[2026-08-10T03:38:00.579003+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T03:38:00.584317+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T03:38:00.641832+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T03:38:00.646783+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T03:38:00.661639+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T03:38:00.667141+00:00] HEAL_STARTED automated_verification
+[2026-08-10T03:38:01.887884+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------
+ 1 file changed, 102 insertions(+), 102 deletions(-)
+[2026-08-10T03:38:02.032092+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T03:38:02.032474+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"cmd_kill_count": 1, "miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------\n 1 file changed, 102 insertions(+), 102 deletions(-)"]}}
+[2026-08-10T03:43:00.473228+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T03:43:00.564034+00:00] cmd.exe detected (1 process(es) — emergency blocker should handle)
+[2026-08-10T03:43:00.569790+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T03:43:00.575991+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T03:43:00.659264+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T03:43:00.665508+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T03:43:00.671279+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T03:43:00.678216+00:00] HEAL_STARTED automated_verification
+[2026-08-10T03:43:01.892021+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 192 ++++++++++-----------
+ 1 file changed, 96 insertions(+), 96 deletions(-)
+[2026-08-10T03:43:01.997018+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T03:43:01.997319+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"cmd_kill_count": 1, "miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "ERROR", "Error", "error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 192 ++++++++++-----------\n 1 file changed, 96 insertions(+), 96 deletions(-)"]}}
+[2026-08-10T03:48:00.474817+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T03:48:00.558128+00:00] cmd.exe detected (1 process(es) — emergency blocker should handle)
+[2026-08-10T03:48:00.562474+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T03:48:00.567536+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T03:48:00.632097+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T03:48:00.637008+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T03:48:00.649896+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T03:48:00.655133+00:00] HEAL_STARTED automated_verification
+[2026-08-10T03:48:01.887823+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------
+ 1 file changed, 102 insertions(+), 102 deletions(-)
+[2026-08-10T03:48:01.991653+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T03:48:01.991934+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"cmd_kill_count": 1, "miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "ERROR", "Error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------\n 1 file changed, 102 insertions(+), 102 deletions(-)"]}}
+[2026-08-10T03:53:00.497222+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T03:53:00.580954+00:00] cmd.exe detected (1 process(es) — emergency blocker should handle)
+[2026-08-10T03:53:00.585839+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T03:53:00.590936+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T03:53:00.657913+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T03:53:00.662861+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T03:53:00.667533+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T03:53:00.673932+00:00] HEAL_STARTED automated_verification
+[2026-08-10T03:53:02.064074+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------
+ 1 file changed, 102 insertions(+), 102 deletions(-)
+[2026-08-10T03:53:02.178383+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T03:53:02.178755+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"cmd_kill_count": 1, "miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "error", "error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------\n 1 file changed, 102 insertions(+), 102 deletions(-)"]}}
+[2026-08-10T03:58:00.488295+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T03:58:00.574127+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T03:58:00.579200+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T03:58:00.645512+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T03:58:00.650495+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T03:58:00.655411+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T03:58:00.661686+00:00] HEAL_STARTED automated_verification
+[2026-08-10T03:58:01.980336+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------
+ 1 file changed, 102 insertions(+), 102 deletions(-)
+[2026-08-10T03:58:02.103058+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T03:58:02.103400+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 204 ++++++++++-----------\n 1 file changed, 102 insertions(+), 102 deletions(-)"]}}
+[2026-08-10T04:03:00.501558+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T04:03:00.585859+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T04:03:00.591472+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T04:03:00.658565+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T04:03:00.663616+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T04:03:00.680005+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T04:03:00.686013+00:00] HEAL_STARTED automated_verification
+[2026-08-10T04:03:02.075508+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json — .../05_Operations/master_ooda_loop_state.json      | 198 ++++++++++-----------
+ 1 file changed, 99 insertions(+), 99 deletions(-)
+[2026-08-10T04:03:02.192295+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json from git
+[2026-08-10T04:03:02.192591+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/master_ooda_loop_state.json \u2014 .../05_Operations/master_ooda_loop_state.json      | 198 ++++++++++-----------\n 1 file changed, 99 insertions(+), 99 deletions(-)"]}}
+[2026-08-10T04:08:00.516831+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T04:08:00.615291+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T04:08:00.621243+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T04:08:00.689266+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T04:08:00.694694+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T04:08:00.700365+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T04:08:00.706640+00:00] HEAL_STARTED automated_verification
+[2026-08-10T04:08:01.943560+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-10T04:13:00.515541+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T04:13:00.598512+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T04:13:00.603637+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T04:13:00.666720+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T04:13:00.671729+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T04:13:00.676351+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T04:13:00.681744+00:00] HEAL_STARTED automated_verification
+[2026-08-10T04:13:01.998484+00:00] FILE_INTEGRITY_ALERT: FILE_MUTATED: 10_Skills_Library/05_Operations/scripts/master_ooda_loop.py — 10_Skills_Library/05_Operations/scripts/master_ooda_loop.py | 1 +
+ 1 file changed, 1 insertion(+)
+[2026-08-10T04:13:02.124278+00:00] FILE_RESTORED: 10_Skills_Library/05_Operations/scripts/master_ooda_loop.py from git
+[2026-08-10T04:13:02.124700+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": ["FILE_MUTATED: 10_Skills_Library/05_Operations/scripts/master_ooda_loop.py \u2014 10_Skills_Library/05_Operations/scripts/master_ooda_loop.py | 1 +\n 1 file changed, 1 insertion(+)"]}}
+[2026-08-10T04:18:00.531336+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T04:18:00.615541+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T04:18:00.620822+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T04:18:00.685733+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T04:18:00.690893+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T04:18:00.695801+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T04:18:00.702544+00:00] HEAL_STARTED automated_verification
+[2026-08-10T04:18:01.933191+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}
+[2026-08-10T04:23:00.550908+00:00] MISS_PINK_SELF_HEAL_START
+[2026-08-10T04:23:00.649624+00:00] HEAL_TRIGGER miss_pink_continuous_ooda status=fail empty=0 failures=1
+[2026-08-10T04:23:00.656728+00:00] HEAL_STARTED miss_pink_continuous_ooda
+[2026-08-10T04:23:00.735551+00:00] HEAL_TRIGGER master_ooda_loop status=fail empty=0 failures=10
+[2026-08-10T04:23:00.741878+00:00] HEAL_STARTED master_ooda_loop
+[2026-08-10T04:23:00.761069+00:00] HEAL_TRIGGER automated_verification status=missing empty=0 failures=0
+[2026-08-10T04:23:00.767797+00:00] HEAL_STARTED automated_verification
+[2026-08-10T04:23:01.948043+00:00] MISS_PINK_SELF_HEAL_COMPLETE {"miss_pink_continuous_ooda": {"name": "miss_pink_continuous_ooda", "status": "fail", "failures": ["error"], "empty_responses": 0, "log_lines": 200}, "master_ooda_loop": {"name": "master_ooda_loop", "status": "fail", "failures": ["error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR", "Error", "ERROR"], "empty_responses": 0, "log_lines": 200}, "smart_ticket_cycle": {"name": "smart_ticket_cycle", "status": "ok", "failures": [], "empty_responses": 0, "log_lines": 200}, "automated_verification": {"name": "automated_verification", "status": "missing", "failures": [], "empty_responses": 0, "log_lines": 0}, "file_integrity": {"alerts": []}}

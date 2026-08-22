@@ -1,0 +1,219 @@
+﻿Torus Coffee Company - Phase 1 Technical Build Spec
+Last updated: 2026-05-29
+
+Purpose
+This document defines the technical shape of the first coding phase. It turns the design docs into a practical build target.
+
+Working Decisions Locked In For Planning
+- Hosting target: Vercel
+- App framework: Next.js
+- Backend/database/auth/storage target: Supabase
+- Checkout for launch: Square payment links / Square-hosted checkout
+- Inventory display: In Stock / Low Stock / Sold Out, not exact public counts
+- Product images: use best real photos if available; signage can be temporary/supporting art
+- Wholesale: simple inquiry page/section at launch if it does not distract from direct shopping
+- Customer accounts: not required for launch checkout; planned for later phase
+- Error reporting: design for Sentry later; add robust user/admin error states from the start
+
+Phase 1 Goal
+Build a polished public website that can sell the current ready products using Square checkout links, while using a structure that can grow into the full Supabase/admin platform.
+
+Recommended Tech Stack
+- Next.js using App Router
+- TypeScript
+- Tailwind CSS
+- shadcn/ui or similarly simple component foundation
+- Supabase client/server libraries if Supabase is used in Phase 1
+- Static/local seed data only if Supabase setup is delayed
+- Vercel for deploy previews and hosting
+- Git/GitHub private repository
+
+Recommended Phase 1 Data Strategy
+Use Supabase from Phase 1 if the account/project is ready.
+
+Reason:
+Starting with Supabase avoids rebuilding product pages later. The public site can read active product/post data from Supabase while admin tools are still simple or not yet built.
+
+Fallback:
+If Supabase account/project is not ready, use a local products data file shaped exactly like the future database model. This keeps migration clean.
+
+Phase 1 Public Routes
+- /                       Home
+- /shop                   Product listing
+- /shop/[slug]            Product detail page
+- /blog                   Blog landing/shell
+- /blog/the-orbit-report  Category page/shell
+- /blog/the-orbit-workshop
+- /blog/the-orbit-kitchen
+- /about
+- /find-us
+- /contact
+- /wholesale              Simple inquiry page/section, optional but recommended
+- /privacy-policy
+- /terms-and-conditions
+- /refund-returns-policy
+- /shipping-policy
+- /accessibility-statement
+
+Phase 1 Components
+Layout:
+- Header/navigation
+- Mobile menu
+- Footer
+- Announcement bar, optional
+- Page container/layout helpers
+
+Commerce:
+- Product card
+- Product grid
+- Product gallery
+- Product price display
+- Product stock badge
+- Buy button
+- Category filter/tabs
+- Related products, simple version
+
+Content:
+- Hero section
+- Featured products section
+- Category cards
+- Trust badges/section
+- Blog teaser cards
+- Contact form or contact panel
+- Policy page template
+
+Admin not required in Phase 1 public launch unless time allows.
+
+Phase 1 Product Data Required
+For each launch product:
+- name
+- slug
+- SKU
+- category
+- price_cents
+- inventory quantity, admin/source only
+- stock display status derived from quantity
+- short description
+- full description
+- main image path/url
+- alt text
+- Square payment link URL
+- weight
+- SEO title
+- SEO description
+
+Nice-to-have if ready:
+- ingredients
+- allergens
+- storage instructions
+- shelf life
+- gallery images
+- social share image
+
+Phase 1 Supabase Tables If Used Immediately
+Minimum tables:
+- products
+- categories
+- product_images, optional if not storing image array on products
+- blog_posts, optional if blog is content-ready
+- contact_submissions, optional if contact form stores submissions
+- email_subscribers, optional if email capture launches
+
+Admin/auth tables can wait if public data is seeded manually in Supabase.
+
+Environment Files
+Create:
+- .env.example
+- .env.local, not committed
+
+Initial env placeholders:
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+SUPABASE_SERVICE_ROLE_KEY=
+NEXT_PUBLIC_SITE_URL=
+
+Later env placeholders:
+SQUARE_ACCESS_TOKEN=
+SQUARE_APPLICATION_ID=
+SQUARE_LOCATION_ID=
+SQUARE_WEBHOOK_SIGNATURE_KEY=
+RESEND_API_KEY=
+SENTRY_DSN=
+SENTRY_AUTH_TOKEN=
+NEXT_PUBLIC_GA_MEASUREMENT_ID=
+
+Security Requirements In Phase 1
+- .env files ignored by Git.
+- No secrets in code or docs committed to repo.
+- Use Square-hosted checkout.
+- Contact form validated server-side if implemented.
+- No public admin write endpoints.
+- Public product data only exposes public fields.
+- Policy pages live before selling.
+
+SEO Requirements In Phase 1
+- Page titles and meta descriptions.
+- Product detail metadata.
+- Open Graph image/title/description.
+- sitemap.xml.
+- robots.txt.
+- Product structured data if data is complete enough.
+
+Image Requirements In Phase 1
+- Use optimized images.
+- Keep originals local.
+- Add alt text.
+- Avoid using huge original files directly in pages.
+- Use signage only as temporary/supporting art if real product photos are not located.
+
+Square Requirements Before Launch
+For each product:
+- Create Square payment link.
+- Confirm Square product/title/price matches website.
+- Confirm shipping address collection.
+- Confirm tax behavior.
+- Confirm order appears clearly in Square Dashboard.
+- Confirm customer and owner receive notifications.
+
+Testing Checklist For Phase 1
+Desktop:
+- Home page loads.
+- Shop page loads.
+- Product pages load.
+- Buy buttons go to correct Square links.
+- Contact page works or shows correct fallback contact info.
+- Policy links work.
+
+Mobile:
+- Navigation works.
+- Product cards fit.
+- Buy button is visible and easy to tap.
+- Text does not overflow.
+- Images are not awkwardly cropped.
+
+Security/quality:
+- No secrets in repo.
+- Build passes.
+- Broken links checked.
+- Product prices verified.
+- Sitemap exists.
+- Pages have metadata.
+
+Phase 1 Non-Goals
+Do not build yet unless time allows:
+- Full cart
+- Full on-site checkout
+- Customer account dashboard
+- Automatic inventory subtraction
+- Square webhooks
+- Ad publishing
+- Wholesale portal
+- Advanced shipping API
+- Native video hosting
+
+Phase 1 Done Means
+- Website is deployable.
+- Customers can shop products and check out through Square.
+- Product pages are clear, trustworthy, and mobile friendly.
+- Policies/contact info are present.
+- Project is ready to grow into Supabase admin/customer/account features.

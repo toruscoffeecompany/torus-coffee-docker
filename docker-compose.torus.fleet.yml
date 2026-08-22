@@ -1,0 +1,506 @@
+version: '3.8'
+
+name: torus-fleet
+
+networks:
+  torus-network:
+    external: true
+
+volumes:
+  torus_website_data:
+  torus_inventory_data:
+  torus_pos_data:
+  torus_redis_data:
+  torus_alert_router_data:
+  torus_backup_data:
+  torus_dashboard_data:
+  torus_prometheus_data:
+  torus_grafana_data:
+
+services:
+  torus-redis:
+    image: toruscoffee/redis:7-alpine
+    container_name: torus-redis
+    hostname: torus-redis
+    restart: unless-stopped
+    labels:
+      - "torus.service=redis"
+      - "torus.owner=miss-pink"
+      - "torus.env=production"
+    networks:
+      - torus-network
+    volumes:
+      - torus_redis_data:/data
+    ports:
+      - "127.0.0.1:6379:6379"
+    environment:
+      - REDIS_PASSWORD=${REDIS_PASSWORD:-}
+    deploy:
+      resources:
+        limits:
+          cpus: "0.5"
+          memory: 256m
+        reservations:
+          cpus: "0.1"
+          memory: 64m
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
+
+  torus-website:
+    image: toruscoffee/torus-website:20260817-v2
+    container_name: torus-website
+    hostname: torus-website
+    restart: unless-stopped
+    labels:
+      - "torus.service=website"
+      - "torus.owner=miss-pink"
+      - "torus.env=production"
+    networks:
+      - torus-network
+    volumes:
+      - torus_website_data:/app/data
+    ports:
+      - "3005:3000"
+    depends_on:
+      torus-redis:
+        condition: service_healthy
+      torus-alert-router:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q --spider http://localhost:6000/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - REDIS_HOST=torus-redis
+      - REDIS_PORT=6379
+      - ALERT_ROUTER_URL=http://torus-alert-router:4000
+      - WEBSITE_PORT=3000
+      - TZ=America/Chicago
+    deploy:
+      resources:
+        limits:
+          memory: 512m
+        reservations:
+          memory: 128m
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  torus-alert-router:
+    image: toruscoffee/torus-alert-router:20260817-v3
+    container_name: torus-alert-router
+    hostname: torus-alert-router
+    restart: unless-stopped
+    labels:
+      - "torus.service=alert-router"
+      - "torus.owner=miss-pink"
+      - "torus.env=production"
+    networks:
+      - torus-network
+    volumes:
+      - torus_alert_router_data:/app/data
+    ports:
+      - "127.0.0.1:4000:4000"
+    depends_on:
+      torus-redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q --spider http://localhost:4000/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    environment:
+      - ALERT_ROUTER_API_TOKEN=${ALERT_ROUTER_API_TOKEN:-change-me}
+      - DISCORD_WEBHOOK=${DISCORD_WEBHOOK:-}
+      - SMTP_HOST=${SMTP_HOST:-}
+      - SMTP_PORT=${SMTP_PORT:-587}
+      - SMTP_USER=${SMTP_USER:-}
+      - SMTP_PASS=${SMTP_PASS:-}
+      - SMTP_TO=${SMTP_TO:-alerts@toruscoffeecompany.local}
+      - OBSIDIAN_VAULT=${OBSIDIAN_VAULT:-D:/Work/Torus Coffee Company LLC}
+      - TZ=America/Chicago
+    deploy:
+      resources:
+        limits:
+          memory: 256m
+        reservations:
+          memory: 64m
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  torus-dashboard:
+    image: toruscoffee/torus-dashboard:20260817-v2
+    container_name: torus-dashboard
+    hostname: torus-dashboard
+    restart: unless-stopped
+    labels:
+      - "torus.service=dashboard"
+      - "torus.owner=miss-pink"
+      - "torus.env=production"
+    networks:
+      - torus-network
+    volumes:
+      - torus_dashboard_data:/app/data
+    expose:
+      - "3000"
+    depends_on:
+      torus-redis:
+        condition: service_healthy
+      torus-inventory:
+        condition: service_healthy
+      torus-pos:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q --spider http://localhost:6000/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    environment:
+      - DASHBOARD_SECRET=${DASHBOARD_SECRET:-change-me}
+      - REDIS_HOST=torus-redis
+      - INVENTORY_URL=http://torus-inventory:3200
+      - POS_URL=http://torus-pos:3100
+      - TZ=America/Chicago
+    deploy:
+      resources:
+        limits:
+          memory: 256m
+        reservations:
+          memory: 128m
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  torus-inventory:
+    image: toruscoffee/torus-inventory:20260817-v3
+    container_name: torus-inventory
+    hostname: torus-inventory
+    restart: unless-stopped
+    labels:
+      - "torus.service=inventory"
+      - "torus.owner=miss-pink"
+      - "torus.env=production"
+    networks:
+      - torus-network
+    volumes:
+      - torus_inventory_data:/app/data
+      - ./04_Products/inventory_master.json:/app/inventory_master.json:ro
+    ports:
+      - "127.0.0.1:3200:3200"
+    depends_on:
+      torus-redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q --spider http://localhost:3200/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    environment:
+      - INVENTORY_API_KEY=${INVENTORY_API_KEY:-change-me}
+      - INVENTORY_PORT=${INVENTORY_PORT:-3200}
+      - REDIS_HOST=torus-redis
+      - REDIS_PORT=6379
+      - REDIS_PASSWORD=${REDIS_PASSWORD:-}
+      - TZ=America/Chicago
+    deploy:
+      resources:
+        limits:
+          memory: 512m
+        reservations:
+          memory: 128m
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  torus-pos:
+    image: toruscoffee/torus-pos:20260817-v3
+    container_name: torus-pos
+    hostname: torus-pos
+    restart: unless-stopped
+    labels:
+      - "torus.service=pos"
+      - "torus.owner=miss-pink"
+      - "torus.env=production"
+    networks:
+      - torus-network
+    volumes:
+      - torus_pos_data:/app/data
+    ports:
+      - "127.0.0.1:3100:3100"
+    depends_on:
+      torus-redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q --spider http://localhost:3100/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    environment:
+      - POS_TERMINAL_ID=${POS_TERMINAL_ID:-PINKCADY-01}
+      - POS_PORT=${POS_PORT:-3100}
+      - REDIS_HOST=torus-redis
+      - REDIS_PORT=6379
+      - REDIS_PASSWORD=${REDIS_PASSWORD:-}
+      - TZ=America/Chicago
+    deploy:
+      resources:
+        limits:
+          memory: 512m
+        reservations:
+          memory: 128m
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  torus-backup:
+    image: toruscoffee/torus-backup:20260806-v1
+    container_name: torus-backup
+    hostname: torus-backup
+    restart: on-failure
+    labels:
+      - "torus.service=backup"
+      - "torus.owner=miss-pink"
+      - "torus.env=production"
+    networks:
+      - torus-network
+    volumes:
+      - torus_backup_data:/app/data
+      - torus_redis_data:/backup/redis:ro
+      - torus_website_data:/backup/website:ro
+      - torus_alert_router_data:/backup/alert-router:ro
+      - torus_dashboard_data:/backup/dashboard:ro
+      - torus_inventory_data:/backup/inventory:ro
+      - torus_pos_data:/backup/pos:ro
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+      - /:/rootfs:ro
+    expose:
+      - "8080"
+    depends_on:
+      torus-redis:
+        condition: service_healthy
+      torus-website:
+        condition: service_healthy
+      torus-alert-router:
+        condition: service_healthy
+      torus-dashboard:
+        condition: service_healthy
+      torus-inventory:
+        condition: service_healthy
+      torus-pos:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q --spider http://localhost:8080/healthz || exit 1"]
+      interval: 60s
+      timeout: 15s
+      retries: 2
+      start_period: 60s
+    environment:
+      - BACKUP_SCHEDULE=${BACKUP_SCHEDULE:-0 2 * * *}
+      - BACKUP_RETENTION_DAYS=${BACKUP_RETENTION_DAYS:-7}
+      - S3_BUCKET=${S3_BUCKET:-}
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID:-}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY:-}
+      - AWS_REGION=${AWS_REGION:-us-east-1}
+      - OBSIDIAN_VAULT=${OBSIDIAN_VAULT:-D:/Work/Torus Coffee Company LLC}
+      - TZ=America/Chicago
+    deploy:
+      resources:
+        limits:
+          memory: 512m
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  node-exporter:
+    image: toruscoffee/node-exporter:latest
+    container_name: torus-node-exporter
+    hostname: node-exporter
+    restart: unless-stopped
+    labels:
+      - "torus.service=node-exporter"
+      - "torus.owner=miss-pink"
+      - "torus.env=production"
+    networks:
+      - torus-network
+    ports:
+      - "9100:9100"
+    volumes:
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+      - /:/rootfs:ro
+    deploy:
+      resources:
+        limits:
+          cpus: "0.25"
+          memory: 128m
+        reservations:
+          cpus: "0.05"
+          memory: 32m
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q --spider http://localhost:9100/metrics || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 5s
+
+  cadvisor:
+    image: toruscoffee/cadvisor:latest
+    container_name: torus-cadvisor
+    hostname: cadvisor
+    restart: unless-stopped
+    labels:
+      - "torus.service=cadvisor"
+      - "torus.owner=miss-pink"
+      - "torus.env=production"
+    networks:
+      - torus-network
+    ports:
+      - "8081:8080"
+    volumes:
+      - /:/rootfs:ro
+      - /var/run:/var/run:ro
+      - /sys:/sys:ro
+      - /var/lib/docker/:/var/lib/docker:ro
+    devices:
+      - /dev/kmsg:/dev/kmsg
+    deploy:
+      resources:
+        limits:
+          cpus: "0.5"
+          memory: 256m
+        reservations:
+          cpus: "0.1"
+          memory: 64m
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q --spider http://localhost:8080/metrics || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+  prometheus:
+    image: toruscoffee/prometheus:latest
+    container_name: torus-prometheus
+    hostname: prometheus
+    restart: unless-stopped
+    labels:
+      - "torus.service=prometheus"
+      - "torus.owner=miss-pink"
+      - "torus.env=production"
+    networks:
+      - torus-network
+    ports:
+      - "9090:9090"
+    volumes:
+      - torus_prometheus_data:/prometheus
+      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.enable-lifecycle'
+      - '--web.external-url=http://localhost:9090'
+    environment:
+      - TZ=${TZ:-America/Chicago}
+    deploy:
+      resources:
+        limits:
+          cpus: "1.0"
+          memory: 1g
+        reservations:
+          cpus: "0.25"
+          memory: 256m
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q --spider http://localhost:9090/-/healthy || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+  grafana:
+    image: toruscoffee/grafana:latest
+    container_name: torus-grafana
+    hostname: grafana
+    restart: unless-stopped
+    labels:
+      - "torus.service=grafana"
+      - "torus.owner=miss-pink"
+      - "torus.env=production"
+    networks:
+      - torus-network
+    ports:
+      - "3002:3000"
+    volumes:
+      - torus_grafana_data:/var/lib/grafana
+      - ./monitoring/grafana-dashboard-provider.yml:/etc/grafana/provisioning/dashboards/grafana-dashboard-provider.yml:ro
+      - ./monitoring/dashboards/torus-fleet.json:/etc/grafana/provisioning/dashboards/torus-fleet.json:ro
+      - ./monitoring/grafana-datasource.yml:/etc/grafana/provisioning/datasources/grafana-datasource.yml:ro
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_PASSWORD:-admin}
+      - GF_USERS_ALLOW_SIGN_UP=false
+      - GF_DEFAULT_INSTANCE_NAME=Torus
+      - TZ=${TZ:-America/Chicago}
+    deploy:
+      resources:
+        limits:
+          cpus: "1.0"
+          memory: 1g
+        reservations:
+          cpus: "0.25"
+          memory: 256m
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q --spider http://localhost:3000/api/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s

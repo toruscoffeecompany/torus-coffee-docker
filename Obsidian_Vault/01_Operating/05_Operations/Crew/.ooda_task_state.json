@@ -1,0 +1,104 @@
+{
+  "tasks": {
+    "trello_sync": {
+      "last_run": "2026-08-05T15:17:36.049846+00:00",
+      "status": "completed",
+      "output": "Trello sync verified"
+    },
+    "fastapi_verify": {
+      "last_run": "2026-08-05T15:17:36.049846+00:00",
+      "status": "completed",
+      "output": "FastAPI verified at 127.0.0.1:8000"
+    },
+    "git_status": {
+      "last_run": "2026-08-05T15:17:36.049846+00:00",
+      "status": "completed",
+      "output": "Git OK, 10 changes"
+    },
+    "docker_health": {
+      "last_run": "2026-08-05T15:17:36.049846+00:00",
+      "status": "completed",
+      "output": "Security containers up: 5/5"
+    },
+    "inbox_check": {
+      "last_run": "2026-08-05T15:17:36.049846+00:00",
+      "status": "completed",
+      "output": "No new inbox messages"
+    },
+    "git_auto": {
+      "last_run": "2026-08-05T15:17:36.049846+00:00",
+      "status": "completed",
+      "output": "git push: OK"
+    },
+    "nextjs_build": {
+      "last_run": "2026-08-05T15:17:36.049846+00:00",
+      "status": "completed",
+      "output": "Next.js build passed"
+    },
+    "update_backlog": {
+      "last_run": "2026-08-05T15:17:36.049846+00:00",
+      "status": "completed",
+      "output": "Backlog updated"
+    }
+  },
+  "bugs": [
+    {
+      "ts": "2026-08-05T08:18:48.078393+00:00",
+      "task": "inbox_check",
+      "output": "Processed 20 inbox messages"
+    },
+    {
+      "ts": "2026-08-05T15:10:52.587786+00:00",
+      "task": "fastapi_verify",
+      "output": "FastAPI not responding"
+    }
+  ],
+  "task_meta": {
+    "trello_sync": {
+      "next_due": "2026-08-05T15:17:36.049866"
+    },
+    "fastapi_verify": {
+      "next_due": "2026-08-05T15:23:19.771202"
+    },
+    "git_status": {
+      "next_due": "2026-08-05T15:23:19.813050"
+    },
+    "docker_health": {
+      "next_due": "2026-08-05T15:23:19.874866"
+    },
+    "inbox_check": {
+      "next_due": "2026-08-05T15:23:19.981050"
+    },
+    "git_auto": {
+      "next_due": "2026-08-05T15:23:19.992553"
+    },
+    "nextjs_build": {
+      "next_due": "2026-08-05T15:23:22.031002"
+    },
+    "update_backlog": {
+      "next_due": "2026-08-05T15:23:41.029819"
+    }
+  },
+  "inbox_processed": {
+    "AUTO_AUTO_CYCLE_20260805T055649Z_DASHBOARD.msg.md": "2026-08-05T08:29:57.605510+00:00",
+    "AUTO_AUTO_CYCLE_20260805T055649Z_GITHUB.msg.md": "2026-08-05T08:29:57.605529+00:00",
+    "AUTO_AUTO_CYCLE_20260805T055649Z_HEALING.msg.md": "2026-08-05T08:29:57.605533+00:00",
+    "AUTO_AUTO_CYCLE_20260805T055649Z_SECURITY.msg.md": "2026-08-05T08:29:57.605536+00:00",
+    "AUTO_AUTO_CYCLE_20260805T060746Z_DASHBOARD.msg.md": "2026-08-05T08:29:57.605539+00:00",
+    "AUTO_AUTO_CYCLE_20260805T060746Z_GITHUB.msg.md": "2026-08-05T08:29:57.605542+00:00",
+    "AUTO_AUTO_CYCLE_20260805T060746Z_HEALING.msg.md": "2026-08-05T08:29:57.605546+00:00",
+    "AUTO_AUTO_CYCLE_20260805T060746Z_SECURITY.msg.md": "2026-08-05T08:29:57.605549+00:00",
+    "AUTO_AUTO_CYCLE_20260805T061353Z_DASHBOARD.msg.md": "2026-08-05T08:29:57.605551+00:00",
+    "AUTO_AUTO_CYCLE_20260805T061353Z_GITHUB.msg.md": "2026-08-05T08:29:57.605554+00:00",
+    "AUTO_AUTO_CYCLE_20260805T061353Z_HEALING.msg.md": "2026-08-05T08:29:57.605557+00:00",
+    "AUTO_AUTO_CYCLE_20260805T061353Z_SECURITY.msg.md": "2026-08-05T08:29:57.605561+00:00",
+    "AUTO_AUTO_CYCLE_20260805T061431Z_DASHBOARD.msg.md": "2026-08-05T08:29:57.605563+00:00",
+    "AUTO_AUTO_CYCLE_20260805T061431Z_GITHUB.msg.md": "2026-08-05T08:29:57.605566+00:00",
+    "AUTO_AUTO_CYCLE_20260805T061431Z_HEALING.msg.md": "2026-08-05T08:29:57.605569+00:00",
+    "AUTO_AUTO_CYCLE_20260805T061431Z_SECURITY.msg.md": "2026-08-05T08:29:57.605572+00:00",
+    "AUTO_AUTO_CYCLE_20260805T062008Z_DASHBOARD.msg.md": "2026-08-05T08:29:57.605575+00:00",
+    "AUTO_AUTO_CYCLE_20260805T062008Z_GITHUB.msg.md": "2026-08-05T08:29:57.605577+00:00",
+    "AUTO_AUTO_CYCLE_20260805T062008Z_HEALING.msg.md": "2026-08-05T08:29:57.605580+00:00",
+    "AUTO_AUTO_CYCLE_20260805T062008Z_SECURITY.msg.md": "2026-08-05T08:29:57.605583+00:00"
+  }
+}

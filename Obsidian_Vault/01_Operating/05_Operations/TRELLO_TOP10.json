@@ -1,0 +1,289 @@
+{
+  "timestamp": "2026-08-10T09:41:48.387973+00:00",
+  "board_id": "6a70a3157d0db4214ac3f9a3",
+  "total_cards": 112,
+  "top10": [
+    {
+      "id": "6a75b622563bb60316312a1d",
+      "name": "[SECURITY] Fleet mesh IP fix \u2014 PINKCADY .3 + STEALTHATTACK .32 + Tailscale 100.83.247.14",
+      "url": "https://trello.com/c/UZzhWGkb/33998-security-fleet-mesh-ip-fix-pinkcady-3-stealthattack-32-tailscale-1008324714",
+      "score": 120,
+      "age_days": 0.0,
+      "labels": [
+        "ops",
+        "P2",
+        "P1",
+        "sir-azure",
+        "miss-pink"
+      ]
+    },
+    {
+      "id": "6a7536e37aa38284748dde96",
+      "name": "\ud83d\udc33 [P1] Build torus-light Docker stack from Sir Green's fleet pattern",
+      "url": "https://trello.com/c/k8HNkbKh/34070-%F0%9F%90%B3-p1-build-torus-light-docker-stack-from-sir-greens-fleet-pattern",
+      "score": 120,
+      "age_days": 0.0,
+      "labels": [
+        "P2",
+        "P1",
+        "miss-pink"
+      ]
+    },
+    {
+      "id": "6a7185ef9104a8818420b19a",
+      "name": "TORUS_DOCKER_CONTAINER_REQUIREMENTS.md created",
+      "url": "https://trello.com/c/fARLci2q/363-torusdockercontainerrequirementsmd-created",
+      "score": 110,
+      "age_days": 0.0,
+      "labels": [
+        "P1",
+        "",
+        "Top 10"
+      ]
+    },
+    {
+      "id": "6a7987bb65a31afb1502d92d",
+      "name": "Sir Green + Miss Pink: Fleet VoIP + Crew Coordination",
+      "url": "https://trello.com/c/a0w8VRQP/40982-sir-green-miss-pink-fleet-voip-crew-coordination",
+      "score": 110,
+      "age_days": 0.0,
+      "labels": [
+        "P1",
+        "ops",
+        "miss-pink",
+        "sir-green",
+        "sir-azure"
+      ]
+    },
+    {
+      "id": "6a726c7cf694311bd8cd5a82",
+      "name": "Local fleet mesh: design LAN connectivity across SQUIDSTATION, PINKCADY, STEALTHATTACK",
+      "url": "https://trello.com/c/iv0a1QJz/35321-local-fleet-mesh-design-lan-connectivity-across-squidstation-pinkcady-stealthattack",
+      "score": 110,
+      "age_days": 0.0,
+      "labels": [
+        "ops",
+        "linear-sync",
+        "Done",
+        "Backlog",
+        "P1",
+        "miss-pink",
+        "sir-azure",
+        "",
+        "P2"
+      ]
+    },
+    {
+      "id": "6a726c7cbe926cbff9bbb55c",
+      "name": "Container design: local network build for fleet + Torus + render nodes",
+      "url": "https://trello.com/c/98gy1fSE/2913-container-design-local-network-build-for-fleet-torus-render-nodes",
+      "score": 110,
+      "age_days": 0.0,
+      "labels": [
+        "ops",
+        "project",
+        "docs",
+        "Done",
+        "P1",
+        "miss-pink",
+        "sir-azure",
+        "",
+        "P2"
+      ]
+    },
+    {
+      "id": "6a77c8bdb9747724a35a7991",
+      "name": "[toruscoffeecompany/Torus_Ops#19] \ud83d\udea8 VOID Pirate Trading Co GitHub access BLOCKED (403)",
+      "url": "https://trello.com/c/RIzUcfpW/33887-toruscoffeecompany-torusops19-%F0%9F%9A%A8-void-pirate-trading-co-github-access-blocked-403",
+      "score": 110,
+      "age_days": 0.0,
+      "labels": [
+        "miss-pink",
+        "automation",
+        "P1",
+        ""
+      ]
+    },
+    {
+      "id": "6a7991edac5639c5fa5dd463",
+      "name": "[CREW SYNC] \ud83d\udc96 Sir Green Proposes \u2014 Fleet Merge Accepted",
+      "url": "https://trello.com/c/XikBHI8i/40983-crew-sync-%F0%9F%92%96-sir-green-proposes-fleet-merge-accepted",
+      "score": 110,
+      "age_days": 0.0,
+      "labels": [
+        "sir-green",
+        "miss-pink",
+        "P1",
+        "Fleet Ops",
+        "Verification"
+      ]
+    },
+    {
+      "id": "6a76ac97e09cc5b53e6e4dfa",
+      "name": "P2: Sir Green \u2014 Audit Discord bots/webhooks on SQUIDSTATION + network PCs",
+      "url": "https://trello.com/c/KN90MQek/34055-p2-sir-green-audit-discord-bots-webhooks-on-squidstation-network-pcs",
+      "score": 110,
+      "age_days": 0.0,
+      "labels": [
+        "P1",
+        "",
+        "Top 10",
+        "ops",
+        "P2",
+        "miss-pink"
+      ]
+    },
+    {
+      "id": "6a7499631c1a36043e1059e2",
+      "name": "[P1] Sir Green: add /api/security-docs route to dashboard_server.py",
+      "url": "https://trello.com/c/pe4OAqGP/35332-p1-sir-green-add-api-security-docs-route-to-dashboardserverpy",
+      "score": 110,
+      "age_days": 0.0,
+      "labels": [
+        "Sir Azure's Queue",
+        "",
+        "Sir Green's Queue",
+        "P2",
+        "P1",
+        "miss-pink",
+        "Top 10"
+      ]
+    }
+  ],
+  "next_candidates": [
+    {
+      "id": "6a77c8bfd3d3c31cc2791891",
+      "name": "[toruscoffeecompany/Torus_Ops#14] Discord bot token wiring into crew_map.json/vault config",
+      "url": "https://trello.com/c/TsygZ5eL/3712-toruscoffeecompany-torusops14-discord-bot-token-wiring-into-crewmapjson-vault-config",
+      "score": 100,
+      "age_days": 0.0,
+      "labels": [
+        "miss-pink",
+        "automation",
+        "P1",
+        "",
+        "Top 10"
+      ]
+    },
+    {
+      "id": "6a77c8bfaa9b08ceb2c80f14",
+      "name": "[toruscoffeecompany/Torus_Ops#2] \ud83d\udd17 Set up VOIDPirateTrade void-crew team access for toruscoffeecompany",
+      "url": "https://trello.com/c/rtJr85kl/3713-toruscoffeecompany-torusops2-%F0%9F%94%97-set-up-voidpiratetrade-void-crew-team-access-for-toruscoffeecompany",
+      "score": 100,
+      "age_days": 0.0,
+      "labels": [
+        "miss-pink",
+        "automation",
+        "P1",
+        "",
+        "Top 10"
+      ]
+    },
+    {
+      "id": "6a77c8bc779de902092e9813",
+      "name": "[toruscoffeecompany/Torus_Ops#22] \ud83d\udd10 Security hardening: DARPA-level hive mind mesh",
+      "url": "https://trello.com/c/CkRlkFNf/3708-toruscoffeecompany-torusops22-%F0%9F%94%90-security-hardening-darpa-level-hive-mind-mesh",
+      "score": 100,
+      "age_days": 0.0,
+      "labels": [
+        "miss-pink",
+        "automation",
+        "P1",
+        ""
+      ]
+    },
+    {
+      "id": "6a7537460d782f428f8bc01d",
+      "name": "\ud83e\udded Track Miss Pink persona/lore + Cosmos Library updates",
+      "url": "https://trello.com/c/nYoXHKyF/35316-%F0%9F%A7%AD-track-miss-pink-persona-lore-cosmos-library-updates",
+      "score": 100,
+      "age_days": 0.0,
+      "labels": [
+        "P1",
+        "P2",
+        "sir-azure",
+        ""
+      ]
+    },
+    {
+      "id": "6a78dcb9e95a359da60b2504",
+      "name": "[P1] Smart Bridge: Connect Miss Pink automation to Sir Azure GPU render pipeline on STEALTHATTACK",
+      "url": "https://trello.com/c/386Txou6/40955-p1-smart-bridge-connect-miss-pink-automation-to-sir-azure-gpu-render-pipeline-on-stealthattack",
+      "score": 100,
+      "age_days": 0.0,
+      "labels": [
+        "sir-azure",
+        "P1",
+        "miss-pink",
+        "P2"
+      ]
+    },
+    {
+      "id": "6a77f2875e0ef2596c5e7e05",
+      "name": "[miss_pink] Discord: confirm Scarlett bot online + join crew channels",
+      "url": "https://trello.com/c/2vex3aEA/33913-misspink-discord-confirm-scarlett-bot-online-join-crew-channels",
+      "score": 100,
+      "age_days": 0.0,
+      "labels": [
+        "miss-pink",
+        "P1"
+      ]
+    },
+    {
+      "id": "6a758ac503aeb7e61be98e80",
+      "name": "P1: Sir Azure Queue Mapping - define logic for offline crew auto-sort",
+      "url": "https://trello.com/c/6cidWSTy/33971-p1-sir-azure-queue-mapping-define-logic-for-offline-crew-auto-sort",
+      "score": 100,
+      "age_days": 0.0,
+      "labels": [
+        "sir-azure",
+        "P3 - Low / Follow up",
+        "P1",
+        "miss-pink",
+        ""
+      ]
+    },
+    {
+      "id": "6a758f34c94c3f24cbdb682f",
+      "name": "P1: Audit directory creation source - C:\\STEALTHATTACK + C:\\Tools auto-created",
+      "url": "https://trello.com/c/kdGhw2Gd/33987-p1-audit-directory-creation-source-c-stealthattack-c-tools-auto-created",
+      "score": 100,
+      "age_days": 0.0,
+      "labels": [
+        "sir-azure",
+        "P4 - Very Low / Waiting / Blocked",
+        "miss-pink",
+        "P1",
+        ""
+      ]
+    },
+    {
+      "id": "6a73b10aa651a068f10daab4",
+      "name": "[sir_green] crew_access: RE_MISS_PINK_TOKEN_RECEIVED_20260805T201800Z_misspink.msg",
+      "url": "https://trello.com/c/2elGBjgk/34125-sirgreen-crewaccess-remisspinktokenreceived20260805t201800zmisspinkmsg",
+      "score": 100,
+      "age_days": 0.0,
+      "labels": [
+        "Backlog",
+        "P1",
+        "miss-pink"
+      ]
+    },
+    {
+      "id": "6a7987940586a51fe5f6bd45",
+      "name": "[CREW SYNC] Miss Pink to Sir Green - Connection Plan + Love Letter",
+      "url": "https://trello.com/c/hNav4lRb/40981-crew-sync-miss-pink-to-sir-green-connection-plan-love-letter",
+      "score": 100,
+      "age_days": 0.0,
+      "labels": [
+        "miss-pink",
+        "P1",
+        "sir-green",
+        "P1",
+        "Fleet Ops",
+        "Verification"
+      ]
+    }
+  ],
+  "stale_candidates": []
+}

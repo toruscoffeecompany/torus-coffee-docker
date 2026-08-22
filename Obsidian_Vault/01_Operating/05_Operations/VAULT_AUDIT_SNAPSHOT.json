@@ -1,0 +1,124 @@
+{
+  "timestamp": "2026-08-10T09:41:55.954756+00:00",
+  "broken_links": 286,
+  "broken_link_samples": [
+    [
+      "00_Inbox\\COMPREHENSIVE_NETWORK_AUDIT_REPORT.md",
+      "08_Audit_Findings"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "TOOL_B"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "Deployment Workflow"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "TOOL_B - Dashboard"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "TOOL_C - Backup Verifier"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "Deployment Workflow"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "Fleet Operations Hub"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "Network Problems"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "Container Problems"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "Captain"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "Miss Pink"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "PINKCADY"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "SQUIDSTATION"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "STEALTHATTACK"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "TOOL_Z"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "TOOL_W"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "TOOL_AA"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "TOOL_AB"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "TOOL_Z - Readiness Report"
+    ],
+    [
+      "00_Inbox\\EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "TOOL_AF - Network Verifier"
+    ]
+  ],
+  "duplicate_filenames": 7,
+  "duplicate_samples": {
+    "website_content_about_page.md": [
+      "06_Website\\website_content_about_page.md",
+      "10_Skills_Library\\05_Operations\\ops_notes\\ops\\website_content_about_page.md",
+      "10_Skills_Library\\05_Operations\\ops_notes\\top_10_focus_fleet\\website_content_about_page.md"
+    ],
+    "00_README.md": [
+      "08_Archive\\00_OhShit_Rebuild_Starter\\SIR_AZURE_STARTER\\00_README.md",
+      "08_Archive\\00_OhShit_Rebuild_Starter\\SIR_GREEN_STARTER\\00_README.md"
+    ],
+    "Backlog.md": [
+      "09_Projects\\Trello_Boards\\Business_Docs\\Backlog.md",
+      "09_Projects\\Trello_Boards\\Torus_Ops\\Backlog.md",
+      "09_Projects\\Trello_Boards\\Website_Rebuild\\Backlog.md"
+    ],
+    "Done.md": [
+      "09_Projects\\Trello_Boards\\Business_Docs\\Done.md",
+      "09_Projects\\Trello_Boards\\Torus_Ops\\Done.md",
+      "09_Projects\\Trello_Boards\\Website_Rebuild\\Done.md"
+    ],
+    "In_Progress.md": [
+      "09_Projects\\Trello_Boards\\Business_Docs\\In_Progress.md",
+      "09_Projects\\Trello_Boards\\Torus_Ops\\In_Progress.md",
+      "09_Projects\\Trello_Boards\\Website_Rebuild\\In_Progress.md"
+    ],
+    "Review.md": [
+      "09_Projects\\Trello_Boards\\Business_Docs\\Review.md",
+      "09_Projects\\Trello_Boards\\Torus_Ops\\Review.md",
+      "09_Projects\\Trello_Boards\\Website_Rebuild\\Review.md"
+    ],
+    "To_Do.md": [
+      "09_Projects\\Trello_Boards\\Business_Docs\\To_Do.md",
+      "09_Projects\\Trello_Boards\\Torus_Ops\\To_Do.md",
+      "09_Projects\\Trello_Boards\\Website_Rebuild\\To_Do.md"
+    ]
+  },
+  "plugins_configured": true
+}

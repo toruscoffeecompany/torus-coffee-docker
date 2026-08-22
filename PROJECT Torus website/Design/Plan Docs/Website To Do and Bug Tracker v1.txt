@@ -1,0 +1,298 @@
+﻿Torus Coffee Company - Website To Do and Bug Tracker
+Last updated: 2026-05-29
+
+Purpose
+This file tracks work items, bugs, patches, tests, and progress. It is meant to be updated throughout design, planning, coding, launch, and maintenance.
+
+Status Labels
+- TODO: Not started
+- IN PROGRESS: Currently being worked on
+- BLOCKED: Waiting on information/account/access/decision
+- DONE: Completed
+- BUG: Confirmed defect
+- PATCHED: Fix applied, needs/has verification
+- VERIFY: Needs testing/checking
+- LATER: Intentionally deferred
+
+Priority Labels
+- P0: Critical / launch blocker / security issue
+- P1: Important for launch
+- P2: Important but can wait briefly
+- P3: Nice to have
+
+Current Phase
+Design and planning.
+
+------------------------------------------------------------
+PHASE 0 - Design, Accounts, and Setup
+------------------------------------------------------------
+
+[IN PROGRESS] [P1] Review all design docs
+Notes: Owner should read through design docs and flag changes.
+
+[TODO] [P1] Confirm Vercel vs Netlify hosting
+Notes: Current recommendation is Vercel for Next.js.
+
+[TODO] [P1] Confirm Supabase account created
+Notes: Supabase is current default backend/database/storage/auth.
+
+[TODO] [P1] Confirm GitHub account or organization with 2FA
+Notes: Use private repo.
+
+[TODO] [P0] Confirm domain/DNS access for toruscoffeecompany.com
+Notes: Needed for launch and verification.
+
+[BLOCKED] [P0] Confirm Square admin access and payment-link creation
+Notes: Test product payment links before launch. BLOCKED: Square 2FA is going to wife''s old phone number. Call Square support on Monday to recover/update 2FA.
+
+[TODO] [P1] Start Google Search Console setup
+Notes: Needs domain verification.
+
+[TODO] [P1] Start Google Merchant Center setup
+Notes: Free listings may take setup/verification time.
+
+[TODO] [P2] Confirm Google Business Profile access
+Notes: Useful for local credibility.
+
+[TODO] [P2] Confirm Meta Business Manager/Commerce Manager access
+Notes: Future catalog/pixel/ads.
+
+[TODO] [P2] Confirm Pinterest Business account
+Notes: Future product pins/catalog.
+
+[TODO] [P1] Export or recreate policy page text
+Needed pages:
+- Privacy Policy
+- Terms & Conditions
+- Refund & Returns Policy
+- Shipping Policy
+- Accessibility Statement
+
+[TODO] [P1] Confirm final launch product list
+Known ready products:
+- Star-Dusted Banana Crunch 1.15oz
+- Apple Cinnamon Comets 1.15oz
+- Aurora Berryalis 2.6oz
+- Sour Aurora Bites 2.6oz
+- Solar Strawberries 0.5oz
+- Cosmic Bananas 1.55oz
+- Aurora Bites 2.6oz
+- Apple Zephyr Chips 1.15oz
+
+[TODO] [P1] Locate final product photos
+Notes: Need best real photos for each launch product.
+
+[TODO] [P1] Confirm public email, phone, and social links
+Notes: Business card shows admin@toruscoffeecompany.com and (319) 383-1280. Confirm before publishing.
+
+[TODO] [P1] Decide launch shipping model
+Options: Square settings, flat rate, free threshold, weight-based later.
+
+[TODO] [P2] Decide whether Wholesale page is visible at launch
+Recommendation: simple inquiry page or soft launch later.
+
+------------------------------------------------------------
+PHASE 1 - Lean Selling Site
+------------------------------------------------------------
+
+[DONE] [P1] Create project structure
+Notes: Next.js likely.
+
+[DONE] [P0] Create .gitignore protecting .env files
+Notes: Must happen before adding secrets.
+
+[DONE] [P0] Create .env.example with placeholders only
+Notes: No real keys.
+
+[TODO] [P1] Build home page
+
+[TODO] [P1] Build shop page
+
+[TODO] [P1] Build product detail pages
+
+[TODO] [P1] Add Square buy buttons/payment links
+
+[TODO] [P1] Build About page
+
+[TODO] [P1] Build Find Us page
+
+[TODO] [P1] Build Contact page
+
+[TODO] [P1] Add policy pages
+
+[TODO] [P2] Add blog shell or first blog section
+
+[TODO] [P1] Add mobile responsive navigation
+
+[TODO] [P1] Add SEO metadata
+
+[TODO] [P1] Add sitemap and robots.txt
+
+[TODO] [P1] Add product structured data if product pages are ready
+
+[TODO] [P1] Test Square checkout links
+Test cases:
+- Product name/price correct
+- Shipping address collected
+- Shipping cost works
+- Tax behavior works
+- Confirmation/receipt works
+- Square Dashboard order is understandable
+
+[TODO] [P1] Test mobile layout
+
+[TODO] [P1] Test desktop layout
+
+[TODO] [P1] Test contact form or contact fallback
+
+[TODO] [P1] Deploy preview site
+
+[TODO] [P0] Launch checklist before production
+
+------------------------------------------------------------
+PHASE 2 - Supabase and Admin MVP
+------------------------------------------------------------
+
+[TODO] [P1] Create Supabase project
+
+[TODO] [P1] Design initial database schema
+
+[TODO] [P1] Create product tables
+
+[TODO] [P1] Create inventory fields/log tables
+
+[TODO] [P1] Create blog tables
+
+[TODO] [P1] Create storage buckets
+
+[TODO] [P0] Configure RLS policies
+
+[TODO] [P1] Create admin login
+
+[TODO] [P1] Create product list/editor
+
+[TODO] [P1] Create inventory quick editor
+
+[TODO] [P1] Create blog list/editor
+
+[TODO] [P2] Create media upload flow
+
+[TODO] [P1] Create export tools
+
+[TODO] [P1] Add audit log for important admin changes
+
+------------------------------------------------------------
+PHASE 3 - Customers and Email Capture
+------------------------------------------------------------
+
+[TODO] [P1] Add optional customer account signup/login
+
+[TODO] [P1] Add customer profile
+
+[TODO] [P1] Add email signup form with consent tracking
+
+[TODO] [P1] Protect customer data with RLS
+
+[TODO] [P2] Add admin customer list
+
+[TODO] [P2] Choose transactional/marketing email provider
+
+------------------------------------------------------------
+PHASE 4 - Error Reporting, Backups, Operations
+------------------------------------------------------------
+
+[TODO] [P1] Choose Sentry or alternative
+
+[TODO] [P1] Add frontend/backend error reporting
+
+[TODO] [P1] Create deployment checklist
+
+[TODO] [P1] Create rollback checklist
+
+[TODO] [P1] Create backup/export process
+
+[TODO] [P2] Add admin diagnostics/error links
+
+------------------------------------------------------------
+PHASE 5 - Square API Integration
+------------------------------------------------------------
+
+[LATER] [P1] Create Square Developer app
+
+[LATER] [P1] Add Square credentials to env vars
+
+[LATER] [P0] Add Square webhook endpoint
+
+[LATER] [P0] Verify Square webhook signatures
+
+[LATER] [P1] Store verified order summaries
+
+[LATER] [P0] Automatically subtract inventory after verified paid order
+
+[LATER] [P1] Add idempotency to prevent double subtraction
+
+------------------------------------------------------------
+PHASE 6 - Product Feeds and Free Sales Channels
+------------------------------------------------------------
+
+[LATER] [P1] Generate Google Merchant Center feed
+
+[LATER] [P1] Validate product structured data
+
+[LATER] [P2] Generate Pinterest catalog feed
+
+[LATER] [P2] Generate Meta catalog feed
+
+[LATER] [P2] Add product feed diagnostics in admin
+
+------------------------------------------------------------
+BUG TRACKER
+------------------------------------------------------------
+
+Bug ID:
+Status:
+Priority:
+Date found:
+Found by:
+Area:
+Description:
+Steps to reproduce:
+Expected behavior:
+Actual behavior:
+Suspected cause:
+Fix notes:
+Verification notes:
+Date closed:
+
+------------------------------------------------------------
+PATCH LOG
+------------------------------------------------------------
+
+Patch ID:
+Date:
+Related bug/task:
+Files changed:
+Summary:
+Testing done:
+Rollback notes:
+
+------------------------------------------------------------
+LAUNCH CHECKLIST PLACEHOLDER
+------------------------------------------------------------
+
+[TODO] Build launch checklist after Phase 1 implementation details are known.
+
+Future launch checklist should include:
+- Domain connected
+- HTTPS working
+- No secrets committed
+- Product links tested
+- Policies live
+- Contact info correct
+- Mobile checked
+- Desktop checked
+- Search Console verified
+- Backups created
+- Rollback path known
+
+

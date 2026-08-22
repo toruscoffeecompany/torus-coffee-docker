@@ -1,0 +1,216 @@
+﻿Torus Coffee Company - Product Seed Data Review
+Last updated: 2026-05-29
+
+Purpose
+This document reviews the existing catalog CSV and maps it into the planned product database fields. It identifies what is ready and what still needs to be filled before launch.
+
+Source File
+G:\My Drive\Torus Coffee Company\Design\Pinterest Site Design\catalog_products.csv
+
+Source Notes
+The CSV appears to be an export from a Wix-style product catalog. It includes product names, HTML descriptions, image filenames/URLs from Wix media, categories/collections, SKUs, prices, inventory, weights, and costs.
+
+Important Limitation
+The productImageUrl values are Wix media filenames/IDs, not confirmed local files. We should not assume these are usable on the new website unless the original images can be downloaded/exported or located locally.
+
+Launch Product Summary
+
+1. Star-Dusted Banana Crunch 1.15oz
+SKU: TCC-SDB-115
+Recommended category: Freeze-Dried Fruit
+Current price: $6.00
+Current inventory: 15
+Weight source: 0.07
+Cost source: $0.87
+Public status: active, pending confirmation
+Needs before launch: Square payment link, local image, alt text, ingredients/allergens, storage/shelf-life, SEO description.
+
+2. Apple Cinnamon Comets 1.15oz
+SKU: TCC-ACC-115
+Recommended category: Freeze-Dried Fruit
+Current price: $5.00
+Current inventory: 17
+Weight source: 0.1625
+Cost source: $0.90
+Public status: active, pending confirmation
+Needs before launch: Square payment link, local image, alt text, ingredients/allergens, storage/shelf-life, SEO description.
+
+3. Aurora Berryalis 2.6oz
+SKU: TCC-ARB-26
+Recommended category: Freeze-Dried Candy
+Current price: $6.00
+Current inventory: 21
+Weight source: 0.1625
+Cost source: $0.87
+Public status: active, pending confirmation
+Needs before launch: Square payment link, local image, alt text, ingredients/allergens, storage/shelf-life, SEO description.
+
+4. Sour Aurora Bites 2.6oz
+SKU: TCC-SAB-26
+Recommended category: Freeze-Dried Candy
+Current price: $6.00
+Current inventory: 10
+Weight source: 0.1625
+Cost source: $0.91
+Public status: active, pending confirmation
+Needs before launch: Square payment link, local image, alt text, ingredients/allergens, storage/shelf-life, SEO description.
+
+5. Solar Strawberries 0.5oz
+SKU: TCC-SS-05
+Recommended category: Freeze-Dried Fruit
+Current price: $7.00
+Current inventory: 18
+Weight source: 0.03125
+Cost source: $1.16
+Public status: active, pending confirmation
+Needs before launch: Square payment link, local image, alt text, ingredients/allergens, storage/shelf-life, SEO description.
+
+6. Cosmic Bananas 1.55oz
+SKU: TCC-CB-155
+Recommended category: Freeze-Dried Fruit
+Current price: $5.00
+Current inventory: 22
+Weight source: 0.096
+Cost source: $0.59
+Public status: active, pending confirmation
+Needs before launch: Square payment link, local image, alt text, ingredients/allergens, storage/shelf-life, SEO description.
+
+7. Aurora Bites 2.6oz
+SKU: TCC-AB-26
+Recommended category: Freeze-Dried Candy
+Current price: $6.00
+Current inventory: 40
+Weight source: 0.1625
+Cost source: $0.68
+Public status: active, pending confirmation
+Needs before launch: Square payment link, local image, alt text, ingredients/allergens, storage/shelf-life, SEO description.
+
+8. Apple Zephyr Chips 1.15oz
+SKU: TCC-AZC-115
+Recommended category: Freeze-Dried Fruit
+Current price: $5.00
+Current inventory: 29
+Weight source: 0.072
+Cost source: $0.60
+Public status: active, pending confirmation
+Needs before launch: Square payment link, local image, alt text, ingredients/allergens, storage/shelf-life, SEO description.
+
+Recommended Slugs
+- star-dusted-banana-crunch-115oz
+- apple-cinnamon-comets-115oz
+- aurora-berryalis-26oz
+- sour-aurora-bites-26oz
+- solar-strawberries-05oz
+- cosmic-bananas-155oz
+- aurora-bites-26oz
+- apple-zephyr-chips-115oz
+
+Recommended Public Stock Display
+Use public display labels instead of exact counts.
+
+Suggested thresholds:
+- quantity_on_hand = 0: Sold Out
+- quantity_on_hand > 0 and <= 5: Low Stock
+- quantity_on_hand > 5: In Stock
+
+Based on current inventory, all current products would display In Stock.
+
+Data Cleanup Needed
+
+1. Descriptions are currently HTML strings.
+Need: convert to safe rich text, Markdown, or plain content during import.
+
+2. Product image references are Wix media identifiers.
+Need: locate original image files or export/download them and replace with local/web-hosted image paths.
+
+3. Brand field is blank.
+Set to: Torus Coffee Company.
+
+4. Ingredients/allergens are missing.
+Need: add if required/available.
+
+5. Shelf life/storage instructions are missing.
+Need: add general product storage language or product-specific text.
+
+6. Square payment links are missing.
+Need: create or paste links per product.
+
+7. SEO fields are missing.
+Need: generate SEO title/meta description for each product.
+
+8. Product feed categories are incomplete.
+Need: add Google product category and feed fields later.
+
+Suggested Short Descriptions Draft
+
+Star-Dusted Banana Crunch:
+Freeze-dried banana slices with a cozy cinnamon-sugar sparkle and a light cosmic crunch.
+
+Apple Cinnamon Comets:
+Crisp freeze-dried apple slices dusted with cinnamon sweetness for an orchard-meets-orbit snack.
+
+Aurora Berryalis:
+A bold berry-flavored freeze-dried candy with bright color, big crunch, and cosmic energy.
+
+Sour Aurora Bites:
+A sour-sweet freeze-dried candy with a tart snap and a bright cosmic crunch.
+
+Solar Strawberries:
+Sweet, tart freeze-dried strawberries with berry flavor and a light, crispy bite.
+
+Cosmic Bananas:
+Freeze-dried banana bites with sweet banana flavor and a satisfying space-age crunch.
+
+Aurora Bites:
+Crunchy rainbow freeze-dried candy with fruity flavor and a stellar snap.
+
+Apple Zephyr Chips:
+Whisper-light freeze-dried apple slices with orchard sweetness and crisp texture.
+
+Suggested SEO Description Drafts
+
+Star-Dusted Banana Crunch:
+Shop Star-Dusted Banana Crunch from Torus Coffee Company: freeze-dried banana slices with cinnamon-sugar flavor and a light cosmic crunch.
+
+Apple Cinnamon Comets:
+Shop Apple Cinnamon Comets from Torus Coffee Company: freeze-dried apple slices with cinnamon sweetness and a crisp orchard crunch.
+
+Aurora Berryalis:
+Shop Aurora Berryalis from Torus Coffee Company: bold berry freeze-dried candy with bright flavor, cosmic color, and satisfying crunch.
+
+Sour Aurora Bites:
+Shop Sour Aurora Bites from Torus Coffee Company: sour-sweet freeze-dried candy with a tart snap and crunchy cosmic bite.
+
+Solar Strawberries:
+Shop Solar Strawberries from Torus Coffee Company: sweet and tart freeze-dried strawberries with bright berry flavor and crisp texture.
+
+Cosmic Bananas:
+Shop Cosmic Bananas from Torus Coffee Company: freeze-dried banana bites with sweet flavor and a satisfying crunchy texture.
+
+Aurora Bites:
+Shop Aurora Bites from Torus Coffee Company: crunchy rainbow freeze-dried candy with fruity flavor and a stellar snap.
+
+Apple Zephyr Chips:
+Shop Apple Zephyr Chips from Torus Coffee Company: light freeze-dried apple slices with orchard sweetness and crisp crunch.
+
+Launch Data Readiness Checklist
+For each product, confirm:
+[ ] Name
+[ ] SKU
+[ ] Price
+[ ] Inventory quantity
+[ ] Public stock status
+[ ] Category
+[ ] Short description
+[ ] Full description
+[ ] Main image
+[ ] Image alt text
+[ ] Square payment link
+[ ] Weight/shipping weight
+[ ] Ingredients/allergens
+[ ] Storage/shelf-life text
+[ ] SEO title
+[ ] SEO description
+
+Recommended Next Step
+Create a final product launch data file during implementation with clean fields and no Wix-specific image dependencies. Keep the original CSV as source history, but use a cleaned seed file for the new site.

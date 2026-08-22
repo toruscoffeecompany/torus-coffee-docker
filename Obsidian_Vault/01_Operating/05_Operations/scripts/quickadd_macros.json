@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "quickAddVersion": "2.21.0",
+  "createdAt": "2026-08-02T00:00:00.000Z",
+  "rootChoiceIds": [
+    "daily-ops-log-id",
+    "quick-inventory-entry-id",
+    "weekly-review-id"
+  ],
+  "choices": [
+    {
+      "choice": {
+        "id": "daily-ops-log-id",
+        "name": "Daily Ops Log",
+        "type": "Template",
+        "command": true,
+        "icon": "calendar-days",
+        "templatePath": "07_Templates/Daily_Ops_Log.md",
+        "folder": {
+          "enabled": true,
+          "folders": [
+            "00_Inbox/01_Daily"
+          ],
+          "chooseWhenCreatingNote": false,
+          "createInSameFolderAsActiveFile": false,
+          "chooseFromSubfolders": false
+        },
+        "fileNameFormat": {
+          "enabled": false,
+          "format": ""
+        },
+        "discoverExistingNotesBeforeCreate": false,
+        "appendLink": false,
+        "copyLinkToClipboard": false,
+        "openFile": true,
+        "fileOpening": {
+          "location": "tab",
+          "direction": "vertical",
+          "mode": "default",
+          "focus": true
+        },
+        "fileExistsBehavior": {
+          "kind": "prompt"
+        }
+      },
+      "pathHint": [],
+      "parentChoiceId": null
+    },
+    {
+      "choice": {
+        "id": "quick-inventory-entry-id",
+        "name": "Quick Inventory Entry",
+        "type": "Capture",
+        "command": true,
+        "captureTo": "00_Inbox/Inventory.md",
+        "captureToActiveFile": false,
+        "captureToCanvasNodeId": "",
+        "activeFileWritePosition": "cursor",
+        "createFileIfItDoesntExist": {
+          "enabled": true,
+          "createWithTemplate": false,
+          "template": ""
+        },
+        "format": {
+          "enabled": true,
+          "format": "- {{DATE:HH:mm}} | SKU: {{VALUE:sku}} | Qty: {{VALUE:qty}} | Notes: {{VALUE:notes}}"
+        },
+        "prepend": false,
+        "appendLink": false,
+        "copyLinkToClipboard": false,
+        "task": false,
+        "insertAfter": {
+          "enabled": false,
+          "after": "",
+          "insertAtEnd": false,
+          "considerSubsections": false,
+          "createIfNotFound": false,
+          "createIfNotFoundLocation": "top",
+          "inline": false,
+          "replaceExisting": false,
+          "blankLineAfterMatchMode": "auto",
+          "promptHeading": false
+        },
+        "insertBefore": {
+          "enabled": false,
+          "before": "",
+          "createIfNotFound": false,
+          "createIfNotFoundLocation": "top"
+        },
+        "newLineCapture": {
+          "enabled": false,
+          "direction": "below"
+        },
+        "openFile": false,
+        "fileOpening": {
+          "location": "tab",
+          "direction": "vertical",
+          "mode": "default",
+          "focus": true
+        },
+        "templater": {
+          "afterCapture": "none"
+        }
+      },
+      "pathHint": [],
+      "parentChoiceId": null
+    },
+    {
+      "choice": {
+        "id": "weekly-review-id",
+        "name": "Weekly Review",
+        "type": "Template",
+        "command": true,
+        "icon": "calendar-check",
+        "templatePath": "07_Templates/Weekly_Review.md",
+        "folder": {
+          "enabled": true,
+          "folders": [
+            "00_Inbox/02_Weekly"
+          ],
+          "chooseWhenCreatingNote": false,
+          "createInSameFolderAsActiveFile": false,
+          "chooseFromSubfolders": false
+        },
+        "fileNameFormat": {
+          "enabled": false,
+          "format": ""
+        },
+        "discoverExistingNotesBeforeCreate": false,
+        "appendLink": false,
+        "copyLinkToClipboard": false,
+        "openFile": true,
+        "fileOpening": {
+          "location": "tab",
+          "direction": "vertical",
+          "mode": "default",
+          "focus": true
+        },
+        "fileExistsBehavior": {
+          "kind": "prompt"
+        }
+      },
+      "pathHint": [],
+      "parentChoiceId": null
+    }
+  ],
+  "assets": []
+}

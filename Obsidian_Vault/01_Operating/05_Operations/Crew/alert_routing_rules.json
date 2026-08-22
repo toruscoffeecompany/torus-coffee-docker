@@ -1,0 +1,32 @@
+{
+  "routes": [
+    {
+      "name": "default",
+      "match": {"priority": "P0", "has_inbox": true},
+      "channels": ["discord", "gmail", "obsidian", "trello_comment"]
+    },
+    {
+      "name": "ops",
+      "match": {"labels": ["ops", "automation"]},
+      "channels": ["discord", "obsidian"]
+    },
+    {
+      "name": "sir_green",
+      "match": {"assignee": "sirgreen"},
+      "channels": ["discord", "obsidian"]
+    },
+    {
+      "name": "sir_azure",
+      "match": {"assignee": "sirazure"},
+      "channels": ["discord", "obsidian"]
+    },
+    {
+      "name": "miss_pink",
+      "match": {"assignee": "misspink"},
+      "channels": ["obsidian"]
+    }
+  ],
+  "default_channels": ["obsidian"],
+  "dedupe_window_minutes": 10,
+  "priority_override": true
+}

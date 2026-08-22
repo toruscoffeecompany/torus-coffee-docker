@@ -1,0 +1,72 @@
+{
+  "TCC-NOCC-200": {
+    "name": "Freeze-dried Neapolitan Ice Cream Sandwiches - Neapolitan Orbit Cream Crunch 2.0",
+    "price": 6.98,
+    "inStock": true,
+    "qty": 10,
+    "reorderPoint": 5
+  },
+  "TCC-OCC-200": {
+    "name": "Freeze-Dried Vanilla Ice Cream Sandwiches - Orbit Cream Crunch",
+    "price": 6.98,
+    "inStock": true,
+    "qty": 11,
+    "reorderPoint": 5
+  },
+  "TCC-SDB-115": {
+    "name": "Freeze-Dried Bananas - Star-Dusted Banana Crunch 1.15oz",
+    "price": 5.98,
+    "inStock": true,
+    "qty": 9,
+    "reorderPoint": 5
+  },
+  "TCC-ACC-115": {
+    "name": "Freeze-Dried Apple Cinnamon Comets 1.15oz",
+    "price": 5.98,
+    "inStock": true,
+    "qty": 6,
+    "reorderPoint": 5
+  },
+  "TCC-ARB-26": {
+    "name": "Freeze-Dried Candy - Aurora Berryalis 2.6oz",
+    "price": 4.98,
+    "inStock": true,
+    "qty": 23,
+    "reorderPoint": 5
+  },
+  "TCC-SAB-26": {
+    "name": "Freeze-Dried Candy - Sour Aurora Bites 2.6oz",
+    "price": 4.98,
+    "inStock": true,
+    "qty": 6,
+    "reorderPoint": 5
+  },
+  "TCC-SS-05": {
+    "name": "Freeze-Dried Solar Strawberries 0.5oz",
+    "price": 6.98,
+    "inStock": true,
+    "qty": 7,
+    "reorderPoint": 5
+  },
+  "TCC-CB-155": {
+    "name": "Freeze-Dried Cosmic Bananas 1.55oz",
+    "price": 5.98,
+    "inStock": true,
+    "qty": 24,
+    "reorderPoint": 5
+  },
+  "TCC-AB-26": {
+    "name": "Freeze-Dried Candy - Aurora Bites 2.6oz",
+    "price": 4.98,
+    "inStock": true,
+    "qty": 30,
+    "reorderPoint": 5
+  },
+  "TCC-AZC-115": {
+    "name": "Freeze-Dried Apple Zephyr Chips 1.15oz",
+    "price": 5.98,
+    "inStock": true,
+    "qty": 25,
+    "reorderPoint": 5
+  }
+}

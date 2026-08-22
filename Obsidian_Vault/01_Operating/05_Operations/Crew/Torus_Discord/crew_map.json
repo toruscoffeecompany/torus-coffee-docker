@@ -1,0 +1,244 @@
+{
+  "crew": {
+    "captain": {
+      "name": "Captain Brewbeard Ledgerbane",
+      "discord_user_id": "REPLACE_WITH_CAPTAIN_DISCORD_USER_ID",
+      "rank": 0,
+      "title": "Captain / Final Authority",
+      "role": "commander",
+      "station": "PINKCADY",
+      "channel": "captain-dm",
+      "account_type": "human",
+      "sync_target": "Hermes (Captain's PC)",
+      "responsibilities": [
+        "Final approval",
+        "Priority setting",
+        "Vault write on all stations",
+        "Docker/service control",
+        "Rank changes"
+      ]
+    },
+    "miss_pink": {
+      "name": "Miss Pink",
+      "discord_user_id": "REPLACE_WITH_MISS_PINK_DISCORD_USER_ID",
+      "rank": 1,
+      "title": "Lieutenant / Torus Lead",
+      "role": "torus_officer",
+      "station": "PINKCADY",
+      "channel": "miss-pink",
+      "account_type": "bot",
+      "sync_target": "Hermes on PINKCADY",
+      "responsibilities": [
+        "Torus Coffee Company operations",
+        "PINKCADY systems/backup",
+        "Coding/dev/web design",
+        "Vault write on PINKCADY only",
+        "Deckhand coordination"
+      ]
+    },
+    "sir_azure": {
+      "name": "Sir Azure Steelwake",
+      "discord_user_id": "REPLACE_WITH_SIR_AZURE_DISCORD_USER_ID",
+      "rank": 2,
+      "title": "Render Midshipman / Heavy Lift Officer",
+      "role": "render_midshipman",
+      "station": "STEALTHATTACK",
+      "channel": "sir-azure",
+      "account_type": "bot",
+      "sync_target": "Hermes on STEALTHATTACK",
+      "vault_path": "Y:\\Obsidian_Vault",
+      "reports_to": ["miss_pink", "captain"],
+      "responsibilities": [
+        "AI image generation (ComfyUI, SDXL)",
+        "AI video/animations",
+        "Pixel art assets",
+        "Batch render execution",
+        "Asset export to crew relay queue",
+        "Vault write on STEALTHATTACK station only"
+      ]
+    },
+    "accountant_goldweigh": {
+      "name": "Accountant Goldweigh",
+      "discord_user_id": "REPLACE_WITH_ACCOUNTANT_GOLDWEIGH_DISCORD_USER_ID",
+      "rank": 3,
+      "title": "Bookkeeper / Finance Officer",
+      "role": "bookkeeper",
+      "station": "PINKCADY",
+      "channel": "accountant-goldweigh",
+      "account_type": "bot",
+      "sync_target": "Hermes on PINKCADY",
+      "reports_to": ["miss_pink", "captain"],
+      "responsibilities": [
+        "Bookkeeping",
+        "Invoicing",
+        "Expense tracking",
+        "Financial reporting",
+        "Vault write on PINKCADY only"
+      ]
+    },
+    "lawyer_ironclad": {
+      "name": "Lawyer Ironclad",
+      "discord_user_id": "REPLACE_WITH_LAWYER_IRONCLAD_DISCORD_USER_ID",
+      "rank": 3,
+      "title": "Compliance Officer",
+      "role": "compliance",
+      "station": "PINKCADY",
+      "channel": "lawyer-ironclad",
+      "account_type": "bot",
+      "sync_target": "Hermes on PINKCADY",
+      "reports_to": ["miss_pink", "captain"],
+      "responsibilities": [
+        "Legal compliance",
+        "Contract review",
+        "Risk assessment",
+        "Regulatory reporting",
+        "Vault write on PINKCADY only"
+      ]
+    },
+    "cpa_taxman": {
+      "name": "CPA Taxman",
+      "discord_user_id": "REPLACE_WITH_CPA_TAXMAN_DISCORD_USER_ID",
+      "rank": 3,
+      "title": "Tax / IRS Officer",
+      "role": "tax_officer",
+      "station": "PINKCADY",
+      "channel": "cpa-taxman",
+      "account_type": "bot",
+      "sync_target": "Hermes on PINKCADY",
+      "reports_to": ["miss_pink", "captain"],
+      "responsibilities": [
+        "Tax preparation",
+        "IRS correspondence",
+        "Payroll tax",
+        "Sales tax filings",
+        "Vault write on PINKCADY only"
+      ]
+    },
+    "strategy_northstar": {
+      "name": "Strategy Officer Northstar",
+      "discord_user_id": "REPLACE_WITH_STRATEGY_NORTHSTAR_DISCORD_USER_ID",
+      "rank": 4,
+      "title": "Strategy / KPIs Officer",
+      "role": "strategy",
+      "station": "PINKCADY",
+      "channel": "strategy-northstar",
+      "account_type": "bot",
+      "sync_target": "Hermes on PINKCADY",
+      "reports_to": ["miss_pink", "captain"],
+      "responsibilities": [
+        "Business strategy",
+        "KPIs / OKRs",
+        "Market analysis",
+        "Growth planning",
+        "Vault write on PINKCADY only"
+      ]
+    },
+    "ops_keelhaul": {
+      "name": "Ops Officer Keelhaul",
+      "discord_user_id": "REPLACE_WITH_OPS_KEELHAUL_DISCORD_USER_ID",
+      "rank": 4,
+      "title": "Operations Officer",
+      "role": "operations",
+      "station": "PINKCADY",
+      "channel": "ops-keelhaul",
+      "account_type": "bot",
+      "sync_target": "Hermes on PINKCADY",
+      "reports_to": ["miss_pink", "captain"],
+      "responsibilities": [
+        "Daily operations",
+        "Process optimization",
+        "Scheduling",
+        "Quality control",
+        "Vault write on PINKCADY only"
+      ]
+    },
+    "marketing_crow": {
+      "name": "Marketing Officer Crow",
+      "discord_user_id": "REPLACE_WITH_MARKETING_CROW_DISCORD_USER_ID",
+      "rank": 4,
+      "title": "Marketing Officer",
+      "role": "marketing",
+      "station": "PINKCADY",
+      "channel": "marketing-crow",
+      "account_type": "bot",
+      "sync_target": "Hermes on PINKCADY",
+      "reports_to": ["miss_pink", "captain"],
+      "responsibilities": [
+        "Social media",
+        "Brand marketing",
+        "Campaign management",
+        "Content creation",
+        "Vault write on PINKCADY only"
+      ]
+    },
+    "inventory_cargo": {
+      "name": "Inventory Manager Cargo",
+      "discord_user_id": "REPLACE_WITH_INVENTORY_CARGO_DISCORD_USER_ID",
+      "rank": 4,
+      "title": "Inventory Manager",
+      "role": "inventory",
+      "station": "PINKCADY",
+      "channel": "inventory-cargo",
+      "account_type": "bot",
+      "sync_target": "Hermes on PINKCADY",
+      "reports_to": ["miss_pink", "captain"],
+      "responsibilities": [
+        "Inventory tracking",
+        "Stock management",
+        "Supplier relations",
+        "Order fulfillment",
+        "Vault write on PINKCADY only"
+      ]
+    }
+  },
+  "channels": {
+    "crew-general": "Group chat for all Torus crew",
+    "captain-dm": "Direct message channel for Captain",
+    "miss-pink": "Direct message channel for Miss Pink",
+    "sir-azure": "Direct message channel for Sir Azure Steelwake",
+    "accountant-goldweigh": "Direct message channel for Accountant Goldweigh",
+    "lawyer-ironclad": "Direct message channel for Lawyer Ironclad",
+    "cpa-taxman": "Direct message channel for CPA Taxman",
+    "strategy-northstar": "Direct message channel for Strategy Officer Northstar",
+    "ops-keelhaul": "Direct message channel for Ops Officer Keelhaul",
+    "marketing-crow": "Direct message channel for Marketing Officer Crow",
+    "inventory-cargo": "Direct message channel for Inventory Manager Cargo"
+  },
+  "projects": {
+    "torus_operations": {
+      "owner": "miss_pink",
+      "contributors": ["captain", "sir_azure", "ops_keelhaul"],
+      "description": "Core Torus Coffee Company operations"
+    },
+    "finance": {
+      "owner": "accountant_goldweigh",
+      "contributors": ["cpa_taxman", "lawyer_ironclad", "miss_pink"],
+      "description": "Finance and accounting operations"
+    },
+    "marketing": {
+      "owner": "marketing_crow",
+      "contributors": ["miss_pink", "sir_azure"],
+      "description": "Marketing and brand operations"
+    },
+    "strategy": {
+      "owner": "strategy_northstar",
+      "contributors": ["captain", "miss_pink"],
+      "description": "Business strategy and KPIs"
+    },
+    "inventory": {
+      "owner": "inventory_cargo",
+      "contributors": ["ops_keelhaul", "miss_pink"],
+      "description": "Inventory and supply chain"
+    },
+    "render": {
+      "owner": "sir_azure",
+      "contributors": ["marketing_crow", "miss_pink"],
+      "description": "Art and render pipeline"
+    }
+  },
+  "deckhand_handbooks": {
+    "torus_operations": "[[TORUS_OPERATIONS_DECKHANDBOOK]]",
+    "finance": "[[FINANCE_DECKHANDBOOK]]",
+    "marketing": "[[MARKETING_DECKHANDBOOK]]"
+  }
+}

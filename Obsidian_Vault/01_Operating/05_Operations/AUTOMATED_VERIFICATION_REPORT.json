@@ -1,0 +1,89 @@
+{
+  "scheduled_tasks": {
+    "ok": true,
+    "found": [
+      "Torus_Asset_Validator",
+      "Torus_Continuous_OODA",
+      "Torus_Daily_Ops_Check",
+      "Torus_Inventory_Sync",
+      "Torus_Order_Manager",
+      "Torus_Smart_Ticket_Cycle",
+      "Torus_Social_Media_Check",
+      "Torus_Trello_Sync",
+      "Torus_Vault_Audit"
+    ],
+    "missing": []
+  },
+  "smart_ticket_log": {
+    "ok": true,
+    "smart_ticket_last_line": "[2026-08-10T04:22:56.384154+00:00] STATUS_UPDATED 6a7499631c1a36043e1059e2 [P1] Sir Green: add /api/security-docs route to dashboard_server.py",
+    "smart_ticket_age_minutes": 0.1
+  },
+  "master_ooda_log": {
+    "ok": true,
+    "master_ooda_last_line": "[2026-08-10T04:23:01.014354+00:00] MASTER_OODA_LOOP_START",
+    "master_ooda_age_minutes": 0.0
+  },
+  "batch_log": {
+    "ok": true,
+    "batch_apply_last_line": "[2026-08-07T13:03:55.446279+00:00] Progress: 320 processed, 0 skipped, 0 errors",
+    "batch_apply_age_minutes": 3799.1
+  },
+  "smart_ticket_state": {
+    "ok": true,
+    "age_minutes": 0.1
+  },
+  "master_ooda_state": {
+    "ok": false,
+    "age_minutes": 20.0
+  },
+  "trello_connectivity": {
+    "ok": true,
+    "sample_count": 1
+  },
+  "github_connectivity": {
+    "ok": true,
+    "open_issue_count": 1
+  },
+  "crew_work_verification": {
+    "ok": true,
+    "crew_card_count": 37,
+    "green_queue_count": 0,
+    "azure_queue_count": 0,
+    "priority_crew_count": 37,
+    "stale_crew_cards": [],
+    "stale_count": 0
+  },
+  "fleet_deployment_status": {
+    "ok": true,
+    "tools_present": [
+      "pirate_crew_cli.py",
+      "fleet_dashboard.py",
+      "all_five_tools_bundle.py",
+      "five_more_tools_bundle.py",
+      "tools_k_thru_o_bundle.py",
+      "tools_p_thru_u_bundle.py"
+    ],
+    "manifest": "D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\Fleet_Tools_Deployment\\DEPLOYMENT_MANIFEST.json",
+    "tasklist": "D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\FLEET_DEPLOYMENT_OODA_TASKLIST.json"
+  },
+  "discord_secrets": {
+    "ok": true,
+    "secrets_present": true,
+    "token_present": true,
+    "channel_configured": true,
+    "connect_state_present": true
+  },
+  "existing_verification": {
+    "ok": true,
+    "status": "PASS"
+  },
+  "summary": {
+    "status": "PASS",
+    "hard_fails": [],
+    "soft_fails": [
+      "master_ooda_state"
+    ],
+    "timestamp": "2026-08-10T04:23:03.234755+00:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "synced_at": "2026-08-07T02:37:58.363467+00:00",
+  "mode": "smart_scheduler",
+  "tickets_considered": 74,
+  "events_created": 0,
+  "events_skipped_existing": 0,
+  "events_failed": 0,
+  "conflicts_detected": 0,
+  "conflicts": [],
+  "errors": []
+}

@@ -1,0 +1,13 @@
+{
+  "square_payment": ["SQUARE INC", "SQUARE"],
+  "venmo": ["VENMO"],
+  "supplies": ["AMAZON", "OFFICEDEPOT", "UBER", "TAR"],
+  "shipping": ["USPS", "FEDEX", "UPS"],
+  "food": ["HY-VEE", "CASH STORE", "GATEWAY", "ALDI", "WALMART"],
+  "gas": ["CIRCLE K", "KUM&GO", "PILOT", "SHELL", "MURPHY"],
+  "income": ["DEPOSIT", "TRANSFER", "PAYMENT"],
+  "utilities": ["MEDIACOM", "SPECTRUM", "ALLIANT", "IMC"],
+  "insurance": ["STATE FARM", "PROGRESSIVE", "GEICO"],
+  "marketing": ["META", "FACEBOOK", "GOOGLE", "BUFFER"],
+  "equipment": ["BEST BUY", "MICRO CENTER", "NEWEGG"]
+}

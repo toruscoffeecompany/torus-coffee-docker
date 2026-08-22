@@ -1,0 +1,354 @@
+﻿Torus Coffee Company - Admin Dashboard Blog and Content Design
+Last updated: 2026-05-29
+
+Purpose
+This document defines the private admin experience for managing products, inventory, prices, product photos, blogs, content, settings, and future operational workflows.
+
+Admin Goal
+Let Torus Coffee Company manage the website without editing code for normal business tasks.
+
+Admin Users
+Initial admin users:
+- Owner/admin
+- Possible second admin later
+
+Future roles:
+- Admin: full access
+- Editor: blog/content access, no pricing/security settings
+- Inventory Manager: product/inventory access, no site settings
+- Viewer: read-only dashboards, optional
+
+Admin Security Principles
+- Admin login required.
+- Admin access separated from customer accounts by role.
+- Strong password and 2FA where available.
+- Admin-only pages must not be accessible from public navigation.
+- All admin actions must be validated server-side.
+- Dangerous changes should have confirmation prompts.
+- Important changes should be logged.
+
+Admin Dashboard Home
+Purpose:
+Give a quick health check.
+
+Recommended dashboard widgets:
+- Active products count
+- Low-stock products
+- Sold-out products
+- Draft products
+- Recent inventory changes
+- Recent blog drafts
+- Published posts count
+- Missing product photos
+- Missing Square links
+- Contact form submissions, later
+- Recent errors/warnings, later
+- Quick links: Add Product, Update Inventory, New Blog Post
+
+Product Manager
+Product list columns:
+- Product image thumbnail
+- Name
+- SKU
+- Category
+- Price
+- Inventory status
+- Quantity on hand
+- Public status
+- Featured flag
+- Square link status
+- Last updated
+- Edit button
+
+Product list filters:
+- Status
+- Category
+- In stock / low stock / sold out
+- Missing images
+- Missing Square links
+- Featured
+- Test products
+
+Product editor sections:
+1. Basic Info
+   - Name
+   - SKU
+   - Slug
+   - Status
+   - Category
+   - Tags
+   - Featured
+   - Badge
+
+2. Descriptions
+   - Short description
+   - Full description
+   - Flavor notes
+   - Texture notes
+
+3. Pricing
+   - Price
+   - Sale price later
+   - Cost, admin-only
+   - Taxable
+
+4. Inventory
+   - Quantity on hand
+   - Low-stock threshold
+   - Track inventory
+   - Inventory notes
+
+5. Photos
+   - Main image
+   - Gallery images
+   - Alt text
+   - Social share image
+
+6. Checkout
+   - Square payment link URL
+   - Square item ID later
+   - Square variation ID later
+
+7. Shipping/Product Details
+   - Weight
+   - Package dimensions later
+   - U.S. shipping only flag
+   - Ingredients
+   - Allergens
+   - Storage instructions
+   - Shelf life
+
+8. SEO and Feeds
+   - SEO title
+   - SEO description
+   - Google product category
+   - Brand
+   - MPN/GTIN if applicable
+   - Feed availability
+
+9. Admin Notes
+   - Production notes
+   - Internal notes
+   - Last reviewed
+
+Product editor save behavior:
+- Validate required fields.
+- Show clear errors near fields.
+- Save draft allowed with missing public fields.
+- Active products must have required public fields.
+- Active products should warn if missing main image, price, inventory status, or Square link.
+
+Inventory Manager
+Purpose:
+Fast stock updates without opening every product.
+
+Recommended views:
+- All inventory
+- Low stock
+- Sold out
+- Test products
+- Recently changed
+
+Inventory table columns:
+- Product
+- SKU
+- Quantity
+- Low-stock threshold
+- Status
+- Quick adjust
+- Notes
+- Last updated
+
+Adjustment actions:
+- Set exact quantity
+- Add stock
+- Remove stock
+- Mark sold out
+- Mark active/in stock
+
+Adjustment reasons:
+- Production/restock
+- Square order/manual sale
+- Flea market sale
+- Correction
+- Damaged/lost
+- Test
+- Other
+
+Every inventory adjustment should eventually write to an inventory log.
+
+Price Manager
+Could be part of Product Manager at first.
+
+Future price manager features:
+- Bulk price view
+- Price change log
+- Sale price setup
+- Compare current website price vs Square price, if API integration exists
+- Wholesale price fields later
+
+Image/Media Manager
+Purpose:
+Manage product, blog, social, and site images.
+
+Phase 1:
+- Product image upload through product editor or manual file path/reference.
+
+Later:
+- Media library
+- Folders/categories
+- Image alt text
+- Replace image
+- Delete/archive image
+- See where image is used
+- Generate social/cropped variants later
+
+Storage recommendation:
+- Keep original image files locally.
+- Use Supabase Storage or hosting/CDN for website image delivery.
+- Store metadata in database.
+
+Blog Admin
+Blog categories:
+- The Orbit Report
+- The Orbit Workshop
+- The Orbit Kitchen
+
+Blog list columns:
+- Title
+- Category
+- Status
+- Author
+- Publish date
+- Featured image
+- Last edited
+- Edit button
+
+Blog statuses:
+- Draft
+- Scheduled, later
+- Published
+- Hidden/Archived
+
+Blog editor fields:
+- Title
+- Slug
+- Category
+- Author
+- Featured image
+- Excerpt
+- Body content
+- Inline images
+- Video embed URL, later
+- Related products
+- Tags
+- SEO title
+- SEO description
+- Published at
+- Status
+
+Blog body editor options:
+Option A: Markdown editor
+- Simple, portable, easy to backup.
+- Best for technical simplicity.
+
+Option B: Rich text editor
+- More user-friendly.
+- More complex to build and secure.
+
+Recommended approach:
+Start with a clean Markdown or simple rich text editor, then improve if needed. Since the owner wants easy editing, we should evaluate a lightweight rich text editor during implementation.
+
+Blog media requirements:
+- Upload featured image.
+- Add images inside posts.
+- Add alt text.
+- Embed videos later from YouTube/TikTok/etc. instead of hosting large video files at first.
+
+Content Blocks / Site Settings
+Purpose:
+Allow editing key homepage/site content without code later.
+
+Potential editable site settings:
+- Announcement bar text
+- Hero headline
+- Hero subheadline
+- Featured products
+- Social links
+- Contact email
+- Phone number
+- Footer text
+- Event highlight
+
+Recommended Phase 1:
+Hard-code some content if needed to launch faster.
+
+Recommended Phase 2:
+Move editable homepage/settings content into admin.
+
+Contact Form Admin
+Phase 1 could send email only.
+
+Future contact inbox fields:
+- Name
+- Email
+- Phone
+- Reason
+- Message
+- Status: new, read, replied, archived
+- Internal notes
+- Created at
+
+Customer Manager
+See customer accounts doc for full details.
+
+Admin should eventually show:
+- Customer name/email
+- Marketing consent
+- Account status
+- Order history once integrated
+- Notes
+- Export option
+
+Errors/Diagnostics Admin
+See security/operations doc for details.
+
+Admin should eventually show:
+- Recent application errors
+- Failed form submissions
+- Failed admin save actions
+- Square webhook failures later
+- Low stock warnings
+- Missing product feed fields
+
+Admin UX Requirements
+- Clear save/cancel actions.
+- Unsaved changes warning.
+- Mobile usable, desktop optimized.
+- Search and filters for product/blog lists.
+- Plain language error messages.
+- Confirmation before destructive actions.
+- Archive instead of delete for important records.
+- Export buttons for critical data.
+
+Admin MVP Scope Recommendation
+For the first true admin phase, build:
+- Login/admin role
+- Product list/editor
+- Inventory quick editor
+- Blog list/editor
+- Image upload for products/blogs
+- Site settings for contact/social/announcement
+- Basic export
+
+Do not build everything at once.
+
+Open Decisions
+1. Markdown editor or rich text editor for blogs.
+2. Whether Phase 1 has admin dashboard or product data is edited more manually.
+3. Whether media uploads go to Supabase Storage immediately.
+4. Who besides owner gets admin access.
+5. Whether to include contact inbox in admin or email-only first.
+
+Recommended Decision
+Build the public selling site first with the data model in mind, then build admin as the next major phase. If build time allows, create a minimal admin product/inventory editor early because it will reduce manual work and mistakes.

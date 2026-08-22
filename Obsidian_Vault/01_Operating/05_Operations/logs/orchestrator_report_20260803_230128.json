@@ -1,0 +1,56 @@
+{
+  "timestamp": "2026-08-03T23:01:28.117543",
+  "total": 8,
+  "success": 8,
+  "failed": 0,
+  "results": [
+    {
+      "script": "buffer_automation",
+      "status": "success",
+      "output": "2026-08-03 23:01:26,123 | INFO | === TORUS COFFEE BUFFER AUTOMATION ===\n\n=== BUFFER STATUS ===\nAccount: toruscoffeecompany (toruscoffeecompany@gmail.com)\nChannels: 3\n  - linkedin: Torus Coffee Company\n  - youtube: Torus Coffee Company\n  - twitter: TorusCoffee",
+      "error": ""
+    },
+    {
+      "script": "zapier_automation",
+      "status": "success",
+      "output": "Webhook URL: https://hooks.zapier.com/hooks/catch/28444713/4616r0w/\nZaps configured: 0\nLast sync: None",
+      "error": "2026-08-03 23:01:26,896 | INFO | === TORUS COFFEE ZAPIER INTEGRATION ==="
+    },
+    {
+      "script": "hubspot_crm",
+      "status": "success",
+      "output": "2026-08-03 23:01:27,008 | INFO | === TORUS COFFEE HUBSPOT CRM AUTOMATION ===\n\n=== HUBSPOT STATUS ===\nConnected: True\nSample contacts: 1\nSample deals: 1\n\u2713 HubSpot connected successfully",
+      "error": ""
+    },
+    {
+      "script": "social_media_automation",
+      "status": "success",
+      "output": "=== TORUS COFFEE SOCIAL MEDIA AUTOMATION ===\n\n\n=== SOCIAL MEDIA PLATFORM STATUS ===\n\nFACEBOOK     \u2705 Active        N/A\nTWITTER      \u2705 Active        @TorusCoffee\nYOUTUBE      \u2705 Active        @TorusCoffeeCompany\nINSTAGRAM    \u274c Inactive      @glvwriter\nPINTEREST    \u274c Inactive      @toruscoffeecompany\nTIKTOK       \u274c Inactive      @toruscoffeecompany\nLINKEDIN     \u274c Inactive      Torus Coffee Company LLC",
+      "error": ""
+    },
+    {
+      "script": "inventory_tracker",
+      "status": "success",
+      "output": "pandas not available or inventory file not found. Using sample data.\nInventory snapshot: 2026-08-03\n  Neapolitan Orbit Cream Crunch: 0 [OUT OF STOCK]\n  Orbit Cream Crunch: 0 [OUT OF STOCK]\n  Star-Dusted Banana Crunch: 0 [OUT OF STOCK]\n  Apple Cinnamon Comets: 0 [OUT OF STOCK]\n  Aurora Berryalis: 0 [OUT OF STOCK]\n  Sour Aurora Bites: 0 [OUT OF STOCK]\n  Solar Strawberries: 0 [OUT OF STOCK]\n  Cosmic Bananas: 0 [OUT OF STOCK]\n  Aurora Bites: 0 [OUT OF STOCK]\n  Apple Zephyr Chips: 0 [OUT OF STOCK]",
+      "error": ""
+    },
+    {
+      "script": "daily_ops_automation",
+      "status": "success",
+      "output": "=== Daily Ops Automation - 2026-08-03 23:01 ===\n\nDaily note already exists: D:\\Work\\Torus Coffee Company LLC\\00_Inbox\\01_Daily\\2026-08-03.md\n\u2713 Inventory check: Current Inventory.xlsx\n\u2713 Backup check: SQUIDSTATION backup runs daily at 3AM\n\u2713 Git sync: runs daily at 8:30AM\n\u26a0 Uncommitted changes found:\nM .obsidian/workspace.json\n M 00_Inbox/01_Daily/2026-08-03.md\n M 04_Products/orders.json\n M 10_Skills_Library/05_Operations/logs/alerts.json\n M 10_Skills_Library/05_Operations/logs/asset_validator.log\n",
+      "error": ""
+    },
+    {
+      "script": "weekly_review_automation",
+      "status": "success",
+      "output": "=== Weekly Review Automation - 2026-08-03 23:01 ===\n\nWeekly note already exists: D:\\Work\\Torus Coffee Company LLC\\00_Inbox\\02_Weekly\\2026-W31.md\n\u2713 Weekly Trello review: cards for weekly tasks created via Task Scheduler\n\u2713 Weekly inventory check: complete\n\u2713 Weekly financial summary: ready for manual input\n\n\u2713 Weekly review complete",
+      "error": ""
+    },
+    {
+      "script": "monthly_review_automation",
+      "status": "success",
+      "output": "=== Monthly Review Automation - 2026-08-03 23:01 ===\n\nMonthly note already exists: D:\\Work\\Torus Coffee Company LLC\\00_Inbox\\03_Monthly\\2026-08.md\n\u2713 Monthly inventory count: triggered via Task Scheduler\n\u2713 Monthly financial report: ready for manual input\n\u2713 Monthly Trello cleanup: archive old Done cards\n\n\u2713 Monthly review complete",
+      "error": ""
+    }
+  ]
+}

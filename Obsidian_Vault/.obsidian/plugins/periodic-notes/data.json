@@ -1,0 +1,31 @@
+{
+  "installedVersion": "1.0.0-beta1",
+  "activeCalendarSet": "Default",
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "calendarSets": [
+    {
+      "day": {
+        "enabled": true,
+        "openAtStartup": false,
+        "format": "YYYY-MM-DD",
+        "templatePath": "00_Inbox/07_Templates/Daily_Ops_Log.md",
+        "folder": "00_Inbox/01_Daily"
+      },
+      "week": {
+        "enabled": true,
+        "folder": "00_Inbox/01_Daily",
+        "format": "YYYY-[W]WW",
+        "templatePath": "00_Inbox/07_Templates/Weekly_Review.md"
+      },
+      "month": {},
+      "quarter": {},
+      "year": {},
+      "id": "Default",
+      "ctime": "2026-08-03T12:16:34-05:00"
+    }
+  ],
+  "enableTimelineComplication": true,
+  "daily": true
+}

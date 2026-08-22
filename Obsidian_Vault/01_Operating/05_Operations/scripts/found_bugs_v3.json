@@ -1,0 +1,12 @@
+[
+  {
+    "name": "\ud83d\udc1b [BUG] Paper trading API returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0ffb960a6060656e84cf"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Augmented signals API returns non-JSON",
+    "priority": "P1",
+    "card_id": "6a7c0ffe372c77705ddd6b7b"
+  }
+]

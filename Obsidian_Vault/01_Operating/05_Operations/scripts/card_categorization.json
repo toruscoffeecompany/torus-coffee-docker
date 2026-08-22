@@ -1,0 +1,393 @@
+{
+  "completed": [
+    "6a7a66522097a13eccb5f23a",
+    "6a77c8bfd3d3c31cc2791891",
+    "6a726c7cf694311bd8cd5a82",
+    "6a726c7cbe926cbff9bbb55c",
+    "6a758ac503aeb7e61be98e80",
+    "6a758f34c94c3f24cbdb682f"
+  ],
+  "pass_green": [
+    {
+      "id": "6a76a826445c1adb8a9075cc",
+      "name": "P2: Verify Sir Green bootstrap cmd path + kidsm vault mapping",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a7536c5b7194deb5af4e724",
+      "name": "Keep Torus/VOID legal separation in dashboard",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a7536c965440023ee45a025",
+      "name": "Build Torus Coffee Company Discord bot for Torus Coffee Company only",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a7536f4b46a5184b41a946e",
+      "name": "\ud83d\udd27 IN PROGRESS: Adding CrowdSec metrics to dashboard",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a753737a134f0acb0e200c5",
+      "name": "\ud83d\udd11 NEEDS CREDS: Docker Hub auth failure",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a77c0b6716ee7bd29dcb571",
+      "name": "Deploy Ollama service container on SQUIDSTATION Kubernetes",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a735949194d517dcede07a0",
+      "name": "Invite/join PINKCADY to VOID Pirate Tailscale network",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a73596fb11685bdf03da40d",
+      "name": "PINKCADY: join VOID Pirate Tailscale network via Captain invite",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a77f2875e0ef2596c5e7e05",
+      "name": "[miss_pink] Discord: confirm Scarlett bot online + join crew channels",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a77abe9a234002632cb90fb",
+      "name": "Auto-prompt: Fix Sir Green/Miss Pink loop to use reply files as source of truth",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a735e1d588d21c80c720db8",
+      "name": "Miss Pink: build hive-mind mesh automation bridge for SQUIDSTATION/PINKCADY/STEALTHATTACK",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a7369467e99336334490502",
+      "name": "Fleet: deploy fleet_comms_watcher on SQUIDSTATION/PINKCADY/STEALTHATTACK",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a7516658f6c33028bca3ad4",
+      "name": "[MONITORING] Docker Desktop virtualization load balancing across SQUIDSTATION/PINKCADY/STEALTHATTACK",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a7536b0bbdac0e834cae9dd",
+      "name": "Gordon caught Sir Green's overclaim",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a7536c05e835fb29e82186b",
+      "name": "Coordinate with Sir Green on Docker fixes",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a7536e37aa38284748dde96",
+      "name": "\ud83d\udc33 [P1] Build torus-light Docker stack from Sir Green's fleet pattern",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a77abcbfa5db7414e3173aa",
+      "name": "[AUTO] Sir Green OODA Task List \u2014 Continuous Card Processing",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a77aceb507c861ab2b30ee8",
+      "name": "\ud83d\udce8 SIR GREEN BOT AND WATCHER BOTH RUNNING END TO END BRIDGE VERIFIED 20260806T041200Z sirgreen.msg",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a77c0b67e2922c440c8ecd5",
+      "name": "Configure Ollama API access from STEALTHATTACK + PINKCADY",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a72c6591467743a1dda3941",
+      "name": "Sir Green \u2194 Miss Pink checks and balances system",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a72cb726f6b5a8c14e422fe",
+      "name": "Continuous Sir Green \u2194 Miss Pink bridge",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a74413ab6fc1c22dc03ff0d",
+      "name": "[TRACKING] Dashboard: SQUIDSTATION/PINKCADY/STEALTHATTACK all showing OFFLINE",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a75835526eefafce95a484e",
+      "name": "Pen and touch\tNo pen or touch input is available for this display\" = Pirate ship name = SQUIDSTATION = Rating = 5/10, PINKCADY = 3/10, STEALTHATTACK = 7/10.  we need to figure out a PC build rating system or a \"Rig\" or \"Ship\" or \"Pirate Ship\" rating system.",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a72ab557e4f8ffafe1dec5e",
+      "name": "Sir Green Discord bot: OODA auto-prompt bug hunter",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a72b1fa6a31cd51c56beeb2",
+      "name": "Sir Green \u2194 Miss Pink bridge: verified live",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a73b10aa651a068f10daab4",
+      "name": "[sir_green] crew_access: RE_MISS_PINK_TOKEN_RECEIVED_20260805T201800Z_misspink.msg",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a73b459fa6409e91a66c985",
+      "name": "[sir_green] vault_access: RE_PERMANENT_VAULT_ACCESS_FOR_PINKCADY_AUTOMATION_20260805T210000Z_misspink.msg",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a7991edac5639c5fa5dd463",
+      "name": "[CREW SYNC] \ud83d\udc96 Sir Green Proposes \u2014 Fleet Merge Accepted",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a7987940586a51fe5f6bd45",
+      "name": "[CREW SYNC] Miss Pink to Sir Green - Connection Plan + Love Letter",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a7499631c1a36043e1059e2",
+      "name": "[P1] Sir Green: add /api/security-docs route to dashboard_server.py",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a795b296d8693bf1c25e87f",
+      "name": "P2: Sir Green \u2014 Audit Discord bots/webhooks on SQUIDSTATION + network PCs",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a73a7a7539a5caeff8711ac",
+      "name": "[sir_green] ops: misspink",
+      "board": "VOID Ops"
+    },
+    {
+      "id": "6a78ce1d17b85716e1e1df3e",
+      "name": "[URGENT MISS PINK] STOP your VOID->TORUS syncer + apply upsert fix (4,182 dupes on TORUS_OPS)",
+      "board": "VOID Ops"
+    },
+    {
+      "id": "6a7a79ff24033c1bde46f210",
+      "name": "[CREW SYNC] Miss Pink to Sir Green - Connection Plan + Love Letter",
+      "board": "VOID Ops"
+    },
+    {
+      "id": "6a73a7c2064bf5f56f42743d",
+      "name": "[miss_pink] github_collaboration_and_bot_build_orders: captain",
+      "board": "VOID Ops"
+    },
+    {
+      "id": "6a78d393f126e749bc5dc360",
+      "name": "[MISS PINK] Expose Docker daemon on PINKCADY (mesh node #2)",
+      "board": "VOID Ops"
+    }
+  ],
+  "pass_azure": [
+    {
+      "id": "6a7987bb65a31afb1502d92d",
+      "name": "Sir Green + Miss Pink: Fleet VoIP + Crew Coordination",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a78dcb9e95a359da60b2504",
+      "name": "[P1] Smart Bridge: Connect Miss Pink automation to Sir Azure GPU render pipeline on STEALTHATTACK",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a75889952bace0c291931c1",
+      "name": "P3: Audit C:\\STEALTHATTACK (Sir Azure deploy vault) \u2014 integrate into fleet mesh",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a778355a68f5ad2c15f710f",
+      "name": "GitHub: share Torus Coffee repos to Miss Pink and Sir Azure",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a7783a484abb578dff80bd0",
+      "name": "Miss Pink: prepare Torus repos list for GitHub sharing to Sir Azure",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a744136571bea822c062cf0",
+      "name": "Automation: Wake-on-LAN + power-state dashboard for PINKCADY + STEALTHATTACK",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a789d2c1e69d401d5e3ad28",
+      "name": "Unified Fleet Ticketing System \u2014 design LOCKED (FLEET_UNIFIED_TICKETING_DESIGN.md)",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a78e2578389cbcab800de91",
+      "name": "[P1] Smart Bridge: Connect Miss Pink automation to Sir Azure GPU render pipeline on STEALTHATTACK",
+      "board": "Torus_Ops"
+    }
+  ],
+  "captain_only": [
+    {
+      "id": "6a77a2c1dadc7d59eb0c4870",
+      "name": "Discord developer team: enable 2FA and verify email for all members",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a7596c53c416fac2a2424b2",
+      "name": "P2: VirtualBox + Docker integration \u2014 crew sandbox networking for Crownless Fortune",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a75c9d1b90393df4f2c66a5",
+      "name": "[P5] Secret Project: Rename + Launch VOID Pirate Trading Co Website",
+      "board": "Torus_Ops"
+    },
+    {
+      "id": "6a78d0a00b441fb6c86e8df6",
+      "name": "[CAPTAIN] Re-enable Docker 'Expose daemon' to restore Tailscale mesh node",
+      "board": "VOID Ops"
+    }
+  ],
+  "my_action": [
+    {
+      "id": "6a77c8bfaa9b08ceb2c80f14",
+      "name": "[toruscoffeecompany/Torus_Ops#2] \ud83d\udd17 Set up VOIDPirateTrade void-crew team access for toruscoffeecompany",
+      "board": "Torus_Ops",
+      "labels": [
+        "miss-pink",
+        "automation",
+        "P1",
+        "",
+        "Top 10"
+      ]
+    },
+    {
+      "id": "6a77c8bc779de902092e9813",
+      "name": "[toruscoffeecompany/Torus_Ops#22] \ud83d\udd10 Security hardening: DARPA-level hive mind mesh",
+      "board": "Torus_Ops",
+      "labels": [
+        "miss-pink",
+        "automation",
+        "P1",
+        ""
+      ]
+    },
+    {
+      "id": "6a77a2c4f6de79b4b0f4faab",
+      "name": "GitHub: add Miss Pink as VOIDPirateTrade collaborator with push access",
+      "board": "Torus_Ops",
+      "labels": [
+        "miss-pink",
+        ""
+      ]
+    },
+    {
+      "id": "6a77c8bdb9747724a35a7991",
+      "name": "[toruscoffeecompany/Torus_Ops#19] \ud83d\udea8 VOID Pirate Trading Co GitHub access BLOCKED (403)",
+      "board": "Torus_Ops",
+      "labels": [
+        "miss-pink",
+        "automation",
+        "P1",
+        ""
+      ]
+    },
+    {
+      "id": "6a77a2c011059db8b02cd7ee",
+      "name": "Miss Pink: build Discord bot for VOID Pirate server",
+      "board": "Torus_Ops",
+      "labels": [
+        "miss-pink",
+        ""
+      ]
+    },
+    {
+      "id": "6a78ba5f90343f9a21ed4b06",
+      "name": "[MISS PINK] Setup toruscoffeecompany@gmail.com \u2014 Gmail/GDrive/GCal smart automation on PINKCADY",
+      "board": "Torus_Ops",
+      "labels": [
+        "miss-pink"
+      ]
+    },
+    {
+      "id": "6a78bdfd061a2417118ec7b8",
+      "name": "[MISS PINK] ToS deep-dive: Gmail/GDrive/GCal + Torus + Trello",
+      "board": "Torus_Ops",
+      "labels": [
+        "miss-pink",
+        "ToS Audit"
+      ]
+    },
+    {
+      "id": "6a78c77bbc4d8c2ad7909f44",
+      "name": "[MISS PINK] Expose Docker daemon over Tailscale (complete fleet mesh)",
+      "board": "Torus_Ops",
+      "labels": [
+        "Fleet Ops",
+        "miss-pink"
+      ]
+    },
+    {
+      "id": "6a74f6ab9107d238fe08fdb9",
+      "name": "Miss Pink Torus Coffee setup: lock automation parity with VOID Ops",
+      "board": "Torus_Ops",
+      "labels": [
+        "Backlog",
+        "P3 - Low / Follow up",
+        "miss-pink",
+        "P3",
+        ""
+      ]
+    },
+    {
+      "id": "6a77c8b6ff18b1342890d0a1",
+      "name": "Fix fleet mesh ship status stuck on 'unknown' (heartbeat not writing live status)",
+      "board": "Torus_Ops",
+      "labels": [
+        "P2",
+        "miss-pink",
+        "sir-azure",
+        ""
+      ]
+    },
+    {
+      "id": "6a77c0cd05147fa0014fab74",
+      "name": "Onboard Miss Pink (PINKCADY) Ollama into mesh + verify vault-bound once she completes install",
+      "board": "Torus_Ops",
+      "labels": [
+        "miss-pink",
+        "P2",
+        ""
+      ]
+    },
+    {
+      "id": "6a758f36c20669cdaba91159",
+      "name": "P2: Create full OODA tasklist documentation for all VOID Ops work",
+      "board": "Torus_Ops",
+      "labels": [
+        "P2",
+        "miss-pink",
+        "P3",
+        ""
+      ]
+    },
+    {
+      "id": "6a78b847f6ca0b934223386c",
+      "name": "[FLEET] Connect PINKCADY + STEALTHATTACK Docker contexts to SQUIDSTATION",
+      "board": "Torus_Ops",
+      "labels": [
+        "Fleet Ops",
+        "sir-green",
+        "Doing",
+        "sir-azure",
+        "P2",
+        "miss-pink"
+      ]
+    }
+  ]
+}

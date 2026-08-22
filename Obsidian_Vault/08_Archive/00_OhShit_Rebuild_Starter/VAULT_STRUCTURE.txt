@@ -1,0 +1,108 @@
+# VAULT STRUCTURE — Torus Coffee Company
+
+**Vault Root:** `D:\Work\Torus Coffee Company LLC`
+
+```
+00_Inbox/                  ← Daily/weekly/monthly notes, templates
+│   ├── 01_Daily/
+│   ├── 02_Weekly/
+│   ├── 03_Monthly/
+│   ├── 04_Projects/
+│   ├── 05_Meetings/
+│   ├── 06_Research/
+│   └── 07_Templates/       ← 13 Templater templates
+
+01_Operating/              ← Entity docs, policies, OAuth, operating paperwork
+│   └── Operating Paperwork/
+│       └── Trello_API_Credentials.md
+
+02_Tax/                    ← Tax documents (READ-ONLY)
+│   └── Taxes/
+│       ├── 2025/           ← DO NOT TOUCH
+│       └── 2026/
+
+03_Financials/             ← Expense reports, financial statements, dashboards
+
+04_Products/               ← Product catalog, images, labels, pricing
+
+05_Legal/                  ← Legal, compliance, IP, contracts
+│   ├── Compliance/
+│   ├── Contracts/
+│   └── IP_Trademarks/
+
+06_Growth_Marketing/       ← Marketing assets, ads, strategy
+│   └── Strategy/
+
+06_Website/                ← Website rebuild project
+│   ├── next-storefront/   ← Next.js scaffold
+│   ├── PROJECT WEBSITE R3DEPLOY/
+│   │   ├── 01_Designs/
+│   │   ├── 02_Plans/
+│   │   ├── 03_Live_Code/
+│   │   └── 04_Archive/
+│   └── Design/
+│       ├── Blog/
+│       ├── Design Docs/
+│       └── Plan Docs/
+
+07_Photos/                 ← Product/event photos
+
+08_Archive/                ← Archived/legacy files
+
+08_Design_Brand/           ← Logos, signage, brand assets
+│   ├── Business_Cards/
+│   ├── Logos/
+│   ├── Signage/
+│   ├── Watermarks/
+│   └── Social_Media/
+│       ├── Facebook/
+│       └── Pinterest/
+
+08_Reports/                ← Audit reports, gap analysis
+
+09_Projects/               ← Project management
+│   ├── Trello_Boards/      ← 3 boards, 38 cards
+│   └── Scripts/
+
+10_Skills_Library/         ← Automation scripts, guides
+│   └── 05_Operations/
+│       ├── scripts/
+│       └── Obsidian_Automation_Guide.md
+
+11_Vendors/                ← Vendor profiles, contracts, orders
+
+12_Customers/              ← Orders, feedback, loyalty
+
+13_Team/                   ← Staff, training, schedules
+
+14_Infrastructure/         ← Domains, hosting, integrations
+
+99_Inbox/                  ← Personal inbox, unidentified files
+│   ├── Personal_Tax/
+│   ├── Unidentified_Personal/
+│   └── 07_Templates/
+```
+
+## Obsidian Config
+- **Plugins:** Templater, Dataview, QuickAdd, Calendar, Periodic Notes
+- **Templates:** 13 total (Daily Ops Log, Weekly Review, Monthly Review, etc.)
+- **Dashboards:** 4 (Vault Home, Projects, Products, Financials)
+- **Task Scheduler:** 5 jobs (daily/weekly/monthly notes, GitHub sync, SQUIDSTATION backup)
+
+## GitHub Repos
+- `toruscoffeecompany/Torus_Ops` — business docs, vault backup
+- `toruscoffeecompany/Torus_website_rebuild` — website code
+
+## Trello Boards
+- https://trello.com/b/cZFvOC8l/torusops
+- https://trello.com/b/JmUh5kJA/businessdocs
+- https://trello.com/b/orPSpaRA/websiterebuild
+
+## Credentials
+- Google OAuth: `01_Operating/Operating Paperwork/Google Workspace Access.md`
+- Trello API: `01_Operating/Operating Paperwork/Trello_API_Credentials.md`
+
+## Network
+- **SQUIDSTATION:** 192.168.0.39 (Z: drive, read-only)
+- **STEALTHATTACK:** Sir Azure's PC (AI pipeline, future)
+- **Tailscale:** pinkcady online at 100.70.190.27

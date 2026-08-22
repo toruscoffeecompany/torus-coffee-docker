@@ -1,0 +1,21 @@
+# Miss Pink Bridge Configuration
+# Secure Docker socket bridge using Tailscale sidecar pattern
+# References: ScaleTail (tailscale-dev/ScaleTail), Tailscale Docker docs
+
+bridge:
+  name: miss-pink-fleet-bridge
+  type: tailscale-sidecar
+  access: read-only
+  endpoints:
+    pinkcady: http://pinkcady:2375  # Tailscale DNS name
+    squidstation: http://100.83.247.14:2375
+    stealthattack: http://100.110.238.68:2375
+  acl:
+    - method: GET
+      path: "/containers/json"
+    - method: GET
+      path: "/containers/*/logs"
+    - method: POST
+      path: "/containers/*/start"
+    - method: POST
+      path: "/containers/*/stop"

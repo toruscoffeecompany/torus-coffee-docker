@@ -1,0 +1,71 @@
+[2026-08-07T12:25:35.472812+00:00] BATCH_APPLY_START
+[2026-08-07T12:25:36.303778+00:00] Total open cards: 562
+[2026-08-07T12:25:51.580916+00:00] Progress: 20 processed, 0 skipped, 0 errors
+[2026-08-07T12:26:06.573220+00:00] Progress: 40 processed, 0 skipped, 0 errors
+[2026-08-07T12:26:21.176514+00:00] Progress: 60 processed, 0 skipped, 0 errors
+[2026-08-07T12:26:36.988246+00:00] Progress: 80 processed, 0 skipped, 0 errors
+[2026-08-07T12:26:51.699498+00:00] Progress: 100 processed, 0 skipped, 0 errors
+[2026-08-07T12:27:06.096779+00:00] Progress: 120 processed, 0 skipped, 0 errors
+[2026-08-07T12:27:19.169409+00:00] Progress: 140 processed, 0 skipped, 0 errors
+[2026-08-07T12:27:31.906418+00:00] Progress: 160 processed, 0 skipped, 0 errors
+[2026-08-07T12:27:44.344742+00:00] Progress: 180 processed, 0 skipped, 0 errors
+[2026-08-07T12:27:56.739121+00:00] Progress: 200 processed, 0 skipped, 0 errors
+[2026-08-07T12:28:09.332592+00:00] Progress: 220 processed, 0 skipped, 0 errors
+[2026-08-07T12:28:24.008724+00:00] Progress: 240 processed, 0 skipped, 0 errors
+[2026-08-07T12:28:38.206233+00:00] Progress: 260 processed, 0 skipped, 0 errors
+[2026-08-07T12:28:52.250982+00:00] Progress: 280 processed, 0 skipped, 0 errors
+[2026-08-07T12:29:07.525638+00:00] Progress: 300 processed, 0 skipped, 0 errors
+[2026-08-07T12:29:22.033488+00:00] Progress: 320 processed, 0 skipped, 0 errors
+[2026-08-07T12:29:37.320745+00:00] Progress: 340 processed, 0 skipped, 0 errors
+[2026-08-07T12:29:52.614535+00:00] Progress: 360 processed, 0 skipped, 0 errors
+[2026-08-07T12:30:08.559086+00:00] Progress: 380 processed, 0 skipped, 0 errors
+[2026-08-07T12:30:25.367043+00:00] Progress: 400 processed, 0 skipped, 0 errors
+[2026-08-07T12:30:52.131426+00:00] BATCH_APPLY_START
+[2026-08-07T12:30:53.134438+00:00] Total open cards: 562
+[2026-08-07T12:31:11.940905+00:00] Progress: 20 processed, 0 skipped, 0 errors
+[2026-08-07T12:31:28.204153+00:00] Progress: 40 processed, 0 skipped, 0 errors
+[2026-08-07T12:31:43.922647+00:00] Progress: 60 processed, 0 skipped, 0 errors
+[2026-08-07T12:31:58.339754+00:00] Progress: 80 processed, 0 skipped, 0 errors
+[2026-08-07T12:32:14.518990+00:00] Progress: 100 processed, 0 skipped, 0 errors
+[2026-08-07T12:32:29.764290+00:00] Progress: 120 processed, 0 skipped, 0 errors
+[2026-08-07T12:32:44.863757+00:00] Progress: 140 processed, 0 skipped, 0 errors
+[2026-08-07T12:32:58.279953+00:00] Progress: 160 processed, 0 skipped, 0 errors
+[2026-08-07T12:33:12.057098+00:00] Progress: 180 processed, 0 skipped, 0 errors
+[2026-08-07T12:33:25.437835+00:00] Progress: 200 processed, 0 skipped, 0 errors
+[2026-08-07T12:33:39.213490+00:00] Progress: 220 processed, 0 skipped, 0 errors
+[2026-08-07T12:33:52.204704+00:00] Progress: 240 processed, 0 skipped, 0 errors
+[2026-08-07T12:34:06.185542+00:00] Progress: 260 processed, 0 skipped, 0 errors
+[2026-08-07T12:34:21.023565+00:00] Progress: 280 processed, 0 skipped, 0 errors
+[2026-08-07T12:34:35.367352+00:00] Progress: 300 processed, 0 skipped, 0 errors
+[2026-08-07T12:34:50.085279+00:00] Progress: 320 processed, 0 skipped, 0 errors
+[2026-08-07T12:35:05.493636+00:00] Progress: 340 processed, 0 skipped, 0 errors
+[2026-08-07T12:35:20.693655+00:00] Progress: 360 processed, 0 skipped, 0 errors
+[2026-08-07T12:35:36.031354+00:00] Progress: 380 processed, 0 skipped, 0 errors
+[2026-08-07T12:35:50.834530+00:00] Progress: 400 processed, 0 skipped, 0 errors
+[2026-08-07T12:36:06.203136+00:00] Progress: 420 processed, 0 skipped, 0 errors
+[2026-08-07T12:36:20.684478+00:00] Progress: 440 processed, 0 skipped, 0 errors
+[2026-08-07T12:36:34.711294+00:00] Progress: 460 processed, 0 skipped, 0 errors
+[2026-08-07T12:36:49.667925+00:00] Progress: 480 processed, 0 skipped, 0 errors
+[2026-08-07T12:37:04.593308+00:00] Progress: 500 processed, 0 skipped, 0 errors
+[2026-08-07T12:37:19.297991+00:00] Progress: 520 processed, 0 skipped, 0 errors
+[2026-08-07T12:37:32.991241+00:00] Progress: 540 processed, 0 skipped, 0 errors
+[2026-08-07T12:37:46.747948+00:00] Progress: 560 processed, 0 skipped, 0 errors
+[2026-08-07T12:37:48.198701+00:00] BATCH_APPLY_COMPLETE processed=562 skipped=0 errors=0
+[2026-08-07T12:59:08.019604+00:00] BATCH_APPLY_START
+[2026-08-07T12:59:08.858877+00:00] Total open cards: 562
+[2026-08-07T12:59:24.370733+00:00] Progress: 20 processed, 0 skipped, 0 errors
+[2026-08-07T12:59:38.839177+00:00] Progress: 40 processed, 0 skipped, 0 errors
+[2026-08-07T12:59:53.443021+00:00] Progress: 60 processed, 0 skipped, 0 errors
+[2026-08-07T13:00:10.815451+00:00] Progress: 80 processed, 0 skipped, 0 errors
+[2026-08-07T13:00:31.820241+00:00] Progress: 100 processed, 0 skipped, 0 errors
+[2026-08-07T13:00:55.312045+00:00] Progress: 120 processed, 0 skipped, 0 errors
+[2026-08-07T13:01:14.521099+00:00] Progress: 140 processed, 0 skipped, 0 errors
+[2026-08-07T13:01:31.451390+00:00] Progress: 160 processed, 0 skipped, 0 errors
+[2026-08-07T13:01:53.800885+00:00] Progress: 180 processed, 0 skipped, 0 errors
+[2026-08-07T13:02:14.854908+00:00] Progress: 200 processed, 0 skipped, 0 errors
+[2026-08-07T13:02:32.965277+00:00] Progress: 220 processed, 0 skipped, 0 errors
+[2026-08-07T13:02:48.829225+00:00] Progress: 240 processed, 0 skipped, 0 errors
+[2026-08-07T13:03:05.883736+00:00] Progress: 260 processed, 0 skipped, 0 errors
+[2026-08-07T13:03:24.457910+00:00] Progress: 280 processed, 0 skipped, 0 errors
+[2026-08-07T13:03:39.987489+00:00] Progress: 300 processed, 0 skipped, 0 errors
+[2026-08-07T13:03:55.446279+00:00] Progress: 320 processed, 0 skipped, 0 errors

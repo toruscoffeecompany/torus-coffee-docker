@@ -1,0 +1,18 @@
+{
+  "script_status": {},
+  "failure_streaks": {
+    "master_ooda_loop.py": 0,
+    "smart_ticket_cycle.py": 0,
+    "pinkcady_comms_watcher.py": 0,
+    "miss_pink_inbox_watcher.py": 0,
+    "daily_ops_automation.py": 0,
+    "social_media_automation.py": 0,
+    "buffer_automation.py": 0,
+    "zapier_automation.py": 0,
+    "hubspot_crm.py": 0,
+    "inventory_to_website_sync.py": 0,
+    "order_manager.py": 0,
+    "unified_automation_orchestrator.py": 0
+  },
+  "last_report": {}
+}

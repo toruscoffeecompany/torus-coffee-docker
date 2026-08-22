@@ -1,0 +1,2 @@
+{"ts": "2026-08-21T13:46:01Z", "type": "O1_OBSERVE", "level": "INFO", "data": {"message": "Scanning fleet systems..."}}
+{"ts": "2026-08-21T13:46:12Z", "type": "O1_COMPLETE", "level": "INFO", "data": {"message": "Observation complete: 47 Trello cards, 0 containers, inbox=0", "fleet_online": 0}}

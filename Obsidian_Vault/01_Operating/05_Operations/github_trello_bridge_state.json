@@ -1,0 +1,124 @@
+{
+  "synced": {
+    "toruscoffeecompany/Torus_Ops#275": {
+      "trello_card_id": "6a77c8bb2587edf85aba0485",
+      "github_repo": "toruscoffeecompany/Torus_Ops",
+      "github_issue": 275,
+      "title": "P0/P1 Smart Ticket System Audit + Next-Gen Self-Healing Improvements",
+      "status": "synced",
+      "synced_at": "2026-08-09T00:24:27.165440+00:00"
+    },
+    "toruscoffeecompany/Torus_Ops#274": {
+      "trello_card_id": "6a77c8bb9e0052fabca65097",
+      "github_repo": "toruscoffeecompany/Torus_Ops",
+      "github_issue": 274,
+      "title": "\ud83d\udce8 Inbox: SMART TICKET SYSTEM FINAL INSTRUCTIONS 20260807 sirgreen.msg",
+      "status": "synced",
+      "synced_at": "2026-08-09T00:24:27.804257+00:00"
+    },
+    "toruscoffeecompany/Torus_Ops#22": {
+      "trello_card_id": "6a77c8bc779de902092e9813",
+      "github_repo": "toruscoffeecompany/Torus_Ops",
+      "github_issue": 22,
+      "title": "\ud83d\udd10 Security hardening: DARPA-level hive mind mesh",
+      "status": "synced",
+      "synced_at": "2026-08-09T00:24:28.395835+00:00"
+    },
+    "toruscoffeecompany/Torus_Ops#19": {
+      "trello_card_id": "6a77c8bdb9747724a35a7991",
+      "github_repo": "toruscoffeecompany/Torus_Ops",
+      "github_issue": 19,
+      "title": "\ud83d\udea8 VOID Pirate Trading Co GitHub access BLOCKED (403)",
+      "status": "synced",
+      "synced_at": "2026-08-09T00:24:29.710967+00:00"
+    },
+    "toruscoffeecompany/Torus_Ops#16": {
+      "trello_card_id": "6a77c8be1ef8982c02048c50",
+      "github_repo": "toruscoffeecompany/Torus_Ops",
+      "github_issue": 16,
+      "title": "Actionable alerts/services from dashboard",
+      "status": "synced",
+      "synced_at": "2026-08-09T00:24:30.322359+00:00"
+    },
+    "toruscoffeecompany/Torus_Ops#14": {
+      "trello_card_id": "6a77c8bfd3d3c31cc2791891",
+      "github_repo": "toruscoffeecompany/Torus_Ops",
+      "github_issue": 14,
+      "title": "Discord bot token wiring into crew_map.json/vault config",
+      "status": "synced",
+      "synced_at": "2026-08-09T00:24:30.934551+00:00"
+    },
+    "toruscoffeecompany/Torus_Ops#2": {
+      "trello_card_id": "6a77c8bfaa9b08ceb2c80f14",
+      "github_repo": "toruscoffeecompany/Torus_Ops",
+      "github_issue": 2,
+      "title": "\ud83d\udd17 Set up VOIDPirateTrade void-crew team access for toruscoffeecompany",
+      "status": "synced",
+      "synced_at": "2026-08-09T00:24:31.639162+00:00"
+    },
+    "toruscoffeecompany/torus-coffee-docker#7": {
+      "trello_card_id": "6a77c8c0ba1a4b6eca0438ac",
+      "github_repo": "toruscoffeecompany/torus-coffee-docker",
+      "github_issue": 7,
+      "title": "\ud83d\udc33 [P1] Miss Pink Docker fixes: .dockerignore, multi-stage, restart policies, volumes",
+      "status": "synced",
+      "synced_at": "2026-08-09T00:24:32.770139+00:00"
+    },
+    "toruscoffeecompany/torus-coffee-docker#6": {
+      "trello_card_id": "6a77c8c152ea9bfa51648275",
+      "github_repo": "toruscoffeecompany/torus-coffee-docker",
+      "github_issue": 6,
+      "title": "\ud83d\udd17 [P1] PINKCADY \u2194 SQUIDSTATION Docker networking",
+      "status": "synced",
+      "synced_at": "2026-08-09T00:24:33.378796+00:00"
+    },
+    "toruscoffeecompany/torus-coffee-docker#5": {
+      "trello_card_id": "6a77c8c226418135d2eacad5",
+      "github_repo": "toruscoffeecompany/torus-coffee-docker",
+      "github_issue": 5,
+      "title": "\ud83d\udd14 [P2] torus-alert-router: inbox watcher + Discord + email alerts",
+      "status": "synced",
+      "synced_at": "2026-08-09T00:24:34.221420+00:00"
+    },
+    "toruscoffeecompany/torus-coffee-docker#4": {
+      "trello_card_id": "6a77c8c3833558f5d31c03b6",
+      "github_repo": "toruscoffeecompany/torus-coffee-docker",
+      "github_issue": 4,
+      "title": "\ud83d\udcca [P2] Prometheus + Grafana fleet dashboard for Torus",
+      "status": "synced",
+      "synced_at": "2026-08-09T00:24:35.184667+00:00"
+    },
+    "toruscoffeecompany/torus-coffee-docker#3": {
+      "trello_card_id": "6a77c8c3945f3bd361b99f1d",
+      "github_repo": "toruscoffeecompany/torus-coffee-docker",
+      "github_issue": 3,
+      "title": "\ud83c\udf10 [P2] Deploy torus-website + torus-inventory + torus-pos on PINKCADY",
+      "status": "synced",
+      "synced_at": "2026-08-09T00:24:35.727577+00:00"
+    },
+    "toruscoffeecompany/torus-coffee-docker#2": {
+      "trello_card_id": "6a77c8c457fdb72b54473acf",
+      "github_repo": "toruscoffeecompany/torus-coffee-docker",
+      "github_issue": 2,
+      "title": "\ud83d\udce6 [P1] Push toruscoffee/torus-alert-router:latest to Docker Hub",
+      "status": "synced",
+      "synced_at": "2026-08-09T00:24:36.555880+00:00"
+    },
+    "toruscoffeecompany/torus-coffee-docker#1": {
+      "trello_card_id": "6a77c8c5877ce4668a05600d",
+      "github_repo": "toruscoffeecompany/torus-coffee-docker",
+      "github_issue": 1,
+      "title": "\ud83d\udc33 [P1] Build torus-light Docker stack from Sir Green's fleet pattern",
+      "status": "synced",
+      "synced_at": "2026-08-09T00:24:37.193096+00:00"
+    },
+    "toruscoffeecompany/Torus_website_rebuild#1": {
+      "trello_card_id": "6a77c8c66161682f66bbbdd8",
+      "github_repo": "toruscoffeecompany/Torus_website_rebuild",
+      "github_issue": 1,
+      "title": "test: verify PAT automation access",
+      "status": "synced",
+      "synced_at": "2026-08-09T00:24:38.288501+00:00"
+    }
+  }
+}

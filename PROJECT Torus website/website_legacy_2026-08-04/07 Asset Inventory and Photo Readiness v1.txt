@@ -1,0 +1,159 @@
+﻿Torus Coffee Company - Asset Inventory and Photo Readiness Notes
+Last updated: 2026-05-29
+
+Purpose
+This document records local assets found for the website and notes what is still needed for launch-ready product photography.
+
+Summary
+Local files include:
+- Company logos
+- Website background images
+- Blog logo
+- Product signage images for current launch products
+- Flea market photos
+- Business card image
+
+The Products folder mostly contains Google Docs/Sheets shortcuts rather than directly readable local product image files. The local signage images are useful brand/product-adjacent assets, but real product photos are still important for ecommerce conversion.
+
+------------------------------------------------------------
+1. Logo and Brand Assets
+------------------------------------------------------------
+
+Logo files found:
+- G:\My Drive\Torus Coffee Company\Design\Logo Design\Torus Coffee Company Logo v1.png
+- G:\My Drive\Torus Coffee Company\Design\Logo Design\Torus Coffee Company Logo v2.png
+- G:\My Drive\Torus Coffee Company\Design\Logo Design\Torus Coffee Company Logo Website Design v1.png
+- G:\My Drive\Torus Coffee Company\Design\Logo Design\Torus Coffee Company Logo v3.jpg
+
+Website background files found:
+- G:\My Drive\Torus Coffee Company\Design\Website Design\Website Background Pictures.png
+- G:\My Drive\Torus Coffee Company\Design\Website Design\Website Background Pictures v3.png
+- G:\My Drive\Torus Coffee Company\Design\Website Design\Website Background Pictures v4.png
+- G:\My Drive\Torus Coffee Company\Design\Website Design\Website Background Pictures v6.png
+- G:\My Drive\Torus Coffee Company\Design\Website Design\Website Background Pictures v7.png
+
+Blog logo found:
+- G:\My Drive\Torus Coffee Company\Design\Website Design\Blog Design\The Orbit Report Blog Logo v1.png
+
+Business card found:
+- G:\My Drive\Torus Coffee Company\Design\Business Card Design\Business Card Design v1.png
+
+------------------------------------------------------------
+2. Product Signage Assets Found
+------------------------------------------------------------
+
+Star-Dusted Banana Crunch:
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Star-Dusted Banana Crunch - Flea Market Sign Design\Star-Dusted Banana Crunch - Flea Market Sign Design $4 v1.png
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Star-Dusted Banana Crunch - Flea Market Sign Design\Star-Dusted Banana Crunch - Flea Market Sign Design $4 v2.png
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Star-Dusted Banana Crunch - Flea Market Sign Design\Star-Dusted Banana Crunch $5 v1.png
+
+Apple Cinnamon Comets:
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Apple Cinnamon Comets - Flea Market Sign Design\Apple Cinnamon Comets - Flea Market Sign Design $4 v1.png
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Apple Cinnamon Comets - Flea Market Sign Design\Apple Cinnamon Comets - Flea Market Sign Design $4 v2.png
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Apple Cinnamon Comets - Flea Market Sign Design\Apple Cinnamon Comets - Flea Market Sign Design $5 v1.png
+
+Solar Strawberries:
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Solar Strawberries - Flea Market Sign Design\Solar Strawberries - Flea Market Sign Design $4 v1.png
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Solar Strawberries - Flea Market Sign Design\Solar Strawberries - Flea Market Sign Design $5 v2.png
+
+Aurora Bites:
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Aurora Bites - Flea Market Sign Design\Aurora Bites - Flea Market Sign Design $4 v1.png
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Aurora Bites - Flea Market Sign Design\Aurora Bites - Flea Market Sign Design $4 v2.png
+
+Sour Aurora Bites:
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Sour Aurora Bites Flea Market Sign Design\Sour Aurora Bites Flea Market Sign $4 v1.png
+
+Cosmic Bananas:
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Cosmic Bananas - Flea Market Sign Design\Cosmic Bananas - Flea Market Sign Design $5 v1.png
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Cosmic Bananas - Flea Market Sign Design\Cosmic Bananas - Flea Market Sign Design $4 v1.png
+
+Aurora Berryalis:
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Aurora Berryalis - Flea Market Sign Design\Aurora Berryalis - Flea Market Sign Design $5 v1.png
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Aurora Berryalis - Flea Market Sign Design\Aurora Berryalis - Flea Market Sign Design $4 v1.png
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Aurora Berryalis - Flea Market Sign Design\Aurora Berryalis - Flea Market Sign Design $4 v1 (1).png
+
+Apple Zephyr Chips:
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Apple Zephyr Chips - Flea Market Sign Design\Apple Zephyr Chips - Flea Market Sign Design $4 v1.png
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Apple Zephyr Chips - Flea Market Sign Design\Apple Zephyr Chips - Flea Market Sign Design $5 v1.png
+
+Company signage:
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Company Logo\Company Logo - Sign Design v1.png
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Company Logo\Company Logo - Sign Design v2.png
+- G:\My Drive\Torus Coffee Company\Design\Signage Design\Company Logo\Company Logo - Flea Market Sign Design v3.png
+
+------------------------------------------------------------
+3. Flea Market Photos Found
+------------------------------------------------------------
+
+Folder:
+G:\My Drive\Torus Coffee Company\Advertising Memories Propaganda\Flea Market\1st Flea Market Photos
+
+Files:
+- ANMP0009.jpg
+- ANMP0010.jpg
+- ANMP0011.jpg
+- ANMP0012.jpg
+- ANMP0014.jpg
+- ANMP0015.jpg
+- ANMP0016.jpg
+- ANMP0017.jpg
+- ANMP0018.jpg
+- ANMP0019.jpg
+- ANMR0013.mp4
+
+Potential uses:
+- About page
+- Find Us page
+- Blog posts
+- Trust/social proof section
+- Behind-the-scenes content
+
+------------------------------------------------------------
+4. Product Photo Readiness Checklist
+------------------------------------------------------------
+
+For each launch product, try to collect:
+- Front-of-bag/package photo
+- Product close-up showing texture
+- Lifestyle/table photo
+- White/clean background product image, if possible
+- Square crop for shop cards
+- Wide crop for social/hero use, optional
+
+Needed for each photo:
+- Product name
+- File location
+- Permission/ownership confirmed
+- Alt text
+- Whether it is final or temporary
+
+Recommended website image types:
+- Main product image: clear square image
+- Gallery image 1: packaging/product bag
+- Gallery image 2: texture close-up
+- Gallery image 3: lifestyle/market/serving photo
+- Social share image: 1200x630-ish later
+
+------------------------------------------------------------
+5. Launch Recommendation
+------------------------------------------------------------
+
+Best launch approach:
+- Use real product photos for product cards/pages if available.
+- Use product signage as supporting visuals, not the main product image, unless real photos are not ready.
+- Use flea market photos on About/Find Us pages.
+- Use logo/background assets for brand system.
+
+If real product photos are missing:
+- Launch with best available temporary visuals only if product pages clearly describe the products.
+- Schedule a product photo session before paid ads or product feed submissions.
+
+------------------------------------------------------------
+6. Open Tasks
+------------------------------------------------------------
+
+[TODO] Locate final product photos for each launch product.
+[TODO] Decide whether signage images can be used temporarily.
+[TODO] Create a final Website/assets/product-photos structure during coding.
+[TODO] Optimize images for web during implementation.
+[TODO] Create alt text for each product image.

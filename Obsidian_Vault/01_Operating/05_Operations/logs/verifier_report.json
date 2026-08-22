@@ -1,0 +1,79 @@
+{
+  "timestamp": "2026-08-10T09:41:35.415349+00:00",
+  "dashboard_endpoints": {
+    "/api/status": {
+      "status": 200,
+      "length": 7974
+    },
+    "/api/fleet": {
+      "status": 200,
+      "length": 1773
+    },
+    "/api/tools": {
+      "status": 200,
+      "length": 2522
+    },
+    "/api/security-docs": {
+      "status": 404,
+      "length": 21
+    },
+    "/api/hw": {
+      "status": 404,
+      "length": 21
+    },
+    "/healthz": {
+      "status": 200,
+      "length": 173
+    },
+    "/api/crew_heartbeat": {
+      "status": 200,
+      "length": 118
+    },
+    "/api/rig-report": {
+      "status": 200,
+      "length": 2193
+    }
+  },
+  "docker_containers": {
+    "count": 10,
+    "containers": [
+      "torus-backup",
+      "torus-redis",
+      "torus-cadvisor",
+      "torus-node-exporter",
+      "torus-prometheus",
+      "torus-inventory",
+      "torus-pos",
+      "torus-alert-router",
+      "torus-website",
+      "torus-grafana"
+    ]
+  },
+  "security_tools": {
+    "nmap": {
+      "installed": false,
+      "path": null
+    },
+    "nikto": {
+      "installed": false,
+      "path": null
+    },
+    "tshark": {
+      "installed": false,
+      "path": null
+    },
+    "yara": {
+      "installed": false,
+      "path": null
+    },
+    "volatility3": {
+      "installed": true,
+      "path": "vol"
+    }
+  },
+  "inbox_status": {
+    "sir_green": 0,
+    "sir_azure": 0,
+    "miss_pink": 0
+  }
+}

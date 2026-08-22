@@ -1,0 +1,300 @@
+﻿Torus Coffee Company - Product Inventory and Data Model Design
+Last updated: 2026-05-29
+
+Purpose
+This document defines the product database, inventory model, pricing controls, product images, and product-feed fields needed for the Torus Coffee Company website.
+
+Core Principle
+Products are the heart of the website. The product database should be designed once and reused everywhere: shop pages, product pages, inventory dashboard, Square payment links, SEO, Google Merchant Center, Meta catalogs, Pinterest catalogs, email promos, and future wholesale sheets.
+
+Launch Product List
+Known ready-to-sell products:
+- Star-Dusted Banana Crunch 1.15oz
+- Apple Cinnamon Comets 1.15oz
+- Aurora Berryalis 2.6oz
+- Sour Aurora Bites 2.6oz
+- Solar Strawberries 0.5oz
+- Cosmic Bananas 1.55oz
+- Aurora Bites 2.6oz
+- Apple Zephyr Chips 1.15oz
+
+Additional products can be added as test products for inventory/admin testing.
+
+Product Statuses
+Recommended statuses:
+- Draft: Product exists in admin but not public.
+- Active: Product appears on public shop pages.
+- Hidden: Product does not appear publicly but data is preserved.
+- Sold Out: Product appears publicly but Buy button is disabled.
+- Archived: Product is retired and hidden from default admin views.
+
+Inventory Statuses
+Inventory can be calculated from count, but admin can override display status.
+
+Recommended inventory display logic:
+- Count > low stock threshold: In Stock
+- Count > 0 and <= low stock threshold: Low Stock
+- Count = 0: Sold Out
+- Manual override: Coming Soon, Seasonal, Hidden
+
+Do not fake scarcity.
+
+Recommended Product Fields
+
+Identity fields:
+- id: internal unique ID
+- sku: stable product SKU, such as TCC-AB-26
+- name: product name
+- slug: URL-friendly product name
+- status: draft/active/hidden/sold_out/archived
+- created_at
+- updated_at
+
+Public shopping fields:
+- short_description
+- full_description
+- flavor_notes
+- texture_notes
+- size_label, example 2.6oz
+- net_weight_oz
+- category_id
+- tags
+- badge, optional: New, Best Seller, Seasonal, Low Stock
+- featured: true/false
+- sort_order
+
+Pricing fields:
+- price_cents
+- sale_price_cents, optional
+- compare_at_price_cents, optional later
+- taxable: true/false
+- cost_cents, admin-only
+- margin, calculated later
+- price_updated_at
+
+Inventory fields:
+- quantity_on_hand
+- low_stock_threshold
+- track_inventory: true/false
+- allow_backorder: false by default
+- inventory_updated_at
+- inventory_notes, admin-only
+
+Checkout fields:
+- square_payment_link_url
+- square_item_id, later
+- square_variation_id, later
+- square_catalog_version, later
+
+Shipping fields:
+- shipping_weight_oz
+- package_weight_oz, optional
+- package_length_in, optional later
+- package_width_in, optional later
+- package_height_in, optional later
+- ships_us_only: true
+- requires_shipping: true
+
+Food/product information fields:
+- ingredients, optional but recommended
+- allergens, optional but recommended
+- storage_instructions
+- shelf_life
+- nutrition_label_url, optional later
+- batch_notes, admin-only later
+
+Image fields:
+- main_image_url
+- image_alt_text
+- gallery_images
+- social_share_image_url
+- square_image_url, optional later
+
+SEO/feed fields:
+- seo_title
+- seo_description
+- canonical_url, generated
+- google_product_category
+- brand, default Torus Coffee Company
+- condition, default new
+- gtin, optional if assigned
+- mpn, use SKU if no GTIN when appropriate
+- meta_custom_label_0, optional
+- meta_custom_label_1, optional
+- pinterest_category, optional later
+
+Admin fields:
+- admin_notes
+- supplier/source_notes, optional
+- production_notes, optional
+- last_reviewed_at
+- last_reviewed_by
+
+Category Model
+Recommended categories:
+- Freeze-Dried Candy
+- Freeze-Dried Fruit
+- Seasonal
+- Gift Boxes, later
+- Variety Packs, later
+- Experiments/Test Products, admin/testing only
+
+Category fields:
+- id
+- name
+- slug
+- description
+- sort_order
+- active
+- image_url, optional
+
+Product Image Design
+Master image principle:
+Keep original product photos locally in the Website/assets area or existing Drive folders. Upload web-optimized copies for the website.
+
+Recommended local asset structure later:
+Website/assets/product-photos/product-slug/originals
+Website/assets/product-photos/product-slug/web
+Website/assets/product-photos/product-slug/social
+
+Image requirements:
+- Main product image should be clear and inspectable.
+- Avoid dark, blurry, overly cropped images.
+- Use consistent product photo style where possible.
+- Create square/social-friendly versions for feeds.
+- Alt text should describe the actual product.
+
+AI image cleanup later:
+Allowed use cases:
+- Improve lighting/background
+- Clean up distractions
+- Create consistent background
+- Generate lifestyle-style supporting imagery
+
+Do not use AI images that misrepresent the actual product.
+
+Inventory System Design
+
+Phase 1 manual inventory:
+- Admin edits quantity_on_hand manually.
+- Public site shows In Stock / Low Stock / Sold Out.
+- Square purchases do not automatically subtract from website inventory yet.
+- Owner manually updates inventory after reviewing Square orders.
+
+Phase 2 inventory dashboard:
+- Product inventory table
+- Quick +/- adjustment buttons
+- Adjustment reason
+- Notes
+- Low-stock view
+- Export inventory CSV
+
+Future automated inventory:
+- Square webhook confirms paid order.
+- Server verifies Square webhook signature.
+- Server maps Square item/variation to internal product.
+- Inventory subtracts only after verified paid transaction.
+- Adjustment is logged.
+
+Inventory adjustment log fields:
+- id
+- product_id
+- previous_quantity
+- new_quantity
+- delta
+- reason: manual_adjustment, square_order, restock, correction, test, damaged, other
+- note
+- actor_user_id
+- source: admin, square_webhook, import
+- created_at
+
+Pricing System Design
+
+Phase 1:
+- Admin/manual data controls public prices.
+- Square payment link price must match website price.
+- Add admin warning/checklist: after changing website price, update Square payment link/item price too.
+
+Future:
+- Square Catalog API sync or single source of truth decision.
+- Price change log.
+- Sale pricing.
+- Bundle pricing.
+- Wholesale pricing hidden behind approved wholesale account, later.
+
+Price change log fields:
+- id
+- product_id
+- previous_price_cents
+- new_price_cents
+- actor_user_id
+- reason/note
+- created_at
+
+Product Feed Readiness
+
+Google Merchant Center required/important fields:
+- id
+- title
+- link
+- image_link
+- price
+- description
+- availability
+- condition
+- brand
+- gtin or mpn if applicable
+- shipping info via feed or Merchant Center settings
+
+Meta/Pinterest fields:
+- id
+- title
+- description
+- availability
+- condition
+- price
+- link
+- image_link
+- brand
+- category/custom labels/tags where useful
+
+Design requirement:
+Build product data so feed exports are generated, not manually recreated.
+
+Public Inventory Display Decision
+Recommended:
+- Do not show exact inventory counts by default.
+- Show In Stock, Low Stock, or Sold Out.
+- Exact counts can be admin-only.
+
+Exception:
+For test periods, exact inventory could be shown internally or on staging only.
+
+Test Products
+Use additional created products as admin/inventory test records.
+
+Test product rules:
+- Must be Draft or Hidden unless genuinely for sale.
+- Must not appear in product feeds.
+- Must not have live Square buy links unless intentional.
+- Use a clear tag like TEST or INTERNAL.
+
+Data Ownership
+The product database should be exportable.
+
+Required exports later:
+- Products CSV
+- Inventory CSV
+- Product images backup list
+- Product feed CSVs
+- Price history export, later
+
+Open Decisions
+1. Exact product category names.
+2. Whether exact stock counts ever show publicly.
+3. Whether product ingredients/allergens are ready for all products.
+4. Whether Google/Meta/Pinterest feed fields are filled at launch or phased in.
+5. Whether Square or Supabase is the long-term source of truth for product price/inventory.
+
+Recommended Decision
+Use Supabase as the Torus-owned product/content database and Square as checkout/payment source at first. Later, integrate Square APIs carefully and decide which system owns which data.

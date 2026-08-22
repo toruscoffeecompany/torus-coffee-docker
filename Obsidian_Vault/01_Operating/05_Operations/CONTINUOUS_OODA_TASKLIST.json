@@ -1,0 +1,2234 @@
+{
+  "generated_at": "2026-08-07T17:57:27.123394+00:00",
+  "total": 278,
+  "items": [
+    {
+      "priority": 0,
+      "list": "Sir Azure's Queue",
+      "id": "6a761b8fdc380ba7fe4f4783",
+      "name": "[TEST] Auto-sort verification: Sir Azure queue test",
+      "last_activity": "2026-08-07T17:57:27.123394+00:00",
+      "url": "https://trello.com/c/",
+      "status": "routed",
+      "recipient": "Sir Azure"
+    },
+    {
+      "priority": 0,
+      "list": "Sir Green's Queue",
+      "id": "6a761b8e4d865d7d9382518f",
+      "name": "[TEST] Auto-sort verification: Sir Green queue test",
+      "last_activity": "2026-08-07T17:57:27.123394+00:00",
+      "url": "https://trello.com/c/",
+      "status": "routed",
+      "recipient": "Sir Green"
+    },
+    {
+      "priority": 0,
+      "list": "Top 10 \u2014 Focus Fleet",
+      "id": "6a7499631c1a36043e1059e2",
+      "name": "[P1] Sir Green: add /api/security-docs route to dashboard_server.py",
+      "last_activity": "2026-08-07T17:04:28.694Z",
+      "url": "https://trello.com/c/pe4OAqGP/616-p1-sir-green-add-api-security-docs-route-to-dashboardserverpy"
+    },
+    {
+      "priority": 0,
+      "list": "Top 10 \u2014 Focus Fleet",
+      "id": "6a712fac7a8a9649b153e078",
+      "name": "Set revenue milestone: first paid tool upgrade",
+      "last_activity": "2026-08-07T17:04:50.539Z",
+      "url": "https://trello.com/c/U1Q2lavA/246-set-revenue-milestone-first-paid-tool-upgrade"
+    },
+    {
+      "priority": 0,
+      "list": "Top 10 \u2014 Focus Fleet",
+      "id": "6a73c1df44ddb17b0142b8c9",
+      "name": "\ud83d\udc33 Sir Azure: ComfyUI/Redis/MinIO/Postgres/Nginx on SQUIDSTATION",
+      "last_activity": "2026-08-07T17:04:57.885Z",
+      "url": "https://trello.com/c/LfZ5gtCL/429-%F0%9F%90%B3-sir-azure-comfyui-redis-minio-postgres-nginx-on-squidstation"
+    },
+    {
+      "priority": 0,
+      "list": "Top 10 \u2014 Focus Fleet",
+      "id": "6a752e3da134f0acb0d5e8d8",
+      "name": "Miss Pink: build hive-mind mesh automation bridge for SQUIDSTATION/PINKCADY/STEALTHATTACK",
+      "last_activity": "2026-08-07T17:05:05.719Z",
+      "url": "https://trello.com/c/PwiNlONq/687-miss-pink-build-hive-mind-mesh-automation-bridge-for-squidstation-pinkcady-stealthattack"
+    },
+    {
+      "priority": 0,
+      "list": "Top 10 \u2014 Focus Fleet",
+      "id": "6a752e3eff4d9d4cca8945a1",
+      "name": "Fleet: deploy fleet_comms_watcher on SQUIDSTATION/PINKCADY/STEALTHATTACK",
+      "last_activity": "2026-08-07T17:05:13.588Z",
+      "url": "https://trello.com/c/ignnaoSX/688-fleet-deploy-fleetcommswatcher-on-squidstation-pinkcady-stealthattack"
+    },
+    {
+      "priority": 0,
+      "list": "Top 10 \u2014 Focus Fleet",
+      "id": "6a712bc79bc50687e977187a",
+      "name": "Deploy website to free hosting",
+      "last_activity": "2026-08-07T17:05:21.018Z",
+      "url": "https://trello.com/c/CFPorXQp/230-deploy-website-to-free-hosting"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a7499661942762c5b6e744d",
+      "name": "[P1] Miss Pink: commit orders.json and automation_status changes",
+      "last_activity": "2026-08-07T12:59:21.452Z",
+      "url": "https://trello.com/c/Gzyo9fMe/620-p1-miss-pink-commit-ordersjson-and-automationstatus-changes"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a715f7078eae68a030a1b2b",
+      "name": "Build Torus Discord bot designs",
+      "last_activity": "2026-08-07T12:59:22.963Z",
+      "url": "https://trello.com/c/h41tG4fU/328-build-torus-discord-bot-designs"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a715f7095b8d80e80b99d94",
+      "name": "Build role-based automation scripts",
+      "last_activity": "2026-08-07T12:59:23.631Z",
+      "url": "https://trello.com/c/gQYbW7sa/329-build-role-based-automation-scripts"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a70da7b4daf4656cdb03d72",
+      "name": "Daily Ops Automation - Scripts Created",
+      "last_activity": "2026-08-07T12:59:24.286Z",
+      "url": "https://trello.com/c/anhlC5nJ/81-daily-ops-automation-scripts-created"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a70f8cc2eb38461c69795b3",
+      "name": "Build zapier_automation.py",
+      "last_activity": "2026-08-07T12:59:25.634Z",
+      "url": "https://trello.com/c/CSVLzdBI/123-build-zapierautomationpy"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a70f8cdd5c6d45e6814ab29",
+      "name": "Build buffer_automation.py",
+      "last_activity": "2026-08-07T12:59:26.337Z",
+      "url": "https://trello.com/c/AopgY5Ug/125-build-bufferautomationpy"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a71088d9ef81a4a480dee43",
+      "name": "Create Buffer setup guide + buffer_automation.py",
+      "last_activity": "2026-08-07T12:59:27.767Z",
+      "url": "https://trello.com/c/41X3MkfX/148-create-buffer-setup-guide-bufferautomationpy"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a71088dd52063f78af9d2d9",
+      "name": "Create Zapier setup guide + zapier_automation.py",
+      "last_activity": "2026-08-07T12:59:28.868Z",
+      "url": "https://trello.com/c/8GUz0huk/149-create-zapier-setup-guide-zapierautomationpy"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a71088fa7caec75b7864bf8",
+      "name": "Verify all automation scripts run end-to-end",
+      "last_activity": "2026-08-07T12:59:29.618Z",
+      "url": "https://trello.com/c/Xfpz9jYy/152-verify-all-automation-scripts-run-end-to-end"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a713b0e855dd7bf68f6045b",
+      "name": "Website build verified: 10 pages",
+      "last_activity": "2026-08-07T12:59:30.457Z",
+      "url": "https://trello.com/c/Bdast938/271-website-build-verified-10-pages"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a714fb860bbdbb20853d4a4",
+      "name": "Build order management workflow",
+      "last_activity": "2026-08-07T12:59:32.618Z",
+      "url": "https://trello.com/c/NmaLIqCw/308-build-order-management-workflow"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a714fb82b64998c93bdbad4",
+      "name": "Build inventory \u2192 website sync",
+      "last_activity": "2026-08-07T12:59:33.294Z",
+      "url": "https://trello.com/c/0OYJ71KS/309-build-inventory-%E2%86%92-website-sync"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a7185ef9104a8818420b19a",
+      "name": "TORUS_DOCKER_CONTAINER_REQUIREMENTS.md created",
+      "last_activity": "2026-08-07T12:59:35.421Z",
+      "url": "https://trello.com/c/fARLci2q/363-torusdockercontainerrequirementsmd-created"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a71242e3f23db4fb69d7c9b",
+      "name": "Wire HubSpot Service Key into CRM automation",
+      "last_activity": "2026-08-07T12:59:37.443Z",
+      "url": "https://trello.com/c/xeYvkxKt/193-wire-hubspot-service-key-into-crm-automation"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a71242f938a65812243a9a9",
+      "name": "Build HubSpot import script for vault contacts",
+      "last_activity": "2026-08-07T12:59:38.089Z",
+      "url": "https://trello.com/c/Ns62DVAm/196-build-hubspot-import-script-for-vault-contacts"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a71243051feed250074da5b",
+      "name": "Build unified automation orchestrator script",
+      "last_activity": "2026-08-07T12:59:38.731Z",
+      "url": "https://trello.com/c/6m4qceN4/197-build-unified-automation-orchestrator-script"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a7124317a3d7f8972dbc227",
+      "name": "Build logging/reporting system for all automations",
+      "last_activity": "2026-08-07T12:59:39.388Z",
+      "url": "https://trello.com/c/rvsAW44W/199-build-logging-reporting-system-for-all-automations"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a712433d986e5476af125d7",
+      "name": "Bug hunt social_media_automation.py",
+      "last_activity": "2026-08-07T12:59:40.075Z",
+      "url": "https://trello.com/c/JKU0Idmn/204-bug-hunt-socialmediaautomationpy"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a7124349aa52ada3776768e",
+      "name": "Bug hunt zapier_automation.py",
+      "last_activity": "2026-08-07T12:59:40.710Z",
+      "url": "https://trello.com/c/1mVpskg0/205-bug-hunt-zapierautomationpy"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a71243471edb3eff4f49bc3",
+      "name": "Bug hunt buffer_automation.py",
+      "last_activity": "2026-08-07T12:59:41.423Z",
+      "url": "https://trello.com/c/NbAeFdFE/206-bug-hunt-bufferautomationpy"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a7124361db42f66b1aadd83",
+      "name": "Bug hunt daily_ops_automation.py",
+      "last_activity": "2026-08-07T12:59:42.151Z",
+      "url": "https://trello.com/c/uRUXLxRz/208-bug-hunt-dailyopsautomationpy"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a7124373711a67b1299cbcb",
+      "name": "Bug hunt monthly_review_automation.py",
+      "last_activity": "2026-08-07T12:59:43.813Z",
+      "url": "https://trello.com/c/Jzi2YqH9/210-bug-hunt-monthlyreviewautomationpy"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a71243896c16a6755d5e168",
+      "name": "Update Obsidian_Automation_Guide.md with verified config",
+      "last_activity": "2026-08-07T12:59:45.150Z",
+      "url": "https://trello.com/c/Bgw4IvR6/212-update-obsidianautomationguidemd-with-verified-config"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a7124389e62f6bd1c35b508",
+      "name": "Create Automation_Runbook.md with troubleshooting",
+      "last_activity": "2026-08-07T12:59:45.849Z",
+      "url": "https://trello.com/c/ZRMIuyZG/213-create-automationrunbookmd-with-troubleshooting"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a712439ac1b186230233da2",
+      "name": "Commit all build changes to Torus_Ops",
+      "last_activity": "2026-08-07T12:59:46.547Z",
+      "url": "https://trello.com/c/iCiyR1an/214-commit-all-build-changes-to-torusops"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a712bc34298c12f247a9079",
+      "name": "Build vault sync status widget",
+      "last_activity": "2026-08-07T12:59:47.238Z",
+      "url": "https://trello.com/c/ugOAqeJf/226-build-vault-sync-status-widget"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a712bc4da97a343ac82c9f2",
+      "name": "Build Trello board widget",
+      "last_activity": "2026-08-07T12:59:47.921Z",
+      "url": "https://trello.com/c/8Jg9q031/227-build-trello-board-widget"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a713b0fb03e554f1e2090e7",
+      "name": "Connect real payment/shop",
+      "last_activity": "2026-08-07T12:59:48.697Z",
+      "url": "https://trello.com/c/bH0yXffV/273-connect-real-payment-shop"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a714fbaac9805c2fba75613",
+      "name": "Choose payment processor",
+      "last_activity": "2026-08-07T12:59:49.450Z",
+      "url": "https://trello.com/c/XrfS8E3Q/313-choose-payment-processor"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a715c027332b849a456c499",
+      "name": "Fix Next.js build error",
+      "last_activity": "2026-08-07T12:59:50.683Z",
+      "url": "https://trello.com/c/Ywrdy1FZ/321-fix-nextjs-build-error"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a715c02adc83d498b8b907c",
+      "name": "Create Zapier order automation Zap",
+      "last_activity": "2026-08-07T12:59:51.502Z",
+      "url": "https://trello.com/c/yLNWA6Bv/322-create-zapier-order-automation-zap"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a715c028ff8814d56f7d396",
+      "name": "Test inventory sync end-to-end",
+      "last_activity": "2026-08-07T12:59:52.509Z",
+      "url": "https://trello.com/c/aD9n1BwH/323-test-inventory-sync-end-to-end"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a715f72854c6771d39e7068",
+      "name": "Build Torus Discord bots and activate",
+      "last_activity": "2026-08-07T12:59:53.350Z",
+      "url": "https://trello.com/c/uctWnH2d/333-build-torus-discord-bots-and-activate"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a715f7309b04b813d36a8f0",
+      "name": "Finalize vault organization and automation",
+      "last_activity": "2026-08-07T12:59:54.176Z",
+      "url": "https://trello.com/c/BvTXqh8I/334-finalize-vault-organization-and-automation"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a73e04b89d12772829328fa",
+      "name": "\ud83d\udc33 [P1] Docker Desktop virtualization mode",
+      "last_activity": "2026-08-07T12:59:55.953Z",
+      "url": "https://trello.com/c/KIfaApSM/467-%F0%9F%90%B3-p1-docker-desktop-virtualization-mode"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a741fc8e947ae894822232b",
+      "name": "\u2705 FIXED: Multi-stage Dockerfiles applied",
+      "last_activity": "2026-08-07T12:59:57.516Z",
+      "url": "https://trello.com/c/qiU0QoAF/505-%E2%9C%85-fixed-multi-stage-dockerfiles-applied"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a742144d5fed79046f6772f",
+      "name": "[P3] Max out Docker automation: webhooks, logs, volumes, Kubernetes",
+      "last_activity": "2026-08-07T12:59:59.253Z",
+      "url": "https://trello.com/c/VkLK1x7M/523-p3-max-out-docker-automation-webhooks-logs-volumes-kubernetes"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a7425288e8aadeb76919bde",
+      "name": "[P1] Reinstall missing Obsidian plugins: periodic-notes, table-editor-obsidian, obsidian-livesync",
+      "last_activity": "2026-08-07T13:00:00.142Z",
+      "url": "https://trello.com/c/9fN0NZBN/544-p1-reinstall-missing-obsidian-plugins-periodic-notes-table-editor-obsidian-obsidian-livesync"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a74252ab0dedd42382fd7dc",
+      "name": "[P2] Run functional tests on automation scripts",
+      "last_activity": "2026-08-07T13:00:00.870Z",
+      "url": "https://trello.com/c/Wng10PqN/548-p2-run-functional-tests-on-automation-scripts"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a74b2324042ade05400ed4d",
+      "name": "\u2705 FIXED: Redis cross-protocol attacks stopped",
+      "last_activity": "2026-08-07T13:00:01.723Z",
+      "url": "https://trello.com/c/stV2VPxW/630-%E2%9C%85-fixed-redis-cross-protocol-attacks-stopped"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a758aec916bb3fc25b38eff",
+      "name": "P1: Sir Azure Queue Mapping - define offline crew automation logic",
+      "last_activity": "2026-08-07T13:00:08.174Z",
+      "url": "https://trello.com/c/Pd64FE0A/2471-p1-sir-azure-queue-mapping-define-offline-crew-automation-logic"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a71242c76ca67e9e4de6505",
+      "name": "Wire Zapier webhook into zapier_automation.py",
+      "last_activity": "2026-08-07T16:55:28.085Z",
+      "url": "https://trello.com/c/tIUO8g6o/189-wire-zapier-webhook-into-zapierautomationpy"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a737f7e79118dbc2544542a",
+      "name": "\ud83d\udce1 Add Cosmos Library update watcher without cloning Squidstation vault",
+      "last_activity": "2026-08-07T16:55:52.666Z",
+      "url": "https://trello.com/c/GUUXdkd0/376-%F0%9F%93%A1-add-cosmos-library-update-watcher-without-cloning-squidstation-vault"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a71b462b21cd08f9f3f6eb9",
+      "name": "Master OODA Execution Tasklist \u2014 P0-P3",
+      "last_activity": "2026-08-07T16:56:18.013Z",
+      "url": "https://trello.com/c/sX5SLTYa/365-master-ooda-execution-tasklist-p0-p3"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a758914570bb5e64769122a",
+      "name": "\ud83d\udce8 [INBOX] STATUS UPDATE DASHBOARD 8080 FIXED PLUGIN AUDIT PENDING AND DISCORD TOKEN BLOCKER 20260806T024500Z sirgreen.msg",
+      "last_activity": "2026-08-07T16:56:42.462Z",
+      "url": "https://trello.com/c/ZtoJ8YLs/2340-%F0%9F%93%A8-inbox-status-update-dashboard-8080-fixed-plugin-audit-pending-and-discord-token-blocker-20260806t024500z-sirgreenmsg"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a758916afae5cf53ccccf33",
+      "name": "\ud83d\udce8 [INBOX] miss gordon docker blockers sirgreen 20260806",
+      "last_activity": "2026-08-07T16:57:07.883Z",
+      "url": "https://trello.com/c/DBt9Lo9F/2342-%F0%9F%93%A8-inbox-miss-gordon-docker-blockers-sirgreen-20260806"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a7589189ca085ca8dce78a8",
+      "name": "\ud83d\udce8 [INBOX] trello api 401 invalid key blocker sirazure 20260806",
+      "last_activity": "2026-08-07T16:57:33.448Z",
+      "url": "https://trello.com/c/wBjiNiQX/2343-%F0%9F%93%A8-inbox-trello-api-401-invalid-key-blocker-sirazure-20260806"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a758919687b61bbb3db9255",
+      "name": "\ud83d\udce8 [INBOX] trello api 401 invalid key blocker sirgreen 20260806",
+      "last_activity": "2026-08-07T16:57:57.990Z",
+      "url": "https://trello.com/c/eki12c7i/2344-%F0%9F%93%A8-inbox-trello-api-401-invalid-key-blocker-sirgreen-20260806"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a75891fe2e1acad47a8101d",
+      "name": "\ud83d\udce8 [INBOX] sirgreen docker deep dive urgent sirgreen 20260806",
+      "last_activity": "2026-08-07T16:58:22.759Z",
+      "url": "https://trello.com/c/da6AVCGc/2349-%F0%9F%93%A8-inbox-sirgreen-docker-deep-dive-urgent-sirgreen-20260806"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a7589217259b91d11ae66f1",
+      "name": "\ud83d\udce8 [INBOX] sirazure re docker urgent findings sirazure 20260806",
+      "last_activity": "2026-08-07T16:58:54.276Z",
+      "url": "https://trello.com/c/QOsSORTv/2350-%F0%9F%93%A8-inbox-sirazure-re-docker-urgent-findings-sirazure-20260806"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a713b0f7fec1de4568f6906",
+      "name": "DEPLOY.md created",
+      "last_activity": "2026-08-07T16:59:19.415Z",
+      "url": "https://trello.com/c/EFX0QWc8/272-deploymd-created"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a73e04f545d92a2f50c5f3f",
+      "name": "\ud83d\udd01 [P2] Self-healing automation daemon",
+      "last_activity": "2026-08-07T16:59:45.210Z",
+      "url": "https://trello.com/c/JkfdFWFF/472-%F0%9F%94%81-p2-self-healing-automation-daemon"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a742142c4eea9f50d2c583b",
+      "name": "[P2] DEPLOYMENT_RUNBOOK.md",
+      "last_activity": "2026-08-07T17:00:11.377Z",
+      "url": "https://trello.com/c/hBeRxze6/519-p2-deploymentrunbookmd"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a737f7c8714ca5b28fb892e",
+      "name": "\ud83e\udded Wire Miss Pink persona attributes into vault docs/automation",
+      "last_activity": "2026-08-07T17:00:38.577Z",
+      "url": "https://trello.com/c/AfubZtgL/372-%F0%9F%A7%AD-wire-miss-pink-persona-attributes-into-vault-docs-automation"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a70fd5df386c9b9c9509813",
+      "name": "Research free automation tools (Zapier/Make/n8n)",
+      "last_activity": "2026-08-07T17:01:07.366Z",
+      "url": "https://trello.com/c/DdwrAOow/132-research-free-automation-tools-zapier-make-n8n"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a715c01e0c5b1f394020f9a",
+      "name": "Choose payment processor alternative",
+      "last_activity": "2026-08-07T17:01:40.844Z",
+      "url": "https://trello.com/c/UVCxEnSv/319-choose-payment-processor-alternative"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a70da7ce5231e90cb0dd18e",
+      "name": "Trello Sync Automation",
+      "last_activity": "2026-08-07T17:02:08.969Z",
+      "url": "https://trello.com/c/Qbn7LYYi/82-trello-sync-automation"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a714260e16bb14c1e238e8e",
+      "name": "Updated daily_ops_automation.py",
+      "last_activity": "2026-08-07T17:02:36.317Z",
+      "url": "https://trello.com/c/qJ95MprD/289-updated-dailyopsautomationpy"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a7185ee9623f3429b2bbbae",
+      "name": "SIR_GREEN_DEPLOYMENT_PROMPT created",
+      "last_activity": "2026-08-07T17:03:02.742Z",
+      "url": "https://trello.com/c/1VPr4R93/362-sirgreendeploymentprompt-created"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a7124371696c8171433b8fe",
+      "name": "Bug hunt weekly_review_automation.py",
+      "last_activity": "2026-08-07T17:03:28.331Z",
+      "url": "https://trello.com/c/SAgUh4hR/209-bug-hunt-weeklyreviewautomationpy"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a712438ca3780f35985256d",
+      "name": "Update 00_Vault_Home.md with build status",
+      "last_activity": "2026-08-07T17:03:54.898Z",
+      "url": "https://trello.com/c/pjQlI4zt/211-update-00vaulthomemd-with-build-status"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a7157f290ff88a1b31ae1c8",
+      "name": "US Bank account automation \u2014 CSV \u2192 Wave \u2192 categorization",
+      "last_activity": "2026-08-07T17:04:21.374Z",
+      "url": "https://trello.com/c/hRjfHPeG/315-us-bank-account-automation-csv-%E2%86%92-wave-%E2%86%92-categorization"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a715c0370ee36715d579861",
+      "name": "Full automation audit complete",
+      "last_activity": "2026-08-07T17:05:46.036Z",
+      "url": "https://trello.com/c/OWjqRJ5t/325-full-automation-audit-complete"
+    },
+    {
+      "priority": 2,
+      "list": "P1 - High / Doing Now",
+      "id": "6a71242b3f23db4fb69d6f7c",
+      "name": "Wire Buffer API into buffer_automation.py",
+      "last_activity": "2026-08-07T17:06:10.914Z",
+      "url": "https://trello.com/c/n6wUWonY/185-wire-buffer-api-into-bufferautomationpy"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7394042cde48d50291cb01",
+      "name": "\ud83d\udccb Configure VOID team tiers: void-crew, void-ops, void-captain",
+      "last_activity": "2026-08-07T13:00:08.922Z",
+      "url": "https://trello.com/c/4ocXW6Hb/391-%F0%9F%93%8B-configure-void-team-tiers-void-crew-void-ops-void-captain"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a738f523974a0974bb285b1",
+      "name": "\ud83d\udd10 Store GitHub PAT in vault secrets",
+      "last_activity": "2026-08-07T13:00:09.715Z",
+      "url": "https://trello.com/c/V4kTUaPB/386-%F0%9F%94%90-store-github-pat-in-vault-secrets"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a738f5011a1d1aaae2ebe69",
+      "name": "\ud83e\udd16 Confirm Discord bot scripts to keep live",
+      "last_activity": "2026-08-07T13:00:10.644Z",
+      "url": "https://trello.com/c/d9nKwxFa/383-%F0%9F%A4%96-confirm-discord-bot-scripts-to-keep-live"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a737f7e62239d8d15fe9507",
+      "name": "\ud83e\udd16 Finish Discord bot token + invite to Torus Coffee server",
+      "last_activity": "2026-08-07T13:00:11.817Z",
+      "url": "https://trello.com/c/bz0eHU2m/375-%F0%9F%A4%96-finish-discord-bot-token-invite-to-torus-coffee-server"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a74c9687092a2d64af38d45",
+      "name": "\ud83d\udcde Research: Free business phone/answering service setup",
+      "last_activity": "2026-08-07T13:00:12.814Z",
+      "url": "https://trello.com/c/WGrmMkyY/650-%F0%9F%93%9E-research-free-business-phone-answering-service-setup"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70a351c98f4292654148bc",
+      "name": "Review Obsidian Plugins",
+      "last_activity": "2026-08-07T13:00:13.764Z",
+      "url": "https://trello.com/c/x2rwFxCx/21-review-obsidian-plugins"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70a35373ba21fdb97ed1a9",
+      "name": "Setup Google Workspace",
+      "last_activity": "2026-08-07T13:00:14.788Z",
+      "url": "https://trello.com/c/yRaMRKaI/25-setup-google-workspace"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70a34ef5f5861a589dbc13",
+      "name": "Setup GitHub Repos",
+      "last_activity": "2026-08-07T13:00:15.758Z",
+      "url": "https://trello.com/c/7hQrMXgK/17-setup-github-repos"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70a34cc24aac226c72a44e",
+      "name": "Setup Social Media Accounts",
+      "last_activity": "2026-08-07T13:00:16.670Z",
+      "url": "https://trello.com/c/iesi9UEz/12-setup-social-media-accounts"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70b75c8eb09699eac6d51e",
+      "name": "Link social media accounts to vault",
+      "last_activity": "2026-08-07T13:00:17.350Z",
+      "url": "https://trello.com/c/L02B91Hf/27-link-social-media-accounts-to-vault"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70c2e98ca3bfb0ad902c5b",
+      "name": "Link social media accounts \u2014 Facebook + Pinterest handles",
+      "last_activity": "2026-08-07T13:00:18.512Z",
+      "url": "https://trello.com/c/QDJRVww6/31-link-social-media-accounts-facebook-pinterest-handles"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70c2eb1cf10e9c2a502c4a",
+      "name": "Amazon GTIN exemption \u2014 prepare docs only",
+      "last_activity": "2026-08-07T13:00:19.678Z",
+      "url": "https://trello.com/c/3TqbbPBb/35-amazon-gtin-exemption-prepare-docs-only"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a715f6fe09ed0bd37e57aa1",
+      "name": "Create Torus crew personas: Accountant, Lawyer, CPA, Strategy, Ops, Marketing, Inventory",
+      "last_activity": "2026-08-07T13:00:20.584Z",
+      "url": "https://trello.com/c/yfISPHlR/327-create-torus-crew-personas-accountant-lawyer-cpa-strategy-ops-marketing-inventory"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70da7a9863bd022c98fb5c",
+      "name": "Website Content - About Page",
+      "last_activity": "2026-08-07T13:00:21.418Z",
+      "url": "https://trello.com/c/PgxCTSkR/77-website-content-about-page"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70da7a476d98a030620c9c",
+      "name": "Website Content - Product Descriptions",
+      "last_activity": "2026-08-07T13:00:22.199Z",
+      "url": "https://trello.com/c/vA2P0AvW/78-website-content-product-descriptions"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70da7bc6d7955609b51884",
+      "name": "Website Content - Legal Pages",
+      "last_activity": "2026-08-07T13:00:23.147Z",
+      "url": "https://trello.com/c/VaPsLxjt/79-website-content-legal-pages"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70da7e81e778646cc01051",
+      "name": "Publish website content",
+      "last_activity": "2026-08-07T13:00:24.008Z",
+      "url": "https://trello.com/c/d4yB9Hjb/87-publish-website-content"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70da7fcd2379a3f1dc482a",
+      "name": "Setup daily ops Task Scheduler jobs",
+      "last_activity": "2026-08-07T13:00:24.835Z",
+      "url": "https://trello.com/c/J02ec5bE/88-setup-daily-ops-task-scheduler-jobs"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70dc37fcf5d326ef051b4a",
+      "name": "Fall 2026 Venue Research",
+      "last_activity": "2026-08-07T13:00:25.857Z",
+      "url": "https://trello.com/c/O0JWsLJh/90-fall-2026-venue-research"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70dc38b1d094fb7520c275",
+      "name": "Winter 2026 Venue Research",
+      "last_activity": "2026-08-07T13:00:26.826Z",
+      "url": "https://trello.com/c/IONkZMAj/91-winter-2026-venue-research"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70f8cb50d5e5c87c22ff3c",
+      "name": "Install Obsidian Git plugin",
+      "last_activity": "2026-08-07T13:00:28.567Z",
+      "url": "https://trello.com/c/A8J9x0ib/120-install-obsidian-git-plugin"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70f8cb64512854cb6cca1e",
+      "name": "Enable obsidian-git in community-plugins.json",
+      "last_activity": "2026-08-07T13:00:30.531Z",
+      "url": "https://trello.com/c/67yQstgf/121-enable-obsidian-git-in-community-pluginsjson"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70f8cd15b7431f30fe4d61",
+      "name": "Create Buffer setup guide",
+      "last_activity": "2026-08-07T13:00:31.540Z",
+      "url": "https://trello.com/c/gm5VWt8U/124-create-buffer-setup-guide"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70dc3b050af2fa80c256aa",
+      "name": "Link social media accounts",
+      "last_activity": "2026-08-07T13:00:33.178Z",
+      "url": "https://trello.com/c/3Iy26CED/98-link-social-media-accounts"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70dc3ce8d914e66a89ebcc",
+      "name": "Create Supplier Agreement Template",
+      "last_activity": "2026-08-07T13:00:34.338Z",
+      "url": "https://trello.com/c/Z4tDgiVi/100-create-supplier-agreement-template"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70fd5e2f877b2b08daa4a3",
+      "name": "Research free social media tools (Buffer/Metricool)",
+      "last_activity": "2026-08-07T13:00:35.630Z",
+      "url": "https://trello.com/c/DxBAJWgo/133-research-free-social-media-tools-buffer-metricool"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70fd5e79c07a7a4176ed47",
+      "name": "Research free CRM options (HubSpot/Zoho/Bitrix24)",
+      "last_activity": "2026-08-07T13:00:36.396Z",
+      "url": "https://trello.com/c/gZtlR2Jw/134-research-free-crm-options-hubspot-zoho-bitrix24"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a71088e80a5897312085f8d",
+      "name": "Create HubSpot CRM setup guide",
+      "last_activity": "2026-08-07T13:00:37.090Z",
+      "url": "https://trello.com/c/LlewOtRP/150-create-hubspot-crm-setup-guide"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a71088e99bafbc680c241af",
+      "name": "Create Free_Tools_Reference.md with 2026 research",
+      "last_activity": "2026-08-07T13:00:38.116Z",
+      "url": "https://trello.com/c/y1W5ZfBG/151-create-freetoolsreferencemd-with-2026-research"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a71398e99bafbc680093df1",
+      "name": "Hermes backend config updated",
+      "last_activity": "2026-08-07T13:00:39.164Z",
+      "url": "https://trello.com/c/7lWtAPwe/257-hermes-backend-config-updated"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70f3aaa5e9659c8bb799e1",
+      "name": "Post consistent content across platforms",
+      "last_activity": "2026-08-07T13:00:41.856Z",
+      "url": "https://trello.com/c/fp49Eslf/119-post-consistent-content-across-platforms"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70f8ce24dcd595547c33c6",
+      "name": "Setup Zapier account",
+      "last_activity": "2026-08-07T13:00:43.630Z",
+      "url": "https://trello.com/c/PTT7Ao6N/126-setup-zapier-account"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70f8cef53e66596583fb68",
+      "name": "Setup Buffer account",
+      "last_activity": "2026-08-07T13:00:44.528Z",
+      "url": "https://trello.com/c/44sH5pnQ/127-setup-buffer-account"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70fd6168484eac3e8f306a",
+      "name": "Setup Meta Business Suite",
+      "last_activity": "2026-08-07T13:00:45.314Z",
+      "url": "https://trello.com/c/cUKguygQ/140-setup-meta-business-suite"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a70fd6215d81dccfafc6721",
+      "name": "Setup Cloudflare DNS/CDN",
+      "last_activity": "2026-08-07T13:00:46.353Z",
+      "url": "https://trello.com/c/a1Sx17SZ/142-setup-cloudflare-dns-cdn"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7108900c37debad5ba1fdf",
+      "name": "Create first Zap: Trello \u2192 Webhook",
+      "last_activity": "2026-08-07T13:00:47.943Z",
+      "url": "https://trello.com/c/DjCdRgKB/156-create-first-zap-trello-%E2%86%92-webhook"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a717fb91a29e733c5c4a403",
+      "name": "torus-inventory image built",
+      "last_activity": "2026-08-07T13:00:49.125Z",
+      "url": "https://trello.com/c/wpuPLVcC/354-torus-inventory-image-built"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a717fb98b37f9b171200f1c",
+      "name": "SIR_PINK setup script created",
+      "last_activity": "2026-08-07T13:00:50.497Z",
+      "url": "https://trello.com/c/5q9NeMFi/356-sirpink-setup-script-created"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7124348c36b1c39bf1a721",
+      "name": "Bug hunt inventory_tracker.py",
+      "last_activity": "2026-08-07T13:00:51.404Z",
+      "url": "https://trello.com/c/UtfE725W/207-bug-hunt-inventorytrackerpy"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7124397d476d7f408e40f6",
+      "name": "Push all changes to GitHub",
+      "last_activity": "2026-08-07T13:00:52.242Z",
+      "url": "https://trello.com/c/4SfnNUA5/215-push-all-changes-to-github"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a71243a6f880a7967d43e54",
+      "name": "End-to-end verification: Buffer + Zapier + HubSpot + Trello",
+      "last_activity": "2026-08-07T13:00:53.266Z",
+      "url": "https://trello.com/c/91ZMUMJf/216-end-to-end-verification-buffer-zapier-hubspot-trello"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a712bc87100f06c531e53cd",
+      "name": "Connect website to Obsidian vault data",
+      "last_activity": "2026-08-07T13:00:54.305Z",
+      "url": "https://trello.com/c/6D9y6Uda/231-connect-website-to-obsidian-vault-data"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a712fa97713201aff8593c9",
+      "name": "Track YouTube ad revenue in Revenue_Stream_Plan.md",
+      "last_activity": "2026-08-07T13:00:55.184Z",
+      "url": "https://trello.com/c/VFl0tnum/240-track-youtube-ad-revenue-in-revenuestreamplanmd"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a73bed4108ae9ed24d66457",
+      "name": "\ud83e\udd16 Discord bot token + Torus Coffee server invite",
+      "last_activity": "2026-08-07T13:00:55.926Z",
+      "url": "https://trello.com/c/cMV8dSYt/428-%F0%9F%A4%96-discord-bot-token-torus-coffee-server-invite"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a73ddaf54ccdd15e1367c37",
+      "name": "\ud83d\udda5\ufe0f PINKCADY virtualization setup: enable AMD-V/SVM in BIOS",
+      "last_activity": "2026-08-07T13:00:56.714Z",
+      "url": "https://trello.com/c/Ehi3FROk/462-%F0%9F%96%A5%EF%B8%8F-pinkcady-virtualization-setup-enable-amd-v-svm-in-bios"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a73c8148c4efaab74da01c4",
+      "name": "\ud83e\uddea #260 End-to-end Discord bot tests + relay fixes",
+      "last_activity": "2026-08-07T13:00:57.846Z",
+      "url": "https://trello.com/c/02EcQzmu/434-%F0%9F%A7%AA-260-end-to-end-discord-bot-tests-relay-fixes"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a73e0bdfa6e0cdc6b681f29",
+      "name": "\ud83d\udce8 RE PINKCADY VIRTUALIZATION SETUP PLAN 20260806T002500Z misspink.msg",
+      "last_activity": "2026-08-07T13:00:59.043Z",
+      "url": "https://trello.com/c/L8qR44Iq/473-%F0%9F%93%A8-re-pinkcady-virtualization-setup-plan-20260806t002500z-misspinkmsg"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a73e0c0df49153b5f295bf5",
+      "name": "\ud83d\udce8 RE PINKCADY VIRTUALIZATION SETUP PLAN 20260806T010000Z captain.msg",
+      "last_activity": "2026-08-07T13:01:00.049Z",
+      "url": "https://trello.com/c/d2WCmV0b/475-%F0%9F%93%A8-re-pinkcady-virtualization-setup-plan-20260806t010000z-captainmsg"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a74252bd046248f139d03ec",
+      "name": "[P3] Obsidian vault audit report + remediation",
+      "last_activity": "2026-08-07T13:01:00.807Z",
+      "url": "https://trello.com/c/lbnQ8Acz/552-p3-obsidian-vault-audit-report-remediation"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75890de46716eda3d00dfe",
+      "name": "\ud83d\udccb Build OODA tasklist from Trello + Obsidian inbox",
+      "last_activity": "2026-08-07T13:01:01.699Z",
+      "url": "https://trello.com/c/F90p7inB/2335-%F0%9F%93%8B-build-ooda-tasklist-from-trello-obsidian-inbox"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75891568d328891b983592",
+      "name": "\ud83d\udce8 [INBOX] FLEET VERIFIED LOCALLY SQUIDSTATION PUSH OR SWARM NEEDED 20260806T041800Z misspink.msg",
+      "last_activity": "2026-08-07T13:01:02.463Z",
+      "url": "https://trello.com/c/ALblfUlP/2341-%F0%9F%93%A8-inbox-fleet-verified-locally-squidstation-push-or-swarm-needed-20260806t041800z-misspinkmsg"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75892249dac6611a2c7408",
+      "name": "\ud83d\udce8 [INBOX] SQUIDSTATION DEPLOY STATUS 20260806 sirazure.msg",
+      "last_activity": "2026-08-07T13:01:03.798Z",
+      "url": "https://trello.com/c/xPYhIdhd/2351-%F0%9F%93%A8-inbox-squidstation-deploy-status-20260806-sirazuremsg"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758924a3655c36e6f0f736",
+      "name": "\ud83d\udce8 [INBOX] RE UNIFIED DASHBOARD DECISION ONE DASHBOARD ONLY 20260806T012800Z sirgreen.msg",
+      "last_activity": "2026-08-07T13:01:04.913Z",
+      "url": "https://trello.com/c/RR8wNq9D/2353-%F0%9F%93%A8-inbox-re-unified-dashboard-decision-one-dashboard-only-20260806t012800z-sirgreenmsg"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758926d9b6f4a300fec792",
+      "name": "\ud83d\udce8 [INBOX] REMINDER DOCKER DESKTOP TAILSCALE AND DASHBOARD EVIDENCE STILL NEEDED 20260806T042700Z sirgreen.msg",
+      "last_activity": "2026-08-07T13:01:05.648Z",
+      "url": "https://trello.com/c/umou3rLC/2354-%F0%9F%93%A8-inbox-reminder-docker-desktop-tailscale-and-dashboard-evidence-still-needed-20260806t042700z-sirgreenmsg"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589273e0a40eec984f1cf",
+      "name": "\ud83d\udce8 [INBOX] SIR GREEN BOT AND WATCHER VERIFIED END TO END BRIDGE LIVE 20260806T041200Z sirgreen.msg",
+      "last_activity": "2026-08-07T13:01:06.764Z",
+      "url": "https://trello.com/c/cTZFHjnR/2355-%F0%9F%93%A8-inbox-sir-green-bot-and-watcher-verified-end-to-end-bridge-live-20260806t041200z-sirgreenmsg"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75892804fa658f4a1d29fa",
+      "name": "\ud83d\udce8 [INBOX] STATUS UPDATE MISS PINK BUILDING TORUS DOCKER CONTAINERS DASHBOARD 8089 AND YOUR ACTIONS 20260806T042400Z sirgreen.msg",
+      "last_activity": "2026-08-07T13:01:07.872Z",
+      "url": "https://trello.com/c/otBWGqVh/2356-%F0%9F%93%A8-inbox-status-update-miss-pink-building-torus-docker-containers-dashboard-8089-and-your-actions-20260806t042400z-sirgreenmsg"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589292e626a0cacace543",
+      "name": "\ud83d\udce8 [INBOX] TORUS FLEET LIVE ON PINKCADY DOCKER MESH STEPS AND DASHBOARD RETEST 20260806T031500Z sirgreen.msg",
+      "last_activity": "2026-08-07T13:01:08.873Z",
+      "url": "https://trello.com/c/L9zElfoT/2357-%F0%9F%93%A8-inbox-torus-fleet-live-on-pinkcady-docker-mesh-steps-and-dashboard-retest-20260806t031500z-sirgreenmsg"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75892b4e2a8ac41d526ac7",
+      "name": "\ud83d\udce8 [INBOX] dashboard gaps sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:10.119Z",
+      "url": "https://trello.com/c/qaiuaMnS/2358-%F0%9F%93%A8-inbox-dashboard-gaps-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75892c4631fddbd3b9cbca",
+      "name": "\ud83d\udce8 [INBOX] dashboard improvements sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:11.433Z",
+      "url": "https://trello.com/c/tiXvZDxF/2359-%F0%9F%93%A8-inbox-dashboard-improvements-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75892ea3655c36e6f11131",
+      "name": "\ud83d\udce8 [INBOX] miss gordon review action plan sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:12.003Z",
+      "url": "https://trello.com/c/tbSwBSha/2360-%F0%9F%93%A8-inbox-miss-gordon-review-action-plan-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75892fdcd672c874804a71",
+      "name": "\ud83d\udce8 [INBOX] new trello git cards for docker webhooks k8s sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:13.046Z",
+      "url": "https://trello.com/c/SXuALFeP/2361-%F0%9F%93%A8-inbox-new-trello-git-cards-for-docker-webhooks-k8s-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589300fc3534da52dddd0",
+      "name": "\ud83d\udce8 [INBOX] torus dashboard multistage push sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:13.867Z",
+      "url": "https://trello.com/c/BpYzFZ7O/2362-%F0%9F%93%A8-inbox-torus-dashboard-multistage-push-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75893137f4e0714a23179c",
+      "name": "\ud83d\udce8 ooda plugin automation update sirgreen 20260806T0624Z",
+      "last_activity": "2026-08-07T13:01:14.445Z",
+      "url": "https://trello.com/c/ECuYE9As/2363-%F0%9F%93%A8-ooda-plugin-automation-update-sirgreen-20260806t0624z"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758933b0bba34d34f69d65",
+      "name": "\ud83d\udce8 [INBOX] ooda plugin automation update sirgreen 20260806T0624Z",
+      "last_activity": "2026-08-07T13:01:15.136Z",
+      "url": "https://trello.com/c/gBtqGpYR/2364-%F0%9F%93%A8-inbox-ooda-plugin-automation-update-sirgreen-20260806t0624z"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758934c9b2726fdb9bdd78",
+      "name": "\ud83d\udce8 [INBOX] obsidian plugin completion webhook retry sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:15.972Z",
+      "url": "https://trello.com/c/6KXaPF4H/2365-%F0%9F%93%A8-inbox-obsidian-plugin-completion-webhook-retry-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758935db524f747a60a6b5",
+      "name": "\ud83d\udce8 [INBOX] ooda plugin automation complete sirgreen 20260806T0624Z",
+      "last_activity": "2026-08-07T13:01:17.051Z",
+      "url": "https://trello.com/c/y2YwODUI/2366-%F0%9F%93%A8-inbox-ooda-plugin-automation-complete-sirgreen-20260806t0624z"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589360e047def4cece7fc",
+      "name": "\ud83d\udce8 [INBOX] dashboard port and swarm decision sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:18.112Z",
+      "url": "https://trello.com/c/fp3EhYTA/2367-%F0%9F%93%A8-inbox-dashboard-port-and-swarm-decision-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758938570bb5e6476995fb",
+      "name": "\ud83d\udce8 [INBOX] pink docker build push and single ask sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:18.896Z",
+      "url": "https://trello.com/c/ALb8kZfR/2368-%F0%9F%93%A8-inbox-pink-docker-build-push-and-single-ask-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589396e91985679185d83",
+      "name": "\ud83d\udce8 verify claimed changes and asks sirgreen 20260806T0645Z",
+      "last_activity": "2026-08-07T13:01:19.742Z",
+      "url": "https://trello.com/c/Op3RWdaz/2369-%F0%9F%93%A8-verify-claimed-changes-and-asks-sirgreen-20260806t0645z"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75893aff4bd4d8b2768a71",
+      "name": "\ud83d\udce8 [INBOX] verify claimed changes and asks sirgreen 20260806T0645Z",
+      "last_activity": "2026-08-07T13:01:20.510Z",
+      "url": "https://trello.com/c/zyiCh5RD/2370-%F0%9F%93%A8-inbox-verify-claimed-changes-and-asks-sirgreen-20260806t0645z"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75893b799e5f22d21430ab",
+      "name": "\ud83d\udce8 [INBOX] board audit obsidian deepdive and asks sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:21.341Z",
+      "url": "https://trello.com/c/chj77RuO/2371-%F0%9F%93%A8-inbox-board-audit-obsidian-deepdive-and-asks-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75893d8b0158bbeae65933",
+      "name": "\ud83d\udce8 [INBOX] miss gordon k8s jobs cronjobs sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:22.187Z",
+      "url": "https://trello.com/c/6ZAm3ilB/2372-%F0%9F%93%A8-inbox-miss-gordon-k8s-jobs-cronjobs-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75893ee7d5ddbd2d722d76",
+      "name": "\ud83d\udce8 [INBOX] followup dashboard top10 trello voidops sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:23.281Z",
+      "url": "https://trello.com/c/bCSvCuCB/2373-%F0%9F%93%A8-inbox-followup-dashboard-top10-trello-voidops-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75893f48fa1255ad221200",
+      "name": "\ud83d\udce8 [INBOX] miss pink dashboard top10 trello voidops ask sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:24.221Z",
+      "url": "https://trello.com/c/Dv1Qo50j/2374-%F0%9F%93%A8-inbox-miss-pink-dashboard-top10-trello-voidops-ask-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589405f861bb6e84ba6b7",
+      "name": "\ud83d\udce8 [INBOX] pinkcady dashboard connectivity checklist sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:25.055Z",
+      "url": "https://trello.com/c/Gt7CYLQ3/2375-%F0%9F%93%A8-inbox-pinkcady-dashboard-connectivity-checklist-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75894130db92bea127ca7e",
+      "name": "\ud83d\udce8 [INBOX] sirgreen trello automation questions sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:25.779Z",
+      "url": "https://trello.com/c/ZCgKxPFG/2376-%F0%9F%93%A8-inbox-sirgreen-trello-automation-questions-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589431523f0fa490f9d09",
+      "name": "\ud83d\udce8 [INBOX] pinkcady dashboard test commands sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:26.409Z",
+      "url": "https://trello.com/c/eqHLRGgN/2377-%F0%9F%93%A8-inbox-pinkcady-dashboard-test-commands-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589443e0a40eec9853027",
+      "name": "\ud83d\udce8 [INBOX] sirgreen trello butler automation request sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:27.402Z",
+      "url": "https://trello.com/c/AtelCaDf/2378-%F0%9F%93%A8-inbox-sirgreen-trello-butler-automation-request-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589459dc3122cb7d3df39",
+      "name": "\ud83d\udce8 [INBOX] vault audit progress dashboard recommendations sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:28.429Z",
+      "url": "https://trello.com/c/SV4tWu52/2379-%F0%9F%93%A8-inbox-vault-audit-progress-dashboard-recommendations-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758946dcd672c874807b0f",
+      "name": "\ud83d\udce8 [INBOX] sirgreen share trello automation setup sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:29.197Z",
+      "url": "https://trello.com/c/TIRYyXkZ/2380-%F0%9F%93%A8-inbox-sirgreen-share-trello-automation-setup-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758947bd13dbbd1036fccd",
+      "name": "\ud83d\udce8 [INBOX] sirgreen trello setup automation questions sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:29.879Z",
+      "url": "https://trello.com/c/aSzhnphu/2381-%F0%9F%93%A8-inbox-sirgreen-trello-setup-automation-questions-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758949ef623d2eed8038cf",
+      "name": "\ud83d\udce8 [INBOX] sirgreen dashboard recommendations local network monitor sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:30.544Z",
+      "url": "https://trello.com/c/psE3gpzC/2382-%F0%9F%93%A8-inbox-sirgreen-dashboard-recommendations-local-network-monitor-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75894afc2a87d39c8eda4f",
+      "name": "\ud83d\udce8 [INBOX] sirgreen final progress summary and asks sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:31.324Z",
+      "url": "https://trello.com/c/UpikAEEr/2383-%F0%9F%93%A8-inbox-sirgreen-final-progress-summary-and-asks-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75894bb61d4d52851d766e",
+      "name": "\ud83d\udce8 [INBOX] sirgreen continuous tasklist live sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:32.439Z",
+      "url": "https://trello.com/c/PFsn3ifS/2384-%F0%9F%93%A8-inbox-sirgreen-continuous-tasklist-live-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75894c8bb5fbc09929d8ae",
+      "name": "\ud83d\udce8 [INBOX] sirgreen verifier flags dashboard 8089 and rig report 404 sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:33.364Z",
+      "url": "https://trello.com/c/ShoOvrfM/2385-%F0%9F%93%A8-inbox-sirgreen-verifier-flags-dashboard-8089-and-rig-report-404-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75894ee6538a4dae6cbecd",
+      "name": "\ud83d\udce8 [INBOX] sirgreen dashboard endpoints status sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:34.305Z",
+      "url": "https://trello.com/c/UE0ydMcx/2386-%F0%9F%93%A8-inbox-sirgreen-dashboard-endpoints-status-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75894f16641f96753c5632",
+      "name": "\ud83d\udce8 [INBOX] sirgreen dashboard endpoints still 404 sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:34.966Z",
+      "url": "https://trello.com/c/WL072QvL/2387-%F0%9F%93%A8-inbox-sirgreen-dashboard-endpoints-still-404-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589504bfa8ef9b9ba11e0",
+      "name": "\ud83d\udce8 [INBOX] sirgreen dashboard deep dive summary sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:36.229Z",
+      "url": "https://trello.com/c/NIof0Wf6/2388-%F0%9F%93%A8-inbox-sirgreen-dashboard-deep-dive-summary-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589516535c08f6d2c5d8f",
+      "name": "\ud83d\udce8 [INBOX] sirgreen final ooda summary sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:37.694Z",
+      "url": "https://trello.com/c/wmoLOIcv/2389-%F0%9F%93%A8-inbox-sirgreen-final-ooda-summary-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589529fe332d70beb136d",
+      "name": "\u2705 FIXED: Prometheus scrape config cleaned",
+      "last_activity": "2026-08-07T13:01:38.428Z",
+      "url": "https://trello.com/c/RhUZIkqu/2390-%E2%9C%85-fixed-prometheus-scrape-config-cleaned"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75895485b827bfeacc8894",
+      "name": "\ud83d\udd11 NEEDS CREDS: Docker Hub auth failure",
+      "last_activity": "2026-08-07T13:01:39.670Z",
+      "url": "https://trello.com/c/xPztd4DU/2391-%F0%9F%94%91-needs-creds-docker-hub-auth-failure"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758955885daf8362120646",
+      "name": "\ud83d\udce8 [INBOX] sirgreen docker progress and actions sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:40.408Z",
+      "url": "https://trello.com/c/dNWsbwnx/2392-%F0%9F%93%A8-inbox-sirgreen-docker-progress-and-actions-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589567bb5bd14c289c9a1",
+      "name": "\ud83d\udce8 [INBOX] sirgreen docker fixes summary sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:41.315Z",
+      "url": "https://trello.com/c/2Wul9pDm/2393-%F0%9F%93%A8-inbox-sirgreen-docker-fixes-summary-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758958088d9a304d8498da",
+      "name": "\ud83d\udce8 [INBOX] sirgreen docker hub and dashboard request sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:42.133Z",
+      "url": "https://trello.com/c/227J9Bpu/2394-%F0%9F%93%A8-inbox-sirgreen-docker-hub-and-dashboard-request-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75895907626d14b41863cc",
+      "name": "\ud83d\udce8 [INBOX] sirgreen void ops mirror request sirgreen 20260806",
+      "last_activity": "2026-08-07T13:01:43.239Z",
+      "url": "https://trello.com/c/6g85oMmS/2395-%F0%9F%93%A8-inbox-sirgreen-void-ops-mirror-request-sirgreen-20260806"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75895abbf99bb49a916090",
+      "name": "\ud83d\udd10 Sir Green: invite limited toruscoffeecompany collaborators",
+      "last_activity": "2026-08-07T13:01:43.976Z",
+      "url": "https://trello.com/c/xlEETsaX/2396-%F0%9F%94%90-sir-green-invite-limited-toruscoffeecompany-collaborators"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75895c5a59d77cb8f7d609",
+      "name": "[P1] Sir Green: add /api/fleet route to dashboard_server.py",
+      "last_activity": "2026-08-07T13:01:48.392Z",
+      "url": "https://trello.com/c/D4NtJyWK/2397-p1-sir-green-add-api-fleet-route-to-dashboardserverpy"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75895e41d6fe7d98b265ee",
+      "name": "Setup Google Analytics",
+      "last_activity": "2026-08-07T13:01:49.816Z",
+      "url": "https://trello.com/c/RSzxKE4E/2398-setup-google-analytics"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589604e605ff5499c5686",
+      "name": "Setup Obsidian Vault",
+      "last_activity": "2026-08-07T13:01:50.583Z",
+      "url": "https://trello.com/c/taVNoGRY/2399-setup-obsidian-vault"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75896164c5703182d4e899",
+      "name": "[P1] Sir Green: add /api/tools route to dashboard_server.py",
+      "last_activity": "2026-08-07T13:01:51.367Z",
+      "url": "https://trello.com/c/SvScHVdQ/2400-p1-sir-green-add-api-tools-route-to-dashboardserverpy"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589637b1c05cf671a13d9",
+      "name": "\ud83d\udc65 Sir Green: invite limited toruscoffeecompany collaborators",
+      "last_activity": "2026-08-07T13:01:52.168Z",
+      "url": "https://trello.com/c/MrldLMzy/2401-%F0%9F%91%A5-sir-green-invite-limited-toruscoffeecompany-collaborators"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75896450f950c1b08407ad",
+      "name": "[P1] Sir Green: add /api/hw route to dashboard_server.py",
+      "last_activity": "2026-08-07T13:01:53.003Z",
+      "url": "https://trello.com/c/Mq6qQ4sI/2402-p1-sir-green-add-api-hw-route-to-dashboardserverpy"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589651b1414b7bc8d08d5",
+      "name": "[P1] Sir Green: add /api/rig-report route to dashboard_server.py",
+      "last_activity": "2026-08-07T13:01:53.695Z",
+      "url": "https://trello.com/c/eMGU3GPq/2403-p1-sir-green-add-api-rig-report-route-to-dashboardserverpy"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758966eb976286a02dc3d0",
+      "name": "Test freeze-dried SOP in production",
+      "last_activity": "2026-08-07T13:01:54.477Z",
+      "url": "https://trello.com/c/3mtOO0WW/2404-test-freeze-dried-sop-in-production"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75896838e0931f044ee9a8",
+      "name": "Setup Square payment links",
+      "last_activity": "2026-08-07T13:01:55.454Z",
+      "url": "https://trello.com/c/l53GHFoN/2405-setup-square-payment-links"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75896998dc5c39b95467c6",
+      "name": "Research free inventory tools (Square/Zoho/Sortly)",
+      "last_activity": "2026-08-07T13:01:56.576Z",
+      "url": "https://trello.com/c/kUwlWWeU/2406-research-free-inventory-tools-square-zoho-sortly"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75896a3632d256d23b49f9",
+      "name": "Deep vault audit completed",
+      "last_activity": "2026-08-07T13:01:57.379Z",
+      "url": "https://trello.com/c/xbk00o0h/2407-deep-vault-audit-completed"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75896b1b6a8bdbe9d6db90",
+      "name": "Fixed dashboard credentials.ts path",
+      "last_activity": "2026-08-07T13:01:58.071Z",
+      "url": "https://trello.com/c/4DDewwnS/2408-fixed-dashboard-credentialsts-path"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75896c4039d3f60daf96fa",
+      "name": "Created dashboard_launcher.py + startup shortcut",
+      "last_activity": "2026-08-07T13:01:58.703Z",
+      "url": "https://trello.com/c/nVbdq49t/2409-created-dashboardlauncherpy-startup-shortcut"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75896ee1d84453c52ff789",
+      "name": "Deploy website to Vercel",
+      "last_activity": "2026-08-07T13:01:59.343Z",
+      "url": "https://trello.com/c/OUeJ7yvT/2410-deploy-website-to-vercel"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75896fa04c71b2751aed71",
+      "name": "Gordon audited Sir Green's Docker fleet",
+      "last_activity": "2026-08-07T13:02:00.242Z",
+      "url": "https://trello.com/c/cfGIKLbj/2411-gordon-audited-sir-greens-docker-fleet"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758970843030183a361c45",
+      "name": "Gordon caught Sir Green's overclaim",
+      "last_activity": "2026-08-07T13:02:03.692Z",
+      "url": "https://trello.com/c/M7Qwyha9/2412-gordon-caught-sir-greens-overclaim"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75897307c48205cd582bdc",
+      "name": "torus-pos deployed and healthy",
+      "last_activity": "2026-08-07T13:02:05.940Z",
+      "url": "https://trello.com/c/kriUwrwY/2413-torus-pos-deployed-and-healthy"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758974a237f8eedb391c85",
+      "name": "torus-inventory fixed and deployed",
+      "last_activity": "2026-08-07T13:02:06.670Z",
+      "url": "https://trello.com/c/iOm7iFnn/2414-torus-inventory-fixed-and-deployed"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75897500a81337aa31dfea",
+      "name": "Design website architecture: Next.js + dashboard",
+      "last_activity": "2026-08-07T13:02:07.318Z",
+      "url": "https://trello.com/c/BViZrbYJ/2415-design-website-architecture-nextjs-dashboard"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75897837f4e0714a23594f",
+      "name": "Build automation dashboard page",
+      "last_activity": "2026-08-07T13:02:08.113Z",
+      "url": "https://trello.com/c/TDH6fUXR/2416-build-automation-dashboard-page"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758979784c7081f7ef5ff3",
+      "name": "Build inventory dashboard widget",
+      "last_activity": "2026-08-07T13:02:08.823Z",
+      "url": "https://trello.com/c/H7O5i7Xr/2417-build-inventory-dashboard-widget"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75897ba83a8991d4fa62c0",
+      "name": "Build Obsidian vault watcher daemon",
+      "last_activity": "2026-08-07T13:02:09.943Z",
+      "url": "https://trello.com/c/jHhfmMzm/2418-build-obsidian-vault-watcher-daemon"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75897d9951a3cb70e164b1",
+      "name": "Build content pipeline: Substack + X + AI assets",
+      "last_activity": "2026-08-07T13:02:11.747Z",
+      "url": "https://trello.com/c/5QgAxk3P/2419-build-content-pipeline-substack-x-ai-assets"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75897f8e28e479fd6a4979",
+      "name": "Build crew scheduler with capacity-aware rules",
+      "last_activity": "2026-08-07T13:02:12.386Z",
+      "url": "https://trello.com/c/6Oaas3Kl/2420-build-crew-scheduler-with-capacity-aware-rules"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758980705198b88c106927",
+      "name": "Wire Google Calendar sync end-to-end",
+      "last_activity": "2026-08-07T13:02:13.374Z",
+      "url": "https://trello.com/c/JSeEfPuu/2421-wire-google-calendar-sync-end-to-end"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589829dc3122cb7d42016",
+      "name": "Sync Obsidian tasklist \u2192 Trello/GitHub status",
+      "last_activity": "2026-08-07T13:02:14.055Z",
+      "url": "https://trello.com/c/6uTeUKZ7/2422-sync-obsidian-tasklist-%E2%86%92-trello-github-status"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589838f9aa9c752547871",
+      "name": "Automate YouTube production workflow",
+      "last_activity": "2026-08-07T13:02:14.741Z",
+      "url": "https://trello.com/c/szR23wYA/2423-automate-youtube-production-workflow"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758985d6df54b8623fe79e",
+      "name": "Automate AI image/video asset generation",
+      "last_activity": "2026-08-07T13:02:15.425Z",
+      "url": "https://trello.com/c/n40hClzM/2424-automate-ai-image-video-asset-generation"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758986e33697e3f0062292",
+      "name": "Follow-up: Miss Pink GitHub auth + clone",
+      "last_activity": "2026-08-07T13:02:16.104Z",
+      "url": "https://trello.com/c/iu33cL8m/2425-follow-up-miss-pink-github-auth-clone"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75898828efd0016885aca5",
+      "name": "Sir Green Discord bot: watcher auto-restart/crash recovery",
+      "last_activity": "2026-08-07T13:02:17.072Z",
+      "url": "https://trello.com/c/WGJDRSwo/2426-sir-green-discord-bot-watcher-auto-restart-crash-recovery"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75898a2e530ff316871ff7",
+      "name": "Miss Pink: build Discord bot for VOID Pirate server",
+      "last_activity": "2026-08-07T13:02:18.080Z",
+      "url": "https://trello.com/c/EFveKg10/2427-miss-pink-build-discord-bot-for-void-pirate-server"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75898ccd67e50571693d3f",
+      "name": "Discord trusted accounts: add `tradecrushersmith` ID to `access_policy.json`",
+      "last_activity": "2026-08-07T13:02:18.796Z",
+      "url": "https://trello.com/c/2gRa5lzQ/2428-discord-trusted-accounts-add-tradecrushersmith-id-to-accesspolicyjson"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75898eff44ddf98f028712",
+      "name": "Sir Green watcher auto-restart/crash recovery",
+      "last_activity": "2026-08-07T13:02:19.464Z",
+      "url": "https://trello.com/c/ZSp5BDXV/2429-sir-green-watcher-auto-restart-crash-recovery"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758990eb882b98428fecf5",
+      "name": "Discord developer team: enable 2FA and verify email for all members",
+      "last_activity": "2026-08-07T13:02:20.091Z",
+      "url": "https://trello.com/c/ewn6bQmV/2430-discord-developer-team-enable-2fa-and-verify-email-for-all-members"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75899158086af488986c16",
+      "name": "Sir Green \u2194 Miss Pink checks and balances system",
+      "last_activity": "2026-08-07T13:02:20.886Z",
+      "url": "https://trello.com/c/NAheF5PW/2431-sir-green-%E2%86%94-miss-pink-checks-and-balances-system"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758993681f6baa5d0bb753",
+      "name": "Miss Pink: confirm PINKCADY Tailscale + bridge + inbox watcher",
+      "last_activity": "2026-08-07T13:02:22.044Z",
+      "url": "https://trello.com/c/8Sg16j3K/2432-miss-pink-confirm-pinkcady-tailscale-bridge-inbox-watcher"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589943bcf75d5aa78272d",
+      "name": "Miss Pink Rig: full hardware/software inventory pass",
+      "last_activity": "2026-08-07T13:02:22.656Z",
+      "url": "https://trello.com/c/gOvTGLG8/2433-miss-pink-rig-full-hardware-software-inventory-pass"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589964dc16b0037f9d5ab",
+      "name": "Gmail: opsec-safe email triage automation \u2014 read, organize, delete, archive",
+      "last_activity": "2026-08-07T13:02:23.372Z",
+      "url": "https://trello.com/c/YG9tiVoE/2434-gmail-opsec-safe-email-triage-automation-read-organize-delete-archive"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75899756307560a3089f1c",
+      "name": "Setup: install GitHub CLI on Miss Pink Rig (PINKCADY)",
+      "last_activity": "2026-08-07T13:02:24.293Z",
+      "url": "https://trello.com/c/CW4prxGp/2435-setup-install-github-cli-on-miss-pink-rig-pinkcady"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589995cac059c4dd477cf",
+      "name": "Miss Pink Rig: confirm tailscale status, bridge health, gh auth, write access",
+      "last_activity": "2026-08-07T13:02:25.304Z",
+      "url": "https://trello.com/c/gfNwnCKG/2436-miss-pink-rig-confirm-tailscale-status-bridge-health-gh-auth-write-access"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75899bb7cf1af4adfc2c26",
+      "name": "GitHub: add Miss Pink as VOIDPirateTrade collaborator with push access",
+      "last_activity": "2026-08-07T13:02:25.910Z",
+      "url": "https://trello.com/c/B7rppadL/2437-github-add-miss-pink-as-voidpiratetrade-collaborator-with-push-access"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a75899f1baa64f29b78850a",
+      "name": "Sir Azure: discover SQUIDSTATION and PINKCADY network shares from STEALTHATTACK",
+      "last_activity": "2026-08-07T13:02:27.314Z",
+      "url": "https://trello.com/c/codVorST/2439-sir-azure-discover-squidstation-and-pinkcady-network-shares-from-stealthattack"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589a1d32d06722bbae2a5",
+      "name": "Sir Azure: read-only access only \u2014 do not edit SQUIDSTATION/PINKCADY shares",
+      "last_activity": "2026-08-07T13:02:29.720Z",
+      "url": "https://trello.com/c/2OqxjX3y/2440-sir-azure-read-only-access-only-do-not-edit-squidstation-pinkcady-shares"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589a27f895898c98c91af",
+      "name": "FUN: rename PCs to pirate Rig names \u2014 STEALTHATTACK=Sir Azure Rig, PINKCADY=Miss Pink Rig, SQUIDSTATION=Captain Rig",
+      "last_activity": "2026-08-07T13:02:30.532Z",
+      "url": "https://trello.com/c/LRL5TFPh/2441-fun-rename-pcs-to-pirate-rig-names-stealthattacksir-azure-rig-pinkcadymiss-pink-rig-squidstationcaptain-rig"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589a4cd92030e24e4d12a",
+      "name": "\ud83d\udce8 [INBOX] DEPLOY PACKAGE AND QUESTIONS 20260806 sirazure.msg",
+      "last_activity": "2026-08-07T13:02:31.363Z",
+      "url": "https://trello.com/c/St0gnfnH/2442-%F0%9F%93%A8-inbox-deploy-package-and-questions-20260806-sirazuremsg"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589a6ff0b2c447737e9a5",
+      "name": "\ud83d\udce8 [INBOX] DOCKER BUILD AND DEPLOY QUESTIONS 20260806 sirazure.msg",
+      "last_activity": "2026-08-07T13:02:32.026Z",
+      "url": "https://trello.com/c/nuNpKh4g/2443-%F0%9F%93%A8-inbox-docker-build-and-deploy-questions-20260806-sirazuremsg"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589a728b9c24425b157c0",
+      "name": "\ud83d\udce1 Sir Azure: run crew_connectivity_monitor.py",
+      "last_activity": "2026-08-07T13:02:32.820Z",
+      "url": "https://trello.com/c/AtLC7lXA/2444-%F0%9F%93%A1-sir-azure-run-crewconnectivitymonitorpy"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589a91ba87c48b70acd83",
+      "name": "\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1 Invite Sir Green + Sir Azure as limited toruscoffeecompany collaborators",
+      "last_activity": "2026-08-07T13:02:33.507Z",
+      "url": "https://trello.com/c/POp4gWfU/2445-%F0%9F%A7%91%F0%9F%A4%9D%F0%9F%A7%91-invite-sir-green-sir-azure-as-limited-toruscoffeecompany-collaborators"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589aa0a548b2e3e7e4dd7",
+      "name": "\ud83d\udd17 Add GitHub link + token instructions for VOIDPirateTrade",
+      "last_activity": "2026-08-07T13:02:34.344Z",
+      "url": "https://trello.com/c/Hicx7dgl/2446-%F0%9F%94%97-add-github-link-token-instructions-for-voidpiratetrade"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a7589abebd45840a2a18037",
+      "name": "\ud83d\udc65 Grant Sir Green/Sir Azure limited access to toruscoffeecompany GitHub",
+      "last_activity": "2026-08-07T13:02:35.393Z",
+      "url": "https://trello.com/c/LoemBfXF/2447-%F0%9F%91%A5-grant-sir-green-sir-azure-limited-access-to-toruscoffeecompany-github"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a33d09a0e14ad056f58",
+      "name": "P2: Verify Miss Pink's Inbox automation routing",
+      "last_activity": "2026-08-07T13:02:36.124Z",
+      "url": "https://trello.com/c/NzuHItE1/2448-p2-verify-miss-pinks-inbox-automation-routing"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a35781e3f106b0bbea7",
+      "name": "\ud83e\udded Track Miss Pink persona/lore + Cosmos Library updates",
+      "last_activity": "2026-08-07T13:02:36.805Z",
+      "url": "https://trello.com/c/tpyquRf7/2449-%F0%9F%A7%AD-track-miss-pink-persona-lore-cosmos-library-updates"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a37729f9eb70f0d1cee",
+      "name": "\ud83d\udce1 Run crew_connectivity_monitor.py on PINKCADY",
+      "last_activity": "2026-08-07T13:02:37.415Z",
+      "url": "https://trello.com/c/E3ZqIOzW/2450-%F0%9F%93%A1-run-crewconnectivitymonitorpy-on-pinkcady"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a38ce1b8d417712877d",
+      "name": "Review Task Scheduler Jobs",
+      "last_activity": "2026-08-07T13:02:38.132Z",
+      "url": "https://trello.com/c/bCbAWrFR/2451-review-task-scheduler-jobs"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a3a223a24f67bb461ff",
+      "name": "[P1] Sir Azure: install nikto tshark yara on PINKCADY",
+      "last_activity": "2026-08-07T13:02:38.758Z",
+      "url": "https://trello.com/c/UBNkUIdI/2452-p1-sir-azure-install-nikto-tshark-yara-on-pinkcady"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a3be21f75d236d0bb7b",
+      "name": "Generate social templates with Sir Azure",
+      "last_activity": "2026-08-07T13:02:39.377Z",
+      "url": "https://trello.com/c/2t4LN9te/2453-generate-social-templates-with-sir-azure"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a3d4b12d0e29498d829",
+      "name": "Vendor Booth Backdrop - Generate Artwork",
+      "last_activity": "2026-08-07T13:02:40.170Z",
+      "url": "https://trello.com/c/cWAjw78p/2454-vendor-booth-backdrop-generate-artwork"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a3e1811076507aec1f9",
+      "name": "Sir Azure AI Media Pipeline Setup",
+      "last_activity": "2026-08-07T13:02:41.228Z",
+      "url": "https://trello.com/c/Xq1bsLra/2455-sir-azure-ai-media-pipeline-setup"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a3f489638d97f0d69e4",
+      "name": "Sir Azure build template created",
+      "last_activity": "2026-08-07T13:02:42.008Z",
+      "url": "https://trello.com/c/mg0lwvff/2456-sir-azure-build-template-created"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a408208e00c65947dc3",
+      "name": "Docker connection established",
+      "last_activity": "2026-08-07T13:02:42.812Z",
+      "url": "https://trello.com/c/1ulxSyYH/2457-docker-connection-established"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a42e43ea7e69f414a96",
+      "name": "Review Gordon's audit findings",
+      "last_activity": "2026-08-07T13:02:43.564Z",
+      "url": "https://trello.com/c/P0SJyrZz/2458-review-gordons-audit-findings"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a446ef03639a798949f",
+      "name": "Audit Sir Azure build template",
+      "last_activity": "2026-08-07T13:02:44.276Z",
+      "url": "https://trello.com/c/JNC0i8l5/2459-audit-sir-azure-build-template"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a456b26710b300f931b",
+      "name": "Video projection automation: remaining items for AI video/social posting",
+      "last_activity": "2026-08-07T13:02:45.116Z",
+      "url": "https://trello.com/c/qFcW3b4S/2460-video-projection-automation-remaining-items-for-ai-video-social-posting"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a466f2ad60c8b9b387a",
+      "name": "Verify Torus Coffee repos shared to Sir Azure",
+      "last_activity": "2026-08-07T13:02:45.993Z",
+      "url": "https://trello.com/c/ij1g4ZBJ/2461-verify-torus-coffee-repos-shared-to-sir-azure"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a49e8a02a6051210d13",
+      "name": "Share Torus Coffee repos to Sir Azure after VOID access confirmed",
+      "last_activity": "2026-08-07T13:02:46.951Z",
+      "url": "https://trello.com/c/PF7udF7b/2462-share-torus-coffee-repos-to-sir-azure-after-void-access-confirmed"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a4a00279ffe03c29ec9",
+      "name": "Sir Green/Miss Pink/Sir Azure automation bridge: mesh-ready ops runbook",
+      "last_activity": "2026-08-07T13:02:47.915Z",
+      "url": "https://trello.com/c/kL5AOOD8/2463-sir-green-miss-pink-sir-azure-automation-bridge-mesh-ready-ops-runbook"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a4ba9d535c63f9616c0",
+      "name": "Sir Azure: verify VOIDPirateTrade GitHub repo access with gh CLI",
+      "last_activity": "2026-08-07T13:02:48.629Z",
+      "url": "https://trello.com/c/Du6xIupS/2464-sir-azure-verify-voidpiratetrade-github-repo-access-with-gh-cli"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a4d479cdbde2cd21076",
+      "name": "Miss Pink: prepare Torus repos list for GitHub sharing to Sir Azure",
+      "last_activity": "2026-08-07T13:02:49.402Z",
+      "url": "https://trello.com/c/DPV64NVe/2465-miss-pink-prepare-torus-repos-list-for-github-sharing-to-sir-azure"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a4e843030183a370f0f",
+      "name": "Sir Azure: confirm STEALTHATTACK Tailscale + drive maps + gh access",
+      "last_activity": "2026-08-07T13:02:49.969Z",
+      "url": "https://trello.com/c/skgN9R8C/2466-sir-azure-confirm-stealthattack-tailscale-drive-maps-gh-access"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a50f9700d79c3fb87b0",
+      "name": "GitHub: share Torus Coffee repos to Miss Pink and Sir Azure",
+      "last_activity": "2026-08-07T13:02:50.665Z",
+      "url": "https://trello.com/c/grjbxABX/2467-github-share-torus-coffee-repos-to-miss-pink-and-sir-azure"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a51157e2952120d4203",
+      "name": "GitHub: add Sir Azure as VOIDPirateTrade collaborator with push access",
+      "last_activity": "2026-08-07T13:02:51.423Z",
+      "url": "https://trello.com/c/CZTeCeYt/2468-github-add-sir-azure-as-voidpiratetrade-collaborator-with-push-access"
+    },
+    {
+      "priority": 3,
+      "list": "P2 - Med High / This Week",
+      "id": "6a758a529952d070a0b13b35",
+      "name": "GitHub: share Torus Coffee repos to Miss Pink and Sir Azure after VOID access",
+      "last_activity": "2026-08-07T13:02:52.368Z",
+      "url": "https://trello.com/c/HE1BqY7L/2469-github-share-torus-coffee-repos-to-miss-pink-and-sir-azure-after-void-access"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a737f7fc40b5a5f65ec562b",
+      "name": "\ud83e\uddea Verify OODA loop traceback logging + runtime stability",
+      "last_activity": "2026-08-07T13:02:53.205Z",
+      "url": "https://trello.com/c/TuqbIYWp/377-%F0%9F%A7%AA-verify-ooda-loop-traceback-logging-runtime-stability"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a70a3509e558a293bbd1aa5",
+      "name": "Pricing Sheet Update \u2014 Q4 Menu",
+      "last_activity": "2026-08-07T13:02:54.029Z",
+      "url": "https://trello.com/c/LejxsBf7/20-pricing-sheet-update-q4-menu"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a70a34e88d5b5f7ebf055f0",
+      "name": "Safety Protocol Update \u2014 Kitchen Equipment",
+      "last_activity": "2026-08-07T13:02:54.734Z",
+      "url": "https://trello.com/c/7fSgoD8C/16-safety-protocol-update-kitchen-equipment"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a70cc2c813f2eea45f37bec",
+      "name": "Create Product Photo tracking spreadsheet",
+      "last_activity": "2026-08-07T13:02:55.619Z",
+      "url": "https://trello.com/c/VKyALnpR/56-create-product-photo-tracking-spreadsheet"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a70d707920c145749b2f4ed",
+      "name": "Product Photo Tracking Spreadsheet",
+      "last_activity": "2026-08-07T13:02:56.331Z",
+      "url": "https://trello.com/c/gDSBhEzP/68-product-photo-tracking-spreadsheet"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a70da7f61b451cfa8e0abd9",
+      "name": "Review and finalize all brand assets",
+      "last_activity": "2026-08-07T13:02:57.474Z",
+      "url": "https://trello.com/c/MORYn7iR/89-review-and-finalize-all-brand-assets"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a71088de3dde89e2bc01b0d",
+      "name": "Fix Task Scheduler jobs to use C:\\Python314",
+      "last_activity": "2026-08-07T13:02:58.482Z",
+      "url": "https://trello.com/c/HbBjr4Pv/147-fix-task-scheduler-jobs-to-use-c-python314"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a70f1b222a6bcea1ae81154",
+      "name": "Create/verify TikTok account",
+      "last_activity": "2026-08-07T13:02:59.221Z",
+      "url": "https://trello.com/c/WWU1TPIo/108-create-verify-tiktok-account"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a70f3a95647e3d736bb9d81",
+      "name": "Update X/Twitter profile/banner",
+      "last_activity": "2026-08-07T13:03:00.137Z",
+      "url": "https://trello.com/c/TbqgCL30/117-update-x-twitter-profile-banner"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a71399cebf904e6b201dae9",
+      "name": "Added requirements.txt for venv",
+      "last_activity": "2026-08-07T13:03:01.108Z",
+      "url": "https://trello.com/c/swP6ISys/263-added-requirementstxt-for-venv"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a713b0e8c32f74a1db77099",
+      "name": "Root layout updated",
+      "last_activity": "2026-08-07T13:03:02.605Z",
+      "url": "https://trello.com/c/qNBLlcgO/270-root-layout-updated"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a710d0f316fa756a26b179e",
+      "name": "Update X/Twitter profile photo and banner",
+      "last_activity": "2026-08-07T13:03:03.536Z",
+      "url": "https://trello.com/c/cWv0T3Fc/173-update-x-twitter-profile-photo-and-banner"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a71242c73bba0f679205c2f",
+      "name": "Add Buffer retry/error handling",
+      "last_activity": "2026-08-07T13:03:04.426Z",
+      "url": "https://trello.com/c/jNtGqcsI/188-add-buffer-retry-error-handling"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a71242d36dee4dcaee7187c",
+      "name": "Add Zapier retry/backoff logic",
+      "last_activity": "2026-08-07T13:03:05.137Z",
+      "url": "https://trello.com/c/88AYZ7tc/192-add-zapier-retry-backoff-logic"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a71242fb7197bb4e02ae791",
+      "name": "Test HubSpot deal creation/update",
+      "last_activity": "2026-08-07T13:03:05.800Z",
+      "url": "https://trello.com/c/hAdwaeuj/195-test-hubspot-deal-creation-update"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a712432080a953558b00fcd",
+      "name": "Add retry logic and error handling to all scripts",
+      "last_activity": "2026-08-07T13:03:06.490Z",
+      "url": "https://trello.com/c/FxL7ZfzE/200-add-retry-logic-and-error-handling-to-all-scripts"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a7124327fade6e133c8a2cc",
+      "name": "Verify all 16 Task Scheduler jobs execute correctly",
+      "last_activity": "2026-08-07T13:03:07.318Z",
+      "url": "https://trello.com/c/tEu8S3FW/201-verify-all-16-task-scheduler-jobs-execute-correctly"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a712433b3967cbd8bcac68b",
+      "name": "Add success/failure logging to Task Scheduler jobs",
+      "last_activity": "2026-08-07T13:03:08.327Z",
+      "url": "https://trello.com/c/4dgQnsYZ/203-add-success-failure-logging-to-task-scheduler-jobs"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a712fa779f75a27d760cacf",
+      "name": "Launch revenue stream tracking in vault and Trello",
+      "last_activity": "2026-08-07T13:03:09.186Z",
+      "url": "https://trello.com/c/zKOXEXCA/234-launch-revenue-stream-tracking-in-vault-and-trello"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a712fa8b87992ca53526858",
+      "name": "Track flea market sales in Revenue_Stream_Plan.md",
+      "last_activity": "2026-08-07T13:03:10.098Z",
+      "url": "https://trello.com/c/6rmWV1wH/236-track-flea-market-sales-in-revenuestreamplanmd"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a712fa8b1e5ac88066e2dbf",
+      "name": "Track wholesale accounts in Revenue_Stream_Plan.md",
+      "last_activity": "2026-08-07T13:03:10.934Z",
+      "url": "https://trello.com/c/yP36hirK/237-track-wholesale-accounts-in-revenuestreamplanmd"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a712fa9b9a2a4f8f045261c",
+      "name": "Track website orders in Revenue_Stream_Plan.md",
+      "last_activity": "2026-08-07T13:03:11.787Z",
+      "url": "https://trello.com/c/IcEgLcRt/238-track-website-orders-in-revenuestreamplanmd"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a712fa9bf02acbd07393f67",
+      "name": "Track Amazon FBA/FBM sales in Revenue_Stream_Plan.md",
+      "last_activity": "2026-08-07T13:03:12.651Z",
+      "url": "https://trello.com/c/oO4kZ3jm/239-track-amazon-fba-fbm-sales-in-revenuestreamplanmd"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a712faa3770fa51827b7073",
+      "name": "Track sponsorships/brand deals in Revenue_Stream_Plan.md",
+      "last_activity": "2026-08-07T13:03:13.333Z",
+      "url": "https://trello.com/c/VMpYERTS/241-track-sponsorships-brand-deals-in-revenuestreamplanmd"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a712faa0a49729bce0cb0a5",
+      "name": "Track subscription box revenue in Revenue_Stream_Plan.md",
+      "last_activity": "2026-08-07T13:03:14.012Z",
+      "url": "https://trello.com/c/rVaQ7j5X/242-track-subscription-box-revenue-in-revenuestreamplanmd"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a712fabf7600ec68b50e1e3",
+      "name": "Track local delivery revenue in Revenue_Stream_Plan.md",
+      "last_activity": "2026-08-07T13:03:16.424Z",
+      "url": "https://trello.com/c/jHoYSor0/243-track-local-delivery-revenue-in-revenuestreamplanmd"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a713b1005cf8432cd8035b4",
+      "name": "Add product images",
+      "last_activity": "2026-08-07T13:03:17.175Z",
+      "url": "https://trello.com/c/1QhpTMLJ/274-add-product-images"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a713b1071e6fea36475b9dc",
+      "name": "Add Google Analytics",
+      "last_activity": "2026-08-07T13:03:17.878Z",
+      "url": "https://trello.com/c/ms8bHBwX/275-add-google-analytics"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a714fbba57781472bf136b6",
+      "name": "Review legal pages",
+      "last_activity": "2026-08-07T13:03:18.531Z",
+      "url": "https://trello.com/c/TMjPIabU/314-review-legal-pages"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a715c001d8423b2a0988108",
+      "name": "Finalize legal pages for review",
+      "last_activity": "2026-08-07T13:03:19.692Z",
+      "url": "https://trello.com/c/V6sbcNgI/318-finalize-legal-pages-for-review"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a73e04a2c2bbdf27b302dfe",
+      "name": "\u26a1 [P2] Precision Boost Overdrive / Curve Optimizer",
+      "last_activity": "2026-08-07T13:03:20.542Z",
+      "url": "https://trello.com/c/vp5Hmj7K/465-%E2%9A%A1-p2-precision-boost-overdrive-curve-optimizer"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a741fc73041dff74dcbc651",
+      "name": "\u2705 IN PROGRESS: torus-website Next.js build fixed, Dockerfile created",
+      "last_activity": "2026-08-07T13:03:21.294Z",
+      "url": "https://trello.com/c/lwtOQrUc/502-%E2%9C%85-in-progress-torus-website-nextjs-build-fixed-dockerfile-created"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a742528f39eb723b86ed54c",
+      "name": "[P1] Import QuickAdd macros from quickadd_macros.json into active data.json",
+      "last_activity": "2026-08-07T13:03:22.076Z",
+      "url": "https://trello.com/c/lxjcCQ9G/545-p1-import-quickadd-macros-from-quickaddmacrosjson-into-active-datajson"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a742529ef011b6da7537444",
+      "name": "[P2] Fix Templater + Periodic Notes template paths",
+      "last_activity": "2026-08-07T13:03:23.132Z",
+      "url": "https://trello.com/c/Ugcqbg3e/546-p2-fix-templater-periodic-notes-template-paths"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a7425296ba4d189552269e9",
+      "name": "[P2] Verify all Windows Task Scheduler jobs point to real scripts",
+      "last_activity": "2026-08-07T13:03:24.262Z",
+      "url": "https://trello.com/c/2OpVFjIE/547-p2-verify-all-windows-task-scheduler-jobs-point-to-real-scripts"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a74252aa4669a765afe7b1d",
+      "name": "[P2] Scan vault for broken wikilinks and duplicate names",
+      "last_activity": "2026-08-07T13:03:25.230Z",
+      "url": "https://trello.com/c/LOnD70oW/549-p2-scan-vault-for-broken-wikilinks-and-duplicate-names"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a75bf3eee7e2cd1b2c9afe9",
+      "name": "Sync Facebook business account with other social accounts",
+      "last_activity": "2026-08-07T13:03:25.992Z",
+      "url": "https://trello.com/c/DMfC2oA1/2472-sync-facebook-business-account-with-other-social-accounts"
+    },
+    {
+      "priority": 4,
+      "list": "P3 - Medium / Follow Up",
+      "id": "6a712fab76212a7d0361f7cb",
+      "name": "Set revenue milestone: first dollar from any stream",
+      "last_activity": "2026-08-07T17:21:53.159Z",
+      "url": "https://trello.com/c/kMrvv8Qo/244-set-revenue-milestone-first-dollar-from-any-stream"
+    }
+  ]
+}

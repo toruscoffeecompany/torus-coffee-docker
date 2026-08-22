@@ -1,0 +1,66 @@
+{
+  "timestamp": "2026-08-10T09:41:29.873636+00:00",
+  "checks": [
+    {
+      "name": "ooda",
+      "script": "D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\Crew\\ooda_loop.py",
+      "status": "ok",
+      "exit_code": 0,
+      "stdout_tail": [
+        "[2026-08-10T09:41:30.174041+00:00] OODA_LOOP_STARTED",
+        "[2026-08-10T09:41:30.175040+00:00] OODA_CYCLE_1_START",
+        "[2026-08-10T09:41:33.248454+00:00] OODA_CYCLE counts: {'trello_cards': 134, 'github_issues': 8, 'inbox_items': 0}",
+        "[2026-08-10T09:41:35.113609+00:00] OODA_LOOP_COMPLETE no more work"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "name": "verifier",
+      "script": "D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\Crew\\verifier_daemon.py",
+      "status": "ok",
+      "exit_code": 0,
+      "stdout_tail": [
+        "[2026-08-10T09:41:47.751829+00:00] VERIFIER_FLAGS: 6 issues found",
+        "[2026-08-10T09:41:47.752354+00:00]   - Dashboard endpoint /api/security-docs returned 404",
+        "[2026-08-10T09:41:47.752354+00:00]   - Dashboard endpoint /api/hw returned 404",
+        "[2026-08-10T09:41:47.752883+00:00]   - Security tool nmap not installed",
+        "[2026-08-10T09:41:47.752883+00:00]   - Security tool nikto not installed",
+        "[2026-08-10T09:41:47.753413+00:00]   - Security tool tshark not installed",
+        "[2026-08-10T09:41:47.753413+00:00]   - Security tool yara not installed",
+        "[2026-08-10T09:41:47.753941+00:00] VERIFIER_CYCLE_END"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "name": "top10",
+      "script": "D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\scripts\\trello_top10_sync.py",
+      "status": "ok",
+      "exit_code": 0,
+      "stdout_tail": [
+        "TOP10_OK total=112 top10=10"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "name": "board_audit",
+      "script": "D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\scripts\\board_audit.py",
+      "status": "ok",
+      "exit_code": 0,
+      "stdout_tail": [
+        "AUDIT_OK retagged=0 total=8 distribution={'skipped': 8}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "name": "vault_audit",
+      "script": "D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\scripts\\vault_audit.py",
+      "status": "ok",
+      "exit_code": 0,
+      "stdout_tail": [
+        "VAULT_AUDIT_OK broken=286 duplicates=7"
+      ],
+      "stderr_tail": []
+    }
+  ],
+  "fixes": []
+}

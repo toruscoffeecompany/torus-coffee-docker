@@ -1,0 +1,4 @@
+[0s] Clean (0 spawns)
+[20s] Clean (0 spawns)
+[28.8s] SPAWN #1
+[40s] Clean (1 spawns)

@@ -1,0 +1,3324 @@
+{
+  "6a76bb683d0991170b088b3b": {
+    "short_link": "TQkKBVsZ",
+    "name": "Recurring audit: Discord spam + ticket alerts + Sir Green bootstrap",
+    "desc": "Auto-indexed: Recurring audit: Discord spam + ticket alerts + Sir Green bootstrap\n\nPriority: P0\nBoard: Torus_Ops | List: P2 - Med High / This Week\nSource: automation\nTrello Card ID: 6a76bb683d0991170b088b3b\nIndexed: 2026-08-08T00:49:01.301549\nDue: 2026-08-09T00:49:00.950336\nFollow-up: 2026-08-08T00:49:00.950336\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n",
+    "dateLastActivity": "2026-08-08T06:01:29.433Z",
+    "due": "2026-08-09T00:49:00.950Z",
+    "labels": [
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      },
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T06:01:29.388Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T06:00:05.971Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:16:03.539Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:16:03.092Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a76a0dd2752cd79b5c24d47": {
+    "short_link": "w0gI4BuK",
+    "name": "P1: Archive Excalidraw/Scripts/Downloaded/ (172 files)",
+    "desc": "Auto-indexed: P1: Archive Excalidraw/Scripts/Downloaded/ (172 files)\n\nPriority: P0\nBoard: Torus_Ops | List: P1 - High / Doing Now\nSource: automation\nTrello Card ID: 6a76a0dd2752cd79b5c24d47\nIndexed: 2026-08-08T00:47:03.959130\nDue: 2026-08-09T00:47:03.607447\nFollow-up: 2026-08-08T00:47:03.607447\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n",
+    "dateLastActivity": "2026-08-08T05:47:07.783Z",
+    "due": "2026-08-09T00:47:03.607Z",
+    "labels": [
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      },
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T03:25:10.340Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T03:25:09.779Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a762813839d409994d663e5": {
+    "short_link": "j78qCBv7",
+    "name": "torus-inventory deployment blocked",
+    "desc": "Auto-indexed: torus-inventory deployment blocked\n\nPriority: P0\nBoard: Torus_Ops | List: P0 - Alert / Critical / Do Now\nSource: automation\nTrello Card ID: 6a717fb9e7f9706afc72de74\nIndexed: 2026-08-06T15:26:40.034756\nDue: 2026-08-07T15:26:39.605764\nFollow-up: 2026-08-06T15:26:39.605764\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P0 | Source=Sir Green's Queue | Fingerprint=f053c3d9432e | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T01:36:04.090057+00:00] Created review note torus_inventory_deployment_blocked_review.md\n\nSMART_TICKET review: moved back to P3 - Medium / Follow Up because work is not yet verified as complete.",
+    "dateLastActivity": "2026-08-08T05:58:13.902Z",
+    "due": "2026-08-09T00:46:17.511Z",
+    "labels": [
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:47:05.887Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:47:05.545Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T03:15:06.152Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:36:05.574Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:41:05.925Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:07:35.542Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T21:10:58.776Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:28:12.056Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:18:01.188Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:07:54.817Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:07:53.596Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:57:32.128Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:57:32.038Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:47:03.646Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a76281735fbe026273b3460": {
+    "short_link": "AxIrRTvk",
+    "name": "📨 DOCKER HUB PUSH RESULTS 5 OF 6 IMAGES PUSHED ALERT ROUTER BLOCKED 20260806T042800Z sirgreen.msg",
+    "desc": "Auto-indexed: 📨 DOCKER HUB PUSH RESULTS 5 OF 6 IMAGES PUSHED ALERT ROUTER BLOCKED 20260806T042800Z sirgreen.msg\n\nPriority: P0\nBoard: Torus_Ops | List: P0 - Alert / Critical / Do Now\nSource: automation\nTrello Card ID: 6a740f756f1842dccaacaacf\nIndexed: 2026-08-06T15:32:41.861802\nDue: 2026-08-07T15:32:41.534190\nFollow-up: 2026-08-06T15:32:41.534190\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P0 | Source=Sir Green's Queue | Fingerprint=ab691c5737c4 | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T01:38:13.025912+00:00] Created review note docker_hub_push_results_5_of_6_images_pushed_alert_router_blocked_20260806t04280_review.md\n\nSMART_TICKET review: moved back to P3 - Medium / Follow Up because work is not yet verified as complete.",
+    "dateLastActivity": "2026-08-08T05:58:14.416Z",
+    "due": "2026-08-09T00:46:22.148Z",
+    "labels": [
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:50:12.389Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:50:12.062Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T03:20:06.753Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:38:14.515Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:41:51.385Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:09:04.654Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T21:11:00.372Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:28:18.335Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:18:07.386Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:08:00.069Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:57:38.878Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:47:09.683Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a762818d5da329fde279451": {
+    "short_link": "XHMIZE7Z",
+    "name": "📨 DOCKER HUB PUSH STATUS SQUIDSTATION IMAGES PUSH BLOCKED BY AUTH 20260806T042700Z sirgreen.msg",
+    "desc": "Auto-indexed: 📨 DOCKER HUB PUSH STATUS SQUIDSTATION IMAGES PUSH BLOCKED BY AUTH 20260806T042700Z sirgreen.msg\n\nPriority: P0\nBoard: Torus_Ops | List: P0 - Alert / Critical / Do Now\nSource: automation\nTrello Card ID: 6a740f76b69d694d0de5519a\nIndexed: 2026-08-06T15:32:46.136329\nDue: 2026-08-07T15:32:45.785315\nFollow-up: 2026-08-06T15:32:45.785315\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P0 | Source=Sir Green's Queue | Fingerprint=84ad5c7447ee | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T01:38:46.733543+00:00] Created review note docker_hub_push_status_squidstation_images_push_blocked_by_auth_20260806t042700z_review.md\n\nSMART_TICKET review: moved back to P3 - Medium / Follow Up because work is not yet verified as complete.",
+    "dateLastActivity": "2026-08-08T05:58:14.991Z",
+    "due": "2026-08-09T00:46:58.133Z",
+    "labels": [
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:51:03.643Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:51:03.263Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T03:25:05.904Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:38:48.170Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:41:52.672Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:09:06.390Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T21:11:01.987Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:28:24.369Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:18:13.538Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:08:06.881Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:57:45.732Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:47:15.751Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a762819694f94ec8ae35ba5": {
+    "short_link": "PA0cXfnz",
+    "name": "📨 ALERT ROUTER REPO EXISTS BUT SQUIDSTATION LACKS WRITE PERMISSION 20260806T042900Z sirgreen.msg",
+    "desc": "Auto-indexed: 📨 ALERT ROUTER REPO EXISTS BUT SQUIDSTATION LACKS WRITE PERMISSION 20260806T042900Z sirgreen.msg\n\nPriority: P0\nBoard: Torus_Ops | List: P0 - Alert / Critical / Do Now\nSource: automation\nTrello Card ID: 6a7412a8a0a62a4318522360\nIndexed: 2026-08-06T15:32:50.235725\nDue: 2026-08-07T15:32:49.866678\nFollow-up: 2026-08-06T15:32:49.866678\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P0 | Source=Sir Green's Queue | Fingerprint=9ca60838eb61 | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T01:37:55.125628+00:00] Created review note alert_router_repo_exists_but_squidstation_lacks_write_permission_20260806t042900_review.md\n\nSMART_TICKET review: moved back to P3 - Medium / Follow Up because work is not yet verified as complete.",
+    "dateLastActivity": "2026-08-08T05:58:15.436Z",
+    "due": "2026-08-09T00:47:48.137Z",
+    "labels": [
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:48:08.102Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:48:07.742Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T03:30:06.612Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:37:56.606Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:41:07.256Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:08:19.274Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T21:11:03.524Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:28:30.441Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:18:19.742Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:08:13.660Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:57:52.378Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:47:22.116Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a76281b6f4e3f7f50a9fbcf": {
+    "short_link": "Y4ZukTiV",
+    "name": "📨 ONE ACTION GRANT WRITE ACCESS OR PROVIDE PAT FOR ALERT ROUTER 20260806T043000Z sirgreen.msg",
+    "desc": "Auto-indexed: 📨 ONE ACTION GRANT WRITE ACCESS OR PROVIDE PAT FOR ALERT ROUTER 20260806T043000Z sirgreen.msg\n\nPriority: P0\nBoard: Torus_Ops | List: P0 - Alert / Critical / Do Now\nSource: automation\nTrello Card ID: 6a7412aa6e540611ae143bb3\nIndexed: 2026-08-06T15:32:54.473984\nDue: 2026-08-07T15:32:54.123324\nFollow-up: 2026-08-06T15:32:54.123324\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P0 | Source=Sir Green's Queue | Fingerprint=705fa2d9c687 | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T01:38:50.249636+00:00] Created review note one_action_grant_write_access_or_provide_pat_for_alert_router_20260806t043000z_s_review.md\n\nSMART_TICKET review: moved back to P3 - Medium / Follow Up because work is not yet verified as complete.",
+    "dateLastActivity": "2026-08-08T05:58:15.860Z",
+    "due": "2026-08-09T00:48:14.925Z",
+    "labels": [
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:52:05.890Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:52:05.540Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T03:35:05.706Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:38:51.773Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:42:17.523Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:09:50.025Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T21:11:05.222Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:28:36.619Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:18:26.196Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:08:20.334Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:57:59.637Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:47:28.441Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a76281c1833984386f186a9": {
+    "short_link": "ZKN2PLUL",
+    "name": "📨 CODING ORDER DOCKER HUB WRITE ACCESS FOR ALERT ROUTER 20260806T051400Z sirgreen.msg",
+    "desc": "Auto-indexed: 📨 CODING ORDER DOCKER HUB WRITE ACCESS FOR ALERT ROUTER 20260806T051400Z sirgreen.msg\n\nPriority: P0\nBoard: Torus_Ops | List: P0 - Alert / Critical / Do Now\nSource: automation\nTrello Card ID: 6a741b3e351c95f7f412f683\nIndexed: 2026-08-06T15:33:02.773148\nDue: 2026-08-07T15:33:02.435689\nFollow-up: 2026-08-06T15:33:02.435689\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P0 | Source=Sir Green's Queue | Fingerprint=62eb311a9e56 | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T01:38:10.372729+00:00] Created review note coding_order_docker_hub_write_access_for_alert_router_20260806t051400z_sirgreen__review.md\n\nSMART_TICKET review: moved back to P3 - Medium / Follow Up because work is not yet verified as complete.",
+    "dateLastActivity": "2026-08-08T05:58:16.324Z",
+    "due": "2026-08-09T00:48:25.665Z",
+    "labels": [
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:49:10.277Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:49:09.910Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T03:45:06.511Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:38:11.783Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:41:32.160Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:08:21.015Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T21:11:06.764Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:29:05.011Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:18:54.934Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:08:27.112Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:58:06.125Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:47:34.853Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a76281e35758521a2952345": {
+    "short_link": "BhiiSMda",
+    "name": "🚨 [P1] Dashboard image blocked — need Docker Hub auth",
+    "desc": "Auto-indexed: 🚨 [P1] Dashboard image blocked — need Docker Hub auth\n\nPriority: P0\nBoard: Torus_Ops | List: P0 - Alert / Critical / Do Now\nSource: automation\nTrello Card ID: 6a74bfcb2e04916ab736f1c4\nIndexed: 2026-08-06T15:51:20.055698\nDue: 2026-08-07T15:51:19.619442\nFollow-up: 2026-08-06T15:51:19.619442\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P0 | Source=Sir Green's Queue | Fingerprint=67fc6b7cdd80 | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T01:39:57.992867+00:00] Created review note p1_dashboard_image_blocked_need_docker_hub_auth_review.md\n\nSMART_TICKET review: moved back to P3 - Medium / Follow Up because work is not yet verified as complete.",
+    "dateLastActivity": "2026-08-08T05:58:16.769Z",
+    "due": "2026-08-09T00:48:30.264Z",
+    "labels": [
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:55:12.615Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:55:12.252Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T03:50:06.299Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:39:59.531Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:43:02.957Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:10:37.166Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T21:11:08.285Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:29:11.371Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:19:01.212Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:08:33.606Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:58:14.939Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:47:41.475Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a7115f7e256159bc959b02b": {
+    "short_link": "gKd15Upx",
+    "name": "Webhook Event",
+    "desc": "Auto-indexed: Webhook Event\n\nPriority: P0\nBoard: Torus_Ops | List: P0 - Alert / Critical / Do Now\nSource: automation\nTrello Card ID: 6a7115f7e256159bc959b02b\nIndexed: 2026-08-06T15:27:41.339236\nDue: 2026-08-07T15:27:40.995631\nFollow-up: 2026-08-06T15:27:40.995631\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n",
+    "dateLastActivity": "2026-08-08T05:59:35.944Z",
+    "due": "2026-11-04T18:08:31.542Z",
+    "labels": [
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      },
+      {
+        "id": "6a74f1256610d382b219af9a",
+        "name": "Sir Azure's Queue",
+        "color": "purple"
+      },
+      {
+        "id": "6a74f1251af35023406e9302",
+        "name": "Sir Green's Queue",
+        "color": "green"
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T00:38:49.774Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:35:47.241Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:30:19.823Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T18:12:50.316Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T17:36:48.346Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T15:27:24.100Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T15:21:00.199Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T15:14:01.260Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T11:33:42.128Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T11:33:23.150Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T08:27:36.819Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T08:22:02.732Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T08:21:35.787Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T08:13:55.831Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T08:13:03.462Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T08:08:17.451Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T08:07:26.268Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T08:02:26.293Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T07:56:36.586Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T07:49:37.169Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T07:43:35.364Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T07:36:46.746Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T07:29:37.515Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T07:23:07.474Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T07:16:59.390Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T07:04:12.432Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T06:48:17.785Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T06:42:07.383Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T06:36:06.285Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T06:33:53.083Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T06:25:41.539Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T05:42:17.866Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T05:30:37.797Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T05:15:43.983Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T05:04:08.169Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T04:38:34.715Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T03:47:19.254Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T02:30:48.978Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T02:24:16.313Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-04T19:32:19.772Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-04T19:05:56.855Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-04T19:02:48.610Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-04T18:52:41.214Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-04T18:44:58.338Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-04T18:22:32.825Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-04T18:07:38.489Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-04T17:56:06.567Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-04T17:33:16.193Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-04T17:12:15.655Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-04T17:08:34.411Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a712bc79bc50687e977187a": {
+    "short_link": "CFPorXQp",
+    "name": "Deploy website to free hosting",
+    "desc": "Auto-indexed: Deploy website to free hosting\n\nPriority: P1\nBoard: Torus_Ops | List: P1 - High / Doing Now\nSource: automation\nTrello Card ID: 6a712bc79bc50687e977187a\nIndexed: 2026-08-06T15:52:47.754981\nDue: 2026-08-09T15:52:47.403442\nFollow-up: 2026-08-08T15:52:47.403442\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n## Work Summary\n[2026-08-08T02:09:49.433125+00:00] No executable directive found\n",
+    "dateLastActivity": "2026-08-08T06:00:13.271Z",
+    "due": "2026-08-11T02:09:48.877Z",
+    "labels": [
+      {
+        "id": "6a74f1256610d382b219af9a",
+        "name": "Sir Azure's Queue",
+        "color": "purple"
+      },
+      {
+        "id": "6a74f1251af35023406e9302",
+        "name": "Sir Green's Queue",
+        "color": "green"
+      },
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T06:00:13.219Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T06:00:12.759Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:09:50.843Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:10:49.937Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:09:01.389Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:06:57.958Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:04:53.681Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:02:49.890Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:01:10.104Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:00:45.119Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:58:40.778Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:56:35.977Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:54:31.917Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:52:27.956Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:50:23.642Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:48:20.145Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:46:16.665Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:44:12.649Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:42:09.118Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:40:46.806Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:40:05.577Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:38:58.059Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:56.470Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:28.098Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:26.212Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:23.072Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:21.485Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:19.832Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:18.017Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:16.238Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:14.487Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:12.947Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:10.932Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:09.305Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:07.316Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:05.601Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:03.974Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:02.375Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:00.586Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:36:58.959Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:36:57.482Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:36:55.689Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:36:52.841Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:36:50.252Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:36:48.341Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:36:44.632Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:36:41.499Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:36:37.914Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:36:34.936Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:36:31.450Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a74252aa4669a765afe7b1d": {
+    "short_link": "LOnD70oW",
+    "name": "[P2] Scan vault for broken wikilinks and duplicate names",
+    "desc": "Auto-indexed: [P2] Scan vault for broken wikilinks and duplicate names\n\nPriority: P3\nBoard: Torus_Ops | List: P3 - Medium / Follow Up\nSource: automation\nTrello Card ID: 6a74252aa4669a765afe7b1d\nIndexed: 2026-08-06T17:08:54.621229\nDue: 2026-08-20T17:08:54.248418\nFollow-up: 2026-08-16T17:08:54.248418\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n",
+    "dateLastActivity": "2026-08-08T06:02:09.861Z",
+    "due": "2026-08-20T18:20:24.519Z",
+    "labels": [
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T06:02:09.821Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T06:02:09.212Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:38:35.581Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T13:03:25.151Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:34:21.539Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:28:52.810Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T09:48:00.775Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T03:49:51.896Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-06T13:53:31.617Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a75890c6c69623853472e9e": {
+    "short_link": "Z1OSEfzz",
+    "name": "🔔 Alert automation: confirm Sir Green/Sir Azure read and act on inbox messages",
+    "desc": "Auto-indexed: 🔔 Alert automation: confirm Sir Green/Sir Azure read and act on inbox messages\n\nPriority: P0\nBoard: Torus_Ops | List: P0 - Alert / Critical / Do Now\nSource: automation\nTrello Card ID: 6a739253668494b0e06b9b12\nIndexed: 2026-08-06T15:26:03.604279\nDue: 2026-08-07T15:26:03.182212\nFollow-up: 2026-08-06T15:26:03.182212\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P0 | Source=Sir Green's Queue | Fingerprint=28201ba02bf7 | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T02:24:24.345449+00:00] Created review note alert_automation_confirm_sir_green_sir_azure_read_and_act_on_inbox_messages_review.md\n",
+    "dateLastActivity": "2026-08-08T05:49:11.038Z",
+    "due": "2026-08-09T00:45:54.760Z",
+    "labels": [
+      {
+        "id": "6a74dd6270c0f6efa9e07fd4",
+        "name": "sir-azure",
+        "color": "purple"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      },
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T02:48:21.519Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:48:21.195Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:24:25.806Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:15:03.189Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:04:05.443Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:33:49.913Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:37:42.891Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T09:50:58.812Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a75890e8dc27defd0a1ca9c": {
+    "short_link": "x85Cz8vq",
+    "name": "📨 Auto-alert when new PINKCADY inbox messages arrive",
+    "desc": "Auto-indexed: 📨 Auto-alert when new PINKCADY inbox messages arrive\n\nPriority: P0\nBoard: Torus_Ops | List: P0 - Alert / Critical / Do Now\nSource: automation\nTrello Card ID: 6a737d9af698abb26a7bbf80\nIndexed: 2026-08-06T15:26:21.511338\nDue: 2026-08-07T15:26:21.133859\nFollow-up: 2026-08-06T15:26:21.133859\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P0 | Source=Sir Green's Queue | Fingerprint=9d076d557388 | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T02:24:02.893020+00:00] Created review note auto_alert_when_new_pinkcady_inbox_messages_arrive_review.md\n",
+    "dateLastActivity": "2026-08-08T05:49:11.392Z",
+    "due": "2026-08-09T00:45:50.270Z",
+    "labels": [
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      },
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T02:46:03.413Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:46:03.073Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:24:04.447Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:20:03.200Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:12:08.425Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:47:21.802Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:47:21.753Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:33:50.862Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:37:43.550Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T09:50:59.831Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a7589103196cfb8339ed071": {
+    "short_link": "el29Ekda",
+    "name": "🔔 Build inbox-to-Trello/GitHub alert automation",
+    "desc": "Auto-indexed: 🔔 Build inbox-to-Trello/GitHub alert automation\n\nPriority: P0\nBoard: Torus_Ops | List: P0 - Alert / Critical / Do Now\nSource: automation\nTrello Card ID: 6a73a92ea47bb4292959dff9\nIndexed: 2026-08-06T15:31:22.887107\nDue: 2026-08-07T15:31:22.501754\nFollow-up: 2026-08-06T15:31:22.501754\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P0 | Source=Sir Green's Queue | Fingerprint=d06756ef68de | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T02:12:26.829162+00:00] Created review note build_inbox_to_trello_github_alert_automation_review.md\n",
+    "dateLastActivity": "2026-08-08T05:54:10.227Z",
+    "due": "2026-08-09T00:43:27.264Z",
+    "labels": [
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:54:10.198Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:54:09.861Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:12:28.253Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:10:03.306Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:00:01.877Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:20:39.775Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:03:46.605Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:33:52.159Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:37:44.131Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T09:51:01.023Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a75891ad087b6a6374f14b6": {
+    "short_link": "C62H03IE",
+    "name": "📨 [INBOX] sirazure security tools missing sirazure 20260806",
+    "desc": "Auto-indexed: 📨 [INBOX] sirazure security tools missing sirazure 20260806\n\nPriority: P0\nBoard: Torus_Ops | List: P0 - Alert / Critical / Do Now\nSource: automation\nTrello Card ID: 6a749235c87599438cc27313\nIndexed: 2026-08-06T15:50:41.094441\nDue: 2026-08-07T15:50:40.742457\nFollow-up: 2026-08-06T15:50:40.742457\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P0 | Source=Sir Green's Queue | Fingerprint=a80f795e14bc | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T02:30:09.575971+00:00] Created review note inbox_sirazure_security_tools_missing_sirazure_20260806_review.md\n",
+    "dateLastActivity": "2026-08-08T05:49:12.108Z",
+    "due": "2026-08-09T00:48:21.216Z",
+    "labels": [
+      {
+        "id": "6a74dd6270c0f6efa9e07fd4",
+        "name": "sir-azure",
+        "color": "purple"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      },
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T03:35:19.431Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T03:35:19.102Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:30:11.112Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:30:03.586Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:34:06.305Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:33:54.159Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:37:45.932Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T09:51:04.186Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a75891c3bcf75d5aa770214": {
+    "short_link": "NqP799aw",
+    "name": "📨 [INBOX] sirazure security deep dive summary sirazure 20260806",
+    "desc": "Auto-indexed: 📨 [INBOX] sirazure security deep dive summary sirazure 20260806\n\nPriority: P0\nBoard: Torus_Ops | List: P0 - Alert / Critical / Do Now\nSource: automation\nTrello Card ID: 6a74aaf0a8525afa91328254\nIndexed: 2026-08-06T15:50:50.611232\nDue: 2026-08-07T15:50:50.111340\nFollow-up: 2026-08-06T15:50:50.111340\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P0 | Source=Sir Green's Queue | Fingerprint=f8e222eb2345 | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T02:05:25.253365+00:00] Created review note inbox_sirazure_security_deep_dive_summary_sirazure_20260806_review.md\n",
+    "dateLastActivity": "2026-08-08T05:49:12.521Z",
+    "due": "2026-08-09T00:43:08.608Z",
+    "labels": [
+      {
+        "id": "6a74dd6270c0f6efa9e07fd4",
+        "name": "sir-azure",
+        "color": "purple"
+      },
+      {
+        "id": "6a762a193c8ad1d547683862",
+        "name": "miss-gordon",
+        "color": "orange"
+      },
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:44:08.931Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:44:08.532Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:05:26.778Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:05:03.319Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:03:25.585Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:54:20.436Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:33:55.011Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:37:46.579Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T09:51:05.149Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a75899de72bd0cf31beb36f": {
+    "short_link": "I1xncv58",
+    "name": "Test Critical System Alert",
+    "desc": "Auto-indexed: Test Critical System Alert\n\nPriority: P0\nBoard: Torus_Ops | List: Top 10 — Focus Fleet\nSource: automation\nTrello Card ID: 6a75899de72bd0cf31beb36f\nIndexed: 2026-08-08T00:45:59.591488\nDue: 2026-08-09T00:45:59.218521\nFollow-up: 2026-08-08T00:45:59.218521\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n",
+    "dateLastActivity": "2026-08-08T05:49:12.901Z",
+    "due": "2026-08-09T00:45:59.218Z",
+    "labels": [
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      },
+      {
+        "id": "6a74cc10430afd9940c72bae",
+        "name": "P0",
+        "color": "red"
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T02:49:25.173Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:49:24.815Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:25:08.776Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:25:03.225Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:21:57.294Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:01:44.745Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:01:44.596Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:33:56.924Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:37:48.053Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T09:51:07.163Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd440270147ff04bd5b",
+    "list_name": "P0"
+  },
+  "6a712fab76212a7d0361f7cb": {
+    "short_link": "kMrvv8Qo",
+    "name": "Set revenue milestone: first dollar from any stream",
+    "desc": "Auto-indexed: Set revenue milestone: first dollar from any stream\n\nPriority: Top 10\nBoard: Torus_Ops | List: Top 10 — Focus Fleet\nSource: automation\nTrello Card ID: 6a712fab76212a7d0361f7cb\nIndexed: 2026-08-06T15:24:34.765218\nDue: 2026-08-08T15:24:34.390019\nFollow-up: 2026-08-07T15:24:34.390019\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\nSMART_TICKET follow-up: 2026-08-21T17:21:51.604120+00:00\nReason: Milestone tracked in 03_Financials/Revenue_Milestone_Tracker.md; achievement depends on first external sale/order.\nAuto-cycled by smart_ticket_cycle.py",
+    "dateLastActivity": "2026-08-08T05:59:10.719Z",
+    "due": "2026-08-08T18:09:11.216Z",
+    "labels": [
+      {
+        "id": "6a74c9ad1518ad0f9e645fc5",
+        "name": "Top 10",
+        "color": "yellow"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:59:10.682Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:59:10.354Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:34:38.781Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:21:43.831Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:04:33.721Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T22:17:33.100Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:21:52.793Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:04:42.801Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:54:11.679Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:43:51.459Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T13:09:39.715Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:59:15.092Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:57:49.414Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:46:17.922Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:31:00.403Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:25:42.455Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:13:58.067Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T04:49:23.807Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T18:13:49.430Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T17:37:52.064Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T15:28:18.927Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T15:21:55.886Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T15:14:56.669Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T11:34:39.018Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T11:34:20.696Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T08:28:32.691Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T08:22:58.717Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T08:22:32.381Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T08:14:52.191Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T08:13:58.605Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T08:09:13.116Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T08:08:23.865Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T07:57:32.753Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T07:44:30.323Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T07:37:42.062Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T07:30:33.215Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T07:24:03.460Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T07:17:54.923Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T07:05:09.112Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T06:49:13.879Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T06:43:04.948Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T06:37:03.326Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T06:34:48.594Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T06:26:36.403Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T05:43:15.086Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T05:31:35.094Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T05:16:39.093Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T05:05:08.433Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T04:39:30.231Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T03:48:33.957Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd3aa052ed2b30c5644",
+    "list_name": "Top 10"
+  },
+  "6a712fac7a8a9649b153e078": {
+    "short_link": "U1Q2lavA",
+    "name": "Set revenue milestone: first paid tool upgrade",
+    "desc": "Auto-indexed: Set revenue milestone: first paid tool upgrade\n\nPriority: Top 10\nBoard: Torus_Ops | List: Top 10 — Focus Fleet\nSource: automation\nTrello Card ID: 6a712fac7a8a9649b153e078\nIndexed: 2026-08-06T15:24:39.401972\nDue: 2026-08-08T15:24:39.024697\nFollow-up: 2026-08-07T15:24:39.024697\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n## Work Summary\n[2026-08-08T01:33:57.548670+00:00] Created review note set_revenue_milestone_first_paid_tool_upgrade_review.md\n",
+    "dateLastActivity": "2026-08-08T06:01:07.343Z",
+    "due": "2026-08-08T18:09:14.181Z",
+    "labels": [
+      {
+        "id": "6a74c9ad1518ad0f9e645fc5",
+        "name": "Top 10",
+        "color": "yellow"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T06:01:07.311Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T06:01:06.977Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:33:58.973Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:09:30.089Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:59:08.039Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:56:28.742Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:40:14.752Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:37:51.152Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:27:02.244Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:13:24.444Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:05:08.296Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:01:56.742Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:41:22.902Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:21:59.561Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T22:51:04.018Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T22:18:10.415Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T21:57:43.019Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T21:55:25.628Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T21:48:01.894Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T21:09:31.016Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T21:08:00.136Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T21:06:52.253Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T20:43:17.043Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T20:26:00.634Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T20:11:00.592Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:25:29.830Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:15:15.127Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:05:06.540Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:54:54.874Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:44:49.259Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:34:45.551Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:24:36.225Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:52:23.728Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:33:21.788Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:04:50.506Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:54:33.573Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:44:00.952Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T13:09:45.783Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:59:15.857Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:57:56.178Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:46:24.390Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:31:01.321Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:25:43.506Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T04:49:24.203Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T18:13:51.335Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T17:37:55.967Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T15:28:20.609Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T15:21:57.565Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T15:14:58.349Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-05T11:34:40.792Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd3aa052ed2b30c5644",
+    "list_name": "Top 10"
+  },
+  "6a73c1df44ddb17b0142b8c9": {
+    "short_link": "LfZ5gtCL",
+    "name": "🐳 Sir Azure: ComfyUI/Redis/MinIO/Postgres/Nginx on SQUIDSTATION",
+    "desc": "# Sir Azure: ComfyUI/Redis/MinIO/Postgres/Nginx on SQUIDSTATION\n\nStack:\n- ComfyUI: AI image generation\n- Redis: job queue/cache\n- MinIO: local object storage\n- Postgres: metadata persistence\n- Nginx: reverse proxy\n\nFree-tier path:\n1. Use existing SQUIDSTATION Docker engine\n2. Create compose override or new compose file\n3. Bind-mount models to existing storage\n4. Expose only local network ports\n\nNext actions:\n1. Sir Azure to create `docker-compose.sir-azure.yml` on SQUIDSTATION\n2. Test ComfyUI UI on local port\n3. Add health checks and restart policies\n\n\n## Work Summary\n[2026-08-08T01:37:07.222473+00:00] Created review note sir_azure_comfyui_redis_minio_postgres_nginx_on_squidstation_review.md\n",
+    "dateLastActivity": "2026-08-08T06:05:19.262Z",
+    "due": "2026-08-09T18:19:50.619Z",
+    "labels": [
+      {
+        "id": "6a74dd6270c0f6efa9e07fd4",
+        "name": "sir-azure",
+        "color": "purple"
+      },
+      {
+        "id": "6a70acc569135c796d8eba5d",
+        "name": "P1",
+        "color": "red"
+      },
+      {
+        "id": "6a74c9ad1518ad0f9e645fc5",
+        "name": "Top 10",
+        "color": "yellow"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T06:05:19.221Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T06:05:18.858Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T06:05:04.292Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T06:00:07.619Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:37:08.646Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:40:18.968Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:03:28.163Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:54:18.116Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:43:05.850Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:25:11.073Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T21:57:47.487Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T20:11:44.181Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:25:37.881Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:15:24.603Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:05:16.381Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:55:04.659Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:44:57.135Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:34:53.824Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:24:43.932Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:52:32.864Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:38:26.494Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:04:57.844Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:54:40.593Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:44:24.762Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T13:09:50.951Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:59:16.651Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:58:03.102Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:47:42.138Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:31:02.104Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:25:44.226Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:14:42.227Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T05:02:33.003Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T04:58:37.855Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T04:47:58.019Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T03:51:41.487Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T03:40:56.050Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-06T13:53:16.484Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-06T13:52:49.047Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd3aa052ed2b30c5644",
+    "list_name": "Top 10"
+  },
+  "6a758916afae5cf53ccccf33": {
+    "short_link": "DBt9Lo9F",
+    "name": "📨 [INBOX] miss gordon docker blockers sirgreen 20260806",
+    "desc": "Auto-indexed: 📨 [INBOX] miss gordon docker blockers sirgreen 20260806\n\nPriority: Sir Green's Queue\nBoard: Torus_Ops | List: Sir Green's Queue\nSource: automation\nTrello Card ID: 6a7427769fc4707772173b79\nIndexed: 2026-08-06T16:52:40.084855\nDue: 2026-08-20T16:52:38.647139\nFollow-up: 2026-08-13T16:52:38.647139\nQueue: Sir Green's Queue\nCheck VOID Ops board for mirrored tracking card.\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P1 | Source=Sir Green's Queue | Fingerprint=64db87187c4c | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T01:39:14.090732+00:00] Created review note inbox_miss_gordon_docker_blockers_sirgreen_20260806_review.md\n",
+    "dateLastActivity": "2026-08-08T05:53:08.245Z",
+    "due": "2026-08-10T00:41:38.095Z",
+    "labels": [
+      {
+        "id": "6a762a193c8ad1d547683862",
+        "name": "miss-gordon",
+        "color": "orange"
+      },
+      {
+        "id": "6a74c9ad1518ad0f9e645fc5",
+        "name": "Top 10",
+        "color": "yellow"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:53:08.213Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:53:07.902Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:50:04.185Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:39:15.480Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:03:08.794Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:26:20.343Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:16:08.073Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:06:01.739Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:55:53.516Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:45:36.123Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:35:11.134Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:24:59.690Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:56:53.064Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:30:48.215Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:57:07.838Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:46:25.156Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T13:11:42.646Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T13:00:03.211Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:31:52.207Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:26:31.257Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd3aa052ed2b30c5644",
+    "list_name": "Top 10"
+  },
+  "6a7589189ca085ca8dce78a8": {
+    "short_link": "wBjiNiQX",
+    "name": "📨 [INBOX] trello api 401 invalid key blocker sirazure 20260806",
+    "desc": "Auto-indexed: 📨 [INBOX] trello api 401 invalid key blocker sirazure 20260806\n\nPriority: Sir Azure's Queue\nBoard: Torus_Ops | List: Sir Azure's Queue\nSource: automation\nTrello Card ID: 6a743e71593968be558fc522\nIndexed: 2026-08-06T16:44:52.332871\nDue: 2026-08-20T16:44:51.962462\nFollow-up: 2026-08-13T16:44:51.962462\nQueue: Sir Azure's Queue\nCheck VOID Ops board for mirrored tracking card.\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P1 | Source=Sir Green's Queue | Fingerprint=92a0110c2470 | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T01:39:55.181887+00:00] Created review note inbox_trello_api_401_invalid_key_blocker_sirazure_20260806_review.md\n",
+    "dateLastActivity": "2026-08-08T05:49:09.222Z",
+    "due": "2026-08-10T00:41:54.349Z",
+    "labels": [
+      {
+        "id": "6a74dd6270c0f6efa9e07fd4",
+        "name": "sir-azure",
+        "color": "purple"
+      },
+      {
+        "id": "6a74c9ad1518ad0f9e645fc5",
+        "name": "Top 10",
+        "color": "yellow"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:45:11.157Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:45:10.793Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:39:56.575Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:34:26.700Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:03:25.979Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:54:20.092Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:30:17.575Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:19:45.642Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:09:21.023Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:58:38.156Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:48:03.598Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:37:03.636Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:26:24.011Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:59:01.287Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:40:11.757Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:57:33.405Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:46:49.795Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T13:12:05.651Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T13:00:04.299Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:31:52.845Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:26:31.898Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd3aa052ed2b30c5644",
+    "list_name": "Top 10"
+  },
+  "6a758919687b61bbb3db9255": {
+    "short_link": "eki12c7i",
+    "name": "📨 [INBOX] trello api 401 invalid key blocker sirgreen 20260806",
+    "desc": "Auto-indexed: 📨 [INBOX] trello api 401 invalid key blocker sirgreen 20260806\n\nPriority: Sir Green's Queue\nBoard: Torus_Ops | List: Sir Green's Queue\nSource: automation\nTrello Card ID: 6a743e72a70fea3e45ea0ece\nIndexed: 2026-08-06T16:53:52.314564\nDue: 2026-08-20T16:53:51.935876\nFollow-up: 2026-08-13T16:53:51.935876\nQueue: Sir Green's Queue\nCheck VOID Ops board for mirrored tracking card.\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P1 | Source=Sir Green's Queue | Fingerprint=3d72e6891afd | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T01:40:10.820226+00:00] Created review note inbox_trello_api_401_invalid_key_blocker_sirgreen_20260806_review.md\n",
+    "dateLastActivity": "2026-08-08T05:49:09.742Z",
+    "due": "2026-08-10T00:41:59.416Z",
+    "labels": [
+      {
+        "id": "6a74c9ad1518ad0f9e645fc5",
+        "name": "Top 10",
+        "color": "yellow"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:46:03.380Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:46:03.017Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:40:14.251Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:40:03.426Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:48:41.016Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:19:40.105Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:29:33.176Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:18:48.619Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:07:35.104Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:57:12.061Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:57:11.823Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:46:25.896Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:36:00.611Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:25:29.666Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:58:19.375Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:39:25.687Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:57:57.963Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:47:14.159Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T13:12:30.578Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T13:00:05.257Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:31:53.713Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:26:32.521Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd3aa052ed2b30c5644",
+    "list_name": "Top 10"
+  },
+  "6a75891fe2e1acad47a8101d": {
+    "short_link": "da6AVCGc",
+    "name": "📨 [INBOX] sirgreen docker deep dive urgent sirgreen 20260806",
+    "desc": "Auto-indexed: 📨 [INBOX] sirgreen docker deep dive urgent sirgreen 20260806\n\nPriority: Sir Green's Queue\nBoard: Torus_Ops | List: Sir Green's Queue\nSource: automation\nTrello Card ID: 6a74b29c3044b7700aa7eb10\nIndexed: 2026-08-06T16:54:36.980732\nDue: 2026-08-20T16:54:36.570266\nFollow-up: 2026-08-13T16:54:36.570266\nQueue: Sir Green's Queue\nCheck VOID Ops board for mirrored tracking card.\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P1 | Source=Sir Green's Queue | Fingerprint=c4b814109802 | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T01:39:52.356972+00:00] Created review note inbox_sirgreen_docker_deep_dive_urgent_sirgreen_20260806_review.md\n",
+    "dateLastActivity": "2026-08-08T05:49:10.008Z",
+    "due": "2026-08-10T00:41:49.023Z",
+    "labels": [
+      {
+        "id": "6a762a193c8ad1d547683862",
+        "name": "miss-gordon",
+        "color": "orange"
+      },
+      {
+        "id": "6a74c9ad1518ad0f9e645fc5",
+        "name": "Top 10",
+        "color": "yellow"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:43:06.639Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:43:06.286Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:39:53.723Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:21:00.172Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:31:01.487Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:20:30.681Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:10:08.702Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:59:25.463Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:46:46.416Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:36:21.256Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:25:57.260Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:58:40.541Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:39:47.637Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:58:22.725Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:47:39.351Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T13:12:53.426Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T13:00:06.369Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:31:54.339Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:26:33.116Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd3aa052ed2b30c5644",
+    "list_name": "Top 10"
+  },
+  "6a7589217259b91d11ae66f1": {
+    "short_link": "QOsSORTv",
+    "name": "📨 [INBOX] sirazure re docker urgent findings sirazure 20260806",
+    "desc": "Auto-indexed: 📨 [INBOX] sirazure re docker urgent findings sirazure 20260806\n\nPriority: Sir Azure's Queue\nBoard: Torus_Ops | List: Sir Azure's Queue\nSource: automation\nTrello Card ID: 6a74b7ded796e13e1b72146e\nIndexed: 2026-08-06T16:45:25.968665\nDue: 2026-08-20T16:45:25.590747\nFollow-up: 2026-08-13T16:45:25.590747\nQueue: Sir Azure's Queue\nCheck VOID Ops board for mirrored tracking card.\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P1 | Source=Sir Green's Queue | Fingerprint=7b394d3ccc5b | Processed=2026-08-07\n\n## Work Summary\n[2026-08-08T01:39:48.749187+00:00] Created review note inbox_sirazure_re_docker_urgent_findings_sirazure_20260806_review.md\n",
+    "dateLastActivity": "2026-08-08T05:49:10.261Z",
+    "due": "2026-08-10T00:41:43.413Z",
+    "labels": [
+      {
+        "id": "6a74dd6270c0f6efa9e07fd4",
+        "name": "sir-azure",
+        "color": "purple"
+      },
+      {
+        "id": "6a74c9ad1518ad0f9e645fc5",
+        "name": "Top 10",
+        "color": "yellow"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:42:04.515Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:42:04.161Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:39:50.543Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:35:04.529Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T00:03:26.394Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T23:54:19.733Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:30:39.437Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:20:08.112Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T19:09:45.308Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:59:01.185Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:48:25.844Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:37:25.453Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T18:26:50.846Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:59:22.241Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:40:34.434Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:58:54.244Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T16:48:03.808Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T13:13:18.321Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T13:00:07.168Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:31:55.276Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:26:33.717Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd3aa052ed2b30c5644",
+    "list_name": "Top 10"
+  },
+  "6a75899f1baa64f29b78850a": {
+    "short_link": "codVorST",
+    "name": "Sir Azure: discover SQUIDSTATION and PINKCADY network shares from STEALTHATTACK",
+    "desc": "Auto-indexed: Sir Azure: discover SQUIDSTATION and PINKCADY network shares from STEALTHATTACK\n\nPriority: P1\nBoard: Torus_Ops | List: Torus Coffee Future Ideas\nSource: automation\nTrello Card ID: 6a752e3187f09dc67772c0a5\nIndexed: 2026-08-06T21:05:06.335557\nDue: 2026-08-09T21:05:05.967386\nFollow-up: 2026-08-08T21:05:05.967386\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P2 | Source=Sir Azure's Queue | Fingerprint=72c2fc411b08 | Processed=2026-08-07",
+    "dateLastActivity": "2026-08-08T06:10:04.416Z",
+    "due": "2026-08-11T00:38:19.129Z",
+    "labels": [
+      {
+        "id": "6a74dd6270c0f6efa9e07fd4",
+        "name": "sir-azure",
+        "color": "purple"
+      },
+      {
+        "id": "6a70acc569135c796d8eba5d",
+        "name": "P1",
+        "color": "red"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      },
+      {
+        "id": "6a74c9ad1518ad0f9e645fc5",
+        "name": "Top 10",
+        "color": "yellow"
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T06:10:04.363Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:40:04.427Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:39:06.153Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:39:05.661Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:09:05.512Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T13:02:26.981Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:33:35.068Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:28:05.830Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd3aa052ed2b30c5644",
+    "list_name": "Top 10"
+  },
+  "6a7589238a3983b8a50f08e8": {
+    "short_link": "pRdpRKKE",
+    "name": "📨 [INBOX] sirazure squidstation deploy reply sirazure 20260806",
+    "desc": "Auto-indexed: 📨 [INBOX] sirazure squidstation deploy reply sirazure 20260806\n\nPriority: P0\nBoard: Torus_Ops | List: P0 - Alert / Critical / Do Now\nSource: automation\nTrello Card ID: 6a74c4a39c558e4c08e1de87\nIndexed: 2026-08-06T15:51:25.009148\nDue: 2026-08-07T15:51:24.674626\nFollow-up: 2026-08-06T15:51:24.674626\n\n---\nCheck TRELLO_CARD_INDEX.json before creating similar cards.\n\n\n\n\n[Smart Ticket] Priority=P0 | Source=Sir Green's Queue | Fingerprint=fd47f256b211 | Processed=2026-08-07",
+    "dateLastActivity": "2026-08-08T05:58:08.436Z",
+    "due": "2026-08-10T00:45:21.854Z",
+    "labels": [
+      {
+        "id": "6a74dd6270c0f6efa9e07fd4",
+        "name": "sir-azure",
+        "color": "purple"
+      },
+      {
+        "id": "6a74c9ad1518ad0f9e645fc5",
+        "name": "Top 10",
+        "color": "yellow"
+      },
+      {
+        "id": "6a76966e5e0ef2596c6c7d67",
+        "name": "",
+        "color": null
+      }
+    ],
+    "members": [],
+    "comments": [
+      {
+        "date": "2026-08-08T05:58:08.402Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T05:58:08.033Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:37:38.374Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:37:38.038Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T02:35:03.438Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-08T01:59:04.255Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T17:33:55.934Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T12:37:47.289Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      },
+      {
+        "date": "2026-08-07T09:51:06.203Z",
+        "creator": "Torus Coffee Company",
+        "text": ""
+      }
+    ],
+    "list_id": "6a74cbd3aa052ed2b30c5644",
+    "list_name": "Top 10"
+  }
+}

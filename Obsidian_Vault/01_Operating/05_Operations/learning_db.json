@@ -1,0 +1,332 @@
+[
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T04:37:00Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T04:37:17Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T04:37:33Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T04:45:12Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T04:45:35Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T04:45:58Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T04:46:22Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T04:46:45Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T04:49:51Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T04:55:00Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T04:57:41Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T04:57:54Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T04:58:51Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T04:59:06Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T04:59:19Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:00:08Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:05:17Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:10:22Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:10:26Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:12:27Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:15:31Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:15:34Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:17:36Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:20:39Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:20:43Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:22:45Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:25:48Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:25:52Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:27:54Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:31:00Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:36:09Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:41:18Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:46:29Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:51:38Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T05:56:47Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T06:02:06Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T06:07:25Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T06:12:48Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T06:18:06Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T06:23:25Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T06:28:34Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T06:33:43Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T06:38:52Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T07:09:23Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T07:14:32Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T07:19:44Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T07:24:53Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T07:30:02Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T07:35:10Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T07:40:19Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T07:59:49Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T08:04:58Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T08:10:09Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T08:15:18Z",
+    "confidence": 0.85
+  },
+  {
+    "pattern": "escalate_blocker",
+    "result": "success",
+    "timestamp": "2026-08-20T08:20:30Z",
+    "confidence": 0.85
+  }
+]

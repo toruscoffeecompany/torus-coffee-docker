@@ -1,0 +1,137 @@
+{
+  "timestamp": "2026-08-09T03:30:30.899661",
+  "target": "127.0.0.1",
+  "total_tools": 21,
+  "accessible": 0,
+  "inaccessible": 21,
+  "tools": [
+    {
+      "tool": "CLI Tool",
+      "port": 9000,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Dashboard",
+      "port": 5000,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Auto-Healer",
+      "port": 9001,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Backup Verifier",
+      "port": 9002,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Capacity Planner",
+      "port": 9003,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Model Manager",
+      "port": 9004,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Performance Profiler",
+      "port": 9005,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Cost Analyzer",
+      "port": 9006,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Security Scanner",
+      "port": 9007,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Doc Generator",
+      "port": 9008,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Disaster Recovery",
+      "port": 9009,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Compliance Auditor",
+      "port": 9010,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Load Testing",
+      "port": 9011,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Log Aggregation",
+      "port": 9012,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Deployment Orchestrator",
+      "port": 9013,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Workload Balancer",
+      "port": 9014,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Config Manager",
+      "port": 9015,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Network Optimizer",
+      "port": 9016,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Distributed Tracer",
+      "port": 9017,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Secret Manager",
+      "port": 9018,
+      "accessible": false,
+      "error": "Connection refused"
+    },
+    {
+      "tool": "Fleet Backup",
+      "port": 9019,
+      "accessible": false,
+      "error": "Connection refused"
+    }
+  ],
+  "all_running": false,
+  "operational": false
+}

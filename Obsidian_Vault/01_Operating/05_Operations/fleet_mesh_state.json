@@ -1,0 +1,97 @@
+{
+  "fleet_mesh_state": {
+    "ships": {
+      "PINKCADY": {
+        "ip": "192.168.0.3",
+        "ts_ip": "100.106.235.103",
+        "role": "Torus Coffee Commander (Miss Pink)",
+        "status": "online",
+        "latency_ms": 0.0,
+        "loss_pct": 0.0,
+        "ports": {
+          "captain_api": false,
+          "crew_api": true,
+          "docker_api": true,
+          "rdp": true,
+          "http": false,
+          "https": false
+        },
+        "flaps": 0,
+        "last_check": "2026-08-10T05:36:00Z"
+      },
+      "SQUIDSTATION": {
+        "ip": "192.168.0.39",
+        "ts_ip": "100.83.247.14",
+        "role": "Captain's Flagship (Sir Green)",
+        "status": "stale",
+        "latency_ms": 2.0,
+        "loss_pct": 0.0,
+        "ports": {
+          "captain_api": false,
+          "crew_api": false,
+          "docker_api": false,
+          "rdp": true,
+          "http": false,
+          "https": false
+        },
+        "flaps": 0,
+        "last_check": "2026-08-10T05:36:00Z"
+      },
+      "STEALTHATTACK": {
+        "ip": "192.168.0.32",
+        "ts_ip": "100.110.238.68",
+        "role": "GPU Warfare (Sir Azure)",
+        "status": "stale",
+        "latency_ms": 6.0,
+        "loss_pct": 0.0,
+        "ports": {
+          "captain_api": false,
+          "crew_api": false,
+          "docker_api": true,
+          "rdp": true,
+          "http": false,
+          "https": false
+        },
+        "flaps": 0,
+        "last_check": "2026-08-10T05:36:00Z"
+      },
+      "GATEWAY": {
+        "ip": "192.168.0.1",
+        "ts_ip": "192.168.0.1",
+        "role": "Network Gateway",
+        "status": "online",
+        "healthy": true,
+        "score": 20
+      }
+    },
+    "live_status": {
+      "SQUIDSTATION": "stale",
+      "PINKCADY": "online",
+      "STEALTHATTACK": "stale",
+      "GATEWAY": "online"
+    },
+    "alerts": [
+      {
+        "severity": "warn",
+        "ship": "SQUIDSTATION",
+        "type": "CREW_API_DOWN",
+        "msg": "SQUIDSTATION ping-ok but crew_api:8090 DOWN — Sir Green needs to restart crew_api"
+      },
+      {
+        "severity": "warn",
+        "ship": "SQUIDSTATION",
+        "type": "DOCKER_API_DOWN",
+        "msg": "SQUIDSTATION Docker API port 2375 not responding — needs TLS/exposure config"
+      },
+      {
+        "severity": "warn",
+        "ship": "STEALTHATTACK",
+        "type": "CREW_API_DOWN",
+        "msg": "STEALTHATTACK ping-ok but crew_api:8090 DOWN — Sir Azure needs to deploy crew_api.py"
+      }
+    ],
+    "ships_online": 2,
+    "ships_healthy": 2,
+    "updated": "2026-08-10T05:36:00Z"
+  }
+}

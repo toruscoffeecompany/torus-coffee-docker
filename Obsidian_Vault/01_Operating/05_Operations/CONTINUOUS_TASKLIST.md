@@ -1,0 +1,716 @@
+# CONTINUOUS SELF-REPOPULATING TASKLIST
+Generated: 2026-08-07T11:36:03.778115Z
+Sources: Trello, GitHub, Vault Audit, Automation Status, Inbox
+
+## SUMMARY
+- Total tasks: 350
+- P1 (do now): 87
+- P2 (this week): 262
+- P3 (next week): 1
+
+## P1 — DO NOW
+- [GITHUB] [P1] Audit and reconcile D:\Work\Torus_Ops_bare.git with vault/GitHub
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/194
+- [GITHUB] [P1] Dashboard improvements for Sir Green's local network monitor
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/196
+- [GITHUB] [P1] Diagnose PINKCADY -> SQUIDSTATION dashboard connectivity
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/182
+- [GITHUB] [P1] FOLLOW-UP: Sir Green Trello Butler automation metadata request sent
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/189
+- [GITHUB] [P1] FOLLOW-UP: Sir Green action required — share VOID Ops Trello board metadata
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/174
+- [GITHUB] [P1] FOLLOW-UP: Sir Green action required — start dashboard_server.py
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/173
+- [GITHUB] [P1] FOLLOW-UP: Sir Green exact dashboard test commands sent
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/188
+- [GITHUB] [P1] Fix Trello API auth for toruscoffeecompany — invalid key 401
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/181
+- [GITHUB] [P1] Full Obsidian vault deep-dive audit + organization improvements
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/195
+- [GITHUB] [P1] Obsidian plugin deep-dive audit + improvement plan
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/156
+- [GITHUB] [P1] Restore dashboard on localhost:8080/8089 for all crew computers
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/170
+- [GITHUB] [P1] Trello board audit + priority reassessment
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/155
+- [TRELLO] Create Discord server
+  - https://trello.com/c/XeH1Y6TN/143-create-discord-server
+- [TRELLO] Customer Order Fulfillment — July Batch
+  - https://trello.com/c/1EdoruFJ/14-customer-order-fulfillment-july-batch
+- [TRELLO] DEPLOY.md created
+  - https://trello.com/c/EFX0QWc8/272-deploymd-created
+- [TRELLO] Deploy website to Vercel
+  - https://trello.com/c/TN5Um5Dj/141-deploy-website-to-vercel
+- [TRELLO] Deploy website to free hosting
+  - https://trello.com/c/CFPorXQp/230-deploy-website-to-free-hosting
+- [TRELLO] Docker connection established
+  - https://trello.com/c/AHsURV9o/352-docker-connection-established
+- [TRELLO] Docker context torus-squidstation active
+  - https://trello.com/c/V6bYINrA/361-docker-context-torus-squidstation-active
+- [TRELLO] Fix Next.js build error
+  - https://trello.com/c/Ywrdy1FZ/321-fix-nextjs-build-error
+- [TRELLO] Fixed 12 broken Task Scheduler paths
+  - https://trello.com/c/UnrF7Nil/259-fixed-12-broken-task-scheduler-paths
+- [TRELLO] Freeze-Dried Production SOP - Complete
+  - https://trello.com/c/2zHKzHk1/75-freeze-dried-production-sop-complete
+- [TRELLO] Hire Staff
+  - https://trello.com/c/JPZsdcXJ/2-hire-staff
+- [TRELLO] QC Coffee Cupping — New Ethiopian Lot
+  - https://trello.com/c/t0vpsCLP/15-qc-coffee-cupping-new-ethiopian-lot
+- [TRELLO] Research free inventory tools (Square/Zoho/Sortly)
+  - https://trello.com/c/cU4h1y6E/135-research-free-inventory-tools-square-zoho-sortly
+- [TRELLO] SIR_GREEN_DEPLOYMENT_PROMPT created
+  - https://trello.com/c/1VPr4R93/362-sirgreendeploymentprompt-created
+- [TRELLO] Safety Protocol Update — Kitchen Equipment
+  - https://trello.com/c/7fSgoD8C/16-safety-protocol-update-kitchen-equipment
+- [TRELLO] Setup Cloudflare DNS/CDN
+  - https://trello.com/c/a1Sx17SZ/142-setup-cloudflare-dns-cdn
+- [TRELLO] Setup Square Payments
+  - https://trello.com/c/xPbgKTE6/5-setup-square-payments
+- [TRELLO] Setup Square payment links
+  - https://trello.com/c/NRTZGA3f/96-setup-square-payment-links
+- [TRELLO] Square Developer account setup walkthrough
+  - https://trello.com/c/9FuCBGfs/28-square-developer-account-setup-walkthrough
+- [TRELLO] Supplier Contract Renewal — Green Coffee Imports
+  - https://trello.com/c/IDkU2khn/7-supplier-contract-renewal-green-coffee-imports
+- [TRELLO] TORUS_DOCKER_CONTAINER_REQUIREMENTS.md created
+  - https://trello.com/c/fARLci2q/363-torusdockercontainerrequirementsmd-created
+- [TRELLO] Test freeze-dried SOP in production
+  - https://trello.com/c/gmGgzyUM/85-test-freeze-dried-sop-in-production
+- [TRELLO] Website launch — Square payment links first, OAuth later
+  - https://trello.com/c/9EhDKnVx/30-website-launch-square-payment-links-first-oauth-later
+- [TRELLO] Write freeze-dried production SOP
+  - https://trello.com/c/psI7Rkiz/102-write-freeze-dried-production-sop
+- [TRELLO] [P1] .env.example template for fleet services
+  - https://trello.com/c/ceFfoApK/503-p1-envexample-template-for-fleet-services
+- [TRELLO] [P1] Add .dockerignore to all service dirs
+  - https://trello.com/c/luqWeCVU/504-p1-add-dockerignore-to-all-service-dirs
+- [TRELLO] [P1] Dashboard automation reporting: feed status from OODA/verifier/heartbeat
+  - https://trello.com/c/pKTKyn6Y/524-p1-dashboard-automation-reporting-feed-status-from-ooda-verifier-heartbeat
+- [TRELLO] [P1] Fix CrowdSec 404 on dashboard
+  - https://trello.com/c/XsMj5X9c/526-p1-fix-crowdsec-404-on-dashboard
+- [TRELLO] [P1] Fix TorusPOS 404 on dashboard
+  - https://trello.com/c/pcAOTCYG/527-p1-fix-toruspos-404-on-dashboard
+- [TRELLO] [P1] Import QuickAdd macros from quickadd_macros.json into active data.json
+  - https://trello.com/c/lxjcCQ9G/545-p1-import-quickadd-macros-from-quickaddmacrosjson-into-active-datajson
+- [TRELLO] [P1] Process Sir Azure inbox backlog: 21 unprocessed items
+  - https://trello.com/c/QdGvVy8t/525-p1-process-sir-azure-inbox-backlog-21-unprocessed-items
+- [TRELLO] [P1] Reinstall missing Obsidian plugins: periodic-notes, table-editor-obsidian, obsidian-livesync
+  - https://trello.com/c/9fN0NZBN/544-p1-reinstall-missing-obsidian-plugins-periodic-notes-table-editor-obsidian-obsidian-livesync
+- [TRELLO] [P1] torus-alert-router: implement Discord/Gmail/Obsidian integrations
+  - https://trello.com/c/76CcRoSS/515-p1-torus-alert-router-implement-discord-gmail-obsidian-integrations
+- [TRELLO] [P1] torus-inventory: deploy fixed FastAPI image on SQUIDSTATION
+  - https://trello.com/c/t9njd29A/513-p1-torus-inventory-deploy-fixed-fastapi-image-on-squidstation
+- [TRELLO] [P1] torus-website: build Next.js + Dockerfile + push image
+  - https://trello.com/c/lwtOQrUc/502-p1-torus-website-build-nextjs-dockerfile-push-image
+- [TRELLO] [P1] torus-website: build Next.js + Dockerfile.prod + push image
+  - https://trello.com/c/XBMfHlwt/514-p1-torus-website-build-nextjs-dockerfileprod-push-image
+- [TRELLO] [P2] Add webhook/log/volume/Kubernetes metrics to dashboard
+  - https://trello.com/c/6b4Va3vi/530-p2-add-webhook-log-volume-kubernetes-metrics-to-dashboard
+- [TRELLO] [P2] DEPLOYMENT_RUNBOOK.md
+  - https://trello.com/c/hBeRxze6/519-p2-deploymentrunbookmd
+- [TRELLO] [P2] DEPLOY_FLEET.ps1 master deployment script
+  - https://trello.com/c/Mykhh1o3/518-p2-deployfleetps1-master-deployment-script
+- [TRELLO] [P2] Fix Templater + Periodic Notes template paths
+  - https://trello.com/c/Ugcqbg3e/546-p2-fix-templater-periodic-notes-template-paths
+- [TRELLO] [P2] Investigate Suricata alert: empty message
+  - https://trello.com/c/RTD91NMN/528-p2-investigate-suricata-alert-empty-message
+- [TRELLO] [P2] Multi-stage Dockerfiles for Python services
+  - https://trello.com/c/qiU0QoAF/505-p2-multi-stage-dockerfiles-for-python-services
+- [TRELLO] [P2] Scan vault for broken wikilinks and duplicate names
+  - https://trello.com/c/LOnD70oW/549-p2-scan-vault-for-broken-wikilinks-and-duplicate-names
+- [TRELLO] [P2] torus-alert-router: implement Discord/Gmail/Obsidian integrations
+  - https://trello.com/c/3i23rWMz/506-p2-torus-alert-router-implement-discord-gmail-obsidian-integrations
+- [TRELLO] [P2] torus-dashboard: add pirate_dashboard.html UI at /
+  - https://trello.com/c/Zboz5DX3/507-p2-torus-dashboard-add-piratedashboardhtml-ui-at
+- [TRELLO] [P3] Add alertmanager for Prometheus + Discord webhooks
+  - https://trello.com/c/T1pCv2FH/532-p3-add-alertmanager-for-prometheus-discord-webhooks
+- [TRELLO] [P3] Kubernetes enablement on PINKCADY/SQUIDSTATION
+  - https://trello.com/c/myp3ry8Q/511-p3-kubernetes-enablement-on-pinkcady-squidstation
+- [TRELLO] [P3] Max out Docker automation: webhooks, logs, volumes, Kubernetes
+  - https://trello.com/c/VkLK1x7M/523-p3-max-out-docker-automation-webhooks-logs-volumes-kubernetes
+- [TRELLO] [P3] Non-root users + security hardening
+  - https://trello.com/c/IWnMI6Vm/510-p3-non-root-users-security-hardening
+- [TRELLO] torus-inventory deployment blocked
+  - https://trello.com/c/Qk5wmgOs/355-torus-inventory-deployment-blocked
+- [TRELLO] torus-inventory fixed and deployed
+  - https://trello.com/c/veIg0h0g/358-torus-inventory-fixed-and-deployed
+- [TRELLO] torus-pos deployed and healthy
+  - https://trello.com/c/jit1xEfr/357-torus-pos-deployed-and-healthy
+- [TRELLO] 🐛 #256 Dashboard truthfulness verification
+  - https://trello.com/c/Oy9scYux/432-%F0%9F%90%9B-256-dashboard-truthfulness-verification
+- [TRELLO] 🐳 Sir Azure: ComfyUI/Redis/MinIO/Postgres/Nginx on SQUIDSTATION
+  - https://trello.com/c/LfZ5gtCL/429-%F0%9F%90%B3-sir-azure-comfyui-redis-minio-postgres-nginx-on-squidstation
+- [TRELLO] 🐳 Sir Green: build Docker automation stack on SQUIDSTATION
+  - https://trello.com/c/EvI7Ke19/403-%F0%9F%90%B3-sir-green-build-docker-automation-stack-on-squidstation
+- [TRELLO] 🐳 [P1] Build torus-light Docker stack from Sir Green's fleet pattern
+  - https://trello.com/c/RlrEYSZu/479-%F0%9F%90%B3-p1-build-torus-light-docker-stack-from-sir-greens-fleet-pattern
+- [TRELLO] 🐳 [P1] Docker Desktop virtualization mode
+  - https://trello.com/c/KIfaApSM/467-%F0%9F%90%B3-p1-docker-desktop-virtualization-mode
+- [TRELLO] 🐳 [P1] Miss Pink Docker fixes: .dockerignore, multi-stage, restart policies, volumes
+  - https://trello.com/c/H3LCTVrn/498-%F0%9F%90%B3-p1-miss-pink-docker-fixes-dockerignore-multi-stage-restart-policies-volumes
+- [TRELLO] 📡 [P1] PINKCADY ↔ STEALTHATTACK Docker networking
+  - https://trello.com/c/WMxz1DtR/471-%F0%9F%93%A1-p1-pinkcady-%E2%86%94-stealthattack-docker-networking
+- [TRELLO] 📦 [P1] Push toruscoffee/torus-alert-router:latest to Docker Hub
+  - https://trello.com/c/1L0rjxFh/480-%F0%9F%93%A6-p1-push-toruscoffee-torus-alert-routerlatest-to-docker-hub
+- [TRELLO] 🔍 Sir Green: extract torus-dashboard details from Squidstation Obsidian vault
+  - https://trello.com/c/nURRFSD1/413-%F0%9F%94%8D-sir-green-extract-torus-dashboard-details-from-squidstation-obsidian-vault
+- [TRELLO] 🔐 Security hardening: DARPA-level hive mind mesh
+  - https://trello.com/c/BQAtAO6a/441-%F0%9F%94%90-security-hardening-darpa-level-hive-mind-mesh
+- [TRELLO] 🔒 Admin elevation required for choco install on PINKCADY
+  - https://trello.com/c/GMuZzaMX/431-%F0%9F%94%92-admin-elevation-required-for-choco-install-on-pinkcady
+- [TRELLO] 🔗 [P1] PINKCADY ↔ SQUIDSTATION Docker networking
+  - https://trello.com/c/xloNcAJY/484-%F0%9F%94%97-p1-pinkcady-%E2%86%94-squidstation-docker-networking
+- [TRELLO] 🔧 #247 Security tools installer report + blocker update
+  - https://trello.com/c/SOo0kb5w/437-%F0%9F%94%A7-247-security-tools-installer-report-blocker-update
+- [TRELLO] 🔧 [P1] Post-boot: enable Hyper-V + WSL2 + Containers
+  - https://trello.com/c/sOvAc3cr/466-%F0%9F%94%A7-p1-post-boot-enable-hyper-v-wsl2-containers
+- [TRELLO] 🖥️ PINKCADY virtualization setup: enable AMD-V/SVM in BIOS
+  - https://trello.com/c/Ehi3FROk/462-%F0%9F%96%A5%EF%B8%8F-pinkcady-virtualization-setup-enable-amd-v-svm-in-bios
+- [TRELLO] 🖥️ [P1] Reboot PINKCADY + enable SVM Mode in BIOS
+  - https://trello.com/c/inq2u7uP/463-%F0%9F%96%A5%EF%B8%8F-p1-reboot-pinkcady-enable-svm-mode-in-bios
+- [TRELLO] 🚨 VOID Pirate Trading Co GitHub access BLOCKED (403)
+  - https://trello.com/c/jDINEWum/438-%F0%9F%9A%A8-void-pirate-trading-co-github-access-blocked-403
+- [TRELLO] 🛡️ [P1] Local Network Monitoring Super Defense Dashboard — Sir Green improvements
+  - https://trello.com/c/NVeP14L8/501-%F0%9F%9B%A1%EF%B8%8F-p1-local-network-monitoring-super-defense-dashboard-sir-green-improvements
+- [TRELLO] 🤖 #259 Discord bot token wiring into crew_map.json/vault config
+  - https://trello.com/c/2HHs065O/433-%F0%9F%A4%96-259-discord-bot-token-wiring-into-crewmapjson-vault-config
+- [TRELLO] 🤖 Discord bot token + Torus Coffee server invite
+  - https://trello.com/c/cMV8dSYt/428-%F0%9F%A4%96-discord-bot-token-torus-coffee-server-invite
+- [TRELLO] 🤖 Sir Azure: Discord bot + Trello watcher automation
+  - https://trello.com/c/LZZitNpr/439-%F0%9F%A4%96-sir-azure-discord-bot-trello-watcher-automation
+- [TRELLO] 🧠 [P1] Enable XMP/DOCP for Corsair 3200 RAM
+  - https://trello.com/c/PIDI0W3z/464-%F0%9F%A7%A0-p1-enable-xmp-docp-for-corsair-3200-ram
+- [TRELLO] 🧪 Automated verification daemon for crew promises
+  - https://trello.com/c/3flLe1cf/440-%F0%9F%A7%AA-automated-verification-daemon-for-crew-promises
+
+## P2 — THIS WEEK
+- [AUTOMATION] Complete automation: ooda — timeout after 30s; slow network/API calls
+- [AUTOMATION] Complete automation: verifier — timeout after 30s; slow network/API calls
+- [GITHUB] [P2] Automate recurring Trello/GitHub/Obsidian audit cadence
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/157
+- [GITHUB] [P2] Automate recurring vault audit + plugin drift detection
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/199
+- [GITHUB] [P2] Draw automation architecture diagram for crew
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/200
+- [GITHUB] [P2] Excalidraw diagram: Torus Coffee fleet architecture
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/187
+- [GITHUB] [P2] FOLLOW-UP: Sir Azure action required — Docker overlay preference
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/176
+- [GITHUB] [P2] FOLLOW-UP: Sir Azure action required — Livesync peer name
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/175
+- [GITHUB] [P2] Obsidian plugin improvements: apply quick wins to live vault
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/186
+- [GITHUB] [P2] Obsidian: configure Tasks plugin with project folders
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/160
+- [GITHUB] [P2] Obsidian: dataview automation dashboard
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/162
+- [GITHUB] [P2] Obsidian: enable linter-on-save + standardize settings
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/159
+- [GITHUB] [P2] Obsidian: livesync peer setup for PINKCADY crew
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/163
+- [GITHUB] [P2] Obsidian: quickadd macro expansion for crew comms
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/161
+- [GITHUB] [P2] Sir Azure: please share your Obsidian vault plugin config
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/198
+- [GITHUB] [P2] Sir Green: please share your VOID Ops dashboard plugin/add-on list
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/197
+- [GITHUB] [P2] Trello Top 10 automation: rolling priority list for Torus_Ops
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/171
+- [GITHUB] [P2] Trello board improvements: apply VOID Ops structure to Torus_Ops
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/185
+- [GITHUB] 📨 Inbox: FLEET VERIFIED LOCALLY SQUIDSTATION PUSH OR SWARM NEEDED 20260806T041800Z misspink.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/140
+- [GITHUB] 📨 Inbox: NEXT ACTIONS EVIDENCE DOCKER MESH GPU CONNECTIVITY 20260806T041800Z misspink.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/109
+- [GITHUB] 📨 Inbox: ONE ACTION REQUIRED DASHBOARD CURLS AND DOCKER EVIDENCE 20260806T043000Z sirgreen.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/110
+- [GITHUB] 📨 Inbox: RE CAPTAIN DASHBOARD 8080 NPM DEFAULT AND CREW VALIDATION 20260806T014500Z sirgreen.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/111
+- [GITHUB] 📨 Inbox: RE DOCKER CONNECTION GUIDE AND STEALTHATTACK SETUP 20260806T025500Z misspink.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/112
+- [GITHUB] 📨 Inbox: RE FULL AUTOMATION BOOTSTRAP POST BIOS READY AND DOCKER MESH 20260806T012500Z sirgreen.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/125
+- [GITHUB] 📨 Inbox: RE PINKCADY VIRTUALIZATION SETUP PLAN AND STEALTHATTACK COORDINATION 20260806T002500Z misspink.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/126
+- [GITHUB] 📨 Inbox: RE STEALTHATTACK COORDINATION AND DOCKER MESH 20260806T003000Z sirgreen.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/127
+- [GITHUB] 📨 Inbox: RE TORUS LIGHT FLEET LIVE ON PINKCADY AND STEALTHATTACK NEXT STEPS 20260806T030500Z misspink.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/128
+- [GITHUB] 📨 Inbox: RE UNIFIED DASHBOARD DECISION ONE DASHBOARD ONLY 20260806T011800Z misspink.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/129
+- [GITHUB] 📨 Inbox: RE UNIFIED DASHBOARD DECISION ONE DASHBOARD ONLY 20260806T012800Z sirgreen.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/130
+- [GITHUB] 📨 Inbox: REMINDER DOCKER DESKTOP TAILSCALE AND DASHBOARD EVIDENCE STILL NEEDED 20260806T042700Z sirgreen.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/131
+- [GITHUB] 📨 Inbox: STATUS UPDATE DASHBOARD 8080 FIXED PLUGIN AUDIT PENDING AND DISCORD TOKEN BLOCKER 20260806T024500Z sirgreen.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/133
+- [GITHUB] 📨 Inbox: STATUS UPDATE MISS PINK BUILDING TORUS DOCKER CONTAINERS DASHBOARD 8089 AND YOUR ACTIONS 20260806T042400Z sirgreen.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/134
+- [GITHUB] 📨 Inbox: STEALTHATTACK BIG SURPRISE AND LAST MISSING ITEMS 20260806T012000Z sirgreen.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/135
+- [GITHUB] 📨 Inbox: TORUS FLEET LIVE ON PINKCADY DOCKER MESH STEPS AND DASHBOARD RETEST 20260806T031500Z sirgreen.msg
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/136
+- [GITHUB] 📨 Inbox: board audit obsidian deepdive and asks sirazure 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/165
+- [GITHUB] 📨 Inbox: board audit obsidian deepdive and asks sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/168
+- [GITHUB] 📨 Inbox: dashboard gaps sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/137
+- [GITHUB] 📨 Inbox: dashboard improvements sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/138
+- [GITHUB] 📨 Inbox: dashboard port and swarm decision sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/152
+- [GITHUB] 📨 Inbox: docker compose sync sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/139
+- [GITHUB] 📨 Inbox: followup dashboard top10 trello voidops sirazure 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/177
+- [GITHUB] 📨 Inbox: followup dashboard top10 trello voidops sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/179
+- [GITHUB] 📨 Inbox: miss gordon docker blockers sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/141
+- [GITHUB] 📨 Inbox: miss gordon k8s jobs cronjobs sirazure 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/166
+- [GITHUB] 📨 Inbox: miss gordon k8s jobs cronjobs sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/169
+- [GITHUB] 📨 Inbox: miss gordon review action plan sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/142
+- [GITHUB] 📨 Inbox: miss pink dashboard top10 trello voidops ask sirazure 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/178
+- [GITHUB] 📨 Inbox: miss pink dashboard top10 trello voidops ask sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/180
+- [GITHUB] 📨 Inbox: new trello git cards for docker webhooks k8s sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/143
+- [GITHUB] 📨 Inbox: obsidian plugin completion webhook retry sirazure 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/146
+- [GITHUB] 📨 Inbox: obsidian plugin completion webhook retry sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/148
+- [GITHUB] 📨 Inbox: ooda plugin automation complete sirgreen 20260806T0624Z
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/149
+- [GITHUB] 📨 Inbox: ooda plugin automation update sirgreen 20260806T0624Z
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/147
+- [GITHUB] 📨 Inbox: pink docker build push and single ask sirazure 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/151
+- [GITHUB] 📨 Inbox: pink docker build push and single ask sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/153
+- [GITHUB] 📨 Inbox: pinkcady dashboard connectivity checklist sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/183
+- [GITHUB] 📨 Inbox: pinkcady dashboard test commands sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/190
+- [GITHUB] 📨 Inbox: process sir azure inbox backlog sirazure 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/123
+- [GITHUB] 📨 Inbox: sirgreen trello automation questions sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/184
+- [GITHUB] 📨 Inbox: sirgreen trello butler automation request sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/191
+- [GITHUB] 📨 Inbox: torus dashboard multistage push sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/144
+- [GITHUB] 📨 Inbox: trello api 401 invalid key blocker sirazure 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/192
+- [GITHUB] 📨 Inbox: trello api 401 invalid key blocker sirgreen 20260806
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/193
+- [GITHUB] 📨 Inbox: verify claimed changes and asks sirgreen 20260806T0645Z
+  - https://github.com/toruscoffeecompany/Torus_Ops/issues/167
+- [TRELLO] About page created
+  - https://trello.com/c/gFcSg3CS/267-about-page-created
+- [TRELLO] Add Buffer retry/error handling
+  - https://trello.com/c/jNtGqcsI/188-add-buffer-retry-error-handling
+- [TRELLO] Add Google Analytics
+  - https://trello.com/c/ms8bHBwX/275-add-google-analytics
+- [TRELLO] Add Zapier retry/backoff logic
+  - https://trello.com/c/88AYZ7tc/192-add-zapier-retry-backoff-logic
+- [TRELLO] Add authentication to website
+  - https://trello.com/c/B9u346dn/229-add-authentication-to-website
+- [TRELLO] Add product images
+  - https://trello.com/c/1QhpTMLJ/274-add-product-images
+- [TRELLO] Add retry logic and error handling to all scripts
+  - https://trello.com/c/FxL7ZfzE/200-add-retry-logic-and-error-handling-to-all-scripts
+- [TRELLO] Add success/failure logging to Task Scheduler jobs
+  - https://trello.com/c/4dgQnsYZ/203-add-success-failure-logging-to-task-scheduler-jobs
+- [TRELLO] Added requirements.txt for venv
+  - https://trello.com/c/swP6ISys/263-added-requirementstxt-for-venv
+- [TRELLO] Bug hunt inventory_tracker.py
+  - https://trello.com/c/UtfE725W/207-bug-hunt-inventorytrackerpy
+- [TRELLO] Build HubSpot import script for vault contacts
+  - https://trello.com/c/Ns62DVAm/196-build-hubspot-import-script-for-vault-contacts
+- [TRELLO] Build Trello board widget
+  - https://trello.com/c/8Jg9q031/227-build-trello-board-widget
+- [TRELLO] Build buffer_automation.py
+  - https://trello.com/c/AopgY5Ug/125-build-bufferautomationpy
+- [TRELLO] Build inventory → website sync
+  - https://trello.com/c/0OYJ71KS/309-build-inventory-%E2%86%92-website-sync
+- [TRELLO] Build logging/reporting system for all automations
+  - https://trello.com/c/rvsAW44W/199-build-logging-reporting-system-for-all-automations
+- [TRELLO] Build order management workflow
+  - https://trello.com/c/NmaLIqCw/308-build-order-management-workflow
+- [TRELLO] Build social media automation script
+  - https://trello.com/c/ysRbXiQS/109-build-social-media-automation-script
+- [TRELLO] Build unified automation orchestrator script
+  - https://trello.com/c/6m4qceN4/197-build-unified-automation-orchestrator-script
+- [TRELLO] Build vault sync status widget
+  - https://trello.com/c/ugOAqeJf/226-build-vault-sync-status-widget
+- [TRELLO] Build zapier_automation.py
+  - https://trello.com/c/CSVLzdBI/123-build-zapierautomationpy
+- [TRELLO] Choose payment processor
+  - https://trello.com/c/XrfS8E3Q/313-choose-payment-processor
+- [TRELLO] Choose payment processor alternative
+  - https://trello.com/c/UVCxEnSv/319-choose-payment-processor-alternative
+- [TRELLO] Clean up Zapier Zaps in UI
+  - https://trello.com/c/wEhACwcq/293-clean-up-zapier-zaps-in-ui
+- [TRELLO] Coffee Bean Sourcing — Ethiopian Lot Approval
+  - https://trello.com/c/RtFYLYb3/23-coffee-bean-sourcing-ethiopian-lot-approval
+- [TRELLO] Commit all build changes to Torus_Ops
+  - https://trello.com/c/iCiyR1an/214-commit-all-build-changes-to-torusops
+- [TRELLO] Connect Buffer to Facebook + Twitter + Instagram
+  - https://trello.com/c/aF8CEt4Q/154-connect-buffer-to-facebook-twitter-instagram
+- [TRELLO] Connect Buffer to social channels
+  - https://trello.com/c/mC50Jj9m/129-connect-buffer-to-social-channels
+- [TRELLO] Connect Zapier to Trello
+  - https://trello.com/c/mc8V0bFH/128-connect-zapier-to-trello
+- [TRELLO] Connect real payment/shop
+  - https://trello.com/c/bH0yXffV/273-connect-real-payment-shop
+- [TRELLO] Connect website to Obsidian vault data
+  - https://trello.com/c/6D9y6Uda/231-connect-website-to-obsidian-vault-data
+- [TRELLO] Contact page created
+  - https://trello.com/c/t7Ym3cWK/268-contact-page-created
+- [TRELLO] Convert Instagram @glvwriter to business OR create @toruscoffeecompany
+  - https://trello.com/c/r4s7MAyJ/172-convert-instagram-glvwriter-to-business-or-create-toruscoffeecompany
+- [TRELLO] Create Buffer account
+  - https://trello.com/c/fF3AiBHV/137-create-buffer-account
+- [TRELLO] Create Buffer account (toruscoffeecompany@gmail.com)
+  - https://trello.com/c/xqOS35iA/153-create-buffer-account-toruscoffeecompanygmailcom
+- [TRELLO] Create Buffer setup guide
+  - https://trello.com/c/gm5VWt8U/124-create-buffer-setup-guide
+- [TRELLO] Create Buffer setup guide + buffer_automation.py
+  - https://trello.com/c/41X3MkfX/148-create-buffer-setup-guide-bufferautomationpy
+- [TRELLO] Create Facebook verification guide
+  - https://trello.com/c/eYKRxfrU/110-create-facebook-verification-guide
+- [TRELLO] Create HubSpot CRM account
+  - https://trello.com/c/kYHCFAbz/138-create-hubspot-crm-account
+- [TRELLO] Create HubSpot CRM setup guide
+  - https://trello.com/c/LlewOtRP/150-create-hubspot-crm-setup-guide
+- [TRELLO] Create Revenue_Stream_Plan.md in 03_Financials
+  - https://trello.com/c/UmsTCCDG/235-create-revenuestreamplanmd-in-03financials
+- [TRELLO] Create Social Media Template Pack
+  - https://trello.com/c/bL5Gbqtl/48-create-social-media-template-pack
+- [TRELLO] Create Vendor Booth Backdrop Design
+  - https://trello.com/c/WbLvBOlF/50-create-vendor-booth-backdrop-design
+- [TRELLO] Create Zapier account
+  - https://trello.com/c/5Wk0QBRq/139-create-zapier-account
+- [TRELLO] Create Zapier account (toruscoffeecompany@gmail.com)
+  - https://trello.com/c/44zVhRWW/155-create-zapier-account-toruscoffeecompanygmailcom
+- [TRELLO] Create Zapier integration guide
+  - https://trello.com/c/USW9QGcO/122-create-zapier-integration-guide
+- [TRELLO] Create Zapier setup guide + zapier_automation.py
+  - https://trello.com/c/8GUz0huk/149-create-zapier-setup-guide-zapierautomationpy
+- [TRELLO] Create first Zap and get Zapier webhook URL
+  - https://trello.com/c/rgo0I8J0/168-create-first-zap-and-get-zapier-webhook-url
+- [TRELLO] Create first Zap: Trello → Webhook
+  - https://trello.com/c/DjCdRgKB/156-create-first-zap-trello-%E2%86%92-webhook
+- [TRELLO] Create website folder structure and routing
+  - https://trello.com/c/d0n3LPiF/221-create-website-folder-structure-and-routing
+- [TRELLO] Created 3 missing stub scripts
+  - https://trello.com/c/kEBAhqqZ/260-created-3-missing-stub-scripts
+- [TRELLO] Daily Ops Automation - Scripts Created
+  - https://trello.com/c/anhlC5nJ/81-daily-ops-automation-scripts-created
+- [TRELLO] Deep vault audit completed
+  - https://trello.com/c/uxUo40SS/258-deep-vault-audit-completed
+- [TRELLO] Draft vendor applications — Iowa City + Cedar Rapids + all markets
+  - https://trello.com/c/uIiHfEU5/29-draft-vendor-applications-iowa-city-cedar-rapids-all-markets
+- [TRELLO] Enable obsidian-git in community-plugins.json
+  - https://trello.com/c/67yQstgf/121-enable-obsidian-git-in-community-pluginsjson
+- [TRELLO] End-to-end verification of all Torus systems
+  - https://trello.com/c/xZTwogS6/332-end-to-end-verification-of-all-torus-systems
+- [TRELLO] End-to-end verification: Buffer + Zapier + HubSpot + Trello
+  - https://trello.com/c/91ZMUMJf/216-end-to-end-verification-buffer-zapier-hubspot-trello
+- [TRELLO] Equipment Maintenance Schedule
+  - https://trello.com/c/jJJhjK5y/1-equipment-maintenance-schedule
+- [TRELLO] Finalize product photos
+  - https://trello.com/c/rRlXFJaN/311-finalize-product-photos
+- [TRELLO] Finalize vendor applications
+  - https://trello.com/c/bn42uDnt/95-finalize-vendor-applications
+- [TRELLO] Fix Task Scheduler jobs to use C:\Python314
+  - https://trello.com/c/HbBjr4Pv/147-fix-task-scheduler-jobs-to-use-c-python314
+- [TRELLO] Fix any broken scheduled jobs
+  - https://trello.com/c/9eQ1rIsg/202-fix-any-broken-scheduled-jobs
+- [TRELLO] Get Buffer access token from developers.buffer.com
+  - https://trello.com/c/LrS4wgj3/167-get-buffer-access-token-from-developersbuffercom
+- [TRELLO] Get Facebook page access token from developers.facebook.com
+  - https://trello.com/c/oMCzkeXy/170-get-facebook-page-access-token-from-developersfacebookcom
+- [TRELLO] Get HubSpot API key from settings
+  - https://trello.com/c/UjD1eyrt/169-get-hubspot-api-key-from-settings
+- [TRELLO] Gmail spam filter verified
+  - https://trello.com/c/CuzRBQyC/301-gmail-spam-filter-verified
+- [TRELLO] Hermes backend config updated
+  - https://trello.com/c/7lWtAPwe/257-hermes-backend-config-updated
+- [TRELLO] Holiday Market Prep - Q4 2026
+  - https://trello.com/c/emEYzqpV/94-holiday-market-prep-q4-2026
+- [TRELLO] Import vendor/customer contacts into HubSpot
+  - https://trello.com/c/yS1XsoT7/158-import-vendor-customer-contacts-into-hubspot
+- [TRELLO] Install Buffer browser extension (optional)
+  - https://trello.com/c/9YbxQVJb/175-install-buffer-browser-extension-optional
+- [TRELLO] Install ComfyUI + SDXL on STEALTHATTACK
+  - https://trello.com/c/DNAonA67/306-install-comfyui-sdxl-on-stealthattack
+- [TRELLO] Install HubSpot mobile app (optional)
+  - https://trello.com/c/aSTlHLwI/176-install-hubspot-mobile-app-optional
+- [TRELLO] Install Meta Business Suite app (optional)
+  - https://trello.com/c/QUVF89St/177-install-meta-business-suite-app-optional
+- [TRELLO] Integrate Buffer API into website
+  - https://trello.com/c/nY4gQd9i/223-integrate-buffer-api-into-website
+- [TRELLO] Integrate HubSpot CRM into website
+  - https://trello.com/c/4gffLNTH/225-integrate-hubspot-crm-into-website
+- [TRELLO] Integrate Zapier webhook into website
+  - https://trello.com/c/gteQw54d/224-integrate-zapier-webhook-into-website
+- [TRELLO] Iowa State Fair 2026 Application
+  - https://trello.com/c/jjMKzz7b/92-iowa-state-fair-2026-application
+- [TRELLO] June Payroll Processing
+  - https://trello.com/c/hHulSBKv/24-june-payroll-processing
+- [TRELLO] Launch Email Marketing
+  - https://trello.com/c/vb9tww3i/3-launch-email-marketing
+- [TRELLO] Launch revenue stream tracking in vault and Trello
+  - https://trello.com/c/zKOXEXCA/234-launch-revenue-stream-tracking-in-vault-and-trello
+- [TRELLO] Legal pages created
+  - https://trello.com/c/16TuhAEv/269-legal-pages-created
+- [TRELLO] Link social media accounts
+  - https://trello.com/c/3Iy26CED/98-link-social-media-accounts
+- [TRELLO] Link social media accounts to vault
+  - https://trello.com/c/L02B91Hf/27-link-social-media-accounts-to-vault
+- [TRELLO] Link social media accounts — Facebook + Pinterest handles
+  - https://trello.com/c/QDJRVww6/31-link-social-media-accounts-facebook-pinterest-handles
+- [TRELLO] Master OODA Execution Tasklist — P0-P3
+  - https://trello.com/c/sX5SLTYa/365-master-ooda-execution-tasklist-p0-p3
+- [TRELLO] New Vendor Onboarding Checklist
+  - https://trello.com/c/90wUuDPv/19-new-vendor-onboarding-checklist
+- [TRELLO] Prepare Monthly Financial Summary
+  - https://trello.com/c/yJNcgd72/8-prepare-monthly-financial-summary
+- [TRELLO] Pricing Sheet Update — Q4 Menu
+  - https://trello.com/c/LejxsBf7/20-pricing-sheet-update-q4-menu
+- [TRELLO] Products page created
+  - https://trello.com/c/xFdDkuzE/266-products-page-created
+- [TRELLO] Publish website content
+  - https://trello.com/c/d4yB9Hjb/87-publish-website-content
+- [TRELLO] Q3 2026 Campaign: Cedar Rapids Farmers Market
+  - https://trello.com/c/YblFgUU8/62-q3-2026-campaign-cedar-rapids-farmers-market
+- [TRELLO] Replaced os.popen with subprocess.run
+  - https://trello.com/c/RgbXMuTg/264-replaced-ospopen-with-subprocessrun
+- [TRELLO] Research free CRM options (HubSpot/Zoho/Bitrix24)
+  - https://trello.com/c/gZtlR2Jw/134-research-free-crm-options-hubspot-zoho-bitrix24
+- [TRELLO] Research free automation tools (Zapier/Make/n8n)
+  - https://trello.com/c/DdwrAOow/132-research-free-automation-tools-zapier-make-n8n
+- [TRELLO] Research free social media tools (Buffer/Metricool)
+  - https://trello.com/c/DxBAJWgo/133-research-free-social-media-tools-buffer-metricool
+- [TRELLO] Review and finalize all brand assets
+  - https://trello.com/c/MORYn7iR/89-review-and-finalize-all-brand-assets
+- [TRELLO] Root layout updated
+  - https://trello.com/c/qNBLlcgO/270-root-layout-updated
+- [TRELLO] Run Batch — Cold Brew Reserve
+  - https://trello.com/c/b9J8B46V/9-run-batch-cold-brew-reserve
+- [TRELLO] Run full vault health check
+  - https://trello.com/c/QWnAqs2Q/217-run-full-vault-health-check
+- [TRELLO] SIR_PINK setup script created
+  - https://trello.com/c/5q9NeMFi/356-sirpink-setup-script-created
+- [TRELLO] SQUIDSTATION container list verified
+  - https://trello.com/c/A6Drd2d8/353-squidstation-container-list-verified
+- [TRELLO] Schedule first week of social posts
+  - https://trello.com/c/vCgh8CSK/131-schedule-first-week-of-social-posts
+- [TRELLO] Send vendor pricing sheet to markets
+  - https://trello.com/c/NQGIWGSO/86-send-vendor-pricing-sheet-to-markets
+- [TRELLO] Set revenue milestone: $500/month from 3 streams
+  - https://trello.com/c/zM8W7QIQ/245-set-revenue-milestone-500-month-from-3-streams
+- [TRELLO] Set revenue milestone: first dollar from any stream
+  - https://trello.com/c/kMrvv8Qo/244-set-revenue-milestone-first-dollar-from-any-stream
+- [TRELLO] Set revenue milestone: first paid tool upgrade
+  - https://trello.com/c/U1Q2lavA/246-set-revenue-milestone-first-paid-tool-upgrade
+- [TRELLO] Set up Formspree for contact form
+  - https://trello.com/c/6CK4Fwh8/312-set-up-formspree-for-contact-form
+- [TRELLO] Set up Wave Accounting
+  - https://trello.com/c/dXKBxX2R/324-set-up-wave-accounting
+- [TRELLO] Setup Buffer account
+  - https://trello.com/c/44sH5pnQ/127-setup-buffer-account
+- [TRELLO] Setup Customer CRM
+  - https://trello.com/c/A5iNa7Vj/10-setup-customer-crm
+- [TRELLO] Setup GitHub Repos
+  - https://trello.com/c/7hQrMXgK/17-setup-github-repos
+- [TRELLO] Setup Google Analytics
+  - https://trello.com/c/6bm5aQnL/11-setup-google-analytics
+- [TRELLO] Setup Google Workspace
+  - https://trello.com/c/yRaMRKaI/25-setup-google-workspace
+- [TRELLO] Setup Instagram business account
+  - https://trello.com/c/msMo9vmC/106-setup-instagram-business-account
+- [TRELLO] Setup Meta Business Suite
+  - https://trello.com/c/cUKguygQ/140-setup-meta-business-suite
+- [TRELLO] Setup Meta Business Suite for Facebook/Instagram
+  - https://trello.com/c/OYP2rZi1/159-setup-meta-business-suite-for-facebook-instagram
+- [TRELLO] Setup Obsidian Vault
+  - https://trello.com/c/NmvppQJa/18-setup-obsidian-vault
+- [TRELLO] Setup Social Media Accounts
+  - https://trello.com/c/iesi9UEz/12-setup-social-media-accounts
+- [TRELLO] Setup Zapier account
+  - https://trello.com/c/PTT7Ao6N/126-setup-zapier-account
+- [TRELLO] Share code via Shared_With_Pink bridge
+  - https://trello.com/c/MHFtVJV9/300-share-code-via-sharedwithpink-bridge
+- [TRELLO] Social Media Template Pack - Create Templates
+  - https://trello.com/c/Hc4mJVum/72-social-media-template-pack-create-templates
+- [TRELLO] Social Media Templates - 24 Files Created
+  - https://trello.com/c/A0BK5IGI/80-social-media-templates-24-files-created
+- [TRELLO] Test Buffer queue/channel listing
+  - https://trello.com/c/zk4ftQlW/187-test-buffer-queue-channel-listing
+- [TRELLO] Test Buffer scheduling with 1 post
+  - https://trello.com/c/rsjLaVDj/178-test-buffer-scheduling-with-1-post
+- [TRELLO] Test Buffer scheduling with real post
+  - https://trello.com/c/BGlBQfne/186-test-buffer-scheduling-with-real-post
+- [TRELLO] Test Card
+  - https://trello.com/c/CZ6DKkQT/256-test-card
+- [TRELLO] Test HubSpot contact creation via API
+  - https://trello.com/c/0eu2PLbk/194-test-hubspot-contact-creation-via-api
+- [TRELLO] Test HubSpot contact import
+  - https://trello.com/c/sadDT5cQ/180-test-hubspot-contact-import
+- [TRELLO] Test HubSpot deal creation/update
+  - https://trello.com/c/hAdwaeuj/195-test-hubspot-deal-creation-update
+- [TRELLO] Test Meta Business Suite scheduling
+  - https://trello.com/c/niQ8coQ4/181-test-meta-business-suite-scheduling
+- [TRELLO] Test Zapier webhook end-to-end
+  - https://trello.com/c/pEKx85GQ/179-test-zapier-webhook-end-to-end
+- [TRELLO] Test Zapier webhook end-to-end with sample payload
+  - https://trello.com/c/5u2stXk3/190-test-zapier-webhook-end-to-end-with-sample-payload
+- [TRELLO] Test inventory sync end-to-end
+  - https://trello.com/c/aD9n1BwH/323-test-inventory-sync-end-to-end
+- [TRELLO] Test order manager end-to-end
+  - https://trello.com/c/dO2eJBb3/310-test-order-manager-end-to-end
+- [TRELLO] Test suite: 10/10 PASS (100%)
+  - https://trello.com/c/HrelFnq9/265-test-suite-10-10-pass-100
+- [TRELLO] Test webhook receiver
+  - https://trello.com/c/6ZyVZe86/130-test-webhook-receiver
+- [TRELLO] Trello Sync Automation
+  - https://trello.com/c/Qbn7LYYi/82-trello-sync-automation
+- [TRELLO] Update 00_Vault_Home.md with build status
+  - https://trello.com/c/pjQlI4zt/211-update-00vaulthomemd-with-build-status
+- [TRELLO] Vault Cleanup & Organization
+  - https://trello.com/c/lySrdb7b/26-vault-cleanup-organization
+- [TRELLO] Vendor Booth Backdrop - Generate Artwork
+  - https://trello.com/c/3WUAVcnu/73-vendor-booth-backdrop-generate-artwork
+- [TRELLO] Vendor Pricing Sheet - Complete
+  - https://trello.com/c/32YF5va1/76-vendor-pricing-sheet-complete
+- [TRELLO] Verify Facebook page ownership
+  - https://trello.com/c/QJyNWRf2/112-verify-facebook-page-ownership
+- [TRELLO] Verify Facebook page ownership (facebook.com/61577390931175)
+  - https://trello.com/c/vc5iqDdl/171-verify-facebook-page-ownership-facebookcom-61577390931175
+- [TRELLO] Verify STEALTHATTACK hardware
+  - https://trello.com/c/6eAqqaxo/305-verify-stealthattack-hardware
+- [TRELLO] Verify Zapier creates Trello card from webhook
+  - https://trello.com/c/EXnQn9W1/191-verify-zapier-creates-trello-card-from-webhook
+- [TRELLO] Verify all 16 Task Scheduler jobs execute correctly
+  - https://trello.com/c/tEu8S3FW/201-verify-all-16-task-scheduler-jobs-execute-correctly
+- [TRELLO] Verify all automation scripts run end-to-end
+  - https://trello.com/c/Xfpz9jYy/152-verify-all-automation-scripts-run-end-to-end
+- [TRELLO] Vintage Market Days Eastern Iowa
+  - https://trello.com/c/MdiACgtl/93-vintage-market-days-eastern-iowa
+- [TRELLO] Webhook Event
+  - https://trello.com/c/gKd15Upx/182-webhook-event
+- [TRELLO] Website Content - About Page
+  - https://trello.com/c/PgxCTSkR/77-website-content-about-page
+- [TRELLO] Website Content - Legal Pages
+  - https://trello.com/c/VaPsLxjt/79-website-content-legal-pages
+- [TRELLO] Website Content - Product Descriptions
+  - https://trello.com/c/vA2P0AvW/78-website-content-product-descriptions
+- [TRELLO] Website build verified: 10 pages
+  - https://trello.com/c/Bdast938/271-website-build-verified-10-pages
+- [TRELLO] Weekly Inventory Count
+  - https://trello.com/c/FmvdSSGx/13-weekly-inventory-count
+- [TRELLO] Wire Buffer API into buffer_automation.py
+  - https://trello.com/c/n6wUWonY/185-wire-buffer-api-into-bufferautomationpy
+- [TRELLO] Wire HubSpot Service Key into CRM automation
+  - https://trello.com/c/xeYvkxKt/193-wire-hubspot-service-key-into-crm-automation
+- [TRELLO] Wire Zapier webhook into zapier_automation.py
+  - https://trello.com/c/tIUO8g6o/189-wire-zapier-webhook-into-zapierautomationpy
+- [TRELLO] [P2] API auth + input validation
+  - https://trello.com/c/lLPPdBA8/509-p2-api-auth-input-validation
+- [TRELLO] [P2] Connect FleetWatcher/SirGreenBot/AutomationWatcher to dashboard
+  - https://trello.com/c/sJsQZVZR/529-p2-connect-fleetwatcher-sirgreenbot-automationwatcher-to-dashboard
+- [TRELLO] [P2] Run functional tests on automation scripts
+  - https://trello.com/c/Wng10PqN/548-p2-run-functional-tests-on-automation-scripts
+- [TRELLO] [P2] Verify all Windows Task Scheduler jobs point to real scripts
+  - https://trello.com/c/2OpVFjIE/547-p2-verify-all-windows-task-scheduler-jobs-point-to-real-scripts
+- [TRELLO] [P2] torus-backup: add S3 upload + restore runbook
+  - https://trello.com/c/Jbbn7uai/508-p2-torus-backup-add-s3-upload-restore-runbook
+- [TRELLO] [P3] Add vault automation status reporting to dashboard
+  - https://trello.com/c/mVBMygbD/550-p3-add-vault-automation-status-reporting-to-dashboard
+- [TRELLO] [P3] Dashboard API auth + rate limiting
+  - https://trello.com/c/ASoTjwhH/531-p3-dashboard-api-auth-rate-limiting
+- [TRELLO] [P3] Obsidian vault audit report + remediation
+  - https://trello.com/c/lbnQ8Acz/552-p3-obsidian-vault-audit-report-remediation
+- [TRELLO] [P3] Self-learning/self-correcting automation wrapper
+  - https://trello.com/c/mTYW1GTT/551-p3-self-learning-self-correcting-automation-wrapper
+- [TRELLO] [P3] Webhooks + logs centralization
+  - https://trello.com/c/koF5AybI/512-p3-webhooks-logs-centralization
+- [TRELLO] torus-backup running
+  - https://trello.com/c/hCF2YHTq/360-torus-backup-running
+- [TRELLO] torus-inventory image built
+  - https://trello.com/c/wpuPLVcC/354-torus-inventory-image-built
+- [TRELLO] ⚡ [P2] Precision Boost Overdrive / Curve Optimizer
+  - https://trello.com/c/vp5Hmj7K/465-%E2%9A%A1-p2-precision-boost-overdrive-curve-optimizer
+- [TRELLO] ✅ Confirm PAT works and create first issue in Torus_website_rebuild
+  - https://trello.com/c/zicflnGH/388-%E2%9C%85-confirm-pat-works-and-create-first-issue-in-toruswebsiterebuild
+- [TRELLO] 🌐 [P2] Deploy torus-website + torus-inventory + torus-pos on PINKCADY
+  - https://trello.com/c/l5xEnvtE/481-%F0%9F%8C%90-p2-deploy-torus-website-torus-inventory-torus-pos-on-pinkcady
+- [TRELLO] 🎨 Future: Design custom Hermes app theme for Torus/Miss Pink
+  - https://trello.com/c/32K81pKW/367-%F0%9F%8E%A8-future-design-custom-hermes-app-theme-for-torus-miss-pink
+- [TRELLO] 🎨 Sir Azure: confirm asset pipeline paths and brand specs
+  - https://trello.com/c/cAhaS36d/404-%F0%9F%8E%A8-sir-azure-confirm-asset-pipeline-paths-and-brand-specs
+- [TRELLO] 📊 [P2] Prometheus + Grafana fleet dashboard for Torus
+  - https://trello.com/c/Lu10hZS7/482-%F0%9F%93%8A-p2-prometheus-grafana-fleet-dashboard-for-torus
+- [TRELLO] 📡 Sir Azure: confirm connectivity state and Docker needs
+  - https://trello.com/c/fIFBr6N8/409-%F0%9F%93%A1-sir-azure-confirm-connectivity-state-and-docker-needs
+- [TRELLO] 📡 Sir Azure: run crew_connectivity_monitor.py on STEALTHATTACK
+  - https://trello.com/c/PNFLRQ5P/416-%F0%9F%93%A1-sir-azure-run-crewconnectivitymonitorpy-on-stealthattack
+- [TRELLO] 📡 Wire PINKCADY rig reporter to dashboard API
+  - https://trello.com/c/NviOkdct/405-%F0%9F%93%A1-wire-pinkcady-rig-reporter-to-dashboard-api
+- [TRELLO] 🔁 [P2] Self-healing automation daemon
+  - https://trello.com/c/JkfdFWFF/472-%F0%9F%94%81-p2-self-healing-automation-daemon
+- [TRELLO] 🔄 Execute OODA Cycle 140 tasks
+  - https://trello.com/c/OTmzP9T4/370-%F0%9F%94%84-execute-ooda-cycle-140-tasks
+- [TRELLO] 🔌 Wire /api/fleet into dashboard panel
+  - https://trello.com/c/YUaD1Ehs/426-%F0%9F%94%8C-wire-api-fleet-into-dashboard-panel
+- [TRELLO] 🔐 Mixed-mode security tooling on PINKCADY
+  - https://trello.com/c/sq3hLgDZ/424-%F0%9F%94%90-mixed-mode-security-tooling-on-pinkcady
+- [TRELLO] 🔐 Provide dashboard shared secret for X-Rig-Key
+  - https://trello.com/c/YPC8ROsp/406-%F0%9F%94%90-provide-dashboard-shared-secret-for-x-rig-key
+- [TRELLO] 🔑 [P2] NVENC worker for lightweight transcoding
+  - https://trello.com/c/SPc88Vg7/470-%F0%9F%94%91-p2-nvenc-worker-for-lightweight-transcoding
+- [TRELLO] 🔒 Security tools install plan on PINKCADY
+  - https://trello.com/c/KJEwTzS7/421-%F0%9F%94%92-security-tools-install-plan-on-pinkcady
+- [TRELLO] 🔔 #261 Actionable alerts/services from dashboard
+  - https://trello.com/c/ZKL18ZUA/435-%F0%9F%94%94-261-actionable-alerts-services-from-dashboard
+- [TRELLO] 🔔 Build inbox-to-Trello/GitHub alert automation
+  - https://trello.com/c/bOanNw0q/415-%F0%9F%94%94-build-inbox-to-trello-github-alert-automation
+- [TRELLO] 🔔 [P2] torus-alert-router: inbox watcher + Discord + email alerts
+  - https://trello.com/c/pYOIRd59/483-%F0%9F%94%94-p2-torus-alert-router-inbox-watcher-discord-email-alerts
+- [TRELLO] 🔗 Forward Sir Azure container requests to Sir Green
+  - https://trello.com/c/roEgmEQr/430-%F0%9F%94%97-forward-sir-azure-container-requests-to-sir-green
+- [TRELLO] 🖥️ [P2] WSL2 distro + Docker CLI
+  - https://trello.com/c/NANw1WJv/468-%F0%9F%96%A5%EF%B8%8F-p2-wsl2-distro-docker-cli
+- [TRELLO] 🛠️ Tools/Security tabs for unified dashboard on 8089
+  - https://trello.com/c/nxopWptf/422-%F0%9F%9B%A0%EF%B8%8F-tools-security-tabs-for-unified-dashboard-on-8089
+- [TRELLO] 🛡️ [P2] Windows Sandbox + Credential Guard
+  - https://trello.com/c/GcLzHTYl/469-%F0%9F%9B%A1%EF%B8%8F-p2-windows-sandbox-credential-guard
+- [TRELLO] 🤖 Sir Azure: build AI worker + pirate persona + automations on STEALTHATTACK
+  - https://trello.com/c/Yzz36wjo/417-%F0%9F%A4%96-sir-azure-build-ai-worker-pirate-persona-automations-on-stealthattack
+- [TRELLO] 🧑‍🤝‍🧑 Add toruscoffeecompany to VOIDPirateTrade void-crew team
+  - https://trello.com/c/MkjOThmN/412-%F0%9F%A7%91%F0%9F%A4%9D%F0%9F%A7%91-add-toruscoffeecompany-to-voidpiratetrade-void-crew-team
+- [TRELLO] 🧪 #260 End-to-end Discord bot tests + relay fixes
+  - https://trello.com/c/02EcQzmu/434-%F0%9F%A7%AA-260-end-to-end-discord-bot-tests-relay-fixes
+- [TRELLO] 🧭 Fleet backend automation + TreasureMap linkage
+  - https://trello.com/c/naHVijDb/425-%F0%9F%A7%AD-fleet-backend-automation-treasuremap-linkage
+- [TRELLO] 🧭 Track Miss Pink persona/lore + Cosmos Library updates
+  - https://trello.com/c/YbuzzWVJ/368-%F0%9F%A7%AD-track-miss-pink-persona-lore-cosmos-library-updates
+- [TRELLO] 🧹 Clean duplicate sections in 00_Vault_Home.md
+  - https://trello.com/c/vMcFxy1r/371-%F0%9F%A7%B9-clean-duplicate-sections-in-00vaulthomemd
+- [VAULT] Fix 139 broken wiki-links in Obsidian vault
+
+## P3 — NEXT WEEK
+- [VAULT] Resolve 7 duplicate files in vault
+
+## AUTOMATION
+- This file is auto-generated by continuous_tasklist.py
+- Run every 15 minutes via cron/Windows Task Scheduler
+- Sources: Trello API, GitHub API, VAULT_AUDIT_SNAPSHOT.json, automation_status.json, inbox

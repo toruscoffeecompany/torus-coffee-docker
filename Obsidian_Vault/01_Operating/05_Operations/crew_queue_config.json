@@ -1,0 +1,25 @@
+{
+  "source_board": "Torus_Ops",
+  "source_lists": [
+    "Sir Green's Queue",
+    "Sir Azure's Queue"
+  ],
+  "routes": {
+    "Sir Green": {
+      "member_username": "sirgreen",
+      "to": "sirgreen",
+      "destination_list": "Sir Green's Queue",
+      "destination_board": "VOID Ops",
+      "void_board": null,
+      "reply_template": "Connect to Torus_Ops -> {list_name} -> review cards -> move to your destination list and update status."
+    },
+    "Sir Azure": {
+      "member_username": "sirazure",
+      "to": "sirazure",
+      "destination_list": "Sir Azure's Queue",
+      "destination_board": "VOID Ops",
+      "void_board": null,
+      "reply_template": "Connect to Torus_Ops -> {list_name} -> review cards -> move to your destination list and update status."
+    }
+  }
+}

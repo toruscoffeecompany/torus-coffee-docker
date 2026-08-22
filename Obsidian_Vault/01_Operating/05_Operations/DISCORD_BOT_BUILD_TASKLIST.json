@@ -1,0 +1,85 @@
+{
+  "updated": "2026-08-07T20:18:09.976870+00:00",
+  "tasks": [
+    {
+      "id": "discord-001",
+      "priority": "P0",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Prepare Discord bot activation checklist from crew_map.json",
+      "acceptance": "Checklist covers all 9 officers, token env names, channel routing",
+      "next_action": "Review Crew/Torus_Discord crew_map.json and activation guide",
+      "completed_at": "2026-08-07T20:18:52.690501+00:00"
+    },
+    {
+      "id": "discord-002",
+      "priority": "P1",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Review Discord bot designs for all officers",
+      "acceptance": "All Bot_Designs/DISCORD_BOT_*.md reviewed for consistency",
+      "next_action": "Scan Bot_Designs/ for missing icon/banner specs",
+      "completed_at": "2026-08-07T20:18:52.690708+00:00"
+    },
+    {
+      "id": "discord-003",
+      "priority": "P1",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Validate existing Miss Pink bot webhook/config",
+      "acceptance": "secrets.local.json webhook valid; bot.py runnable",
+      "next_action": "Run Miss Pink bot import/config check",
+      "completed_at": "2026-08-07T20:18:52.690893+00:00"
+    },
+    {
+      "id": "discord-004",
+      "priority": "P0",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Receive VOID Discord connection details from Sir Green/Sir Azure",
+      "acceptance": "Guild ID, channel IDs, webhook URLs or bot token mapping received",
+      "next_action": "Check Outbox/Inbox for reply; follow up if no reply within 10 min",
+      "completed_at": "2026-08-07T20:18:52.702714+00:00"
+    },
+    {
+      "id": "discord-005",
+      "priority": "P1",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Create Discord webhooks for automation channels",
+      "acceptance": "Webhooks created and URLs stored securely",
+      "next_action": "Use webhook create API or request Sir Green/Sir Azure create",
+      "completed_at": "2026-08-07T20:18:52.703646+00:00"
+    },
+    {
+      "id": "discord-006",
+      "priority": "P1",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Verify Miss Pink bot can send to VOID Discord webhook",
+      "acceptance": "Test message delivered to VOID channel",
+      "next_action": "Send test payload via requests.post(webhook_url)",
+      "completed_at": "2026-08-07T20:18:52.703810+00:00"
+    },
+    {
+      "id": "discord-007",
+      "priority": "P1",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Wire fleet tool alerts into Discord webhooks",
+      "acceptance": "TOOL_X, alert_router.py, and smart ticket cycle post to Discord",
+      "next_action": "Update alert_router.py with webhook URLs",
+      "completed_at": "2026-08-07T20:18:52.713991+00:00"
+    },
+    {
+      "id": "discord-008",
+      "priority": "P2",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Add Discord health checks to automated_verification.py",
+      "acceptance": "Verification reports bot presence/webhook health",
+      "next_action": "Add Discord webhook reachability check",
+      "completed_at": "2026-08-07T20:18:52.714110+00:00"
+    }
+  ]
+}

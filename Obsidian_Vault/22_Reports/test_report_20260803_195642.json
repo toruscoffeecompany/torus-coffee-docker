@@ -1,0 +1,69 @@
+{
+  "timestamp": "2026-08-03T19:56:42.966058",
+  "total": 10,
+  "passed": 10,
+  "failed": 0,
+  "pass_rate": "100.0%",
+  "results": [
+    {
+      "test": "Buffer Status",
+      "status": "PASS",
+      "details": "Account connected, 3 channels found",
+      "timestamp": "2026-08-03T19:56:39.136399"
+    },
+    {
+      "test": "Buffer Idea Creation",
+      "status": "PASS",
+      "details": "Idea created: 6a7138c81c988e4df261b927",
+      "timestamp": "2026-08-03T19:56:39.458529"
+    },
+    {
+      "test": "Zapier Webhook",
+      "status": "PASS",
+      "details": "HTTP 200",
+      "timestamp": "2026-08-03T19:56:39.730420"
+    },
+    {
+      "test": "HubSpot Contacts",
+      "status": "PASS",
+      "details": "API connected, 0 contacts found",
+      "timestamp": "2026-08-03T19:56:40.110608"
+    },
+    {
+      "test": "HubSpot Deals",
+      "status": "PASS",
+      "details": "API connected, 0 deals found",
+      "timestamp": "2026-08-03T19:56:40.396128"
+    },
+    {
+      "test": "Trello Connection",
+      "status": "PASS",
+      "details": "Connected as toruscoffeecompany",
+      "timestamp": "2026-08-03T19:56:40.646622"
+    },
+    {
+      "test": "Automation Orchestrator",
+      "status": "PASS",
+      "details": "8/8 scripts verified",
+      "timestamp": "2026-08-03T19:56:42.699383"
+    },
+    {
+      "test": "Inventory Tracker",
+      "status": "PASS",
+      "details": "Status check passed",
+      "timestamp": "2026-08-03T19:56:42.789459"
+    },
+    {
+      "test": "Social Media Status",
+      "status": "PASS",
+      "details": "Platform status check passed",
+      "timestamp": "2026-08-03T19:56:42.857957"
+    },
+    {
+      "test": "Daily Ops Automation",
+      "status": "PASS",
+      "details": "Daily check passed",
+      "timestamp": "2026-08-03T19:56:42.965837"
+    }
+  ]
+}

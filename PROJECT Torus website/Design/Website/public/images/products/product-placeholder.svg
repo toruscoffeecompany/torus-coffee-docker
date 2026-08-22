@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Torus product placeholder</title>
+  <desc id="desc">A cosmic placeholder graphic for Torus Coffee Company product photos.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="70%">
+      <stop offset="0" stop-color="#fff8ea"/>
+      <stop offset="0.55" stop-color="#57c6b6"/>
+      <stop offset="1" stop-color="#10172a"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0" x2="1">
+      <stop offset="0" stop-color="#d45b87"/>
+      <stop offset="0.5" stop-color="#f6c177"/>
+      <stop offset="1" stop-color="#57c6b6"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#bg)"/>
+  <circle cx="450" cy="440" r="210" fill="#fff8ea" opacity="0.92"/>
+  <ellipse cx="450" cy="455" rx="330" ry="76" fill="none" stroke="url(#ring)" stroke-width="34"/>
+  <circle cx="450" cy="440" r="145" fill="none" stroke="#10172a" stroke-width="24" opacity="0.86"/>
+  <text x="450" y="420" text-anchor="middle" font-family="Georgia, serif" font-size="78" font-weight="700" fill="#10172a">TORUS</text>
+  <text x="450" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#21314f">PRODUCT PHOTO COMING SOON</text>
+  <g fill="#fff8ea" opacity="0.85">
+    <circle cx="140" cy="145" r="7"/><circle cx="760" cy="166" r="5"/><circle cx="720" cy="700" r="8"/><circle cx="185" cy="710" r="5"/><circle cx="615" cy="95" r="4"/>
+  </g>
+</svg>

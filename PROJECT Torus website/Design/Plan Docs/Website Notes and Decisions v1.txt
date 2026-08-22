@@ -1,0 +1,212 @@
+﻿Torus Coffee Company - Website Notes and Decisions
+Last updated: 2026-05-29
+
+Purpose
+This is the living notes and decision log for the website project. Use it to track what we decided, what still needs an answer, and why choices were made.
+
+Current Big Decisions
+
+1. Website direction
+Decision:
+Build a real ecommerce platform, released in phases.
+
+Reason:
+Torus needs more than a brochure site: product management, inventory, blogs, customer accounts, shipping, security, backups, and future marketing channels.
+
+2. Phase 1 checkout
+Decision:
+Use Square payment links / Square-hosted checkout first.
+
+Reason:
+Faster launch, lower security burden, no card data handled by Torus website.
+
+3. Long-term database
+Decision:
+Use Supabase as the default database/backend/auth/storage direction.
+
+Reason:
+Low-cost, flexible, PostgreSQL-based, supports auth/storage/APIs, good fit for custom platform.
+
+4. Customer accounts
+Decision:
+Customer accounts should be optional, not required to buy.
+
+Reason:
+Requiring accounts can reduce sales. Accounts are useful for client database and future order history, but guest buying must remain easy.
+
+5. Inventory
+Decision:
+Manual inventory updates first, automatic Square inventory subtraction later.
+
+Reason:
+Avoid overbuilding before Square API integration. Prevent fake orders by only subtracting from verified Square events later.
+
+6. Blog categories
+Decision:
+Use three blog categories: The Orbit Report, The Orbit Workshop, The Orbit Kitchen.
+
+Reason:
+Supports community/story, business/how-to, and recipe/product usage content.
+
+7. Security
+Decision:
+Security is top priority from the beginning.
+
+Reason:
+Website will eventually handle admin access, customer data, inventory, pricing, content, and orders.
+
+8. Files/docs
+Decision:
+Save project docs as .txt so owner can easily read them.
+
+Reason:
+Plain text is easy to open/edit in Windows.
+
+9. Product data strategy
+Decision:
+Build product data so it can feed the website, Square links, Google, Pinterest, Meta, SEO, and future wholesale docs.
+
+Reason:
+Clean product data creates more sales opportunities and reduces duplicate work.
+
+Important Open Decisions
+
+1. Hosting choice
+Options:
+- Vercel, recommended for Next.js
+- Netlify, also viable
+
+Current recommendation:
+Vercel unless a later technical reason pushes us elsewhere.
+
+2. Phase 1 data source
+Options:
+- Local JSON/static product data first
+- Supabase from the beginning
+
+Current recommendation:
+If time allows, use Supabase from the start to avoid rework. If speed is more important, use structured local data designed to migrate cleanly.
+
+3. Blog editor
+Options:
+- Markdown editor
+- Rich text editor
+- Git-backed CMS like Outstatic
+- Custom Supabase blog editor
+
+Current recommendation:
+Use a simple editor first, likely Markdown or lightweight rich text, backed by Supabase once admin exists.
+
+4. Product image storage
+Options:
+- Local/static images in repo for Phase 1
+- Supabase Storage from the beginning
+
+Current recommendation:
+Keep original images local. Use static/public images for lean launch if easiest, then Supabase Storage for admin uploads.
+
+5. Shipping price model
+Options:
+- Square-configured shipping
+- Flat rate
+- Free over threshold
+- Weight-based later
+
+Current recommendation:
+Test Square payment links first, then choose simplest reliable U.S. shipping model.
+
+6. Exact launch product list
+Known ready products are listed in design docs. Additional products may be used for testing.
+
+Need:
+Confirm whether any additional products should be public at launch.
+
+7. Public social links
+Need:
+Confirm final social handles and which platforms are active.
+
+Known from business card/assets, verify before launch:
+- Facebook: @TorusCoffeeCompany
+- X: @TorusCoffee
+- YouTube: @torusCoffeeCompany
+- Pinterest: @torusCoffeecompany
+- Instagram/TikTok need confirmation if active.
+
+8. Policy text
+Need:
+Export or recreate readable versions of:
+- Privacy Policy
+- Terms & Conditions
+- Refund & Returns Policy
+- Shipping Policy
+- Accessibility Statement
+
+9. Analytics/pixels at launch
+Options:
+- Google Search Console only
+- Google Analytics
+- Privacy-friendly analytics
+- Meta/TikTok/Pinterest pixels later
+
+Current recommendation:
+Start with Search Console and basic analytics. Add ad pixels later when actively using those channels.
+
+10. Product reviews/testimonials
+Need:
+Decide whether reviews/testimonials appear at launch.
+
+Current recommendation:
+Use real testimonials only if available. Add full review system later.
+
+Questions For Owner
+
+1. Do you want Vercel as the default hosting account?
+2. Do you want Supabase used from the first coding phase, or should Phase 1 be simpler/static and migrate later?
+3. Are you comfortable starting blog editing with a simpler editor, then improving it later?
+4. Do you want exact stock counts visible to customers, or only In Stock / Low Stock / Sold Out?
+5. What should launch shipping be: flat rate, free over a threshold, or decided after Square testing?
+6. Which extra/test products should be added to inventory testing?
+7. Where are the best final product photos located?
+8. Should Wholesale be visible at launch as an inquiry page?
+
+Design Notes
+
+Brand/design:
+- Use existing logo/business card visual style as anchor.
+- Current website file has useful ideas but is placeholder-level.
+- Existing site has encoding/mojibake issues that should be fixed in a rebuild.
+- Real product photos are critical for sales.
+
+Revenue notes:
+- Google Merchant Center free listings are a strong opportunity.
+- Product pages must be feed-ready and structured-data-ready.
+- Pinterest may be strong for snack/recipe/gift content.
+- Meta catalog is useful later but can be frustrating; prepare fields early.
+
+Security notes:
+- Do not store card data.
+- Do not treat unverified browser events as orders.
+- Square must confirm payment before future inventory automation.
+- Admin actions need role checks and logs.
+
+Operations notes:
+- Keep docs readable.
+- Keep backups local and off-machine where appropriate.
+- Use private GitHub repo.
+- Use .env.example for placeholders and .env.local for real secrets.
+
+Decision Log Template
+
+Date:
+Decision:
+Options considered:
+Reason:
+Owner approved:
+Follow-up tasks:
+
+Future Notes
+
+Add notes below this line as the project evolves.
+
+------------------------------------------------------------
+

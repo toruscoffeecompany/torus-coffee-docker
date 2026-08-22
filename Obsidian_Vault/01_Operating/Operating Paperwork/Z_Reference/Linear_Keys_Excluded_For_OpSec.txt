@@ -1,0 +1,3 @@
+Linear API keys were found on Z: but were intentionally NOT copied here.
+Location on Z: `Developer_Brain\02_Business_Operations\Torus_Coffee\TORUS_LINEAR_API_KEYS.md`
+Action: review on Z: only, rotate if ever exposed, keep keys out of shared drives.

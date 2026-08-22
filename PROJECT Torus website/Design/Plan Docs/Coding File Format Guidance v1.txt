@@ -1,0 +1,26 @@
+﻿Torus Coffee Company - Coding File Format Guidance
+Last updated: 2026-05-29
+
+Purpose
+This note records how project file formats should be handled going forward.
+
+Readable Owner Docs
+Core design, planning, notes, and to-do files should stay in plain .txt format so the owner can easily read and review them.
+
+Code And Developer Files
+For actual coding, use whatever file formats are best for the chosen stack and easiest for developers/coding AI tools to read, edit, and maintain.
+
+Expected coding formats may include:
+- .ts and .tsx for TypeScript/React/Next.js
+- .css or Tailwind config files for styling
+- .json for structured seed/config data
+- .sql for Supabase migrations/schema
+- .env.example for safe environment variable placeholders
+- .env.local for private local secrets, never committed
+- .md only when useful for developer-facing docs, not required for owner review docs
+
+Permission/Access Note
+Another coding AI or developer should be able to read, write, and edit the coding files in the website project folder. Secret files should remain private and should not be published or committed.
+
+Security Reminder
+Readable docs should not contain real API keys, passwords, access tokens, service role keys, webhook secrets, or private customer data.

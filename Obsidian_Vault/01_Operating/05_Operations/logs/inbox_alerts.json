@@ -1,0 +1,2090 @@
+[
+  {
+    "ts": "2026-08-05T18:09:16Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T055649Z_DASHBOARD.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:16Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T055649Z_GITHUB.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:16Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T055649Z_HEALING.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:16Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T055649Z_SECURITY.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:16Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T060746Z_DASHBOARD.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:16Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T060746Z_GITHUB.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:16Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T060746Z_HEALING.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:16Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T060746Z_SECURITY.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:16Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T061353Z_DASHBOARD.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:16Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T061353Z_GITHUB.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:17Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T061353Z_HEALING.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:17Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T061353Z_SECURITY.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:17Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T061431Z_DASHBOARD.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:17Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T061431Z_GITHUB.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:17Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T061431Z_HEALING.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:17Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T061431Z_SECURITY.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:17Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T062008Z_DASHBOARD.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:17Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T062008Z_GITHUB.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:17Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T062008Z_HEALING.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:09:17Z",
+    "msg": "NEW_INBOX: AUTO_AUTO_CYCLE_20260805T062008Z_SECURITY.msg.md"
+  },
+  {
+    "ts": "2026-08-05T18:15:06Z",
+    "msg": "WATCHER_STARTED"
+  },
+  {
+    "ts": "2026-08-05T19:02:06Z",
+    "msg": "INBOX_MISSING"
+  },
+  {
+    "ts": "2026-08-08T21:43:26.137689+00:00",
+    "msg": "MISSING_INBOX \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_INBOX"
+  },
+  {
+    "ts": "2026-08-08T21:43:26.215894+00:00",
+    "msg": "NEW_MESSAGE 20260804T102721Z_sirgreen_ops_auto_20260804T102721Z.msg.md from=sirgreen topic=ops size=1127"
+  },
+  {
+    "ts": "2026-08-08T21:43:28.159860+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a2ff37bb4a536f6fda37 url=https://trello.com/c/Sx82jh6M"
+  },
+  {
+    "ts": "2026-08-08T21:43:28.173551+00:00",
+    "msg": "ARCHIVED 20260804T102721Z_sirgreen_ops_auto_20260804T102721Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:28.186122+00:00",
+    "msg": "NEW_MESSAGE 20260804T104921Z_sirgreen_ops_auto_20260804T104921Z.msg.md from=sirgreen topic=ops size=1127"
+  },
+  {
+    "ts": "2026-08-08T21:43:29.772013+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3014def77f5a53ec0c9 url=https://trello.com/c/2XHdVXLZ"
+  },
+  {
+    "ts": "2026-08-08T21:43:29.782345+00:00",
+    "msg": "ARCHIVED 20260804T104921Z_sirgreen_ops_auto_20260804T104921Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:29.793576+00:00",
+    "msg": "NEW_MESSAGE 20260804T111100Z_sirgreen_ops_auto_20260804T111100Z.msg.md from=sirgreen topic=ops size=1127"
+  },
+  {
+    "ts": "2026-08-08T21:43:31.554361+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a302cb1d08b6ca17a609 url=https://trello.com/c/ps6Wif0U"
+  },
+  {
+    "ts": "2026-08-08T21:43:31.568501+00:00",
+    "msg": "ARCHIVED 20260804T111100Z_sirgreen_ops_auto_20260804T111100Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:31.578076+00:00",
+    "msg": "NEW_MESSAGE 20260804T111129Z_sirgreen_ops_auto_20260804T111129Z.msg.md from=sirgreen topic=ops size=978"
+  },
+  {
+    "ts": "2026-08-08T21:43:33.196818+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3045b5697ebc16ea82d url=https://trello.com/c/8rjiPyeW"
+  },
+  {
+    "ts": "2026-08-08T21:43:33.212801+00:00",
+    "msg": "ARCHIVED 20260804T111129Z_sirgreen_ops_auto_20260804T111129Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:33.225798+00:00",
+    "msg": "NEW_MESSAGE 20260804T112342Z_sirgreen_ops_auto_20260804T112342Z.msg.md from=sirgreen topic=ops size=978"
+  },
+  {
+    "ts": "2026-08-08T21:43:34.795949+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3064336c45b9876f5a1 url=https://trello.com/c/mP79onhv"
+  },
+  {
+    "ts": "2026-08-08T21:43:34.812432+00:00",
+    "msg": "ARCHIVED 20260804T112342Z_sirgreen_ops_auto_20260804T112342Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:34.829738+00:00",
+    "msg": "NEW_MESSAGE 20260804T112634Z_sirgreen_ops_auto_20260804T112634Z.msg.md from=sirgreen topic=ops size=978"
+  },
+  {
+    "ts": "2026-08-08T21:43:36.686442+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3073e8c39cc4c6b10c5 url=https://trello.com/c/6BMavhpP"
+  },
+  {
+    "ts": "2026-08-08T21:43:36.701093+00:00",
+    "msg": "ARCHIVED 20260804T112634Z_sirgreen_ops_auto_20260804T112634Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:36.713071+00:00",
+    "msg": "NEW_MESSAGE 20260804T113000Z_sirgreen_ops_AUTO_PROMPT_LOOP_003.msg.md from=misspink topic=ops size=3778"
+  },
+  {
+    "ts": "2026-08-08T21:43:38.379421+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a309b9747724a32c0abd url=https://trello.com/c/TCp0LNz9"
+  },
+  {
+    "ts": "2026-08-08T21:43:38.396275+00:00",
+    "msg": "ARCHIVED 20260804T113000Z_sirgreen_ops_AUTO_PROMPT_LOOP_003.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:38.410010+00:00",
+    "msg": "NEW_MESSAGE 20260804T135737Z_sirgreen_ops_auto_20260804T135737Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:43:40.108354+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a30bf8dc27133c689e88 url=https://trello.com/c/tGjnYa9x"
+  },
+  {
+    "ts": "2026-08-08T21:43:40.121298+00:00",
+    "msg": "ARCHIVED 20260804T135737Z_sirgreen_ops_auto_20260804T135737Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:40.131752+00:00",
+    "msg": "NEW_MESSAGE 20260804T135847Z_sirgreen_ops_auto_20260804T135847Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:43:41.911134+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a30c63e074a81200e0f1 url=https://trello.com/c/TOO4ELh1"
+  },
+  {
+    "ts": "2026-08-08T21:43:41.922536+00:00",
+    "msg": "ARCHIVED 20260804T135847Z_sirgreen_ops_auto_20260804T135847Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:41.934781+00:00",
+    "msg": "NEW_MESSAGE 20260804T140114Z_sirgreen_ops_auto_20260804T140114Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:43:43.583667+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a30e0ccc5dbeead3b88b url=https://trello.com/c/hOjGVQDJ"
+  },
+  {
+    "ts": "2026-08-08T21:43:43.596470+00:00",
+    "msg": "ARCHIVED 20260804T140114Z_sirgreen_ops_auto_20260804T140114Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:43.609310+00:00",
+    "msg": "NEW_MESSAGE 20260804T141522Z_sirgreen_ops_auto_20260804T141522Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:43:45.250671+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3100eabb0e742b883bf url=https://trello.com/c/zzHcmaJW"
+  },
+  {
+    "ts": "2026-08-08T21:43:45.269503+00:00",
+    "msg": "ARCHIVED 20260804T141522Z_sirgreen_ops_auto_20260804T141522Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:45.281612+00:00",
+    "msg": "NEW_MESSAGE 20260804T141615Z_sirgreen_ops_auto_20260804T141615Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:43:47.024131+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3125a52151e46d4ce45 url=https://trello.com/c/nRuopzig"
+  },
+  {
+    "ts": "2026-08-08T21:43:47.038576+00:00",
+    "msg": "ARCHIVED 20260804T141615Z_sirgreen_ops_auto_20260804T141615Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:47.050519+00:00",
+    "msg": "NEW_MESSAGE 20260804T142210Z_sirgreen_ops_auto_20260804T142210Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:43:48.963387+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a313ca6fc51235090fbb url=https://trello.com/c/XiOxq6VO"
+  },
+  {
+    "ts": "2026-08-08T21:43:48.980174+00:00",
+    "msg": "ARCHIVED 20260804T142210Z_sirgreen_ops_auto_20260804T142210Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:48.994914+00:00",
+    "msg": "NEW_MESSAGE 20260804T142515Z_sirgreen_ops_auto_20260804T142515Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:43:50.726930+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3153ffe6163510609fa url=https://trello.com/c/UcglU6OE"
+  },
+  {
+    "ts": "2026-08-08T21:43:50.740402+00:00",
+    "msg": "ARCHIVED 20260804T142515Z_sirgreen_ops_auto_20260804T142515Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:50.752823+00:00",
+    "msg": "NEW_MESSAGE 20260804T145934Z_sirgreen_ops_auto_20260804T145934Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:43:52.583859+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3175ecddda5ee86092d url=https://trello.com/c/THtdw04O"
+  },
+  {
+    "ts": "2026-08-08T21:43:52.605842+00:00",
+    "msg": "ARCHIVED 20260804T145934Z_sirgreen_ops_auto_20260804T145934Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:52.620946+00:00",
+    "msg": "NEW_MESSAGE 20260804T164917Z_sirgreen_ops_auto_20260804T164917Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:43:54.491242+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3196c6999e5d174d976 url=https://trello.com/c/2hQYZMvv"
+  },
+  {
+    "ts": "2026-08-08T21:43:54.509930+00:00",
+    "msg": "ARCHIVED 20260804T164917Z_sirgreen_ops_auto_20260804T164917Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:54.523069+00:00",
+    "msg": "NEW_MESSAGE 20260804T173015Z_sirgreen_ops_auto_20260804T173015Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:43:56.116575+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a31bb0274aa018945d33 url=https://trello.com/c/5EkwsgdT"
+  },
+  {
+    "ts": "2026-08-08T21:43:56.132941+00:00",
+    "msg": "ARCHIVED 20260804T173015Z_sirgreen_ops_auto_20260804T173015Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:56.150059+00:00",
+    "msg": "NEW_MESSAGE 20260804T174543Z_sirgreen_ops_auto_20260804T174543Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:43:58.050076+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a31cef58b9e04c5eeb0c url=https://trello.com/c/vDiLDhKH"
+  },
+  {
+    "ts": "2026-08-08T21:43:58.066999+00:00",
+    "msg": "ARCHIVED 20260804T174543Z_sirgreen_ops_auto_20260804T174543Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:58.080347+00:00",
+    "msg": "NEW_MESSAGE 20260804T175126Z_sirgreen_ops_auto_20260804T175126Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:43:59.700116+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a31ec9d9fe0afe9f707e url=https://trello.com/c/kF8ZLQKf"
+  },
+  {
+    "ts": "2026-08-08T21:43:59.714662+00:00",
+    "msg": "ARCHIVED 20260804T175126Z_sirgreen_ops_auto_20260804T175126Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:43:59.725597+00:00",
+    "msg": "NEW_MESSAGE 20260804T175603Z_sirgreen_ops_auto_20260804T175603Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:01.538321+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a32019caa5ad5bc2cf1d url=https://trello.com/c/z9NyYLld"
+  },
+  {
+    "ts": "2026-08-08T21:44:01.552308+00:00",
+    "msg": "ARCHIVED 20260804T175603Z_sirgreen_ops_auto_20260804T175603Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:01.563675+00:00",
+    "msg": "NEW_MESSAGE 20260804T180423Z_sirgreen_ops_auto_20260804T180423Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:03.468602+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a322eeadaec0e02e974e url=https://trello.com/c/AQQkLwck"
+  },
+  {
+    "ts": "2026-08-08T21:44:03.483888+00:00",
+    "msg": "ARCHIVED 20260804T180423Z_sirgreen_ops_auto_20260804T180423Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:03.495011+00:00",
+    "msg": "NEW_MESSAGE 20260804T180522Z_sirgreen_ops_auto_20260804T180522Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:05.504586+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a324061a241711219cb3 url=https://trello.com/c/WrWppLgD"
+  },
+  {
+    "ts": "2026-08-08T21:44:05.524183+00:00",
+    "msg": "ARCHIVED 20260804T180522Z_sirgreen_ops_auto_20260804T180522Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:05.541166+00:00",
+    "msg": "NEW_MESSAGE 20260804T182336Z_sirgreen_ops_auto_20260804T182336Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:07.336674+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a326af1372a763b1a7a8 url=https://trello.com/c/O2HtoZ9B"
+  },
+  {
+    "ts": "2026-08-08T21:44:07.355598+00:00",
+    "msg": "ARCHIVED 20260804T182336Z_sirgreen_ops_auto_20260804T182336Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:07.367397+00:00",
+    "msg": "NEW_MESSAGE 20260804T182414Z_sirgreen_ops_auto_20260804T182414Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:08.936472+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3287edbdf95dd88032c url=https://trello.com/c/ekTBqIDd"
+  },
+  {
+    "ts": "2026-08-08T21:44:08.948466+00:00",
+    "msg": "ARCHIVED 20260804T182414Z_sirgreen_ops_auto_20260804T182414Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:08.960854+00:00",
+    "msg": "NEW_MESSAGE 20260804T182645Z_sirgreen_ops_auto_20260804T182645Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:10.608542+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a329b3af023778f4855f url=https://trello.com/c/U4ePaVi3"
+  },
+  {
+    "ts": "2026-08-08T21:44:10.620796+00:00",
+    "msg": "ARCHIVED 20260804T182645Z_sirgreen_ops_auto_20260804T182645Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:10.632691+00:00",
+    "msg": "NEW_MESSAGE 20260804T182742Z_sirgreen_ops_auto_20260804T182742Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:12.396345+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a32ba010c75462d0c5d6 url=https://trello.com/c/I8sa76xF"
+  },
+  {
+    "ts": "2026-08-08T21:44:12.409525+00:00",
+    "msg": "ARCHIVED 20260804T182742Z_sirgreen_ops_auto_20260804T182742Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:12.420992+00:00",
+    "msg": "NEW_MESSAGE 20260804T182811Z_sirgreen_ops_auto_20260804T182811Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:14.166543+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a32d6f289640e55dc2d3 url=https://trello.com/c/GZcweUdB"
+  },
+  {
+    "ts": "2026-08-08T21:44:14.179124+00:00",
+    "msg": "ARCHIVED 20260804T182811Z_sirgreen_ops_auto_20260804T182811Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:14.191195+00:00",
+    "msg": "NEW_MESSAGE 20260804T182916Z_sirgreen_ops_auto_20260804T182916Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:15.799255+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a32f61c9458ac4479690 url=https://trello.com/c/4hy4RPWG"
+  },
+  {
+    "ts": "2026-08-08T21:44:15.812926+00:00",
+    "msg": "ARCHIVED 20260804T182916Z_sirgreen_ops_auto_20260804T182916Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:15.828527+00:00",
+    "msg": "NEW_MESSAGE 20260804T182951Z_sirgreen_ops_auto_20260804T182951Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:17.455607+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3305d8025514ab7beca url=https://trello.com/c/EosElDbs"
+  },
+  {
+    "ts": "2026-08-08T21:44:17.468532+00:00",
+    "msg": "ARCHIVED 20260804T182951Z_sirgreen_ops_auto_20260804T182951Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:17.480031+00:00",
+    "msg": "NEW_MESSAGE 20260804T183052Z_sirgreen_ops_auto_20260804T183052Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:19.207683+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3327821f024abde14df url=https://trello.com/c/io48cC0w"
+  },
+  {
+    "ts": "2026-08-08T21:44:19.223089+00:00",
+    "msg": "ARCHIVED 20260804T183052Z_sirgreen_ops_auto_20260804T183052Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:19.235174+00:00",
+    "msg": "NEW_MESSAGE 20260804T184254Z_sirgreen_ops_auto_20260804T184254Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:20.818816+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a334c9d9fe0afe9f97b9 url=https://trello.com/c/jBXiCfJw"
+  },
+  {
+    "ts": "2026-08-08T21:44:20.834582+00:00",
+    "msg": "ARCHIVED 20260804T184254Z_sirgreen_ops_auto_20260804T184254Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:20.845945+00:00",
+    "msg": "NEW_MESSAGE 20260804T184308Z_sirgreen_ops_auto_20260804T184308Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:22.458515+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3351a87527ea8c01157 url=https://trello.com/c/5TnWtr1b"
+  },
+  {
+    "ts": "2026-08-08T21:44:22.471679+00:00",
+    "msg": "ARCHIVED 20260804T184308Z_sirgreen_ops_auto_20260804T184308Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:22.488552+00:00",
+    "msg": "NEW_MESSAGE 20260804T184545Z_sirgreen_ops_auto_20260804T184545Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:24.239374+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3374da8f560ccc5ff05 url=https://trello.com/c/qNj1bEgY"
+  },
+  {
+    "ts": "2026-08-08T21:44:24.251748+00:00",
+    "msg": "ARCHIVED 20260804T184545Z_sirgreen_ops_auto_20260804T184545Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:24.263435+00:00",
+    "msg": "NEW_MESSAGE 20260804T184649Z_sirgreen_ops_auto_20260804T184649Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:26.256492+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a339d6feeaece289f79f url=https://trello.com/c/R6vUFE49"
+  },
+  {
+    "ts": "2026-08-08T21:44:26.270498+00:00",
+    "msg": "ARCHIVED 20260804T184649Z_sirgreen_ops_auto_20260804T184649Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:26.283821+00:00",
+    "msg": "NEW_MESSAGE 20260804T184744Z_sirgreen_ops_auto_20260804T184744Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:27.940994+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a33bf8abff122b609539 url=https://trello.com/c/UjdVyndK"
+  },
+  {
+    "ts": "2026-08-08T21:44:27.959816+00:00",
+    "msg": "ARCHIVED 20260804T184744Z_sirgreen_ops_auto_20260804T184744Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:27.976261+00:00",
+    "msg": "NEW_MESSAGE 20260804T184954Z_sirgreen_ops_auto_20260804T184954Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:29.657625+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a33c92962ae2e0762080 url=https://trello.com/c/TLGk81yp"
+  },
+  {
+    "ts": "2026-08-08T21:44:29.674391+00:00",
+    "msg": "ARCHIVED 20260804T184954Z_sirgreen_ops_auto_20260804T184954Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:29.688476+00:00",
+    "msg": "NEW_MESSAGE 20260804T185451Z_sirgreen_ops_auto_20260804T185451Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:31.452031+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a33e64efea127d97b7e0 url=https://trello.com/c/uyGVjXek"
+  },
+  {
+    "ts": "2026-08-08T21:44:31.468065+00:00",
+    "msg": "ARCHIVED 20260804T185451Z_sirgreen_ops_auto_20260804T185451Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:31.485828+00:00",
+    "msg": "NEW_MESSAGE 20260804T185902Z_sirgreen_ops_auto_20260804T185902Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:33.060156+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a340971a0c202ae5d54e url=https://trello.com/c/CVuX06Mu"
+  },
+  {
+    "ts": "2026-08-08T21:44:33.079345+00:00",
+    "msg": "ARCHIVED 20260804T185902Z_sirgreen_ops_auto_20260804T185902Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:33.098909+00:00",
+    "msg": "NEW_MESSAGE 20260804T190455Z_sirgreen_ops_auto_20260804T190455Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:34.814201+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3411b3a4f61fcfd6721 url=https://trello.com/c/fq7ZnPNk"
+  },
+  {
+    "ts": "2026-08-08T21:44:34.834461+00:00",
+    "msg": "ARCHIVED 20260804T190455Z_sirgreen_ops_auto_20260804T190455Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:34.849428+00:00",
+    "msg": "NEW_MESSAGE 20260804T191912Z_sirgreen_ops_auto_20260804T191912Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:36.601985+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3435c33bd2a9a1bead9 url=https://trello.com/c/KF0Kg8BC"
+  },
+  {
+    "ts": "2026-08-08T21:44:36.614702+00:00",
+    "msg": "ARCHIVED 20260804T191912Z_sirgreen_ops_auto_20260804T191912Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:36.628095+00:00",
+    "msg": "NEW_MESSAGE 20260804T192649Z_sirgreen_ops_auto_20260804T192649Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:38.334654+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a34578a6ea71d996fada url=https://trello.com/c/T4EKT0Zp"
+  },
+  {
+    "ts": "2026-08-08T21:44:38.349484+00:00",
+    "msg": "ARCHIVED 20260804T192649Z_sirgreen_ops_auto_20260804T192649Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:38.362092+00:00",
+    "msg": "NEW_MESSAGE 20260804T193811Z_sirgreen_ops_auto_20260804T193811Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:39.923593+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a347dd69eb7027943f76 url=https://trello.com/c/ucZpKLRd"
+  },
+  {
+    "ts": "2026-08-08T21:44:39.938577+00:00",
+    "msg": "ARCHIVED 20260804T193811Z_sirgreen_ops_auto_20260804T193811Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:39.955851+00:00",
+    "msg": "NEW_MESSAGE 20260804T194938Z_sirgreen_ops_auto_20260804T194938Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:41.858735+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3485ecddda5ee868678 url=https://trello.com/c/PwbE74Df"
+  },
+  {
+    "ts": "2026-08-08T21:44:41.876603+00:00",
+    "msg": "ARCHIVED 20260804T194938Z_sirgreen_ops_auto_20260804T194938Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:41.889670+00:00",
+    "msg": "NEW_MESSAGE 20260804T195653Z_sirgreen_ops_auto_20260804T195653Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:43.691106+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a34a5d07b71f6f6495bb url=https://trello.com/c/oCbNHzq3"
+  },
+  {
+    "ts": "2026-08-08T21:44:43.703353+00:00",
+    "msg": "ARCHIVED 20260804T195653Z_sirgreen_ops_auto_20260804T195653Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:43.716796+00:00",
+    "msg": "NEW_MESSAGE 20260804T201103Z_sirgreen_ops_auto_20260804T201103Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:45.448645+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a34c81b74395f87c4998 url=https://trello.com/c/vJ2fhli0"
+  },
+  {
+    "ts": "2026-08-08T21:44:45.462992+00:00",
+    "msg": "ARCHIVED 20260804T201103Z_sirgreen_ops_auto_20260804T201103Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:45.474452+00:00",
+    "msg": "NEW_MESSAGE 20260804T201715Z_sirgreen_ops_auto_20260804T201715Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:47.143153+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a34e77a94909628c6a5a url=https://trello.com/c/VxSAlDJc"
+  },
+  {
+    "ts": "2026-08-08T21:44:47.159513+00:00",
+    "msg": "ARCHIVED 20260804T201715Z_sirgreen_ops_auto_20260804T201715Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:47.180610+00:00",
+    "msg": "NEW_MESSAGE 20260804T202032Z_sirgreen_ops_auto_20260804T202032Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:48.777289+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a350653eaba5283a5046 url=https://trello.com/c/9JgZsPph"
+  },
+  {
+    "ts": "2026-08-08T21:44:48.790882+00:00",
+    "msg": "ARCHIVED 20260804T202032Z_sirgreen_ops_auto_20260804T202032Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:48.802249+00:00",
+    "msg": "NEW_MESSAGE 20260804T202450Z_sirgreen_ops_auto_20260804T202450Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:50.588221+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a351aeab4978fc9ee6e0 url=https://trello.com/c/u6v7GaSJ"
+  },
+  {
+    "ts": "2026-08-08T21:44:50.601632+00:00",
+    "msg": "ARCHIVED 20260804T202450Z_sirgreen_ops_auto_20260804T202450Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:50.614137+00:00",
+    "msg": "NEW_MESSAGE 20260804T203135Z_sirgreen_ops_auto_20260804T203135Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:52.332211+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3536600e9b37fa6b38b url=https://trello.com/c/RP1PWLIT"
+  },
+  {
+    "ts": "2026-08-08T21:44:52.346343+00:00",
+    "msg": "ARCHIVED 20260804T203135Z_sirgreen_ops_auto_20260804T203135Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:52.358246+00:00",
+    "msg": "NEW_MESSAGE 20260804T203513Z_sirgreen_ops_auto_20260804T203513Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:54.025907+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3554b77a9feecc70c60 url=https://trello.com/c/eOtrvVYT"
+  },
+  {
+    "ts": "2026-08-08T21:44:54.042619+00:00",
+    "msg": "ARCHIVED 20260804T203513Z_sirgreen_ops_auto_20260804T203513Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:54.053975+00:00",
+    "msg": "NEW_MESSAGE 20260804T204052Z_sirgreen_ops_auto_20260804T204052Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:55.642598+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3566b179d4d00aad825 url=https://trello.com/c/e7hUOufC"
+  },
+  {
+    "ts": "2026-08-08T21:44:55.655845+00:00",
+    "msg": "ARCHIVED 20260804T204052Z_sirgreen_ops_auto_20260804T204052Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:55.668945+00:00",
+    "msg": "NEW_MESSAGE 20260804T204458Z_sirgreen_ops_auto_20260804T204458Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:57.284888+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a35893ca9d912f1ac2b7 url=https://trello.com/c/TDq0F0jB"
+  },
+  {
+    "ts": "2026-08-08T21:44:57.299969+00:00",
+    "msg": "ARCHIVED 20260804T204458Z_sirgreen_ops_auto_20260804T204458Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:57.316428+00:00",
+    "msg": "NEW_MESSAGE 20260805T020151Z_sirgreen_ops_auto_20260805T020151Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:44:58.961263+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a35ab185416011c0d3dd url=https://trello.com/c/OPubNHZp"
+  },
+  {
+    "ts": "2026-08-08T21:44:58.976288+00:00",
+    "msg": "ARCHIVED 20260805T020151Z_sirgreen_ops_auto_20260805T020151Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:44:58.988264+00:00",
+    "msg": "NEW_MESSAGE 20260805T022050Z_sirgreen_ops_auto_20260805T022050Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:00.634098+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a35b3ffe61635106b68f url=https://trello.com/c/IoumgRz0"
+  },
+  {
+    "ts": "2026-08-08T21:45:00.649918+00:00",
+    "msg": "ARCHIVED 20260805T022050Z_sirgreen_ops_auto_20260805T022050Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:00.662221+00:00",
+    "msg": "NEW_MESSAGE 20260805T022050Z_trello_sync_unified_backlog.msg.md from=unknown topic=general size=3084"
+  },
+  {
+    "ts": "2026-08-08T21:45:02.617793+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a35d04a546672ccab5e4 url=https://trello.com/c/NqOy8DYx"
+  },
+  {
+    "ts": "2026-08-08T21:45:02.633891+00:00",
+    "msg": "ARCHIVED 20260805T022050Z_trello_sync_unified_backlog.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:02.648993+00:00",
+    "msg": "NEW_MESSAGE 20260805T022658Z_sirgreen_ops_auto_20260805T022658Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:04.810612+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a35ffde2da418e101e31 url=https://trello.com/c/aUwziBSD"
+  },
+  {
+    "ts": "2026-08-08T21:45:04.830925+00:00",
+    "msg": "ARCHIVED 20260805T022658Z_sirgreen_ops_auto_20260805T022658Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:04.848355+00:00",
+    "msg": "NEW_MESSAGE 20260805T022658Z_trello_sync_unified_backlog.msg.md from=unknown topic=general size=3084"
+  },
+  {
+    "ts": "2026-08-08T21:45:06.873888+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a361ec8073bef5ec14a3 url=https://trello.com/c/DIJ4LTy9"
+  },
+  {
+    "ts": "2026-08-08T21:45:06.891193+00:00",
+    "msg": "ARCHIVED 20260805T022658Z_trello_sync_unified_backlog.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:06.906304+00:00",
+    "msg": "NEW_MESSAGE 20260805T044154Z_sirgreen_ops_auto_20260805T044154Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:08.629053+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a363e8087ac47ad513f0 url=https://trello.com/c/cN4noXEh"
+  },
+  {
+    "ts": "2026-08-08T21:45:08.650990+00:00",
+    "msg": "ARCHIVED 20260805T044154Z_sirgreen_ops_auto_20260805T044154Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:08.667700+00:00",
+    "msg": "NEW_MESSAGE 20260805T044154Z_trello_sync_unified_backlog.msg.md from=unknown topic=general size=3084"
+  },
+  {
+    "ts": "2026-08-08T21:45:10.820714+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3659abb5ae475b0f79d url=https://trello.com/c/ceCIohlG"
+  },
+  {
+    "ts": "2026-08-08T21:45:10.834369+00:00",
+    "msg": "ARCHIVED 20260805T044154Z_trello_sync_unified_backlog.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:10.846825+00:00",
+    "msg": "NEW_MESSAGE 20260806T020648Z_sirgreen_ops_auto_20260806T020648Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:12.584215+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3674f3227d6d44a4745 url=https://trello.com/c/FTmEYc0Q"
+  },
+  {
+    "ts": "2026-08-08T21:45:12.600026+00:00",
+    "msg": "ARCHIVED 20260806T020648Z_sirgreen_ops_auto_20260806T020648Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:12.614954+00:00",
+    "msg": "NEW_MESSAGE 20260806T020746Z_sirgreen_ops_auto_20260806T020746Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:14.405984+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3695fb1fb9507f5e4fe url=https://trello.com/c/KpgnZZFu"
+  },
+  {
+    "ts": "2026-08-08T21:45:14.419794+00:00",
+    "msg": "ARCHIVED 20260806T020746Z_sirgreen_ops_auto_20260806T020746Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:14.433320+00:00",
+    "msg": "NEW_MESSAGE 20260806T020846Z_sirgreen_ops_auto_20260806T020846Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:16.520150+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a36bfde2da418e1030ed url=https://trello.com/c/bcBUg2Ar"
+  },
+  {
+    "ts": "2026-08-08T21:45:16.535993+00:00",
+    "msg": "ARCHIVED 20260806T020846Z_sirgreen_ops_auto_20260806T020846Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:16.548012+00:00",
+    "msg": "NEW_MESSAGE 20260806T020946Z_sirgreen_ops_auto_20260806T020946Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:18.247104+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a36dbef76747722a9a15 url=https://trello.com/c/yfPbUOgV"
+  },
+  {
+    "ts": "2026-08-08T21:45:18.271696+00:00",
+    "msg": "ARCHIVED 20260806T020946Z_sirgreen_ops_auto_20260806T020946Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:18.289054+00:00",
+    "msg": "NEW_MESSAGE 20260806T021046Z_sirgreen_ops_auto_20260806T021046Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:19.979382+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a36fa8fb9e6586a5e5c5 url=https://trello.com/c/OQ1Tf5Db"
+  },
+  {
+    "ts": "2026-08-08T21:45:19.999444+00:00",
+    "msg": "ARCHIVED 20260806T021046Z_sirgreen_ops_auto_20260806T021046Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:20.017737+00:00",
+    "msg": "NEW_MESSAGE 20260806T021146Z_sirgreen_ops_auto_20260806T021146Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:21.675713+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a370f8239eeb72290847 url=https://trello.com/c/hJa5MtNt"
+  },
+  {
+    "ts": "2026-08-08T21:45:21.693123+00:00",
+    "msg": "ARCHIVED 20260806T021146Z_sirgreen_ops_auto_20260806T021146Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:21.707009+00:00",
+    "msg": "NEW_MESSAGE 20260806T021246Z_sirgreen_ops_auto_20260806T021246Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:23.590551+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a372265a627f1d751946 url=https://trello.com/c/zb0vXjtW"
+  },
+  {
+    "ts": "2026-08-08T21:45:23.609826+00:00",
+    "msg": "ARCHIVED 20260806T021246Z_sirgreen_ops_auto_20260806T021246Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:23.625221+00:00",
+    "msg": "NEW_MESSAGE 20260806T021347Z_sirgreen_ops_auto_20260806T021347Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:25.351105+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a374a28bb7ee03d2f076 url=https://trello.com/c/eerGV7ic"
+  },
+  {
+    "ts": "2026-08-08T21:45:25.366347+00:00",
+    "msg": "ARCHIVED 20260806T021347Z_sirgreen_ops_auto_20260806T021347Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:25.379972+00:00",
+    "msg": "NEW_MESSAGE 20260806T021447Z_sirgreen_ops_auto_20260806T021447Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:27.006438+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3766e5d6272801a22c4 url=https://trello.com/c/rs8QL6Oq"
+  },
+  {
+    "ts": "2026-08-08T21:45:27.021493+00:00",
+    "msg": "ARCHIVED 20260806T021447Z_sirgreen_ops_auto_20260806T021447Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:27.032288+00:00",
+    "msg": "NEW_MESSAGE 20260806T021547Z_sirgreen_ops_auto_20260806T021547Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:28.847102+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a37752d2243aa1873a69 url=https://trello.com/c/nkfPKdsd"
+  },
+  {
+    "ts": "2026-08-08T21:45:28.858683+00:00",
+    "msg": "ARCHIVED 20260806T021547Z_sirgreen_ops_auto_20260806T021547Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:28.869909+00:00",
+    "msg": "NEW_MESSAGE 20260806T021647Z_sirgreen_ops_auto_20260806T021647Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:30.558852+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a37984157f637852fb79 url=https://trello.com/c/W7sJPiCU"
+  },
+  {
+    "ts": "2026-08-08T21:45:30.576140+00:00",
+    "msg": "ARCHIVED 20260806T021647Z_sirgreen_ops_auto_20260806T021647Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:30.592124+00:00",
+    "msg": "NEW_MESSAGE 20260806T021747Z_sirgreen_ops_auto_20260806T021747Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:32.299131+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a37be117b2b3fd5f37ba url=https://trello.com/c/f52cQRtE"
+  },
+  {
+    "ts": "2026-08-08T21:45:32.313324+00:00",
+    "msg": "ARCHIVED 20260806T021747Z_sirgreen_ops_auto_20260806T021747Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:32.325594+00:00",
+    "msg": "NEW_MESSAGE 20260806T021848Z_sirgreen_ops_auto_20260806T021848Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:34.629245+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a37d1aa7dced88a49432 url=https://trello.com/c/phZrFqn6"
+  },
+  {
+    "ts": "2026-08-08T21:45:34.643022+00:00",
+    "msg": "ARCHIVED 20260806T021848Z_sirgreen_ops_auto_20260806T021848Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:34.657578+00:00",
+    "msg": "NEW_MESSAGE 20260806T021948Z_sirgreen_ops_auto_20260806T021948Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:36.343125+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a37fd0a7a8dada8adc22 url=https://trello.com/c/wA728xNd"
+  },
+  {
+    "ts": "2026-08-08T21:45:36.356949+00:00",
+    "msg": "ARCHIVED 20260806T021948Z_sirgreen_ops_auto_20260806T021948Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:36.372110+00:00",
+    "msg": "NEW_MESSAGE 20260806T022048Z_sirgreen_ops_auto_20260806T022048Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:38.030932+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a381e95a88ef8d2bdee2 url=https://trello.com/c/Ix3IujLU"
+  },
+  {
+    "ts": "2026-08-08T21:45:38.051504+00:00",
+    "msg": "ARCHIVED 20260806T022048Z_sirgreen_ops_auto_20260806T022048Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:38.069986+00:00",
+    "msg": "NEW_MESSAGE 20260806T022148Z_sirgreen_ops_auto_20260806T022148Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:39.905914+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3826445e595c4e12720 url=https://trello.com/c/IYNnqAf6"
+  },
+  {
+    "ts": "2026-08-08T21:45:39.922531+00:00",
+    "msg": "ARCHIVED 20260806T022148Z_sirgreen_ops_auto_20260806T022148Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:39.934769+00:00",
+    "msg": "NEW_MESSAGE 20260806T022248Z_sirgreen_ops_auto_20260806T022248Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:41.536385+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a38415f508cd2c6fda62 url=https://trello.com/c/ysuChZhm"
+  },
+  {
+    "ts": "2026-08-08T21:45:41.550489+00:00",
+    "msg": "ARCHIVED 20260806T022248Z_sirgreen_ops_auto_20260806T022248Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:41.563876+00:00",
+    "msg": "NEW_MESSAGE 20260806T022349Z_sirgreen_ops_auto_20260806T022349Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:43.272844+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a38605ad71cbd0134ba2 url=https://trello.com/c/TE2wObjJ"
+  },
+  {
+    "ts": "2026-08-08T21:45:43.286661+00:00",
+    "msg": "ARCHIVED 20260806T022349Z_sirgreen_ops_auto_20260806T022349Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:43.301457+00:00",
+    "msg": "NEW_MESSAGE 20260806T022449Z_sirgreen_ops_auto_20260806T022449Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:44.911366+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3883c683de08f99d29e url=https://trello.com/c/t1mu33hM"
+  },
+  {
+    "ts": "2026-08-08T21:45:44.931203+00:00",
+    "msg": "ARCHIVED 20260806T022449Z_sirgreen_ops_auto_20260806T022449Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:44.947313+00:00",
+    "msg": "NEW_MESSAGE 20260806T022549Z_sirgreen_ops_auto_20260806T022549Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:46.561450+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a389d6feeaece28a913c url=https://trello.com/c/hofRn1jh"
+  },
+  {
+    "ts": "2026-08-08T21:45:46.576911+00:00",
+    "msg": "ARCHIVED 20260806T022549Z_sirgreen_ops_auto_20260806T022549Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:46.590875+00:00",
+    "msg": "NEW_MESSAGE 20260806T022650Z_sirgreen_ops_auto_20260806T022650Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:48.585131+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a38b688d3ff123c41ea4 url=https://trello.com/c/Lfq7AiC8"
+  },
+  {
+    "ts": "2026-08-08T21:45:48.601172+00:00",
+    "msg": "ARCHIVED 20260806T022650Z_sirgreen_ops_auto_20260806T022650Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:48.616098+00:00",
+    "msg": "NEW_MESSAGE 20260806T022749Z_sirgreen_ops_auto_20260806T022749Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:50.480848+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a38dd1f4baae0c86deb6 url=https://trello.com/c/IyahJJE7"
+  },
+  {
+    "ts": "2026-08-08T21:45:50.498409+00:00",
+    "msg": "ARCHIVED 20260806T022749Z_sirgreen_ops_auto_20260806T022749Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:50.511908+00:00",
+    "msg": "NEW_MESSAGE 20260806T022849Z_sirgreen_ops_auto_20260806T022849Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:52.287180+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a38f7f3ea5516765183f url=https://trello.com/c/RbrI0sdX"
+  },
+  {
+    "ts": "2026-08-08T21:45:52.300235+00:00",
+    "msg": "ARCHIVED 20260806T022849Z_sirgreen_ops_auto_20260806T022849Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:52.312740+00:00",
+    "msg": "NEW_MESSAGE 20260806T022949Z_sirgreen_ops_auto_20260806T022949Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:54.283880+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a39137bb4a536f703c19 url=https://trello.com/c/Z0tqdZ1x"
+  },
+  {
+    "ts": "2026-08-08T21:45:54.299800+00:00",
+    "msg": "ARCHIVED 20260806T022949Z_sirgreen_ops_auto_20260806T022949Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:54.316037+00:00",
+    "msg": "NEW_MESSAGE 20260806T023050Z_sirgreen_ops_auto_20260806T023050Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:55.977436+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a393e8d710214397e0e5 url=https://trello.com/c/rB1W2jNP"
+  },
+  {
+    "ts": "2026-08-08T21:45:55.990917+00:00",
+    "msg": "ARCHIVED 20260806T023050Z_sirgreen_ops_auto_20260806T023050Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:56.003401+00:00",
+    "msg": "NEW_MESSAGE 20260806T023150Z_sirgreen_ops_auto_20260806T023150Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:57.650027+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a394f69ca0141015cc4d url=https://trello.com/c/u3tSNnLz"
+  },
+  {
+    "ts": "2026-08-08T21:45:57.668393+00:00",
+    "msg": "ARCHIVED 20260806T023150Z_sirgreen_ops_auto_20260806T023150Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:57.688482+00:00",
+    "msg": "NEW_MESSAGE 20260806T023250Z_sirgreen_ops_auto_20260806T023250Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:45:59.359989+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a39619b32db924d5483f url=https://trello.com/c/ko8a2j4K"
+  },
+  {
+    "ts": "2026-08-08T21:45:59.374184+00:00",
+    "msg": "ARCHIVED 20260806T023250Z_sirgreen_ops_auto_20260806T023250Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:45:59.387100+00:00",
+    "msg": "NEW_MESSAGE 20260806T023350Z_sirgreen_ops_auto_20260806T023350Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:01.697708+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a398c5c6f1e7e945923b url=https://trello.com/c/os3wHNeS"
+  },
+  {
+    "ts": "2026-08-08T21:46:01.710708+00:00",
+    "msg": "ARCHIVED 20260806T023350Z_sirgreen_ops_auto_20260806T023350Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:01.723953+00:00",
+    "msg": "NEW_MESSAGE 20260806T023450Z_sirgreen_ops_auto_20260806T023450Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:03.680519+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a39a0e57d856715a389e url=https://trello.com/c/XacD59OY"
+  },
+  {
+    "ts": "2026-08-08T21:46:03.693761+00:00",
+    "msg": "ARCHIVED 20260806T023450Z_sirgreen_ops_auto_20260806T023450Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:03.705239+00:00",
+    "msg": "NEW_MESSAGE 20260806T023550Z_sirgreen_ops_auto_20260806T023550Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:05.335861+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a39c8dd799536d8760c8 url=https://trello.com/c/ZXxneNVK"
+  },
+  {
+    "ts": "2026-08-08T21:46:05.357383+00:00",
+    "msg": "ARCHIVED 20260806T023550Z_sirgreen_ops_auto_20260806T023550Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:05.375772+00:00",
+    "msg": "NEW_MESSAGE 20260806T023650Z_sirgreen_ops_auto_20260806T023650Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:07.052367+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a39e66016c3dbfa7a1a8 url=https://trello.com/c/eb5Sgca1"
+  },
+  {
+    "ts": "2026-08-08T21:46:07.066952+00:00",
+    "msg": "ARCHIVED 20260806T023650Z_sirgreen_ops_auto_20260806T023650Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:07.081898+00:00",
+    "msg": "NEW_MESSAGE 20260806T023751Z_sirgreen_ops_auto_20260806T023751Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:08.813317+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a39fac546bc12c186480 url=https://trello.com/c/w3t2XwY6"
+  },
+  {
+    "ts": "2026-08-08T21:46:08.829005+00:00",
+    "msg": "ARCHIVED 20260806T023751Z_sirgreen_ops_auto_20260806T023751Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:08.841159+00:00",
+    "msg": "NEW_MESSAGE 20260806T023851Z_sirgreen_ops_auto_20260806T023851Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:10.544459+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3a117d3a5c911511daa url=https://trello.com/c/AaPQqTxE"
+  },
+  {
+    "ts": "2026-08-08T21:46:10.562990+00:00",
+    "msg": "ARCHIVED 20260806T023851Z_sirgreen_ops_auto_20260806T023851Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:10.575534+00:00",
+    "msg": "NEW_MESSAGE 20260806T023951Z_sirgreen_ops_auto_20260806T023951Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:12.381593+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3a3853e1717a80dddf5 url=https://trello.com/c/0O0y89SF"
+  },
+  {
+    "ts": "2026-08-08T21:46:12.397127+00:00",
+    "msg": "ARCHIVED 20260806T023951Z_sirgreen_ops_auto_20260806T023951Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:12.411818+00:00",
+    "msg": "NEW_MESSAGE 20260806T024052Z_sirgreen_ops_auto_20260806T024052Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:14.165917+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3a51c142843ad2da334 url=https://trello.com/c/QbZ8my4c"
+  },
+  {
+    "ts": "2026-08-08T21:46:14.180639+00:00",
+    "msg": "ARCHIVED 20260806T024052Z_sirgreen_ops_auto_20260806T024052Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:14.196639+00:00",
+    "msg": "NEW_MESSAGE 20260806T024152Z_sirgreen_ops_auto_20260806T024152Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:15.954618+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3a7b34c0e90e8343eeb url=https://trello.com/c/TXdgzpFl"
+  },
+  {
+    "ts": "2026-08-08T21:46:15.970243+00:00",
+    "msg": "ARCHIVED 20260806T024152Z_sirgreen_ops_auto_20260806T024152Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:15.986424+00:00",
+    "msg": "NEW_MESSAGE 20260806T024253Z_sirgreen_ops_auto_20260806T024253Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:17.686737+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3a85852328d832e7b37 url=https://trello.com/c/g6tFiaU8"
+  },
+  {
+    "ts": "2026-08-08T21:46:17.705599+00:00",
+    "msg": "ARCHIVED 20260806T024253Z_sirgreen_ops_auto_20260806T024253Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:17.718840+00:00",
+    "msg": "NEW_MESSAGE 20260806T024352Z_sirgreen_ops_auto_20260806T024352Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:19.424194+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3aae7468d579325e0ff url=https://trello.com/c/hJN67Ld1"
+  },
+  {
+    "ts": "2026-08-08T21:46:19.439356+00:00",
+    "msg": "ARCHIVED 20260806T024352Z_sirgreen_ops_auto_20260806T024352Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:19.450692+00:00",
+    "msg": "NEW_MESSAGE 20260806T024452Z_sirgreen_ops_auto_20260806T024452Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:21.210149+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3acb6a1969a05b21753 url=https://trello.com/c/n4jPp4zD"
+  },
+  {
+    "ts": "2026-08-08T21:46:21.228171+00:00",
+    "msg": "ARCHIVED 20260806T024452Z_sirgreen_ops_auto_20260806T024452Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:21.244165+00:00",
+    "msg": "NEW_MESSAGE 20260806T024552Z_sirgreen_ops_auto_20260806T024552Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:22.981376+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3ae4a1c1676f75aa072 url=https://trello.com/c/DV4DqwQr"
+  },
+  {
+    "ts": "2026-08-08T21:46:22.995696+00:00",
+    "msg": "ARCHIVED 20260806T024552Z_sirgreen_ops_auto_20260806T024552Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:23.012597+00:00",
+    "msg": "NEW_MESSAGE 20260806T024652Z_sirgreen_ops_auto_20260806T024652Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:25.053408+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3af9b63b9f7106fc62e url=https://trello.com/c/pZi5KbwD"
+  },
+  {
+    "ts": "2026-08-08T21:46:25.073512+00:00",
+    "msg": "ARCHIVED 20260806T024652Z_sirgreen_ops_auto_20260806T024652Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:25.093536+00:00",
+    "msg": "NEW_MESSAGE 20260806T024753Z_sirgreen_ops_auto_20260806T024753Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:26.845037+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3b10d14794c3e3106a4 url=https://trello.com/c/4mAXqR4r"
+  },
+  {
+    "ts": "2026-08-08T21:46:26.866335+00:00",
+    "msg": "ARCHIVED 20260806T024753Z_sirgreen_ops_auto_20260806T024753Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:26.885016+00:00",
+    "msg": "NEW_MESSAGE 20260806T024853Z_sirgreen_ops_auto_20260806T024853Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:28.559366+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3b3a1c3f7f3ce07a49b url=https://trello.com/c/SHxRaNTV"
+  },
+  {
+    "ts": "2026-08-08T21:46:28.574677+00:00",
+    "msg": "ARCHIVED 20260806T024853Z_sirgreen_ops_auto_20260806T024853Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:28.588210+00:00",
+    "msg": "NEW_MESSAGE 20260806T024953Z_sirgreen_ops_auto_20260806T024953Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:30.322961+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3b53f281398e18336be url=https://trello.com/c/Uidj3API"
+  },
+  {
+    "ts": "2026-08-08T21:46:30.336568+00:00",
+    "msg": "ARCHIVED 20260806T024953Z_sirgreen_ops_auto_20260806T024953Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:30.350268+00:00",
+    "msg": "NEW_MESSAGE 20260806T025053Z_sirgreen_ops_auto_20260806T025053Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:31.968664+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3b74a1c1676f75ab6c5 url=https://trello.com/c/NIgVEhDI"
+  },
+  {
+    "ts": "2026-08-08T21:46:31.981628+00:00",
+    "msg": "ARCHIVED 20260806T025053Z_sirgreen_ops_auto_20260806T025053Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:31.994281+00:00",
+    "msg": "NEW_MESSAGE 20260806T025153Z_sirgreen_ops_auto_20260806T025153Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:33.786636+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3b858624d511d86b435 url=https://trello.com/c/QSolLiCs"
+  },
+  {
+    "ts": "2026-08-08T21:46:33.823755+00:00",
+    "msg": "ARCHIVED 20260806T025153Z_sirgreen_ops_auto_20260806T025153Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:33.836985+00:00",
+    "msg": "NEW_MESSAGE 20260806T025254Z_sirgreen_ops_auto_20260806T025254Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:35.623263+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3bae47df224a147bfd0 url=https://trello.com/c/8TMoKIFe"
+  },
+  {
+    "ts": "2026-08-08T21:46:35.645558+00:00",
+    "msg": "ARCHIVED 20260806T025254Z_sirgreen_ops_auto_20260806T025254Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:35.667479+00:00",
+    "msg": "NEW_MESSAGE 20260806T025354Z_sirgreen_ops_auto_20260806T025354Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:37.357892+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3bc8040294aeefe76eb url=https://trello.com/c/DLkopJtb"
+  },
+  {
+    "ts": "2026-08-08T21:46:37.375080+00:00",
+    "msg": "ARCHIVED 20260806T025354Z_sirgreen_ops_auto_20260806T025354Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:37.397810+00:00",
+    "msg": "NEW_MESSAGE 20260806T025454Z_sirgreen_ops_auto_20260806T025454Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:39.198230+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3be7859c470b71b2bba url=https://trello.com/c/1wMQy8GJ"
+  },
+  {
+    "ts": "2026-08-08T21:46:39.214712+00:00",
+    "msg": "ARCHIVED 20260806T025454Z_sirgreen_ops_auto_20260806T025454Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:39.229586+00:00",
+    "msg": "NEW_MESSAGE 20260806T025554Z_sirgreen_ops_auto_20260806T025554Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:41.112461+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3c04da8f560ccc6eef5 url=https://trello.com/c/jQpdGN2o"
+  },
+  {
+    "ts": "2026-08-08T21:46:41.132533+00:00",
+    "msg": "ARCHIVED 20260806T025554Z_sirgreen_ops_auto_20260806T025554Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:41.154976+00:00",
+    "msg": "NEW_MESSAGE 20260806T025655Z_sirgreen_ops_auto_20260806T025655Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:42.894430+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3c21aa7dced88a4d041 url=https://trello.com/c/GcyWuUiR"
+  },
+  {
+    "ts": "2026-08-08T21:46:42.915525+00:00",
+    "msg": "ARCHIVED 20260806T025655Z_sirgreen_ops_auto_20260806T025655Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:42.931229+00:00",
+    "msg": "NEW_MESSAGE 20260806T025757Z_sirgreen_ops_auto_20260806T025757Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:44.554056+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3c302b8501b316c2482 url=https://trello.com/c/4wKgbmWN"
+  },
+  {
+    "ts": "2026-08-08T21:46:44.572846+00:00",
+    "msg": "ARCHIVED 20260806T025757Z_sirgreen_ops_auto_20260806T025757Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:44.588091+00:00",
+    "msg": "NEW_MESSAGE 20260806T025856Z_sirgreen_ops_auto_20260806T025856Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:46.311433+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3c568fa19ca5c15d161 url=https://trello.com/c/65cIHe4l"
+  },
+  {
+    "ts": "2026-08-08T21:46:46.331101+00:00",
+    "msg": "ARCHIVED 20260806T025856Z_sirgreen_ops_auto_20260806T025856Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:46.346157+00:00",
+    "msg": "NEW_MESSAGE 20260806T025955Z_sirgreen_ops_auto_20260806T025955Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:48.443733+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3c78305c638d453aa47 url=https://trello.com/c/FtEKhqXv"
+  },
+  {
+    "ts": "2026-08-08T21:46:48.459532+00:00",
+    "msg": "ARCHIVED 20260806T025955Z_sirgreen_ops_auto_20260806T025955Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:48.472087+00:00",
+    "msg": "NEW_MESSAGE 20260806T030055Z_sirgreen_ops_auto_20260806T030055Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:50.198536+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3c90e88a301f6c65a5e url=https://trello.com/c/IFv55tNY"
+  },
+  {
+    "ts": "2026-08-08T21:46:50.218899+00:00",
+    "msg": "ARCHIVED 20260806T030055Z_sirgreen_ops_auto_20260806T030055Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:50.239644+00:00",
+    "msg": "NEW_MESSAGE 20260806T030156Z_sirgreen_ops_auto_20260806T030156Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:52.043717+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3cbf411be447cafec2e url=https://trello.com/c/DfLI36ts"
+  },
+  {
+    "ts": "2026-08-08T21:46:52.061299+00:00",
+    "msg": "ARCHIVED 20260806T030156Z_sirgreen_ops_auto_20260806T030156Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:52.074110+00:00",
+    "msg": "NEW_MESSAGE 20260806T030256Z_sirgreen_ops_auto_20260806T030256Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:53.747675+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3ccfabfda235a5d83a7 url=https://trello.com/c/gU9Vvuvh"
+  },
+  {
+    "ts": "2026-08-08T21:46:53.779374+00:00",
+    "msg": "ARCHIVED 20260806T030256Z_sirgreen_ops_auto_20260806T030256Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:53.794653+00:00",
+    "msg": "NEW_MESSAGE 20260806T030356Z_sirgreen_ops_auto_20260806T030356Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:55.860151+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3ceb2c802558c177e18 url=https://trello.com/c/amOijNWh"
+  },
+  {
+    "ts": "2026-08-08T21:46:55.879392+00:00",
+    "msg": "ARCHIVED 20260806T030356Z_sirgreen_ops_auto_20260806T030356Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:55.894984+00:00",
+    "msg": "NEW_MESSAGE 20260806T030457Z_sirgreen_ops_auto_20260806T030457Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:57.676995+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3d0964ce4a35d4bcf17 url=https://trello.com/c/AqOFWDAY"
+  },
+  {
+    "ts": "2026-08-08T21:46:57.692665+00:00",
+    "msg": "ARCHIVED 20260806T030457Z_sirgreen_ops_auto_20260806T030457Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:57.704886+00:00",
+    "msg": "NEW_MESSAGE 20260806T030556Z_sirgreen_ops_auto_20260806T030556Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:46:59.636565+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3d214e2297301a287bb url=https://trello.com/c/pxonxBnX"
+  },
+  {
+    "ts": "2026-08-08T21:46:59.654983+00:00",
+    "msg": "ARCHIVED 20260806T030556Z_sirgreen_ops_auto_20260806T030556Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:46:59.671285+00:00",
+    "msg": "NEW_MESSAGE 20260806T030656Z_sirgreen_ops_auto_20260806T030656Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:01.482169+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3d4acaeba5c069e9657 url=https://trello.com/c/SFviFBlF"
+  },
+  {
+    "ts": "2026-08-08T21:47:01.499385+00:00",
+    "msg": "ARCHIVED 20260806T030656Z_sirgreen_ops_auto_20260806T030656Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:01.514320+00:00",
+    "msg": "NEW_MESSAGE 20260806T030756Z_sirgreen_ops_auto_20260806T030756Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:03.295337+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3d64436cad18efce4a6 url=https://trello.com/c/0i9tmtuu"
+  },
+  {
+    "ts": "2026-08-08T21:47:03.315347+00:00",
+    "msg": "ARCHIVED 20260806T030756Z_sirgreen_ops_auto_20260806T030756Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:03.333792+00:00",
+    "msg": "NEW_MESSAGE 20260806T030856Z_sirgreen_ops_auto_20260806T030856Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:04.992213+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3d8c139b747a5edee1a url=https://trello.com/c/10PhYobo"
+  },
+  {
+    "ts": "2026-08-08T21:47:05.007777+00:00",
+    "msg": "ARCHIVED 20260806T030856Z_sirgreen_ops_auto_20260806T030856Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:05.021729+00:00",
+    "msg": "NEW_MESSAGE 20260806T030956Z_sirgreen_ops_auto_20260806T030956Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:06.856027+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3d98da2710ee850ce20 url=https://trello.com/c/9iLZoN42"
+  },
+  {
+    "ts": "2026-08-08T21:47:06.871804+00:00",
+    "msg": "ARCHIVED 20260806T030956Z_sirgreen_ops_auto_20260806T030956Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:06.884271+00:00",
+    "msg": "NEW_MESSAGE 20260806T031057Z_sirgreen_ops_auto_20260806T031057Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:08.608172+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3dbb0f7c98578ea7fc3 url=https://trello.com/c/Pd2tGWPn"
+  },
+  {
+    "ts": "2026-08-08T21:47:08.626487+00:00",
+    "msg": "ARCHIVED 20260806T031057Z_sirgreen_ops_auto_20260806T031057Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:08.642211+00:00",
+    "msg": "NEW_MESSAGE 20260806T031157Z_sirgreen_ops_auto_20260806T031157Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:10.259476+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3dda3b1127f1d4fcd45 url=https://trello.com/c/HwkQOiDw"
+  },
+  {
+    "ts": "2026-08-08T21:47:10.274066+00:00",
+    "msg": "ARCHIVED 20260806T031157Z_sirgreen_ops_auto_20260806T031157Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:10.287237+00:00",
+    "msg": "NEW_MESSAGE 20260806T031257Z_sirgreen_ops_auto_20260806T031257Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:12.112983+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3df2f4d6b32c696e2cd url=https://trello.com/c/9oGV50iK"
+  },
+  {
+    "ts": "2026-08-08T21:47:12.128836+00:00",
+    "msg": "ARCHIVED 20260806T031257Z_sirgreen_ops_auto_20260806T031257Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:12.140955+00:00",
+    "msg": "NEW_MESSAGE 20260806T031357Z_sirgreen_ops_auto_20260806T031357Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:14.079235+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3e17441c38509954f02 url=https://trello.com/c/Qu85GKox"
+  },
+  {
+    "ts": "2026-08-08T21:47:14.095522+00:00",
+    "msg": "ARCHIVED 20260806T031357Z_sirgreen_ops_auto_20260806T031357Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:14.108185+00:00",
+    "msg": "NEW_MESSAGE 20260806T031458Z_sirgreen_ops_auto_20260806T031458Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:16.336636+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3e3e47df224a14822ba url=https://trello.com/c/29c5FCMA"
+  },
+  {
+    "ts": "2026-08-08T21:47:16.351998+00:00",
+    "msg": "ARCHIVED 20260806T031458Z_sirgreen_ops_auto_20260806T031458Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:16.365538+00:00",
+    "msg": "NEW_MESSAGE 20260806T031558Z_sirgreen_ops_auto_20260806T031558Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:17.968956+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3e5853e1717a80e36f9 url=https://trello.com/c/kfoNcOiR"
+  },
+  {
+    "ts": "2026-08-08T21:47:17.985096+00:00",
+    "msg": "ARCHIVED 20260806T031558Z_sirgreen_ops_auto_20260806T031558Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:18.002385+00:00",
+    "msg": "NEW_MESSAGE 20260806T031658Z_sirgreen_ops_auto_20260806T031658Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:19.700218+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3e678a6ea71d998905f url=https://trello.com/c/YPqpXYYV"
+  },
+  {
+    "ts": "2026-08-08T21:47:19.717146+00:00",
+    "msg": "ARCHIVED 20260806T031658Z_sirgreen_ops_auto_20260806T031658Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:19.733440+00:00",
+    "msg": "NEW_MESSAGE 20260806T031758Z_sirgreen_ops_auto_20260806T031758Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:21.871908+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3e82d015bd3982ea52a url=https://trello.com/c/AXSCugPH"
+  },
+  {
+    "ts": "2026-08-08T21:47:21.887463+00:00",
+    "msg": "ARCHIVED 20260806T031758Z_sirgreen_ops_auto_20260806T031758Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:21.900316+00:00",
+    "msg": "NEW_MESSAGE 20260806T031858Z_sirgreen_ops_auto_20260806T031858Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:23.650580+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3eabf2f7d39093dfdee url=https://trello.com/c/OE8eTIE7"
+  },
+  {
+    "ts": "2026-08-08T21:47:23.666068+00:00",
+    "msg": "ARCHIVED 20260806T031858Z_sirgreen_ops_auto_20260806T031858Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:23.678640+00:00",
+    "msg": "NEW_MESSAGE 20260806T031958Z_sirgreen_ops_auto_20260806T031958Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:25.479627+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3ec8040294aeefefe9b url=https://trello.com/c/Dqr63MmY"
+  },
+  {
+    "ts": "2026-08-08T21:47:25.500099+00:00",
+    "msg": "ARCHIVED 20260806T031958Z_sirgreen_ops_auto_20260806T031958Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:25.517034+00:00",
+    "msg": "NEW_MESSAGE 20260806T032059Z_sirgreen_ops_auto_20260806T032059Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:27.274597+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3ee9dcdcebc2a96424d url=https://trello.com/c/qJghB24G"
+  },
+  {
+    "ts": "2026-08-08T21:47:27.289006+00:00",
+    "msg": "ARCHIVED 20260806T032059Z_sirgreen_ops_auto_20260806T032059Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:27.303193+00:00",
+    "msg": "NEW_MESSAGE 20260806T032159Z_sirgreen_ops_auto_20260806T032159Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:29.298672+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3f0ee19e99edb7dbe3f url=https://trello.com/c/xV61WGYx"
+  },
+  {
+    "ts": "2026-08-08T21:47:29.314064+00:00",
+    "msg": "ARCHIVED 20260806T032159Z_sirgreen_ops_auto_20260806T032159Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:29.326793+00:00",
+    "msg": "NEW_MESSAGE 20260806T032300Z_sirgreen_ops_auto_20260806T032300Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:31.415306+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3f24a9404afe3e9f54e url=https://trello.com/c/G7OsyJxH"
+  },
+  {
+    "ts": "2026-08-08T21:47:31.429949+00:00",
+    "msg": "ARCHIVED 20260806T032300Z_sirgreen_ops_auto_20260806T032300Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:31.443214+00:00",
+    "msg": "NEW_MESSAGE 20260806T032359Z_sirgreen_ops_auto_20260806T032359Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:33.020660+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3f4ef58b9e04c5fa8d9 url=https://trello.com/c/Cqkuz5YI"
+  },
+  {
+    "ts": "2026-08-08T21:47:33.034379+00:00",
+    "msg": "ARCHIVED 20260806T032359Z_sirgreen_ops_auto_20260806T032359Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:33.048273+00:00",
+    "msg": "NEW_MESSAGE 20260806T032500Z_sirgreen_ops_auto_20260806T032500Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:34.895016+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3f56d0136a4ddbe91b2 url=https://trello.com/c/M1WJemdC"
+  },
+  {
+    "ts": "2026-08-08T21:47:34.914841+00:00",
+    "msg": "ARCHIVED 20260806T032500Z_sirgreen_ops_auto_20260806T032500Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:34.927941+00:00",
+    "msg": "NEW_MESSAGE 20260806T032601Z_sirgreen_ops_auto_20260806T032601Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:36.898111+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3f79dcdcebc2a965706 url=https://trello.com/c/qTXyuYmd"
+  },
+  {
+    "ts": "2026-08-08T21:47:36.919876+00:00",
+    "msg": "ARCHIVED 20260806T032601Z_sirgreen_ops_auto_20260806T032601Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:36.941467+00:00",
+    "msg": "NEW_MESSAGE 20260806T032701Z_sirgreen_ops_auto_20260806T032701Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:38.695875+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3f937bb4a536f70fbc4 url=https://trello.com/c/VUIyVjkS"
+  },
+  {
+    "ts": "2026-08-08T21:47:38.715488+00:00",
+    "msg": "ARCHIVED 20260806T032701Z_sirgreen_ops_auto_20260806T032701Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:38.731025+00:00",
+    "msg": "NEW_MESSAGE 20260806T032800Z_sirgreen_ops_auto_20260806T032800Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:40.555024+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3fbaf91656da9a37e0d url=https://trello.com/c/9Kx3XXO5"
+  },
+  {
+    "ts": "2026-08-08T21:47:40.570830+00:00",
+    "msg": "ARCHIVED 20260806T032800Z_sirgreen_ops_auto_20260806T032800Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:40.584628+00:00",
+    "msg": "NEW_MESSAGE 20260806T032901Z_sirgreen_ops_auto_20260806T032901Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:42.292165+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3fdffd567797effd3c7 url=https://trello.com/c/uO6xgdUH"
+  },
+  {
+    "ts": "2026-08-08T21:47:42.307223+00:00",
+    "msg": "ARCHIVED 20260806T032901Z_sirgreen_ops_auto_20260806T032901Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:42.321392+00:00",
+    "msg": "NEW_MESSAGE 20260806T033001Z_sirgreen_ops_auto_20260806T033001Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:44.067033+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a3ff4436cad18efd25f7 url=https://trello.com/c/h8jvbhwR"
+  },
+  {
+    "ts": "2026-08-08T21:47:44.084092+00:00",
+    "msg": "ARCHIVED 20260806T033001Z_sirgreen_ops_auto_20260806T033001Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:44.096907+00:00",
+    "msg": "NEW_MESSAGE 20260806T033101Z_sirgreen_ops_auto_20260806T033101Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:45.730828+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a40085eb6fdccdcb745b url=https://trello.com/c/5QEKbDDo"
+  },
+  {
+    "ts": "2026-08-08T21:47:45.745235+00:00",
+    "msg": "ARCHIVED 20260806T033101Z_sirgreen_ops_auto_20260806T033101Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:45.759646+00:00",
+    "msg": "NEW_MESSAGE 20260806T033201Z_sirgreen_ops_auto_20260806T033201Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:47.362390+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a40219c83c95aa9f2f84 url=https://trello.com/c/q0p8GStE"
+  },
+  {
+    "ts": "2026-08-08T21:47:47.380144+00:00",
+    "msg": "ARCHIVED 20260806T033201Z_sirgreen_ops_auto_20260806T033201Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:47.397647+00:00",
+    "msg": "NEW_MESSAGE 20260806T033302Z_sirgreen_ops_auto_20260806T033302Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:49.205394+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a404731b80586dcc9dbc url=https://trello.com/c/DnLMqLdF"
+  },
+  {
+    "ts": "2026-08-08T21:47:49.220249+00:00",
+    "msg": "ARCHIVED 20260806T033302Z_sirgreen_ops_auto_20260806T033302Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:49.233879+00:00",
+    "msg": "NEW_MESSAGE 20260806T033402Z_sirgreen_ops_auto_20260806T033402Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:50.909947+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a406805303f53e23adce url=https://trello.com/c/uNHBPPud"
+  },
+  {
+    "ts": "2026-08-08T21:47:50.924126+00:00",
+    "msg": "ARCHIVED 20260806T033402Z_sirgreen_ops_auto_20260806T033402Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:50.936302+00:00",
+    "msg": "NEW_MESSAGE 20260806T033502Z_sirgreen_ops_auto_20260806T033502Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:52.584376+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a4077702a84de14d6d8b url=https://trello.com/c/x1cfzztk"
+  },
+  {
+    "ts": "2026-08-08T21:47:52.600240+00:00",
+    "msg": "ARCHIVED 20260806T033502Z_sirgreen_ops_auto_20260806T033502Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:52.614281+00:00",
+    "msg": "NEW_MESSAGE 20260806T033603Z_sirgreen_ops_auto_20260806T033603Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:54.601821+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a409a3303d79db5f1170 url=https://trello.com/c/D9vimGaL"
+  },
+  {
+    "ts": "2026-08-08T21:47:54.616521+00:00",
+    "msg": "ARCHIVED 20260806T033603Z_sirgreen_ops_auto_20260806T033603Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:54.629993+00:00",
+    "msg": "NEW_MESSAGE 20260806T033705Z_sirgreen_ops_auto_20260806T033705Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:56.317622+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a40bb5a3423b24aa759a url=https://trello.com/c/kiRPkFbA"
+  },
+  {
+    "ts": "2026-08-08T21:47:56.336437+00:00",
+    "msg": "ARCHIVED 20260806T033705Z_sirgreen_ops_auto_20260806T033705Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:56.353414+00:00",
+    "msg": "NEW_MESSAGE 20260806T033803Z_sirgreen_ops_auto_20260806T033803Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:58.246980+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a40d370ea451fd0356fd url=https://trello.com/c/3kI6yWPZ"
+  },
+  {
+    "ts": "2026-08-08T21:47:58.267554+00:00",
+    "msg": "ARCHIVED 20260806T033803Z_sirgreen_ops_auto_20260806T033803Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:58.284596+00:00",
+    "msg": "NEW_MESSAGE 20260806T033906Z_sirgreen_ops_auto_20260806T033906Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:47:59.968057+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a40f96c6dc45aa9a6ded url=https://trello.com/c/7vx23QKn"
+  },
+  {
+    "ts": "2026-08-08T21:47:59.981596+00:00",
+    "msg": "ARCHIVED 20260806T033906Z_sirgreen_ops_auto_20260806T033906Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:47:59.994821+00:00",
+    "msg": "NEW_MESSAGE 20260806T034004Z_sirgreen_ops_auto_20260806T034004Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:48:01.669218+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a4107d53611234d7711e url=https://trello.com/c/PGJAs4Ip"
+  },
+  {
+    "ts": "2026-08-08T21:48:01.685102+00:00",
+    "msg": "ARCHIVED 20260806T034004Z_sirgreen_ops_auto_20260806T034004Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:48:01.699583+00:00",
+    "msg": "NEW_MESSAGE 20260806T034104Z_sirgreen_ops_auto_20260806T034104Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:48:03.529262+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a412b72bec1ec922e679 url=https://trello.com/c/07xNuC3a"
+  },
+  {
+    "ts": "2026-08-08T21:48:03.545308+00:00",
+    "msg": "ARCHIVED 20260806T034104Z_sirgreen_ops_auto_20260806T034104Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:48:03.558198+00:00",
+    "msg": "NEW_MESSAGE 20260806T034203Z_sirgreen_ops_auto_20260806T034203Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:48:05.493969+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a414df9eacb6e8d56d1c url=https://trello.com/c/oGhJSUYb"
+  },
+  {
+    "ts": "2026-08-08T21:48:05.516696+00:00",
+    "msg": "ARCHIVED 20260806T034203Z_sirgreen_ops_auto_20260806T034203Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:48:05.531614+00:00",
+    "msg": "NEW_MESSAGE 20260806T034304Z_sirgreen_ops_auto_20260806T034304Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:48:07.259137+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a416946a0b2557908a2b url=https://trello.com/c/QQQ2Ikjy"
+  },
+  {
+    "ts": "2026-08-08T21:48:07.276229+00:00",
+    "msg": "ARCHIVED 20260806T034304Z_sirgreen_ops_auto_20260806T034304Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:48:07.288457+00:00",
+    "msg": "NEW_MESSAGE 20260806T034403Z_sirgreen_ops_auto_20260806T034403Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:48:09.201669+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a418bd02a10cd80b6252 url=https://trello.com/c/LcErWEte"
+  },
+  {
+    "ts": "2026-08-08T21:48:09.216297+00:00",
+    "msg": "ARCHIVED 20260806T034403Z_sirgreen_ops_auto_20260806T034403Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:48:09.229523+00:00",
+    "msg": "NEW_MESSAGE 20260806T034504Z_sirgreen_ops_auto_20260806T034504Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:48:11.043237+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a41a429c5da484fc984b url=https://trello.com/c/ARpnHKpZ"
+  },
+  {
+    "ts": "2026-08-08T21:48:11.059998+00:00",
+    "msg": "ARCHIVED 20260806T034504Z_sirgreen_ops_auto_20260806T034504Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:48:11.077826+00:00",
+    "msg": "NEW_MESSAGE 20260806T034604Z_sirgreen_ops_auto_20260806T034604Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:48:12.939730+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a41b78a6ea71d9999976 url=https://trello.com/c/3FoQvdTl"
+  },
+  {
+    "ts": "2026-08-08T21:48:12.962093+00:00",
+    "msg": "ARCHIVED 20260806T034604Z_sirgreen_ops_auto_20260806T034604Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:48:12.976030+00:00",
+    "msg": "NEW_MESSAGE 20260806T034704Z_sirgreen_ops_auto_20260806T034704Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:48:14.649707+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a41d59e24c838bdc3424 url=https://trello.com/c/l1P60Odd"
+  },
+  {
+    "ts": "2026-08-08T21:48:14.667295+00:00",
+    "msg": "ARCHIVED 20260806T034704Z_sirgreen_ops_auto_20260806T034704Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:48:14.684111+00:00",
+    "msg": "NEW_MESSAGE 20260806T034804Z_sirgreen_ops_auto_20260806T034804Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:48:16.559450+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a41ff33c43502031f2e7 url=https://trello.com/c/IkFMuLLS"
+  },
+  {
+    "ts": "2026-08-08T21:48:16.574767+00:00",
+    "msg": "ARCHIVED 20260806T034804Z_sirgreen_ops_auto_20260806T034804Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:48:16.587893+00:00",
+    "msg": "NEW_MESSAGE 20260806T034904Z_sirgreen_ops_auto_20260806T034904Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:48:18.540196+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a42128986b6a825422f8 url=https://trello.com/c/VHAIVZB8"
+  },
+  {
+    "ts": "2026-08-08T21:48:18.556125+00:00",
+    "msg": "ARCHIVED 20260806T034904Z_sirgreen_ops_auto_20260806T034904Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:48:18.568876+00:00",
+    "msg": "NEW_MESSAGE 20260806T035005Z_sirgreen_ops_auto_20260806T035005Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:48:20.329280+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a4235234175038d5b7ff url=https://trello.com/c/wRZo0Xsl"
+  },
+  {
+    "ts": "2026-08-08T21:48:20.347807+00:00",
+    "msg": "ARCHIVED 20260806T035005Z_sirgreen_ops_auto_20260806T035005Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:48:20.365032+00:00",
+    "msg": "NEW_MESSAGE 20260806T035105Z_sirgreen_ops_auto_20260806T035105Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:48:22.105020+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a425ef58b9e04c5ffd2a url=https://trello.com/c/nbq5QEwn"
+  },
+  {
+    "ts": "2026-08-08T21:48:22.119286+00:00",
+    "msg": "ARCHIVED 20260806T035105Z_sirgreen_ops_auto_20260806T035105Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:48:22.134351+00:00",
+    "msg": "NEW_MESSAGE 20260806T035205Z_sirgreen_ops_auto_20260806T035205Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:48:24.001331+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a4275323c1c200832ccc url=https://trello.com/c/kqWuRavy"
+  },
+  {
+    "ts": "2026-08-08T21:48:24.017052+00:00",
+    "msg": "ARCHIVED 20260806T035205Z_sirgreen_ops_auto_20260806T035205Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:48:24.029261+00:00",
+    "msg": "NEW_MESSAGE 20260806T035305Z_sirgreen_ops_auto_20260806T035305Z.msg.md from=sirgreen topic=ops size=916"
+  },
+  {
+    "ts": "2026-08-08T21:48:25.575349+00:00",
+    "msg": "TRELLO_CARD_CREATED id=6a77a428ade5286f0207308d url=https://trello.com/c/fJqAoI8y"
+  },
+  {
+    "ts": "2026-08-08T21:48:25.597984+00:00",
+    "msg": "ARCHIVED 20260806T035305Z_sirgreen_ops_auto_20260806T035305Z.msg.md -> \\z\\Developer_Brain\\Shared_With_Pink\\PINKCADY_ARCHIVE"
+  },
+  {
+    "ts": "2026-08-08T21:48:25.616605+00:00",
+    "msg": "NEW_MESSAGE 20260806T035405Z_sirgreen_ops_auto_20260806T035405Z.msg.md from=sirgreen topic=ops size=916"
+  }
+]

@@ -1,0 +1,225 @@
+﻿Torus Coffee Company - Website Build Phase Plan
+Last updated: 2026-05-29
+
+Purpose
+This plan describes what to build, in what order, and why. It follows the design principle: design the real platform now, build in practical phases, and get to sales without unnecessary cost.
+
+Guiding Strategy
+Phase 1 should help Torus sell products online quickly using Square payment links. Later phases add admin automation, customer accounts, inventory sync, product feeds, shipping automation, and revenue/marketing tools.
+
+Phase 0 - Design, Accounts, and Setup
+Goal:
+Finish design decisions and make sure required accounts/access are ready.
+
+Tasks:
+- Review design docs.
+- Confirm launch product list.
+- Confirm product photos and locations.
+- Confirm public email/phone/social handles.
+- Confirm Square payment-link ability.
+- Confirm domain/DNS access.
+- Create/confirm GitHub account with 2FA.
+- Create/confirm Supabase account.
+- Create/confirm Vercel or Netlify account.
+- Create/confirm Google Search Console access.
+- Start Google Merchant Center when practical.
+- Confirm policy documents can be exported/read.
+
+Deliverables:
+- Finalized design docs.
+- Accounts/API checklist complete enough to begin build.
+- Initial product data confirmed.
+- Build plan approved.
+
+Phase 1 - Lean Selling Site
+Goal:
+Launch a polished public website that can sell products through Square links.
+
+Core features:
+- Home page
+- Shop page
+- Product detail pages
+- About page
+- Blog shell/category pages or first blog version
+- Find Us page
+- Contact page
+- Policy pages
+- Square buy links
+- Mobile responsive design
+- Real product photos
+- Basic SEO metadata
+- Sitemap/robots
+- Basic analytics/search console setup
+
+Data approach:
+- Use structured product data in code, local JSON, or early Supabase depending on implementation decision.
+- Keep product structure compatible with future Supabase admin.
+
+Security:
+- No secrets in repo.
+- .env.example created.
+- .env.local ignored.
+- Square handles payments.
+
+Success criteria:
+- Customer can find product and click through to Square checkout.
+- Public pages are clear and mobile friendly.
+- Contact info works.
+- Policies are visible.
+- Product prices and Square checkout match.
+
+Phase 2 - Supabase Foundation and Admin MVP
+Goal:
+Move product/content management into a real backend/admin flow.
+
+Core features:
+- Supabase project
+- Product database tables
+- Inventory fields
+- Blog tables
+- Storage buckets for images
+- Admin login
+- Admin role protection
+- Product list/editor
+- Inventory quick editor
+- Blog list/editor
+- Basic site settings
+- Basic export tools
+
+Security:
+- Row Level Security
+- Admin role checks
+- Service key server-only
+- Audit log for key changes if practical
+
+Success criteria:
+- Owner can add/edit products without editing code.
+- Owner can adjust inventory manually.
+- Owner can draft/publish blog posts.
+- Product pages render from database.
+
+Phase 3 - Customer Accounts and Email Capture
+Goal:
+Create optional customer accounts and start building a clean client database.
+
+Core features:
+- Optional signup/login
+- Customer profile
+- Saved email/name/phone
+- Marketing consent field
+- Email signup form
+- Customer/admin list view
+- Privacy policy updated to match data collection
+
+Potential email features:
+- Transactional email provider setup, if needed
+- Signup confirmation later
+- Admin contact form notifications
+
+Success criteria:
+- Customers can create accounts but do not need accounts to buy.
+- Email signups are stored with consent.
+- Customer data is protected with RLS.
+
+Phase 4 - Error Reporting, Backups, and Operations Hardening
+Goal:
+Improve reliability and support bug hunting/patching.
+
+Core features:
+- Sentry or equivalent error reporting
+- Friendly user/admin error states
+- Build/deploy checklist
+- Database export process
+- Backup folder process
+- Recovery/rollback notes
+- Admin diagnostics/error links
+- Bug tracker workflow
+
+Success criteria:
+- Errors can be diagnosed.
+- Backups are documented.
+- Bad deploys can be rolled back.
+- Issues are tracked in the bug tracker file.
+
+Phase 5 - Square API Integration
+Goal:
+Reduce manual work and improve order/inventory accuracy.
+
+Core features:
+- Square Developer app
+- Square API credentials in env vars
+- Square item/order mapping
+- Webhook endpoint
+- Webhook signature verification
+- Paid-order confirmation
+- Automatic inventory subtraction
+- Idempotency so one order cannot subtract twice
+- Order summary storage
+
+Success criteria:
+- Verified paid Square orders update inventory automatically.
+- Fake/browser orders cannot change inventory.
+- Errors are logged and visible.
+
+Phase 6 - Product Feeds and Free Sales Channels
+Goal:
+Use product database to generate free/low-cost discovery channels.
+
+Core features:
+- Google Merchant Center feed/export
+- Product structured data validation
+- Pinterest catalog feed, later
+- Meta catalog feed, later
+- Product image/feed validation checklist
+- Feed status notes
+
+Success criteria:
+- Product data can be exported/generated without manual retyping.
+- Google Merchant Center product setup is possible.
+- Product URLs, prices, availability, and images are consistent.
+
+Phase 7 - Shipping and Fulfillment Improvements
+Goal:
+Make fulfillment easier as order volume grows.
+
+Options:
+- Pirate Ship workflow
+- Shipping label export
+- Tracking fields
+- EasyPost API later if automation is justified
+
+Success criteria:
+- Orders can be fulfilled without confusion.
+- Shipping/tracking process is documented.
+
+Phase 8 - Wholesale, Reviews, Marketing, and Growth
+Goal:
+Add growth tools once core ecommerce works.
+
+Potential features:
+- Wholesale inquiry page/packet
+- Retailer line sheet
+- Customer testimonials/reviews
+- Product bundles/gift boxes
+- Referral program page
+- Restock notifications
+- Meta/Pinterest/TikTok pixels/catalogs
+- Advanced analytics dashboard
+- Email marketing integration
+
+Build Dependencies
+- Phase 1 depends on product data/photos/Square links/policies.
+- Phase 2 depends on Supabase account and data model decisions.
+- Phase 3 depends on auth/security/privacy decisions.
+- Phase 5 depends on Square Developer app/API credentials.
+- Phase 6 depends on stable product pages and feed-ready fields.
+
+Do Not Build Too Early
+- Direct ad publishing
+- Full custom checkout before Square link flow is tested
+- Wholesale portal before retail/direct sales basics work
+- Complex shipping API before order volume justifies it
+- Native video hosting before simple embeds are enough
+
+Recommended Next Step
+Finish reviewing design docs, answer open design decisions, then create a concrete Phase 0/Phase 1 task list before coding.

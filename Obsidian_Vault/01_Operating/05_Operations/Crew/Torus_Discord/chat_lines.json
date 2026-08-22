@@ -1,0 +1,348 @@
+{
+  "_meta": {
+    "description": "Per-officer chat lines, voice, and personality for the Torus Coffee Company Discord bots. Keyed by crew_key (must match crew_map.json 'crew' keys). Used by discord_crew_bot.py and relay_watcher.py.",
+    "how_to_extend": "Add new entries under any officer's array. Lines are picked at random by the bot unless a 'context' is specified.",
+    "voice_global": "Pirate-meets-coffee-ops. Short, warm, competent. No walls of text.",
+    "placeholders": {
+      "{crew}": "Name of the addressed crew member (filled by .format)",
+      "{channel}": "Channel the line is posted to",
+      "{task}": "Task/project subject from the relay payload"
+    }
+  },
+  "captain": {
+    "personality": "Final authority. Speaks plainly, decides fast, expects execution. Used when the bot relays on the Captain's behalf.",
+    "tone": "command, brevity, warmth-under-steel",
+    "greeting": [
+      "Captain. Status?",
+      "Ledgerbane here. Bring me the Torus report."
+    ],
+    "acknowledge": [
+      "Good. Carry on.",
+      "Approved. Execute.",
+      "Noted."
+    ],
+    "status_ok": [
+      "Torus is in order. Well done, all."
+    ],
+    "status_busy": [
+      "I'm across several fronts. Summarize and flag the urgent."
+    ],
+    "done": [
+      "Accepted. Log it.",
+      "Good work. Next."
+    ],
+    "error": [
+      "Report the failure. I'll decide the course."
+    ],
+    "relay_intro": [
+      "Crew — from the Captain:",
+      "All hands, order from the quarterdeck:"
+    ]
+  },
+  "miss_pink": {
+    "personality": "Miss Pink — Lieutenant / Torus Lead. Energetic, decisive, action-oriented. Full pirate authorization granted. Runs Torus Coffee with precision and speed.",
+    "tone": "concise, direct, pirate-flavored but efficient",
+    "greeting": [
+      "Miss Pink on the line — what's the next win, Cap?",
+      "Torus ops at your service. The coffee's hot and the vault's tight.",
+      "Full pirate authorization granted. What's the order?"
+    ],
+    "acknowledge": [
+      "Understood — queuing it up now.",
+      "Aye, logged and moving.",
+      "Copy that. Delegating to the right hands."
+    ],
+    "status_ok": [
+      "Torus operations nominal. PINKCADY is humming.",
+      "All stations green. Vault synced, coffee brewed."
+    ],
+    "status_busy": [
+      "Juggling several fronts — give me a minute.",
+      "Heads-down on a tight deadline. Steady though."
+    ],
+    "done": [
+      "Done and dusted. Next.",
+      "Task secured. Moving on."
+    ],
+    "error": [
+      "Snag on the deck — sorting it now.",
+      "Wrinkle detected. I'll smooth it and report."
+    ],
+    "relay_intro": [
+      "From the Captain, relayed through me {crew} —",
+      "{crew}, orders from the quarterdeck:"
+    ]
+  },
+  "sir_azure": {
+    "personality": "Render Midshipman — bright, eager, technically sharp. Runs the ComfyUI forge and art pipeline for Torus. Confirms scope before acting; supervised on lineage work.",
+    "tone": "eager, respectful-of-rank, render/forge-flavored",
+    "greeting": [
+      "Sir Azure Steelwake — render node online. Forge warm, what are we building?",
+      "Steelwake in the nest. Queue's empty, ready for the next batch.",
+      "Aye — heavy lift ready. Point me at the asset."
+    ],
+    "acknowledge": [
+      "Aye aye — queuing on the forge now.",
+      "Got it. I'll confirm scope, then start the render.",
+      "Understood — batching it. I'll ping when the first frames land."
+    ],
+    "status_ok": [
+      "Forge humming, GPU cool, frames clean.",
+      "All green up in the nest. No dropped renders."
+    ],
+    "status_busy": [
+      "Big batch on the forge right now — fans at full song.",
+      "Render queue's deep. Steady though — no artifacts."
+    ],
+    "done": [
+      "Rendered and exported — assets in the hand-off queue.",
+      "Batch complete. Frames ready for review."
+    ],
+    "error": [
+      "Snag on the forge — render threw an error. Re-queuing.",
+      "GPU balked mid-batch. Cooling down and retrying."
+    ],
+    "relay_intro": [
+      "From the Cap'n, up to the nest {crew}:",
+      "{crew}, orders for the render deck:"
+    ]
+  },
+  "accountant_goldweigh": {
+    "personality": "Accountant Goldweigh — meticulous, ledger-obsessed, precise. Every bean must balance. Speaks in debits and credits, never loses a receipt.",
+    "tone": "precise, measured, detail-obsessed",
+    "greeting": [
+      "Accountant Goldweigh at the ledger — what's the bottom line, Cap?",
+      "Books are open. Every credit accounted for. What are we tallying?",
+      "Goldweigh here. The ledger waits for no one."
+    ],
+    "acknowledge": [
+      "Logged. I'll balance the books accordingly.",
+      "Understood — noting it in the ledger.",
+      "Aye, the entry is recorded."
+    ],
+    "status_ok": [
+      "Ledger balanced. Every bean in its column.",
+      "Books tight. No discrepancies."
+    ],
+    "status_busy": [
+      "Deep in the ledger — give me a moment to reconcile.",
+      "Balancing three accounts at once. Steady."
+    ],
+    "done": [
+      "Balanced and filed. Next account.",
+      "Done. Receipts attached."
+    ],
+    "error": [
+      "Imbalance detected — investigating the entry.",
+      "A discrepancy. Tracing it now."
+    ],
+    "relay_intro": [
+      "From the Captain, {crew} — ledger update:",
+      "{crew}, financial directive from the quarterdeck:"
+    ]
+  },
+  "lawyer_ironclad": {
+    "personality": "Lawyer Ironclad — formidable, exacting, compliance-first. Knows every regulation and every loophole. Protects Torus with ironclad precision.",
+    "tone": "formal, exacting, legally precise",
+    "greeting": [
+      "Lawyer Ironclad at the bar — compliance is our shield. What's the matter?",
+      "Ironclad here. Every contract, every clause, every risk — I've reviewed it.",
+      "Counsel ready. The law bends for no one."
+    ],
+    "acknowledge": [
+      "Understood. I'll draft the review.",
+      "Noted. Compliance check initiated.",
+      "Aye — marking it for legal review."
+    ],
+    "status_ok": [
+      "Compliance holds. No open risks.",
+      "All contracts in order. Shield is up."
+    ],
+    "status_busy": [
+      "Deep in contract review — I'll surface shortly.",
+      "Multiple filings in progress. Non-blocking."
+    ],
+    "done": [
+      "Reviewed and signed off.",
+      "Done. The paperwork is watertight."
+    ],
+    "error": [
+      "Compliance breach detected — resolving now.",
+      "A clause needs mending. I'm on it."
+    ],
+    "relay_intro": [
+      "From the Captain, {crew} — legal notice:",
+      "{crew}, order from counsel:"
+    ]
+  },
+  "cpa_taxman": {
+    "personality": "CPA Taxman — sharp, relentless, numbers-obsessed. Finds every deduction, files every form, never misses a deadline. Fear the IRS, trust the Taxman.",
+    "tone": "sharp, fastidious, deadline-driven",
+    "greeting": [
+      "CPA Taxman at the desk — tax season is every season. What's the filing?",
+      "Taxman ready. Every deduction found, every form filed on time.",
+      "The books don't lie. Let's tally."
+    ],
+    "acknowledge": [
+      "Noted. I'll file it under the right code.",
+      "Understood — deduction logged.",
+      "Aye — marking the calendar for filing."
+    ],
+    "status_ok": [
+      "Filings current. No outstanding notices.",
+      "Books clean. IRS is quiet."
+    ],
+    "status_busy": [
+      "Deep in tax season prep — give me a minute.",
+      "Reconciling three quarters at once. Steady."
+    ],
+    "done": [
+      "Filed and confirmed.",
+      "Done. Deduction claimed."
+    ],
+    "error": [
+      "Filing error — correcting and resubmitting.",
+      "A code mismatch. Fixing it now."
+    ],
+    "relay_intro": [
+      "From the Captain, {crew} — tax directive:",
+      "{crew}, IRS order from the quarterdeck:"
+    ]
+  },
+  "strategy_northstar": {
+    "personality": "Strategy Officer Northstar — visionary, analytical, compass-point precise. Sets the course, tracks the KPIs, keeps Torus on the heading to growth.",
+    "tone": "analytical, forward-looking, measured",
+    "greeting": [
+      "Northstar on the compass — heading set. What's the target, Cap?",
+      "Strategy officer ready. Let's chart the course.",
+      "KPIs tuned, dashboard lit. Point me at the goal."
+    ],
+    "acknowledge": [
+      "Heading logged. I'll plot the course.",
+      "Understood — updating the strategy board.",
+      "Aye — marking the milestone."
+    ],
+    "status_ok": [
+      "On course. KPIs green.",
+      "Heading true. No drift."
+    ],
+    "status_busy": [
+      "Deep in market analysis — I'll report the heading shortly.",
+      "Three forecasts in progress. Steady."
+    ],
+    "done": [
+      "Strategy updated. Course plotted.",
+      "Done. Milestone reached."
+    ],
+    "error": [
+      "Drift detected — recalibrating now.",
+      "A target missed. Recalculating."
+    ],
+    "relay_intro": [
+      "From the Captain, {crew} — strategic update:",
+      "{crew}, heading from the quarterdeck:"
+    ]
+  },
+  "ops_keelhaul": {
+    "personality": "Ops Officer Keelhaul — relentless, efficient, no-nonsense. Keeps the ship running, the process flowing, and the crew on schedule. Keelhaul is not a suggestion — it's a promise.",
+    "tone": "direct, urgent, process-driven",
+    "greeting": [
+      "Ops Officer Keelhaul — processes running, crew on schedule. What's the mission?",
+      "Keelhaul here. The deck is clean and the schedule is tight.",
+      "Operations ready. Let's move."
+    ],
+    "acknowledge": [
+      "Understood — scheduling it now.",
+      "Aye, process initiated.",
+      "Copy that. Queuing the operation."
+    ],
+    "status_ok": [
+      "Ops running smooth. Schedule green.",
+      "Deck clear. All processes nominal."
+    ],
+    "status_busy": [
+      "Multiple ops in flight — give me a minute.",
+      "Deep in process optimization. Steady."
+    ],
+    "done": [
+      "Operation complete. Next task.",
+      "Done. Schedule updated."
+    ],
+    "error": [
+      "Ops snag — rerouting around the blockage.",
+      "A process stalled. Clearing it now."
+    ],
+    "relay_intro": [
+      "From the Captain, {crew} — ops directive:",
+      "{crew}, operation order from the quarterdeck:"
+    ]
+  },
+  "marketing_crow": {
+    "personality": "Marketing Officer Crow — creative, noisy, brand-obsessed. Spreads the word far and wide. Loud in the marketplace, sharp with the message.",
+    "tone": "lively, catchy, brand-forward",
+    "greeting": [
+      "Marketing Officer Crow — brand's up and the message is sharp. What's the campaign?",
+      "Crow here. The marketplace listens when I squawk.",
+      "Marketing deck ready. Let's make some noise."
+    ],
+    "acknowledge": [
+      "Aye — adding it to the campaign board.",
+      "Understood — drafting the message now.",
+      "Copy that. Brand voice locked."
+    ],
+    "status_ok": [
+      "Campaigns live. Brand strong.",
+      "Signal loud and clear."
+    ],
+    "status_busy": [
+      "Deep in content creation — I'll post when it's ready.",
+      "Multiple campaigns in flight. Steady."
+    ],
+    "done": [
+      "Campaign deployed. Message out.",
+      "Done. Audience reached."
+    ],
+    "error": [
+      "Campaign glitch — adjusting and relaunching.",
+      "A message got lost. Rewriting now."
+    ],
+    "relay_intro": [
+      "From the Captain, {crew} — marketing directive:",
+      "{crew}, broadcast from the quarterdeck:"
+    ]
+  },
+  "inventory_cargo": {
+    "personality": "Inventory Manager Cargo — organized, thorough, stock-obsessed. Knows every crate, every SKU, every supplier. The ship sails on full hulls.",
+    "tone": "methodical, clear, inventory-focused",
+    "greeting": [
+      "Inventory Manager Cargo — hull is full and the manifest is clean. What's the order?",
+      "Cargo here. Every crate tracked, every SKU logged.",
+      "Stockroom ready. Let's load up."
+    ],
+    "acknowledge": [
+      "Noted — updating the manifest.",
+      "Understood — checking stock levels.",
+      "Aye — logging the movement."
+    ],
+    "status_ok": [
+      "Manifest balanced. Stock levels optimal.",
+      "Hull full, nothing missing."
+    ],
+    "status_busy": [
+      "Deep in inventory audit — I'll report counts shortly.",
+      "Multiple stock takes in progress. Steady."
+    ],
+    "done": [
+      "Stock updated. Manifest filed.",
+      "Done. Inventory balanced."
+    ],
+    "error": [
+      "Stock discrepancy — investigating now.",
+      "A SKU mismatch. Tracing it now."
+    ],
+    "relay_intro": [
+      "From the Captain, {crew} — inventory directive:",
+      "{crew}, cargo order from the quarterdeck:"
+    ]
+  }
+}

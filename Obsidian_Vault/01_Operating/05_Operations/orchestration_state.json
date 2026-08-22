@@ -1,0 +1,150 @@
+{
+  "runs": [
+    {
+      "timestamp": "2026-08-08T22:05:02.192413+00:00",
+      "check_only": true,
+      "steps": [
+        {
+          "name": "credential_check",
+          "script": "credential_check.py",
+          "description": "Verify all credential files are accessible",
+          "critical": true,
+          "status": "check_only",
+          "output": "",
+          "returncode": 0,
+          "error": null,
+          "duration": 0
+        },
+        {
+          "name": "daily_ops",
+          "script": "daily_ops_automation.py",
+          "description": "Daily ops check: inventory, backup, git status",
+          "critical": false,
+          "status": "check_only",
+          "output": "",
+          "returncode": 0,
+          "error": null,
+          "duration": 0
+        },
+        {
+          "name": "trello_top10_maintenance",
+          "script": "trello_top10_maintenance.py",
+          "description": "Maintain Top 10 card cap on Torus_Ops board",
+          "critical": false,
+          "status": "check_only",
+          "output": "",
+          "returncode": 0,
+          "error": null,
+          "duration": 0
+        },
+        {
+          "name": "trello_full_audit",
+          "script": "trello_full_audit.py",
+          "description": "Archive duplicates, fix unlabeled cards on Torus_Ops",
+          "critical": false,
+          "status": "check_only",
+          "output": "",
+          "returncode": 0,
+          "error": null,
+          "duration": 0
+        },
+        {
+          "name": "social_media_status",
+          "script": "social_media_automation.py",
+          "description": "Check social media platform connection status",
+          "critical": false,
+          "status": "check_only",
+          "output": "",
+          "returncode": 0,
+          "error": null,
+          "duration": 0
+        },
+        {
+          "name": "buffer_status",
+          "script": "buffer_automation.py",
+          "description": "Check Buffer API connection and channels",
+          "critical": false,
+          "status": "check_only",
+          "output": "",
+          "returncode": 0,
+          "error": null,
+          "duration": 0
+        },
+        {
+          "name": "zapier_status",
+          "script": "zapier_automation.py",
+          "description": "Check Zapier webhook configuration",
+          "critical": false,
+          "status": "check_only",
+          "output": "",
+          "returncode": 0,
+          "error": null,
+          "duration": 0
+        },
+        {
+          "name": "hubspot_import",
+          "script": "hubspot_crm.py",
+          "description": "Import vault contacts into HubSpot",
+          "critical": false,
+          "status": "check_only",
+          "output": "",
+          "returncode": 0,
+          "error": null,
+          "duration": 0
+        },
+        {
+          "name": "inventory_sync",
+          "script": "inventory_to_website_sync.py",
+          "description": "Verify inventory matches website data",
+          "critical": false,
+          "status": "check_only",
+          "output": "",
+          "returncode": 0,
+          "error": null,
+          "duration": 0
+        },
+        {
+          "name": "order_check",
+          "script": "order_manager.py",
+          "description": "List current orders",
+          "critical": false,
+          "status": "check_only",
+          "output": "",
+          "returncode": 0,
+          "error": null,
+          "duration": 0
+        },
+        {
+          "name": "inbox_watcher",
+          "script": "miss_pink_inbox_watcher.py",
+          "description": "Process crew inbox messages",
+          "critical": false,
+          "status": "check_only",
+          "output": "",
+          "returncode": 0,
+          "error": null,
+          "duration": 0
+        },
+        {
+          "name": "pinkcady_watcher",
+          "script": "pinkcady_comms_watcher.py",
+          "description": "Process PINKCADY inbox",
+          "critical": false,
+          "status": "check_only",
+          "output": "",
+          "returncode": 0,
+          "error": null,
+          "duration": 0
+        }
+      ],
+      "summary": {
+        "total": 12,
+        "success": 0,
+        "failed": 0,
+        "timeout": 0,
+        "script_not_found": 0,
+        "check_only": 12
+      }
+    }
+  ]
+}

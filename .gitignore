@@ -1,0 +1,43 @@
+nul
+Project treasure_map/
+
+Obsidian_Vault/10_Skills_Library/External_Code/Skills_External/AppFlowy/frontend/appflowy_flutter/macos/build/ios/XCBuildData/PIFCache/project/PROJECT@v11_mod=a7fbf46937053896f73cc7c7ec6baefb_hash=bfdfe7dc352907fc980b868725387e98plugins=1OJSG6M1FOV3XYQCBH7Z29RZ0FPR9XDE1-json
+
+# ─══ Heavy blobs / OS images / VM disks / models (2026-08-21 cleanup) ──
+*.iso
+*.7z
+*.vhdx
+*.vhd
+*.vmdk
+*.bundle
+*.tar
+*.exe
+*.msi
+*.dmg
+*.jar
+*.dll
+Ollama/
+.docker-data/
+.smart-env/
+.obsidian/plugins/*/main.js
+**/ollama/models/
+**/Torus_Ops_bare.git/
+**/External_Code/Secret_OS/
+**/Secret_OS/Linux/
+**/_backups/*.bundle
+Torus_Coffee_Company_*.zip
+*.sqlite
+*.db-wal
+*.pack
+Torus_Ops_bare.git/
+Trello_API_Credentials.md
+**/secrets.local.json
+**/.env
+**/*.pem
+**/secrets.local*.json*
+Obsidian_Vault/10_Skills_Library/External_Code/
+
+# Marketing/blog images (1.5GB) — live on disk, not in git
+*.jpg
+*.jpeg
+*.png

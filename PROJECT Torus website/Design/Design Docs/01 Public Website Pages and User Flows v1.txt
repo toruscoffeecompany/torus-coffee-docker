@@ -1,0 +1,402 @@
+﻿Torus Coffee Company - Public Website Pages and User Flows
+Last updated: 2026-05-29
+
+Purpose
+This document defines the public-facing website design: pages, content, navigation, calls to action, and customer flows.
+
+Primary Website Goal
+Help people confidently buy Torus Coffee Company products online.
+
+Secondary Goals
+- Build trust after a low-sales first year.
+- Make the business feel active, real, local, and handmade.
+- Prepare for wholesale/grocery expansion later.
+- Support blogs, recipes, social sharing, and product discovery.
+- Create a strong base for Google, Pinterest, Meta, and SEO.
+
+Brand Positioning
+Name:
+Torus Coffee Company
+
+Primary tagline:
+Stay Curious. Stay Crunchy. Stay Cosmic.
+
+Plain-language explanation:
+Freeze-dried candy, fruit, snacks, and cosmic kitchen experiments from Iowa.
+
+Brand feel:
+- Cosmic
+- Playful
+- Slightly witchy/magical
+- Midwest-made
+- Warm and friendly
+- Clear and trustworthy
+- Handmade, not corporate
+
+Visual Direction
+Use the existing logo/business card as the anchor.
+
+Core visual ingredients:
+- Midnight navy / space background
+- Cream/off-white surfaces
+- Gold accents
+- Purple and teal cosmic accents
+- Real product photography
+- Star, moon, orbit, constellation, and subtle sparkle motifs
+
+Important design balance:
+The site can be whimsical, but the shopping path must be very clear. Customers should never have to decode the brand language to understand what a product is, how much it costs, whether it is in stock, or how to buy it.
+
+Primary Navigation
+Recommended launch navigation:
+- Shop
+- Blog
+- About
+- Find Us
+- Contact
+- Cart/Account later, when full checkout/accounts exist
+
+Mobile navigation:
+- Sticky top bar with logo and menu button
+- Clear Shop button or icon
+- Menu opens full-screen or drawer style
+- Buy buttons must be thumb-friendly
+
+Footer Navigation
+Footer should include:
+- Shop
+- About
+- Blog
+- Contact
+- Shipping Policy
+- Refund & Returns Policy
+- Privacy Policy
+- Terms & Conditions
+- Accessibility Statement
+- Social links
+- Email and phone
+- Copyright
+
+Public Page List
+
+1. Home
+Purpose:
+Introduce the brand quickly and move shoppers toward products.
+
+Recommended sections:
+1. Hero
+   - Logo/brand signal
+   - Tagline: Stay Curious. Stay Crunchy. Stay Cosmic.
+   - Plain explanation: Freeze-dried candy, fruit, snacks, and cosmic kitchen experiments from Iowa.
+   - Primary button: Shop Snacks
+   - Secondary button: Read The Orbit Report or Find Us Locally
+   - Real product/brand image or strong cosmic product visual
+
+2. Featured Products
+   - 4 to 8 launch products
+   - Product image, name, price, short description, and Buy/Details button
+   - Manual featured flag controlled by admin later
+
+3. Why Freeze-Dried?
+   - Short, visual explanation of crunch, flavor, shelf life, and snack fun
+   - Keep educational but not too technical
+
+4. Product Categories
+   - Freeze-Dried Candy
+   - Freeze-Dried Fruit
+   - Seasonal
+   - Gift Boxes / Variety Packs later
+
+5. Trust/Proof Section
+   - Iowa-made
+   - Small batch
+   - Secure checkout through Square
+   - U.S. shipping only
+   - Real contact info
+
+6. Blog Teaser
+   - The Orbit Report
+   - The Orbit Workshop
+   - The Orbit Kitchen
+   - Show latest posts once blog exists
+
+7. Email Signup
+   - Restocks, launches, events, recipes, and cosmic snack news
+   - Consent text required
+
+8. Social/Events Teaser
+   - Follow on Facebook, Instagram, TikTok, Pinterest, YouTube as appropriate
+   - Link to Find Us page
+
+Home page success criteria:
+- Visitor understands what Torus sells within 5 seconds.
+- Shop button is obvious.
+- Brand personality is present but not confusing.
+- Mobile layout is clean and fast.
+
+2. Shop Page
+Purpose:
+Let customers browse all active products.
+
+Recommended features:
+- Product grid
+- Category filter
+- Search/filter later
+- Sort later: featured, newest, price, in stock
+- Product cards with image, name, price, category, stock badge, short description, and Details/Buy button
+
+Product card fields:
+- Main image
+- Product name
+- Price
+- Badge: New, Best Seller, Seasonal, Low Stock, Sold Out
+- Short description
+- Button: View Product
+- Optional direct Buy button if Square link exists
+
+Shop page filters for launch:
+- All
+- Candy
+- Fruit
+- Seasonal, if any active products
+
+Future filters:
+- Sour
+- Chocolatey
+- Fruity
+- Giftable
+- In stock
+- Price range
+
+Out-of-stock behavior:
+Default: keep products visible, mark Sold Out, disable Buy button, optionally show Notify Me later.
+
+3. Product Detail Page
+Purpose:
+Give customers enough confidence to buy.
+
+Required sections:
+- Product name
+- Main product image
+- Image gallery
+- Price
+- Availability badge
+- Short description
+- Buy with Square button
+- Secure checkout note
+- Size/weight
+- Category
+- Flavor/texture notes
+- Ingredients/allergen note, if available
+- Shelf life/storage note, if available
+- Shipping note: Ships in the U.S. only
+- Related products
+- Social share links
+
+Recommended copy style:
+Use fun cosmic names, but also plain-language details.
+
+Example structure:
+Name: Aurora Bites 2.6oz
+Plain description: Freeze-dried rainbow candy with a light, crunchy snap and fruity flavor.
+Brand flavor line: A kaleidoscope of cosmic crunch from another dimension.
+
+Buy button behavior in Phase 1:
+- Button opens Square payment/checkout link in same tab or new tab, final decision later.
+- Add note near button: Secure checkout powered by Square.
+- If no Square link exists, show Contact to Order or Coming Soon.
+
+Product page trust details:
+- U.S. shipping only
+- Secure Square checkout
+- Real business email/phone
+- Refund/shipping policy links
+
+4. Blog Home
+Purpose:
+Show all blog content and make the site feel active.
+
+Blog categories:
+- The Orbit Report
+- The Orbit Workshop
+- The Orbit Kitchen
+
+Recommended layout:
+- Featured/latest post
+- Category tabs or filters
+- Recent posts grid/list
+- Email signup
+- Search later
+
+5. Blog Category Pages
+The Orbit Report:
+- Brand/community/life posts
+- Flea markets, Iowa stories, business journey, updates
+
+The Orbit Workshop:
+- Freeze-drying education
+- Business how-to
+- Packaging, pricing, product photography, flea market lessons
+
+The Orbit Kitchen:
+- Recipes
+- Product pairings
+- Snack ideas
+- Creative ways to use Torus products
+
+6. Blog Post Page
+Required fields/sections:
+- Title
+- Category
+- Author
+- Publish date
+- Featured image
+- Body content
+- Inline images
+- Optional video embeds later
+- Related products, if relevant
+- Related posts
+- Email signup
+- Social share links
+
+Revenue design:
+Each blog post can optionally include product callouts, but do not make every post feel like an ad.
+
+7. About Page
+Purpose:
+Build trust and emotional connection.
+
+Recommended sections:
+- Torus story
+- Why freeze-dried snacks
+- Iowa/Midwest roots
+- Small batch process
+- Brand personality
+- Founder/team photo if available
+- Food safety/certification note if appropriate
+- Link to Shop
+- Link to Contact/Wholesale inquiry
+
+Important tone:
+Personal, honest, and warm. Not corporate.
+
+8. Find Us / Events Page
+Purpose:
+Show where customers can find Torus in person.
+
+Recommended content:
+- Upcoming flea markets/events
+- Past events gallery
+- Market booth photos
+- Location/date/time
+- Link to social profiles for updates
+
+Future admin feature:
+Event manager with date, title, location, address, description, image, active status.
+
+9. Contact Page
+Purpose:
+Let customers, wholesale buyers, and partners contact Torus.
+
+Recommended sections:
+- Email
+- Phone
+- Contact form
+- Social links
+- Location: Iowa / Iowa City area, if desired
+- Reason dropdown:
+  - Order question
+  - Wholesale inquiry
+  - Event/flea market question
+  - Custom order
+  - Website issue
+  - Other
+
+Contact form requirements:
+- Name
+- Email
+- Phone optional
+- Reason
+- Message
+- Spam protection/rate limiting
+- Success message
+- Error message
+
+10. Wholesale / Retail Partners Page
+Launch decision:
+Can be soft-launched or added later.
+
+If visible at launch:
+- Short wholesale interest page
+- Contact form reason: Wholesale inquiry
+- Product line summary
+- Retail-friendly talking points
+- No public wholesale pricing unless ready
+
+Future features:
+- Wholesale packet PDF
+- Minimum order quantity
+- Case packs
+- Retailer account type
+- Wholesale price visibility after approval
+
+11. Policy Pages
+Required before selling:
+- Privacy Policy
+- Terms & Conditions
+- Refund & Returns Policy
+- Shipping Policy
+- Accessibility Statement
+
+Need exported final text from existing Google Docs or new policy drafts.
+
+Customer Flows
+
+Flow 1: New shopper buys a product
+1. Lands on home page.
+2. Clicks Shop Snacks.
+3. Browses Shop page.
+4. Opens Product Detail.
+5. Reviews photo, price, description, shipping note.
+6. Clicks Buy with Square.
+7. Completes payment/shipping in Square.
+8. Receives Square confirmation.
+
+Flow 2: Shopper discovers from Google free listing later
+1. Searches Google.
+2. Finds product free listing/rich result.
+3. Clicks product page.
+4. Buys through Square link.
+
+Flow 3: Blog reader becomes buyer
+1. Reads recipe or workshop post.
+2. Sees relevant product callout.
+3. Clicks product.
+4. Buys or joins email list.
+
+Flow 4: Local customer checks events
+1. Opens Find Us.
+2. Sees upcoming market.
+3. Follows social or visits event.
+
+Flow 5: Wholesale buyer evaluates business
+1. Opens Home/About/Wholesale.
+2. Checks product quality, story, contact info, policies.
+3. Submits wholesale inquiry.
+
+Design Risks
+- Too much whimsy can hurt clarity.
+- Too many future features can slow launch.
+- Product pages without good photos will not convert well.
+- Checkout handoff to Square must be explained clearly.
+
+Design Requirements Summary
+- Mobile-first.
+- Fast loading.
+- Real product images.
+- Clear Shop path.
+- Secure Square checkout messaging.
+- Strong product pages.
+- Blog-ready.
+- Feed/SEO-ready.
+- Easy to expand.

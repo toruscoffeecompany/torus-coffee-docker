@@ -1,0 +1,79 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "Torus Coffee Company Order Schema — tracks customer orders through the full lifecycle",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "orderNumber", "createdAt", "status", "customer", "items", "total"],
+    "properties": {
+      "id": { "type": "string", "description": "UUID for the order record" },
+      "orderNumber": { "type": "string", "description": "Human-readable order number, e.g. TCC-2026-0001" },
+      "createdAt": { "type": "string", "format": "date-time" },
+      "updatedAt": { "type": "string", "format": "date-time" },
+      "status": {
+        "type": "string",
+        "enum": ["pending", "paid", "processing", "shipped", "delivered", "cancelled", "refunded", "disputed"]
+      },
+      "source": {
+        "type": "string",
+        "enum": ["website", "instagram", "tiktok", "facebook", "phone", "wholesale", "flea_market", "subscription"],
+        "description": "Where the order originated"
+      },
+      "customer": {
+        "type": "object",
+        "required": ["name", "email"],
+        "properties": {
+          "name": { "type": "string" },
+          "email": { "type": "string", "format": "email" },
+          "phone": { "type": "string" },
+          "address": {
+            "type": "object",
+            "properties": {
+              "street": { "type": "string" },
+              "city": { "type": "string" },
+              "state": { "type": "string" },
+              "zip": { "type": "string" },
+              "country": { "type": "string", "default": "US" }
+            }
+          }
+        }
+      },
+      "items": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["sku", "name", "price", "quantity"],
+          "properties": {
+            "sku": { "type": "string" },
+            "name": { "type": "string" },
+            "price": { "type": "number", "description": "Price in USD" },
+            "quantity": { "type": "integer", "minimum": 1 }
+          }
+        }
+      },
+      "total": { "type": "number", "description": "Order total in USD" },
+      "payment": {
+        "type": "object",
+        "properties": {
+          "method": { "type": "string", "enum": ["square", "paypal", "cash", "venmo", "check"] },
+          "squarePaymentId": { "type": "string" },
+          "squareLinkId": { "type": "string" },
+          "transactionFee": { "type": "number", "description": "Fee in USD" },
+          "paidAt": { "type": "string", "format": "date-time" }
+        }
+      },
+      "fulfillment": {
+        "type": "object",
+        "properties": {
+          "shippingMethod": { "type": "string", "enum": ["standard", "expedited", "local_pickup", "digital"] },
+          "carrier": { "type": "string" },
+          "trackingNumber": { "type": "string" },
+          "shippedAt": { "type": "string", "format": "date-time" },
+          "deliveredAt": { "type": "string", "format": "date-time" }
+        }
+      },
+      "notes": { "type": "string" },
+      "trelloCardId": { "type": "string", "description": "Link to Trello fulfillment card" }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2026-08",
+  "total_spent": 182.72,
+  "total_income": 675.5,
+  "net": 492.78,
+  "by_category": {
+    "square_payment": {
+      "count": 1,
+      "total": 125.5
+    },
+    "food": {
+      "count": 1,
+      "total": -45.23
+    },
+    "venmo": {
+      "count": 1,
+      "total": 50.0
+    },
+    "supplies": {
+      "count": 1,
+      "total": -89.99
+    },
+    "shipping": {
+      "count": 1,
+      "total": -12.5
+    },
+    "income": {
+      "count": 1,
+      "total": 500.0
+    },
+    "gas": {
+      "count": 1,
+      "total": -35.0
+    }
+  }
+}

@@ -1,0 +1,139 @@
+[
+  {
+    "task": "Torus_Nightly_Calendar_Sync",
+    "status": "NOT_FOUND",
+    "action": ""
+  },
+  {
+    "task": "Torus_Automated_Verification",
+    "status": "Ready",
+    "next_run": "8/8/2026 5:20:00 PM",
+    "action": "wscript.exe \"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\scripts\\run_automated_verification_hidden."
+  },
+  {
+    "task": "Torus_Continuous_OODA",
+    "status": "Ready",
+    "next_run": "8/8/2026 5:15:00 PM",
+    "action": "wscript.exe \"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\scripts\\run_continuous_ooda_hidden.vbs\""
+  },
+  {
+    "task": "Torus_Daily_Ops_Check",
+    "status": "Ready",
+    "next_run": "8/9/2026 8:00:00 AM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" \"D:\\Work\\Torus Coffee Compan"
+  },
+  {
+    "task": "Torus_Inventory_Alert",
+    "status": "Ready",
+    "next_run": "8/9/2026 7:00:00 AM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" \"D:\\Work\\Torus Coffee Compan"
+  },
+  {
+    "task": "Torus_Inventory_Sync",
+    "status": "Ready",
+    "next_run": "8/8/2026 8:00:00 PM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" \"D:\\Work\\Torus Coffee Compan"
+  },
+  {
+    "task": "Torus_Miss_Pink_Self_Heal",
+    "status": "Ready",
+    "next_run": "8/8/2026 5:13:00 PM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" \"D:\\Work\\Torus Coffee Compan"
+  },
+  {
+    "task": "Torus_Order_Manager",
+    "status": "Ready",
+    "next_run": "8/8/2026 5:15:00 PM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" Arguments>D:\\Work\\Torus Coff"
+  },
+  {
+    "task": "Torus_Silent_Smart_System_Trigger",
+    "status": "Ready",
+    "next_run": "8/8/2026 5:11:00 PM",
+    "action": "wscript.exe \"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\scripts\\run_master_ooda_silent.vbs\""
+  },
+  {
+    "task": "Torus_Smart_Ticket_Cycle",
+    "status": "Ready",
+    "next_run": "8/8/2026 5:15:00 PM",
+    "action": "wscript.exe \"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\scripts\\run_smart_ticket_cycle_hidden.vbs\""
+  },
+  {
+    "task": "Torus_Social_Media_Calendar",
+    "status": "Ready",
+    "next_run": "8/10/2026 9:30:00 AM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" Arguments>D:\\Work\\Torus Coff"
+  },
+  {
+    "task": "Torus_Social_Media_Check",
+    "status": "Ready",
+    "next_run": "8/9/2026 9:00:00 AM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" Arguments>D:\\Work\\Torus Coff"
+  },
+  {
+    "task": "Torus_Trello_Sync",
+    "status": "Ready",
+    "next_run": "8/9/2026 8:30:00 AM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" \"D:\\Work\\Torus Coffee Compan"
+  },
+  {
+    "task": "Torus_Vault_Audit",
+    "status": "Ready",
+    "next_run": "8/9/2026 2:00:00 AM",
+    "action": "wscript.exe \"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\scripts\\run_vault_audit_hidden.vbs\""
+  },
+  {
+    "task": "Torus_Vault_Cleanup",
+    "status": "Ready",
+    "next_run": "8/9/2026 9:00:00 AM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" Arguments>D:\\Work\\Torus Coff"
+  },
+  {
+    "task": "Torus_Vault_Sync_To_GitHub",
+    "status": "Ready",
+    "next_run": "8/9/2026 8:30:00 AM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" \"D:\\Work\\Torus Coffee Compan"
+  },
+  {
+    "task": "Torus_Weekly_Obsidian_Note",
+    "status": "Ready",
+    "next_run": "8/10/2026 8:00:00 AM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" Arguments>D:\\Work\\Torus Coff"
+  },
+  {
+    "task": "Torus_Weekly_Ops_Review",
+    "status": "Ready",
+    "next_run": "8/10/2026 8:00:00 AM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" Arguments>D:\\Work\\Torus Coff"
+  },
+  {
+    "task": "Torus_Monthly_Inventory_Count",
+    "status": "Ready",
+    "next_run": "9/1/2026 8:00:00 AM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" Arguments>D:\\Work\\Torus Coff"
+  },
+  {
+    "task": "Torus_Monthly_Obsidian_Note",
+    "status": "Ready",
+    "next_run": "9/1/2026 8:00:00 AM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" Arguments>D:\\Work\\Torus Coff"
+  },
+  {
+    "task": "Torus_Monthly_Ops_Review",
+    "status": "Ready",
+    "next_run": "9/1/2026 8:00:00 AM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" Arguments>D:\\Work\\Torus Coff"
+  },
+  {
+    "task": "Torus_Asset_Validator",
+    "status": "Ready",
+    "next_run": "8/9/2026 9:00:00 AM",
+    "action": "\"D:\\Work\\Torus Coffee Company LLC\\10_Skills_Library\\05_Operations\\venv\\Scripts\\pythonw.exe\" Arguments>D:\\Work\\Torus Coff"
+  },
+  {
+    "task": "PINKCADY_SQUIDSTATION_Backup",
+    "status": "Ready",
+    "next_run": "8/9/2026 3:00:00 AM",
+    "action": "cmd /c C:\\Users\\torus\\AppData\\Local\\Temp\\squidstation_backup.bat"
+  }
+]

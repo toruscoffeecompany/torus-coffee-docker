@@ -1,0 +1,30 @@
+{
+  "2026-08-03": {
+    "date": "2026-08-03",
+    "counts": {
+      "TCC-NOCC-200": 0,
+      "TCC-OCC-200": 0,
+      "TCC-SDB-115": 0,
+      "TCC-ACC-115": 0,
+      "TCC-ARB-26": 0,
+      "TCC-SAB-26": 0,
+      "TCC-SS-05": 0,
+      "TCC-CB-155": 0,
+      "TCC-AB-26": 0,
+      "TCC-AZC-115": 0
+    },
+    "low_stock": [],
+    "out_of_stock": [
+      "TCC-NOCC-200",
+      "TCC-OCC-200",
+      "TCC-SDB-115",
+      "TCC-ACC-115",
+      "TCC-ARB-26",
+      "TCC-SAB-26",
+      "TCC-SS-05",
+      "TCC-CB-155",
+      "TCC-AB-26",
+      "TCC-AZC-115"
+    ]
+  }
+}

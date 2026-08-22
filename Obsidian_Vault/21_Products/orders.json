@@ -1,0 +1,45 @@
+{
+  "schema": "04_Products/orders_schema.json",
+  "description": "Torus Coffee Company order records \u2014 sorted by createdAt descending. Empty until first sale.",
+  "count": 1,
+  "orders": [
+    {
+      "id": "7e245f30-4341-4546-88cd-8f9620b378d1",
+      "orderNumber": "TCC-2026-0001",
+      "createdAt": "2026-08-08T21:35:34.387724+00:00",
+      "updatedAt": "2026-08-08T21:35:34.387731+00:00",
+      "status": "paid",
+      "source": "website",
+      "customer": {
+        "name": "Jane Doe",
+        "email": "jane@example.com",
+        "phone": ""
+      },
+      "items": [
+        {
+          "sku": "TCC-NOCC-200",
+          "name": "Freeze-dried Neapolitan Ice Cream Sandwiches - Neapolitan Orbit Cream Crunch 2.0",
+          "price": 6.98,
+          "quantity": 2
+        }
+      ],
+      "total": 13.96,
+      "payment": {
+        "method": "square",
+        "squarePaymentId": "",
+        "squareLinkId": "link-test-123",
+        "transactionFee": 0.7,
+        "paidAt": "2026-08-08T21:35:34.387738+00:00"
+      },
+      "fulfillment": {
+        "shippingMethod": "standard",
+        "carrier": "",
+        "trackingNumber": "",
+        "shippedAt": "",
+        "deliveredAt": ""
+      },
+      "notes": "",
+      "trelloCardId": ""
+    }
+  ]
+}

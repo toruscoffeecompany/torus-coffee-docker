@@ -1,0 +1,5 @@
+{
+  "locked_files": {},
+  "last_cleanup": "2026-08-04T18:29:00Z",
+  "notes": "Simple file lock registry. Use path keys with ISO expiry timestamps. Do not write to a locked path unless your lock is newer or expired."
+}

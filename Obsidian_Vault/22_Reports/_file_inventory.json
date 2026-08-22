@@ -1,0 +1,4326 @@
+{
+  "files": [
+    {
+      "path": "00_Vault_Home.md",
+      "size_bytes": 1490,
+      "size_human": "1.5 KB",
+      "ext": ".md"
+    },
+    {
+      "path": ".obsidian\\app.json",
+      "size_bytes": 2,
+      "size_human": "2.0 B",
+      "ext": ".json"
+    },
+    {
+      "path": ".obsidian\\appearance.json",
+      "size_bytes": 25,
+      "size_human": "25.0 B",
+      "ext": ".json"
+    },
+    {
+      "path": ".obsidian\\core-plugins.json",
+      "size_bytes": 696,
+      "size_human": "696.0 B",
+      "ext": ".json"
+    },
+    {
+      "path": ".obsidian\\graph.json",
+      "size_bytes": 494,
+      "size_human": "494.0 B",
+      "ext": ".json"
+    },
+    {
+      "path": ".obsidian\\workspace.json",
+      "size_bytes": 7606,
+      "size_human": "7.4 KB",
+      "ext": ".json"
+    },
+    {
+      "path": "01_Operating\\311423 - Dried and Dehydrated Food Manufacturing.docx",
+      "size_bytes": 7192,
+      "size_human": "7.0 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "01_Operating\\Accessibility Statement.docx",
+      "size_bytes": 8871,
+      "size_human": "8.7 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "01_Operating\\Letter of Intent (LOI).docx",
+      "size_bytes": 15157,
+      "size_human": "14.8 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "01_Operating\\Refund & Returns Policy.docx",
+      "size_bytes": 9877,
+      "size_human": "9.6 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "01_Operating\\Sara Jane Shelvock ServSafe Cert.pdf",
+      "size_bytes": 359996,
+      "size_human": "351.6 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "01_Operating\\Sara's Business Plan (Torus Coffee Company).docx",
+      "size_bytes": 329653,
+      "size_human": "321.9 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "01_Operating\\Shipping Policy.docx",
+      "size_bytes": 10480,
+      "size_human": "10.2 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "01_Operating\\Terms & Conditions.docx",
+      "size_bytes": 11119,
+      "size_human": "10.9 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "01_Operating\\\u200bPrivacy Policy.docx",
+      "size_bytes": 9350,
+      "size_human": "9.1 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\BOIR Transcript 2025.03.18.pdf",
+      "size_bytes": 265417,
+      "size_human": "259.2 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\Business Registration Application.pdf",
+      "size_bytes": 214497,
+      "size_human": "209.5 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\EIN Confirmation Letter.pdf",
+      "size_bytes": 14403,
+      "size_human": "14.1 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\Final Letter.pdf",
+      "size_bytes": 46731,
+      "size_human": "45.6 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\Financial Account Authorization Letter.pdf",
+      "size_bytes": 50713,
+      "size_human": "49.5 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\Google Workspace Access.md",
+      "size_bytes": 852,
+      "size_human": "852.0 B",
+      "ext": ".md"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\Google Workspace OAuth Setup.md",
+      "size_bytes": 451,
+      "size_human": "451.0 B",
+      "ext": ".md"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\LLC Articles OR Certificate of Organization.pdf",
+      "size_bytes": 294544,
+      "size_human": "287.6 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\Operating Agreement.pdf",
+      "size_bytes": 101795,
+      "size_human": "99.4 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\TM Search Guide.pdf",
+      "size_bytes": 6106815,
+      "size_human": "5.8 MB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\TM Search Report.pdf",
+      "size_bytes": 4150933,
+      "size_human": "4.0 MB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\Torus_Coffee_Company_Path_to_Ownership.pdf",
+      "size_bytes": 6597,
+      "size_human": "6.4 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\Welcome Packet.pdf",
+      "size_bytes": 232921,
+      "size_human": "227.5 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\Legal\\Freeze-Dried Candy Packaging Requirements.docx",
+      "size_bytes": 210527,
+      "size_human": "205.6 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\Z_Reference\\Linear_Keys_Excluded_For_OpSec.txt",
+      "size_bytes": 253,
+      "size_human": "253.0 B",
+      "ext": ".txt"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\Z_Reference\\Torus_Coffee_2026_Expense_Tracker_Template.md",
+      "size_bytes": 526,
+      "size_human": "526.0 B",
+      "ext": ".md"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\Z_Reference\\Torus_Coffee_2026_Filing_Template.md",
+      "size_bytes": 726,
+      "size_human": "726.0 B",
+      "ext": ".md"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\Z_Reference\\Torus_Coffee_Entity_Summary.md",
+      "size_bytes": 823,
+      "size_human": "823.0 B",
+      "ext": ".md"
+    },
+    {
+      "path": "02_Tax\\Bill of Sale for the Vehicle.docx",
+      "size_bytes": 9598,
+      "size_human": "9.4 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "02_Tax\\Notes.xlsx",
+      "size_bytes": 52891,
+      "size_human": "51.7 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "02_Tax\\Torus_Coffee_Company_LLC_2025_Expense_Report.xlsx",
+      "size_bytes": 51339,
+      "size_human": "50.1 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "02_Tax\\Torus_Coffee_Company_LLC_2025_Financial_Statements.xlsx",
+      "size_bytes": 11560,
+      "size_human": "11.3 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "02_Tax\\Taxes\\Form SS4 - EIN Obtained.pdf",
+      "size_bytes": 2654756,
+      "size_human": "2.5 MB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\537.2301.pdf",
+      "size_bytes": 38396,
+      "size_human": "37.5 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Torus Coffee Company - 2025 Recepits.pdf",
+      "size_bytes": 1370059,
+      "size_human": "1.3 MB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Accounting Docs\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Federal IRS\\Bryon Smith K-1 - f1065sk1-v2.pdf",
+      "size_bytes": 137848,
+      "size_human": "134.6 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Federal IRS\\Form1065_Line21_OtherDeductions_Statement.docx",
+      "size_bytes": 9286,
+      "size_human": "9.1 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Federal IRS\\Sara Jane Schedule K-1 - f1065sk1.pdf",
+      "size_bytes": 137828,
+      "size_human": "134.6 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Federal IRS\\Torus Coffee Needs Signed - f1065.pdf",
+      "size_bytes": 440186,
+      "size_human": "429.9 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Invoices\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Invoices\\Wix Invoice 1169537835.pdf",
+      "size_bytes": 112662,
+      "size_human": "110.0 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Invoices\\Wix Invoice 1169538031.pdf",
+      "size_bytes": 90164,
+      "size_human": "88.1 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Invoices\\Wix Invoice 1169542927.pdf",
+      "size_bytes": 97217,
+      "size_human": "94.9 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Iowa Sales and Use Returns 2025\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Iowa Sales and Use Returns 2025\\Iowa Sales and Use Return Q2 2025.pdf",
+      "size_bytes": 137258,
+      "size_human": "134.0 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Iowa Sales and Use Returns 2025\\2025\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Iowa Sales and Use Returns 2025\\2025\\Iowa Sales and Use Return Q2 2025.pdf",
+      "size_bytes": 137258,
+      "size_human": "134.0 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Q2\\2025-04-30 Statement - USB Checking 5287.pdf",
+      "size_bytes": 259978,
+      "size_human": "253.9 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Q2\\2025-05-31 Statement - USB Checking 5287.pdf",
+      "size_bytes": 203969,
+      "size_human": "199.2 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Q2\\2025-06-30 Statement - USB Checking 5287.pdf",
+      "size_bytes": 220383,
+      "size_human": "215.2 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\Bryon Smith K-1 - f1065sk1-v2.pdf",
+      "size_bytes": 137850,
+      "size_human": "134.6 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\Bryon_Smith_ScheduleK1_2025 ai.pdf",
+      "size_bytes": 243784,
+      "size_human": "238.1 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\f1065.pdf",
+      "size_bytes": 5548012,
+      "size_human": "5.3 MB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\Form1065_Line21_OtherDeductions_Statement.docx",
+      "size_bytes": 9286,
+      "size_human": "9.1 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\IA1065(41016)_1.pdf",
+      "size_bytes": 3239136,
+      "size_human": "3.1 MB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\Sara Jane Schedule K-1 - f1065sk1.pdf",
+      "size_bytes": 137839,
+      "size_human": "134.6 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\Torus Coffee Needs Signed - f1065.pdf",
+      "size_bytes": 436197,
+      "size_human": "426.0 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed\\Torus_Coffee_Company_LLC_Form1065_2025 ai (Cant Edit).pdf",
+      "size_bytes": 882098,
+      "size_human": "861.4 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\Forms\\Federal IRS Forms\\f1065.pdf",
+      "size_bytes": 334608,
+      "size_human": "326.8 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\Forms\\Federal IRS Forms\\f1065sk1.pdf",
+      "size_bytes": 106155,
+      "size_human": "103.7 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\State Completed\\Bryon Smith 41-018 IA 1065 Schedule K-1.pdf",
+      "size_bytes": 1375070,
+      "size_human": "1.3 MB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\State Completed\\Sara Jane Shelvock 41-018 IA 1065 Schedule K-1.pdf",
+      "size_bytes": 1363347,
+      "size_human": "1.3 MB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\State Completed\\Torus Coffee 41-016 IA 1065 Partnership Return of Income Needs Signed.pdf",
+      "size_bytes": 2336903,
+      "size_human": "2.2 MB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Checking - 5287_01-01-2025_12-31-2025.csv",
+      "size_bytes": 11037,
+      "size_human": "10.8 KB",
+      "ext": ".csv"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Savings - 5016_01-01-2025_12-31-2025.csv",
+      "size_bytes": 5709,
+      "size_human": "5.6 KB",
+      "ext": ".csv"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Torus Coffee US Bank Records.PNG",
+      "size_bytes": 111219,
+      "size_human": "108.6 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\US Bank Fraud Charges.PNG",
+      "size_bytes": 117208,
+      "size_human": "114.5 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q1\\2025-02-28 Statement - USB Checking 5287.pdf",
+      "size_bytes": 189008,
+      "size_human": "184.6 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q1\\2025-03-31 Statement - USB Checking 5287.pdf",
+      "size_bytes": 217309,
+      "size_human": "212.2 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q2\\2025-04-30 Statement - USB Checking 5287.pdf",
+      "size_bytes": 259978,
+      "size_human": "253.9 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q2\\2025-05-31 Statement - USB Checking 5287.pdf",
+      "size_bytes": 203969,
+      "size_human": "199.2 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q2\\2025-06-30 Statement - USB Checking 5287.pdf",
+      "size_bytes": 220383,
+      "size_human": "215.2 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Checking - 5287_02-20-2025_02-23-2026.csv",
+      "size_bytes": 11673,
+      "size_human": "11.4 KB",
+      "ext": ".csv"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Savings - 5016_02-20-2025_02-23-2026.csv",
+      "size_bytes": 5891,
+      "size_human": "5.8 KB",
+      "ext": ".csv"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q1\\2025-02-28 Statement - USB Checking 5287.pdf",
+      "size_bytes": 189008,
+      "size_human": "184.6 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q1\\2025-03-31 Statement - USB Checking 5287.pdf",
+      "size_bytes": 217309,
+      "size_human": "212.2 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q1\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q2\\2025-04-30 Statement - USB Checking 5287.pdf",
+      "size_bytes": 259978,
+      "size_human": "253.9 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q2\\2025-05-31 Statement - USB Checking 5287.pdf",
+      "size_bytes": 203969,
+      "size_human": "199.2 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q2\\2025-06-30 Statement - USB Checking 5287.pdf",
+      "size_bytes": 220383,
+      "size_human": "215.2 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q2\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "03_Financials\\Expense_Report_2025.xlsx",
+      "size_bytes": 51339,
+      "size_human": "50.1 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "03_Financials\\Financial_Statements_2025.xlsx",
+      "size_bytes": 11560,
+      "size_human": "11.3 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "04_Products\\Aurora Bites  - Website Design Lable.gdoc",
+      "size_bytes": 0,
+      "size_human": "0.0 B",
+      "ext": ".gdoc"
+    },
+    {
+      "path": "04_Products\\Aurora Bites  Packaging Label.docx",
+      "size_bytes": 8800,
+      "size_human": "8.6 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "04_Products\\Aurora Bites - Website Design Label.docx",
+      "size_bytes": 12580,
+      "size_human": "12.3 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "04_Products\\Aurora Bites Packaging Label v1.gdoc.gdoc",
+      "size_bytes": 0,
+      "size_human": "0.0 B",
+      "ext": ".gdoc"
+    },
+    {
+      "path": "04_Products\\catalog_products.csv",
+      "size_bytes": 11555,
+      "size_human": "11.3 KB",
+      "ext": ".csv"
+    },
+    {
+      "path": "04_Products\\catalog_products.xlsx",
+      "size_bytes": 10656,
+      "size_human": "10.4 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "04_Products\\Current Inventory.xlsx",
+      "size_bytes": 7416,
+      "size_human": "7.2 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "04_Products\\Gummy Critters - Website Design.docx",
+      "size_bytes": 8806,
+      "size_human": "8.6 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "04_Products\\Product List and Prices.xlsx",
+      "size_bytes": 7455,
+      "size_human": "7.3 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "04_Products\\Product Nutrition Facts Labels.xlsx",
+      "size_bytes": 655761,
+      "size_human": "640.4 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "04_Products\\Rancher Rocks - Website Design Label.docx",
+      "size_bytes": 9179,
+      "size_human": "9.0 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "04_Products\\Torus Coffee Company Batch Record.xlsx",
+      "size_bytes": 31745,
+      "size_human": "31.0 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "04_Products\\Torus Freeze Dried Candy Lineup (Summary).docx",
+      "size_bytes": 10852,
+      "size_human": "10.6 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "04_Products\\Torus_Products_SKUs_Barcodes_QRCodes.xlsx",
+      "size_bytes": 12768,
+      "size_human": "12.5 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\ANMP0005.jpg",
+      "size_bytes": 4119879,
+      "size_human": "3.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\ANMP0006.jpg",
+      "size_bytes": 4033507,
+      "size_human": "3.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\ANMP0007.jpg",
+      "size_bytes": 4122180,
+      "size_human": "3.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\ANMP0008.jpg",
+      "size_bytes": 4228127,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\ANMP0009.jpg",
+      "size_bytes": 4272642,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\ANMP0010.jpg",
+      "size_bytes": 4225089,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\Aurora Berryalis - Back Label Website v1.PNG",
+      "size_bytes": 89412,
+      "size_human": "87.3 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\Aurora Berryalis - Freeze-dried Wild Berry Skittles Nutritional Facts Website Label v4.PNG",
+      "size_bytes": 89507,
+      "size_human": "87.4 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\Aurora Berryalis - Front Packaging Label v1.png",
+      "size_bytes": 1379193,
+      "size_human": "1.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\Aurora Berryalis - Front Packaging Label v2.png",
+      "size_bytes": 1418955,
+      "size_human": "1.4 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\Aurora Berryalis - Front Packaging Label v4.png",
+      "size_bytes": 723543,
+      "size_human": "706.6 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\Aurora Berryalis - Product Nutrition Facts Labels v1.pdf",
+      "size_bytes": 33014,
+      "size_human": "32.2 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\Aurora Berryalis - Website Picture v1.jpg",
+      "size_bytes": 3015105,
+      "size_human": "2.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\Aurora Berryalis 2.6oz SKU.pdf",
+      "size_bytes": 8862,
+      "size_human": "8.7 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\Aurora Berryalis Product Nutrition Facts Labels Website v2.pdf",
+      "size_bytes": 32546,
+      "size_human": "31.8 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\Aurora Berryalis Website Front Label v1.png",
+      "size_bytes": 2243200,
+      "size_human": "2.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\Aurora Berryalis Website Front Label v2.png",
+      "size_bytes": 489,
+      "size_human": "489.0 B",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\ANMP0005 (1).jpg",
+      "size_bytes": 4163054,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\ANMP0005.jpg",
+      "size_bytes": 4163054,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\ANMP0006 (1).jpg",
+      "size_bytes": 4162400,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\ANMP0006 (2).jpg",
+      "size_bytes": 4082587,
+      "size_human": "3.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\ANMP0006.jpg",
+      "size_bytes": 4162400,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\ANMP0007 (1).jpg",
+      "size_bytes": 4165467,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\ANMP0007 (2).jpg",
+      "size_bytes": 4083147,
+      "size_human": "3.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\ANMP0007.jpg",
+      "size_bytes": 4165467,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\ANMP0008 (1).jpg",
+      "size_bytes": 4685836,
+      "size_human": "4.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\ANMP0008 (2).jpg",
+      "size_bytes": 4060581,
+      "size_human": "3.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\ANMP0008.jpg",
+      "size_bytes": 4685836,
+      "size_human": "4.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\ANMP0009 (1).jpg",
+      "size_bytes": 4663528,
+      "size_human": "4.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\ANMP0009.jpg",
+      "size_bytes": 4663528,
+      "size_human": "4.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\ANMP0010 (1).jpg",
+      "size_bytes": 4668943,
+      "size_human": "4.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\ANMP0010.jpg",
+      "size_bytes": 4668943,
+      "size_human": "4.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\Aurora Bites  Back Packaging Label Design v1.png",
+      "size_bytes": 2891610,
+      "size_human": "2.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\Aurora Bites  Front Packaging Label Design v1.png",
+      "size_bytes": 2780334,
+      "size_human": "2.7 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\Aurora Bites - Website Design Back Label v2.PNG",
+      "size_bytes": 50166,
+      "size_human": "49.0 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\Aurora Bites - Website Design Back Label.pdf",
+      "size_bytes": 31147,
+      "size_human": "30.4 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\Aurora Bites Front Label v2.png",
+      "size_bytes": 2189217,
+      "size_human": "2.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\Aurora Bites Front Label v3.png",
+      "size_bytes": 511938,
+      "size_human": "499.9 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\Aurora Bites Front Label v4.png",
+      "size_bytes": 1275692,
+      "size_human": "1.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\Aurora Bites Front Label.png",
+      "size_bytes": 1051592,
+      "size_human": "1.0 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\Aurora Bites Website Logo v1.png",
+      "size_bytes": 2079249,
+      "size_human": "2.0 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\Aurora Bites Website Picture v1.jpg",
+      "size_bytes": 1138794,
+      "size_human": "1.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\Aurora Bites Website Picture v2.jpg",
+      "size_bytes": 1296317,
+      "size_human": "1.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\Aurora Bites Website Picture v3.jpg",
+      "size_bytes": 4083147,
+      "size_human": "3.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\Aurora Bites Website Picture v4.jpg",
+      "size_bytes": 4082587,
+      "size_human": "3.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\Rainbow_Crunch_Labels_Printable v1.pdf",
+      "size_bytes": 570636,
+      "size_human": "557.3 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles\\Rainbow_Crunch_Labels_Printable.pdf",
+      "size_bytes": 570636,
+      "size_human": "557.3 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Gummy Critters\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Gummy Critters\\Gummy Critters Front Packaging Label Design v1.png",
+      "size_bytes": 2344936,
+      "size_human": "2.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Gummy Critters\\Gummy Critters Front Packaging Label Design v2.png",
+      "size_bytes": 2926395,
+      "size_human": "2.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream Back Label Website v1.PNG",
+      "size_bytes": 93020,
+      "size_human": "90.8 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream Front Label v1.png",
+      "size_bytes": 659281,
+      "size_human": "643.8 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream Product Nutrition Facts Labels.pdf",
+      "size_bytes": 33240,
+      "size_human": "32.5 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream Website Label v1.png",
+      "size_bytes": 1648235,
+      "size_human": "1.6 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Neapolitan Orbit Cream Crunch - Website Picture  v1.jpg",
+      "size_bytes": 3895367,
+      "size_human": "3.7 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Neapolitan Orbit Cream Crunch - Website Picture  v2.jpg",
+      "size_bytes": 4512409,
+      "size_human": "4.3 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Neapolitan Orbit Cream Crunch - Website Picture  v3.jpg",
+      "size_bytes": 4512694,
+      "size_human": "4.3 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Halloween 2025\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Halloween 2025\\Neapolitan Orbit Cream Crunch - Website Picture Halloween 2025 v1.jpg",
+      "size_bytes": 3884017,
+      "size_human": "3.7 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Halloween 2025\\Neapolitan Orbit Cream Crunch - Website Picture Halloween 2025 v2.jpg",
+      "size_bytes": 3019226,
+      "size_human": "2.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Halloween 2025\\Neapolitan Orbit Cream Crunch - Website Picture Halloween 2025 v3.jpg",
+      "size_bytes": 3398681,
+      "size_human": "3.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Halloween 2025\\Neapolitan Orbit Cream Crunch - Website Picture Halloween 2025 v4.jpg",
+      "size_bytes": 3541465,
+      "size_human": "3.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Halloween 2025\\Neapolitan Orbit Cream Crunch - Website Picture Halloween 2025 v5.jpg",
+      "size_bytes": 5057937,
+      "size_human": "4.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Orbit Cream Crunch - Freeze-dried Ice Cream\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Orbit Cream Crunch - Freeze-dried Ice Cream\\Orbit Cream Crunch - Freeze-Dried Ice Cream Front Label v1.png",
+      "size_bytes": 1038167,
+      "size_human": "1013.8 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Orbit Cream Crunch - Freeze-dried Ice Cream\\Orbit Cream Crunch - Product Nutrition Facts Labels v1.pdf",
+      "size_bytes": 32620,
+      "size_human": "31.9 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Orbit Cream Crunch - Freeze-dried Ice Cream\\Orbit Cream Crunch - Website Design Back Label v1.PNG",
+      "size_bytes": 87574,
+      "size_human": "85.5 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Orbit Cream Crunch - Freeze-dried Ice Cream\\Orbit Cream Crunch - Website Logo v1.png",
+      "size_bytes": 2049348,
+      "size_human": "2.0 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Orbit Cream Crunch - Freeze-dried Ice Cream\\Orbit Cream Crunch Website Picture v1.jpg",
+      "size_bytes": 4765547,
+      "size_human": "4.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Rancher Rocks\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\ANMP0000 (1).jpg",
+      "size_bytes": 4551515,
+      "size_human": "4.3 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\ANMP0000.jpg",
+      "size_bytes": 4551515,
+      "size_human": "4.3 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\ANMP0001 (1).jpg",
+      "size_bytes": 4704177,
+      "size_human": "4.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\ANMP0001.jpg",
+      "size_bytes": 4704177,
+      "size_human": "4.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\ANMP0002 (1).jpg",
+      "size_bytes": 4663910,
+      "size_human": "4.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\ANMP0002.jpg",
+      "size_bytes": 4663910,
+      "size_human": "4.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\ANMP0003 (1).jpg",
+      "size_bytes": 4967490,
+      "size_human": "4.7 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\ANMP0003.jpg",
+      "size_bytes": 4967490,
+      "size_human": "4.7 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\ANMP0004 (1).jpg",
+      "size_bytes": 4278709,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\ANMP0004.jpg",
+      "size_bytes": 4278709,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\ANMP0009.jpg",
+      "size_bytes": 4093803,
+      "size_human": "3.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\ANMP0010.jpg",
+      "size_bytes": 4088698,
+      "size_human": "3.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\ANMP0011.jpg",
+      "size_bytes": 4121707,
+      "size_human": "3.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\Sour Aurora Bites - Website Design Back Label v1.PNG",
+      "size_bytes": 48786,
+      "size_human": "47.6 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\Sour Aurora Bites Back Label v1.pdf",
+      "size_bytes": 32022,
+      "size_human": "31.3 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\Sour Aurora Bites Front Label v1.png",
+      "size_bytes": 1219001,
+      "size_human": "1.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\Sour Aurora Bites Front Label v2.png",
+      "size_bytes": 1221709,
+      "size_human": "1.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\Sour Aurora Bites Website Logo v1.png",
+      "size_bytes": 2463370,
+      "size_human": "2.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\Sour Aurora Bites Website Photo v1.jpg",
+      "size_bytes": 1443211,
+      "size_human": "1.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\Sour Aurora Bites Website Photo v2.jpg",
+      "size_bytes": 4093803,
+      "size_human": "3.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\Sour Aurora Bites Website Photo v3.jpg",
+      "size_bytes": 4088698,
+      "size_human": "3.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles\\Sour Aurora Bites Website Photo v4.jpg",
+      "size_bytes": 4121707,
+      "size_human": "3.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\ANMP0000.jpg",
+      "size_bytes": 4292423,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\ANMP0001.jpg",
+      "size_bytes": 4333880,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\ANMP0002.jpg",
+      "size_bytes": 4342515,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\ANMP0003.jpg",
+      "size_bytes": 4620894,
+      "size_human": "4.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\ANMP0004.jpg",
+      "size_bytes": 4578348,
+      "size_human": "4.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\ANMP0005.jpg",
+      "size_bytes": 4535338,
+      "size_human": "4.3 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\Apple Cinnamon Comets - Freeze-dried Green Apples Back Website Label v1.png",
+      "size_bytes": 29947,
+      "size_human": "29.2 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\Apple Cinnamon Comets - Freeze-dried Green Apples Back Website Label v2.PNG",
+      "size_bytes": 80002,
+      "size_human": "78.1 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\Apple Cinnamon Comets - Freeze-dried Green Apples Back Website Label v3.PNG",
+      "size_bytes": 79357,
+      "size_human": "77.5 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\Apple Cinnamon Comets - Freeze-dried Green Apples Front Label v1.png",
+      "size_bytes": 920432,
+      "size_human": "898.9 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\Apple Cinnamon Comets - Freeze-dried Green Apples Front Label v2.png",
+      "size_bytes": 1051977,
+      "size_human": "1.0 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\Apple Cinnamon Comets - Freeze-dried Green Apples Front Label v3.png",
+      "size_bytes": 954501,
+      "size_human": "932.1 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\Apple Cinnamon Comets - Freeze-dried Green Apples Front Website Logo v1.png",
+      "size_bytes": 1609143,
+      "size_human": "1.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\Apple Cinnamon Comets - Freeze-dried Green Apples Front Website Logo v2.png",
+      "size_bytes": 2164738,
+      "size_human": "2.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\Apple Cinnamon Comets - Freeze-dried Green Apples Front Website v1.png.jpg",
+      "size_bytes": 3118228,
+      "size_human": "3.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\Apple Cinnamon Comets Product Nutrition Facts Labels Website v1.pdf",
+      "size_bytes": 29480,
+      "size_human": "28.8 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0012.jpg",
+      "size_bytes": 4372074,
+      "size_human": "4.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0019 (1).jpg",
+      "size_bytes": 4224144,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0019.jpg",
+      "size_bytes": 4224144,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0020 (1).jpg",
+      "size_bytes": 4171780,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0020.jpg",
+      "size_bytes": 4171780,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0021 (1).jpg",
+      "size_bytes": 4169223,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0021.jpg",
+      "size_bytes": 4169223,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0022 (1).jpg",
+      "size_bytes": 4637796,
+      "size_human": "4.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0022.jpg",
+      "size_bytes": 4637796,
+      "size_human": "4.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0023.jpg",
+      "size_bytes": 4581769,
+      "size_human": "4.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0024 (1).jpg",
+      "size_bytes": 4702348,
+      "size_human": "4.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0024.jpg",
+      "size_bytes": 4702348,
+      "size_human": "4.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0025 (1).jpg",
+      "size_bytes": 4207133,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0025.jpg",
+      "size_bytes": 4207133,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0026 (1).jpg",
+      "size_bytes": 4638179,
+      "size_human": "4.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0026.jpg",
+      "size_bytes": 4638179,
+      "size_human": "4.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0027 (1).jpg",
+      "size_bytes": 4654117,
+      "size_human": "4.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\ANMP0027.jpg",
+      "size_bytes": 4680002,
+      "size_human": "4.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\Apple Zephyr Chips Back Label v1.pdf",
+      "size_bytes": 28587,
+      "size_human": "27.9 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\Apple Zephyr Chips Back Label Website v1.PNG",
+      "size_bytes": 40549,
+      "size_human": "39.6 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\Apple Zephyr Chips Front Label v2.png",
+      "size_bytes": 1848424,
+      "size_human": "1.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\Apple Zephyr Chips Front Label.png",
+      "size_bytes": 1856394,
+      "size_human": "1.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\Apple Zephyr Chips Website Logo v1.png",
+      "size_bytes": 2295175,
+      "size_human": "2.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\Apple Zephyr Chips Website v1.jpg",
+      "size_bytes": 1701505,
+      "size_human": "1.6 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\Apple Zephyr Chips Website v2.jpg",
+      "size_bytes": 4356847,
+      "size_human": "4.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\Apple Zephyr Chips Website v3.jpg",
+      "size_bytes": 4379543,
+      "size_human": "4.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\Apple Zephyr Chips Website v4.jpg",
+      "size_bytes": 3585954,
+      "size_human": "3.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\Apple Zephyr Chips Website v5.jpg",
+      "size_bytes": 4686299,
+      "size_human": "4.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0011 (1).jpg",
+      "size_bytes": 4390604,
+      "size_human": "4.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0011.jpg",
+      "size_bytes": 4390604,
+      "size_human": "4.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0012 (1).jpg",
+      "size_bytes": 4385208,
+      "size_human": "4.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0012.jpg",
+      "size_bytes": 4385208,
+      "size_human": "4.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0013 (1).jpg",
+      "size_bytes": 4379430,
+      "size_human": "4.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0013 (2).jpg",
+      "size_bytes": 4356847,
+      "size_human": "4.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0013.jpg",
+      "size_bytes": 4379430,
+      "size_human": "4.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0014 (1).jpg",
+      "size_bytes": 5145016,
+      "size_human": "4.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0014 (2).jpg",
+      "size_bytes": 4379543,
+      "size_human": "4.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0014.jpg",
+      "size_bytes": 5145016,
+      "size_human": "4.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0015 (1).jpg",
+      "size_bytes": 5080946,
+      "size_human": "4.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0015 (2).jpg",
+      "size_bytes": 4332688,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0015.jpg",
+      "size_bytes": 5080946,
+      "size_human": "4.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0016 (1).jpg",
+      "size_bytes": 5155349,
+      "size_human": "4.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0016 (2).jpg",
+      "size_bytes": 4327654,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0016.jpg",
+      "size_bytes": 5155349,
+      "size_human": "4.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0017 (1).jpg",
+      "size_bytes": 5079198,
+      "size_human": "4.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0017 (2).jpg",
+      "size_bytes": 4305374,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0017.jpg",
+      "size_bytes": 5079198,
+      "size_human": "4.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0018 (1).jpg",
+      "size_bytes": 5059795,
+      "size_human": "4.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\ANMP0018.jpg",
+      "size_bytes": 5044173,
+      "size_human": "4.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\Cosmic Bananas - Back Label Website v1.PNG",
+      "size_bytes": 76912,
+      "size_human": "75.1 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\Cosmic Bananas - Product Nutrition Facts Labels v1.pdf",
+      "size_bytes": 29629,
+      "size_human": "28.9 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\Cosmic Bananas - Website Picture v1.jpg",
+      "size_bytes": 5535143,
+      "size_human": "5.3 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\Cosmic Bananas Front Label v2.png",
+      "size_bytes": 1664735,
+      "size_human": "1.6 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\Cosmic Bananas Front Packaging Label v3.png",
+      "size_bytes": 1391791,
+      "size_human": "1.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\Cosmic Bananas Website Label v1.png",
+      "size_bytes": 2199436,
+      "size_human": "2.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\Cosmic Bananas Website Label v3.png",
+      "size_bytes": 1545667,
+      "size_human": "1.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\Cosmic Bananas Website Photos v1.jpg",
+      "size_bytes": 4332688,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\Cosmic Bananas Website Photos v2.jpg",
+      "size_bytes": 4327654,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\Cosmic Bananas Website Photos v3.jpg",
+      "size_bytes": 4305374,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\Cosmic_Bananas_Label_4x3in_300dpi.png",
+      "size_bytes": 1895852,
+      "size_human": "1.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\Freeze Dried Banana Back Label (1).png",
+      "size_bytes": 1203332,
+      "size_human": "1.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas\\Freeze Dried Banana Back Label.png",
+      "size_bytes": 1203332,
+      "size_human": "1.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Name TBD - Freeze-Dried Apricots\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries\\ANMP0000.jpg",
+      "size_bytes": 4381235,
+      "size_human": "4.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries\\ANMP0001.jpg",
+      "size_bytes": 4391091,
+      "size_human": "4.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries\\ANMP0002.jpg",
+      "size_bytes": 4350932,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries\\ANMP0003.jpg",
+      "size_bytes": 4288239,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries\\ANMP0004.jpg",
+      "size_bytes": 4300538,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries\\Solar Strawberries - Back Label Website v1.PNG",
+      "size_bytes": 61192,
+      "size_human": "59.8 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries\\Solar Strawberries - Front Packaging Label v1.png",
+      "size_bytes": 1006886,
+      "size_human": "983.3 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries\\Solar Strawberries - Front Packaging Label v2.png",
+      "size_bytes": 1171454,
+      "size_human": "1.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries\\Solar Strawberries - Front Packaging Label v3.png",
+      "size_bytes": 1317269,
+      "size_human": "1.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries\\Solar Strawberries - Product Nutrition Facts Labels v1.pdf",
+      "size_bytes": 29377,
+      "size_human": "28.7 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries\\Solar Strawberries - Website Picture v1.jpg",
+      "size_bytes": 2378781,
+      "size_human": "2.3 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries\\Solar Strawberries Website Logo v1.png",
+      "size_bytes": 2203883,
+      "size_human": "2.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries\\Solar Strawberries Website Logo v2.png",
+      "size_bytes": 3114917,
+      "size_human": "3.0 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Star-Dusted Banana Crunch - Freeze-dried Bananas with Cin Sug\\ANMP0008.jpg",
+      "size_bytes": 4268060,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Star-Dusted Banana Crunch - Freeze-dried Bananas with Cin Sug\\ANMP0009.jpg",
+      "size_bytes": 4374578,
+      "size_human": "4.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Star-Dusted Banana Crunch - Freeze-dried Bananas with Cin Sug\\ANMP0010.jpg",
+      "size_bytes": 4340102,
+      "size_human": "4.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Star-Dusted Banana Crunch - Freeze-dried Bananas with Cin Sug\\ANMP0011.jpg",
+      "size_bytes": 4594494,
+      "size_human": "4.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Star-Dusted Banana Crunch - Freeze-dried Bananas with Cin Sug\\ANMP0012.jpg",
+      "size_bytes": 4518912,
+      "size_human": "4.3 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Star-Dusted Banana Crunch - Freeze-dried Bananas with Cin Sug\\Banana Cin Foster Front Label v1.png",
+      "size_bytes": 1370189,
+      "size_human": "1.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Star-Dusted Banana Crunch - Freeze-dried Bananas with Cin Sug\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Star-Dusted Banana Crunch - Freeze-dried Bananas with Cin Sug\\Star-Dusted Banana Crunch - Product Nutrition Facts Labels Website v1.pdf",
+      "size_bytes": 29203,
+      "size_human": "28.5 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Star-Dusted Banana Crunch - Freeze-dried Bananas with Cin Sug\\Star-Dusted Banana Crunch Website Picture v1.jpg",
+      "size_bytes": 3034813,
+      "size_human": "2.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Star-Dusted Banana Crunch - Freeze-dried Bananas with Cin Sug\\Star-Dusted Bananas Website Logo v1.png",
+      "size_bytes": 1971698,
+      "size_human": "1.9 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Star-Dusted Banana Crunch - Freeze-dried Bananas with Cin Sug\\Star-Dusted Bananas Website Nutrition Facts Website  v1.png",
+      "size_bytes": 82884,
+      "size_human": "80.9 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Supernova Strawberries & Bananas\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Supernova Strawberries & Bananas\\Supernova freeze-dried strawberries & bananas.png",
+      "size_bytes": 527444,
+      "size_human": "515.1 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Supernova Strawberries & Bananas\\Supernova fruit candy label.png",
+      "size_bytes": 2374025,
+      "size_human": "2.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Supernova Strawberries & Bananas\\supernova_label.pdf",
+      "size_bytes": 2147,
+      "size_human": "2.1 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "05_Research\\Estimated Costs.docx",
+      "size_bytes": 8424,
+      "size_human": "8.2 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "05_Research\\Events.xlsx",
+      "size_bytes": 6350,
+      "size_human": "6.2 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "05_Research\\Freeze Dried Product Label Design Requirements.docx",
+      "size_bytes": 9178,
+      "size_human": "9.0 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "05_Research\\Licenses and Permits NEEDED.docx",
+      "size_bytes": 9365,
+      "size_human": "9.1 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "05_Research\\Notes 8-16-25.docx",
+      "size_bytes": 7920,
+      "size_human": "7.7 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "05_Research\\R&D Schedule.xlsx",
+      "size_bytes": 57376,
+      "size_human": "56.0 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "05_Research\\Torus Coffee Co. \u2013 Donutland Equipment Inventory Checklist.docx",
+      "size_bytes": 8215,
+      "size_human": "8.0 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "05_Research\\Torus Coffee Company - Next Moves.xlsx",
+      "size_bytes": 6337,
+      "size_human": "6.2 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "05_Research\\Research\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "05_Research\\Research\\Freeze-Dried Product Sales Strategy.xlsx",
+      "size_bytes": 18358,
+      "size_human": "17.9 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "05_Research\\Research\\Freeze-Dried_Product_Sales_Strategy_UPDATED.xlsx",
+      "size_bytes": 7147,
+      "size_human": "7.0 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "05_Research\\Research\\Top_30_Freeze_Dried_Sweets.xlsx",
+      "size_bytes": 6416,
+      "size_human": "6.3 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "05_Research\\Research\\Leads\\contacts.csv",
+      "size_bytes": 1801,
+      "size_human": "1.8 KB",
+      "ext": ".csv"
+    },
+    {
+      "path": "05_Research\\Research\\Leads\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "05_Research\\Research\\Leads\\Wix Contacts Sample.csv",
+      "size_bytes": 546,
+      "size_human": "546.0 B",
+      "ext": ".csv"
+    },
+    {
+      "path": "06_Growth_Marketing\\2025 Ads.docx",
+      "size_bytes": 6868,
+      "size_human": "6.7 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "06_Growth_Marketing\\20251026_2153_Midwest Autumn Adventures_simple_compose_01k8hs82hperm8sac50m962e92.png",
+      "size_bytes": 3389054,
+      "size_human": "3.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\20251026_2154_The Orbit Report_simple_compose_01k8hsbnbbf209hfdg7a8gkd52.png",
+      "size_bytes": 2104957,
+      "size_human": "2.0 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\20251026_2154_The Orbit Report_simple_compose_01k8hsbnbcf42akmxwrwhd5gb4.png",
+      "size_bytes": 2029072,
+      "size_human": "1.9 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\20251026_2318_Iowa Autumn Tales_simple_compose_01k8hy5s81ejdrfg4zh33bmbhj.png",
+      "size_bytes": 2405599,
+      "size_human": "2.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\20251026_2318_Iowa Autumn Tales_simple_compose_01k8hy5s82f5wbpa27wkxkrzv6.png",
+      "size_bytes": 2304886,
+      "size_human": "2.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\4fd6a2e0-fae4-410a-8e5c-f2c38fb60191.png",
+      "size_bytes": 1626423,
+      "size_human": "1.6 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\9-20-25 Blog.png",
+      "size_bytes": 3330005,
+      "size_human": "3.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\Ad What Cheer Flea Market 2025.png",
+      "size_bytes": 2899560,
+      "size_human": "2.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0000.jpg",
+      "size_bytes": 5292105,
+      "size_human": "5.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0001.jpg",
+      "size_bytes": 5432884,
+      "size_human": "5.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0004.jpg",
+      "size_bytes": 5954620,
+      "size_human": "5.7 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0005.jpg",
+      "size_bytes": 5840671,
+      "size_human": "5.6 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0006.jpg",
+      "size_bytes": 5673712,
+      "size_human": "5.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0007.jpg",
+      "size_bytes": 3540524,
+      "size_human": "3.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0008.jpg",
+      "size_bytes": 4824602,
+      "size_human": "4.6 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0009.jpg",
+      "size_bytes": 5162209,
+      "size_human": "4.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0010.jpg",
+      "size_bytes": 5088043,
+      "size_human": "4.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0011.jpg",
+      "size_bytes": 3930510,
+      "size_human": "3.7 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0012.jpg",
+      "size_bytes": 5095653,
+      "size_human": "4.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0014.jpg",
+      "size_bytes": 7440132,
+      "size_human": "7.1 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0015.jpg",
+      "size_bytes": 4222849,
+      "size_human": "4.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0016.jpg",
+      "size_bytes": 4601043,
+      "size_human": "4.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0017.jpg",
+      "size_bytes": 4757314,
+      "size_human": "4.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0018.jpg",
+      "size_bytes": 4479114,
+      "size_human": "4.3 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMP0019.jpg",
+      "size_bytes": 4845009,
+      "size_human": "4.6 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ANMR0013.mp4",
+      "size_bytes": 29472098,
+      "size_human": "28.1 MB",
+      "ext": ".mp4"
+    },
+    {
+      "path": "06_Growth_Marketing\\balls.jpg",
+      "size_bytes": 492958,
+      "size_human": "481.4 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Basic Colonial Lanes Picture.jpg",
+      "size_bytes": 210441,
+      "size_human": "205.5 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Beckman Heritage Farms.jpg",
+      "size_bytes": 501771,
+      "size_human": "490.0 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Blog Post 6-18-25.docx",
+      "size_bytes": 7667,
+      "size_human": "7.5 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "06_Growth_Marketing\\Blog Post.docx",
+      "size_bytes": 7619,
+      "size_human": "7.4 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "06_Growth_Marketing\\Bowling Champions 2023!_0.jpeg.jpg",
+      "size_bytes": 3947590,
+      "size_human": "3.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\ChatGPT Image Sep 28, 2025, 02_47_10 PM.png",
+      "size_bytes": 489,
+      "size_human": "489.0 B",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\contacts.csv",
+      "size_bytes": 1801,
+      "size_human": "1.8 KB",
+      "ext": ".csv"
+    },
+    {
+      "path": "06_Growth_Marketing\\DIY Bingo Card for 2026 Goals.docx",
+      "size_bytes": 6480,
+      "size_human": "6.3 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "06_Growth_Marketing\\DIY Popsicle Stick Snow Flake Ornaments 2025 Logo v1.png",
+      "size_bytes": 2433229,
+      "size_human": "2.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\DIY Popsicle Stick Snow Flake Ornaments 2025 Website v1.png",
+      "size_bytes": 1644511,
+      "size_human": "1.6 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\DIY Popsicle Stick Snow Flake Ornaments 2025 Website v3.png",
+      "size_bytes": 1860092,
+      "size_human": "1.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\DIY Popsicle Stick Snow Flake Ornaments 2025 Website v5.png",
+      "size_bytes": 2165622,
+      "size_human": "2.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\DIY Popsicle Stick Snow Flake Ornaments 2025 Website v6.png",
+      "size_bytes": 1472218,
+      "size_human": "1.4 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\DIY Popsicle Stick Snow Flake Ornaments Cartoon v1.png",
+      "size_bytes": 3208089,
+      "size_human": "3.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-13-25 pict1.jpg",
+      "size_bytes": 1048501,
+      "size_human": "1023.9 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-13-25 pict2.jpg",
+      "size_bytes": 343396,
+      "size_human": "335.3 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-13-25 pict3.jpg",
+      "size_bytes": 908960,
+      "size_human": "887.7 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-13-25 pict4.jpg",
+      "size_bytes": 1530208,
+      "size_human": "1.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-13-25 pict5.jpg",
+      "size_bytes": 1221354,
+      "size_human": "1.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-30-25 v1.jpg",
+      "size_bytes": 7121405,
+      "size_human": "6.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-30-25 v2.jpg",
+      "size_bytes": 7142977,
+      "size_human": "6.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-30-25 v3.jpg",
+      "size_bytes": 4067796,
+      "size_human": "3.9 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-30-25 v4.jpg",
+      "size_bytes": 4878397,
+      "size_human": "4.7 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-30-25 v5.jpg",
+      "size_bytes": 7160553,
+      "size_human": "6.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride 6-30-25 v6.jpg",
+      "size_bytes": 7101207,
+      "size_human": "6.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Fishing at McBride video 6-30-25 v1.mp4",
+      "size_bytes": 8064205,
+      "size_human": "7.7 MB",
+      "ext": ".mp4"
+    },
+    {
+      "path": "06_Growth_Marketing\\General Zombie Ad v1.png",
+      "size_bytes": 3805058,
+      "size_human": "3.6 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\General Zombie Ad v2.jpg",
+      "size_bytes": 206382,
+      "size_human": "201.5 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\General Zombie Ad v3.jpg",
+      "size_bytes": 189581,
+      "size_human": "185.1 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\General Zombie Ad v4.jpg",
+      "size_bytes": 169921,
+      "size_human": "165.9 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\General Zombie Ad v5.jpg",
+      "size_bytes": 174590,
+      "size_human": "170.5 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Halloween Ad 2025 v1.png",
+      "size_bytes": 1982235,
+      "size_human": "1.9 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\Halloween Ad 2025 v2.png",
+      "size_bytes": 2365872,
+      "size_human": "2.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\ideogram-v3.0_Inside_a_mid-century_bowling_alley_during_a_league_tournament._Multiple_bowling_-0.jpg.png",
+      "size_bytes": 1296436,
+      "size_human": "1.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\IRL-Farmers-Market-Logo, Coralville, IA.png",
+      "size_bytes": 58293,
+      "size_human": "56.9 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\Levitate_it_seed1736005606.mp4",
+      "size_bytes": 715162,
+      "size_human": "698.4 KB",
+      "ext": ".mp4"
+    },
+    {
+      "path": "06_Growth_Marketing\\lucid-origin_Wide_shot_inside_a_commercial_bowling_alley_kitchen_during_a_hail_storm._one_kit-0.jpg",
+      "size_bytes": 621280,
+      "size_human": "606.7 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Propaganda 9-20-25.png",
+      "size_bytes": 3330005,
+      "size_human": "3.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\QCCA Expo Center Flea Market and Swap Meet 2025.png",
+      "size_bytes": 39028,
+      "size_human": "38.1 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\Referral Constellation Program 2025 ad v1.png",
+      "size_bytes": 2676929,
+      "size_human": "2.6 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\Referral Constellation Program 2025 ad v2.png",
+      "size_bytes": 2599423,
+      "size_human": "2.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\Referral Constellation Program 2025 ad v3.png",
+      "size_bytes": 2450222,
+      "size_human": "2.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\Stain Glass Leaf Art 2025 v1.jpg",
+      "size_bytes": 4723124,
+      "size_human": "4.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Stain Glass Leaf Art 2025 v2.jpg",
+      "size_bytes": 4418974,
+      "size_human": "4.2 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Stain Glass Leaf Art 2025 v3.jpg",
+      "size_bytes": 10897272,
+      "size_human": "10.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Stain Glass Leaf Art 2025 v4.jpg",
+      "size_bytes": 9922804,
+      "size_human": "9.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Stain Glass Leaf Art 2025 v5.jpg",
+      "size_bytes": 6263259,
+      "size_human": "6.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\Stain Glass Leaf Art 2025 v6.png",
+      "size_bytes": 2849783,
+      "size_human": "2.7 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\Stain Glass Leaf Art 2025 v7.png",
+      "size_bytes": 2986145,
+      "size_human": "2.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\Stain Glass Leaf Art 2025 v8.png",
+      "size_bytes": 2828782,
+      "size_human": "2.7 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 1-5-26 v1.png",
+      "size_bytes": 927280,
+      "size_human": "905.5 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 1-5-26 v2.png",
+      "size_bytes": 976978,
+      "size_human": "954.1 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 1-5-26 v3.png",
+      "size_bytes": 881216,
+      "size_human": "860.6 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 1-5-26 v4.png",
+      "size_bytes": 934656,
+      "size_human": "912.8 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 1-5-26 v5.png",
+      "size_bytes": 853540,
+      "size_human": "833.5 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 1-5-26 v6.png",
+      "size_bytes": 930605,
+      "size_human": "908.8 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 1-5-26 v7.png",
+      "size_bytes": 900570,
+      "size_human": "879.5 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 1-5-26 v8.png",
+      "size_bytes": 664884,
+      "size_human": "649.3 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-12-25 v1.jpg",
+      "size_bytes": 284509,
+      "size_human": "277.8 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-12-25 v2.png",
+      "size_bytes": 2727824,
+      "size_human": "2.6 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v1.png",
+      "size_bytes": 3536717,
+      "size_human": "3.4 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v11.jpg",
+      "size_bytes": 170797,
+      "size_human": "166.8 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v12.jpg",
+      "size_bytes": 375511,
+      "size_human": "366.7 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v13.jpg",
+      "size_bytes": 360855,
+      "size_human": "352.4 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v14.jpg",
+      "size_bytes": 286882,
+      "size_human": "280.2 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v15.jpg",
+      "size_bytes": 178084,
+      "size_human": "173.9 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v16.jpg",
+      "size_bytes": 287909,
+      "size_human": "281.2 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v17.jpg",
+      "size_bytes": 345073,
+      "size_human": "337.0 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v18.jpg",
+      "size_bytes": 196972,
+      "size_human": "192.4 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v2.png",
+      "size_bytes": 3232021,
+      "size_human": "3.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v3.jpg",
+      "size_bytes": 396336,
+      "size_human": "387.0 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v4.jpg",
+      "size_bytes": 271552,
+      "size_human": "265.2 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v5.jpg",
+      "size_bytes": 474541,
+      "size_human": "463.4 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v6.jpg",
+      "size_bytes": 284723,
+      "size_human": "278.0 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v7.jpg",
+      "size_bytes": 329261,
+      "size_human": "321.5 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v8.jpg",
+      "size_bytes": 448498,
+      "size_human": "438.0 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-19-25 v9.jpg",
+      "size_bytes": 308897,
+      "size_human": "301.7 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-26-25 Ad Video v1.mp4",
+      "size_bytes": 715162,
+      "size_human": "698.4 KB",
+      "ext": ".mp4"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-26-25 v1.png",
+      "size_bytes": 3519296,
+      "size_human": "3.4 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-26-25 v2.png",
+      "size_bytes": 3389054,
+      "size_human": "3.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-26-25 v4.png",
+      "size_bytes": 2411814,
+      "size_human": "2.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-5-25 v1.jpg",
+      "size_bytes": 311873,
+      "size_human": "304.6 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-5-25 v2.jpg",
+      "size_bytes": 310014,
+      "size_human": "302.7 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-5-25 v3.png",
+      "size_bytes": 2781463,
+      "size_human": "2.7 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 10-5-25 v4.png",
+      "size_bytes": 2619665,
+      "size_human": "2.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v1.png",
+      "size_bytes": 2063562,
+      "size_human": "2.0 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v10.png",
+      "size_bytes": 2032350,
+      "size_human": "1.9 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v11.png",
+      "size_bytes": 1829124,
+      "size_human": "1.7 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v12.png",
+      "size_bytes": 1378539,
+      "size_human": "1.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v13.png",
+      "size_bytes": 1619471,
+      "size_human": "1.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v14.png",
+      "size_bytes": 830496,
+      "size_human": "811.0 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v15.png",
+      "size_bytes": 1038352,
+      "size_human": "1014.0 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v16.png",
+      "size_bytes": 3376830,
+      "size_human": "3.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v17.png",
+      "size_bytes": 3310073,
+      "size_human": "3.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v18.png",
+      "size_bytes": 3083938,
+      "size_human": "2.9 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v19.png",
+      "size_bytes": 2485902,
+      "size_human": "2.4 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v2.png",
+      "size_bytes": 3016358,
+      "size_human": "2.9 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v20.png",
+      "size_bytes": 2181125,
+      "size_human": "2.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v21.png",
+      "size_bytes": 1096910,
+      "size_human": "1.0 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v22.png",
+      "size_bytes": 1838095,
+      "size_human": "1.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v23.png",
+      "size_bytes": 1757203,
+      "size_human": "1.7 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v24.png",
+      "size_bytes": 1871758,
+      "size_human": "1.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v3.png",
+      "size_bytes": 3663188,
+      "size_human": "3.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v4.png",
+      "size_bytes": 3592178,
+      "size_human": "3.4 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v5.png",
+      "size_bytes": 3637063,
+      "size_human": "3.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v6.png",
+      "size_bytes": 1877908,
+      "size_human": "1.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v7.png",
+      "size_bytes": 1930531,
+      "size_human": "1.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v8.png",
+      "size_bytes": 1395274,
+      "size_human": "1.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 11-9-25 v9.png",
+      "size_bytes": 746890,
+      "size_human": "729.4 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\the orbit report 12-15-25 v1.png",
+      "size_bytes": 1701535,
+      "size_human": "1.6 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\the orbit report 12-15-25 v2.png",
+      "size_bytes": 1366943,
+      "size_human": "1.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\the orbit report 12-15-25 v3.png",
+      "size_bytes": 1335618,
+      "size_human": "1.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\the orbit report 12-15-25 v5.png",
+      "size_bytes": 1576820,
+      "size_human": "1.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\the orbit report 12-15-25 v6.png",
+      "size_bytes": 1615842,
+      "size_human": "1.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\the orbit report 12-15-25-v4.png",
+      "size_bytes": 2265250,
+      "size_human": "2.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-2-25 v1.png",
+      "size_bytes": 1775044,
+      "size_human": "1.7 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-2-25 v2.png",
+      "size_bytes": 2598418,
+      "size_human": "2.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-2-25 v3.png",
+      "size_bytes": 1528408,
+      "size_human": "1.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-2-25 v4.png",
+      "size_bytes": 1947762,
+      "size_human": "1.9 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-2-25 v5.png",
+      "size_bytes": 1733073,
+      "size_human": "1.7 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-2-25 v6.jpg",
+      "size_bytes": 11007640,
+      "size_human": "10.5 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-2-25 v7.jpg",
+      "size_bytes": 10515703,
+      "size_human": "10.0 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-2-25 v8.jpg",
+      "size_bytes": 10252058,
+      "size_human": "9.8 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-2-25 v9.jpg",
+      "size_bytes": 5695583,
+      "size_human": "5.4 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-23-25 v1.png",
+      "size_bytes": 1152384,
+      "size_human": "1.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-23-25 v2.png",
+      "size_bytes": 979336,
+      "size_human": "956.4 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-23-25 v3.png",
+      "size_bytes": 1034507,
+      "size_human": "1010.3 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-23-25 v4.png",
+      "size_bytes": 998090,
+      "size_human": "974.7 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-23-25 v5.png",
+      "size_bytes": 1053515,
+      "size_human": "1.0 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-8-25 v2.png",
+      "size_bytes": 1786809,
+      "size_human": "1.7 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-8-25 v4.png",
+      "size_bytes": 1769606,
+      "size_human": "1.7 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-8-25 v6.png",
+      "size_bytes": 3287862,
+      "size_human": "3.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-8-25 v8.png",
+      "size_bytes": 1852206,
+      "size_human": "1.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 12-8-25 v9.png",
+      "size_bytes": 2069849,
+      "size_human": "2.0 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 2025.docx",
+      "size_bytes": 1276248,
+      "size_human": "1.2 MB",
+      "ext": ".docx"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 2026.docx",
+      "size_bytes": 16548,
+      "size_human": "16.2 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 9-28-25 Cartoon Picture v1.png",
+      "size_bytes": 2667216,
+      "size_human": "2.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 9-28-25 Cartoon Picture v10.jpg",
+      "size_bytes": 334862,
+      "size_human": "327.0 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 9-28-25 Cartoon Picture v11.jpg",
+      "size_bytes": 305773,
+      "size_human": "298.6 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 9-28-25 Cartoon Picture v12.jpg",
+      "size_bytes": 246871,
+      "size_human": "241.1 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 9-28-25 Cartoon Picture v2.png",
+      "size_bytes": 1307547,
+      "size_human": "1.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 9-28-25 Cartoon Picture v3.png",
+      "size_bytes": 1357618,
+      "size_human": "1.3 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 9-28-25 Cartoon Picture v4.jpg",
+      "size_bytes": 325154,
+      "size_human": "317.5 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 9-28-25 Cartoon Picture v5.jpg",
+      "size_bytes": 318431,
+      "size_human": "311.0 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 9-28-25 Cartoon Picture v6.jpg",
+      "size_bytes": 313280,
+      "size_human": "305.9 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 9-28-25 Cartoon Picture v7.jpg",
+      "size_bytes": 303061,
+      "size_human": "296.0 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 9-28-25 Cartoon Picture v8.jpg",
+      "size_bytes": 313846,
+      "size_human": "306.5 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report 9-28-25 Cartoon Picture v9.png",
+      "size_bytes": 489,
+      "size_human": "489.0 B",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report Ad v1.jpg",
+      "size_bytes": 275312,
+      "size_human": "268.9 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report Ad v2.jpg",
+      "size_bytes": 263494,
+      "size_human": "257.3 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report Ad v3.png",
+      "size_bytes": 2768484,
+      "size_human": "2.6 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Report Ad v4.png",
+      "size_bytes": 3512741,
+      "size_human": "3.4 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Workshop (DIY Projects) Logo v1.png",
+      "size_bytes": 1183600,
+      "size_human": "1.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Workshop (DIY Projects) Logo v2.png",
+      "size_bytes": 2125975,
+      "size_human": "2.0 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\The Orbit Workshop (DIY Projects).docx",
+      "size_bytes": 13458,
+      "size_human": "13.1 KB",
+      "ext": ".docx"
+    },
+    {
+      "path": "06_Growth_Marketing\\Torus_Halloween_Discount_Card.png",
+      "size_bytes": 4178,
+      "size_human": "4.1 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\We want to make a fun video ad that is realistic cinematic scene of a person running from zombies at night, carrying colorful freeze-dried s_ Cream Crunch_. The pe (1).jpg",
+      "size_bytes": 267197,
+      "size_human": "260.9 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\We want to make a fun video ad that is realistic cinematic scene of a person running from zombies at night, carrying colorful freeze-dried s_ Cream Crunch_. The pe (2).jpg",
+      "size_bytes": 245813,
+      "size_human": "240.1 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\We want to make a fun video ad that is realistic cinematic scene of a person running from zombies at night, carrying colorful freeze-dried s_ Cream Crunch_. The pe (3).jpg",
+      "size_bytes": 257664,
+      "size_human": "251.6 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\We want to make a fun video ad that is realistic cinematic scene of a person running from zombies at night, carrying colorful freeze-dried s_ Cream Crunch_. The person.jpg",
+      "size_bytes": 237129,
+      "size_human": "231.6 KB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "06_Growth_Marketing\\What Cheer Flea Market 2025 v2.png",
+      "size_bytes": 2113093,
+      "size_human": "2.0 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\What Cheer Flea Market 2025 v3.png",
+      "size_bytes": 1470786,
+      "size_human": "1.4 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\What Cheer Flea Market 2025 v4.png",
+      "size_bytes": 1528325,
+      "size_human": "1.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\What Cheer Flea Market 2025.png",
+      "size_bytes": 2755787,
+      "size_human": "2.6 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "06_Growth_Marketing\\\ud83d\ude80 Blasting Off at Our First Flea Market",
+      "size_bytes": 0,
+      "size_human": "0.0 B",
+      "ext": ""
+    },
+    {
+      "path": "06_Website\\Website\\1169537835.pdf",
+      "size_bytes": 112662,
+      "size_human": "110.0 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "07_Photos\\Stickers\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    },
+    {
+      "path": "07_Photos\\Stickers\\Next Moves For Sweet Conquest Sticker v1.png",
+      "size_bytes": 760229,
+      "size_human": "742.4 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "07_Photos\\Stickers\\The Trail Is Yours Printable Sticker Design No Watermark.png",
+      "size_bytes": 2484098,
+      "size_human": "2.4 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "07_Photos\\Stickers\\The Trail Is Yours Printable Sticker Design with Watermark.png",
+      "size_bytes": 2467500,
+      "size_human": "2.4 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Archive\\2025-02-28 Statement - USB Checking 5287.pdf",
+      "size_bytes": 226223,
+      "size_human": "220.9 KB",
+      "ext": ".pdf"
+    },
+    {
+      "path": "08_Archive\\Torus_Coffee_Company_20260528.zip",
+      "size_bytes": 545744531,
+      "size_human": "520.5 MB",
+      "ext": ".zip"
+    },
+    {
+      "path": "08_Design_Brand\\.env.example.bin",
+      "size_bytes": 442,
+      "size_human": "442.0 B",
+      "ext": ".bin"
+    },
+    {
+      "path": "08_Design_Brand\\.gitignore.bin",
+      "size_bytes": 122,
+      "size_human": "122.0 B",
+      "ext": ".bin"
+    },
+    {
+      "path": "08_Design_Brand\\00 Design Docs Index v1.txt",
+      "size_bytes": 1996,
+      "size_human": "1.9 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\01 Public Website Pages and User Flows v1.txt",
+      "size_bytes": 9775,
+      "size_human": "9.5 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\01_Torus_Blog_Strategy_Guide.md",
+      "size_bytes": 11898,
+      "size_human": "11.6 KB",
+      "ext": ".md"
+    },
+    {
+      "path": "08_Design_Brand\\02 Product Inventory and Data Model v1.txt",
+      "size_bytes": 8066,
+      "size_human": "7.9 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\02_Blog_Post_Template.md",
+      "size_bytes": 6210,
+      "size_human": "6.1 KB",
+      "ext": ".md"
+    },
+    {
+      "path": "08_Design_Brand\\03 Admin Dashboard Blog and Content Design v1.txt",
+      "size_bytes": 7804,
+      "size_human": "7.6 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\03_Content_Calendar_Template.md",
+      "size_bytes": 7162,
+      "size_human": "7.0 KB",
+      "ext": ".md"
+    },
+    {
+      "path": "08_Design_Brand\\04 Checkout Shipping Customer Accounts and Orders v1.txt",
+      "size_bytes": 7511,
+      "size_human": "7.3 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\05 Security Error Reporting Backups and Operations v1.txt",
+      "size_bytes": 8571,
+      "size_human": "8.4 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\06 SEO Social Product Feeds and Revenue Design v1.txt",
+      "size_bytes": 8533,
+      "size_human": "8.3 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\07 Asset Inventory and Photo Readiness v1.txt",
+      "size_bytes": 7817,
+      "size_human": "7.6 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\Accounts and API Keys To Apply For First v1.txt",
+      "size_bytes": 11590,
+      "size_human": "11.3 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\Apple Cinnamon Comets - Flea Market Sign Design $4 v1.png",
+      "size_bytes": 2911427,
+      "size_human": "2.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Apple Cinnamon Comets - Flea Market Sign Design $4 v2.png",
+      "size_bytes": 1934970,
+      "size_human": "1.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Apple Cinnamon Comets - Flea Market Sign Design $5 v1.png",
+      "size_bytes": 2340462,
+      "size_human": "2.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Apple Zephyr Chips - Flea Market Sign Design $4 v1.png",
+      "size_bytes": 2662273,
+      "size_human": "2.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Apple Zephyr Chips - Flea Market Sign Design $5 v1.png",
+      "size_bytes": 953936,
+      "size_human": "931.6 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\applypatch-msg.sample",
+      "size_bytes": 478,
+      "size_human": "478.0 B",
+      "ext": ".sample"
+    },
+    {
+      "path": "08_Design_Brand\\Aurora Berryalis - Flea Market Sign Design $4 v1.png",
+      "size_bytes": 2349328,
+      "size_human": "2.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Aurora Berryalis - Flea Market Sign Design $5 v1.png",
+      "size_bytes": 979269,
+      "size_human": "956.3 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Aurora Bites - Flea Market Sign Design $4 v1.png",
+      "size_bytes": 2856480,
+      "size_human": "2.7 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Aurora Bites - Flea Market Sign Design $4 v2.png",
+      "size_bytes": 2248147,
+      "size_human": "2.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Business Card Design Info.docx",
+      "size_bytes": 2005070,
+      "size_human": "1.9 MB",
+      "ext": ".docx"
+    },
+    {
+      "path": "08_Design_Brand\\Business Card Design v1.png",
+      "size_bytes": 1258243,
+      "size_human": "1.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\catalog_products.csv",
+      "size_bytes": 6914,
+      "size_human": "6.8 KB",
+      "ext": ".csv"
+    },
+    {
+      "path": "08_Design_Brand\\Coding File Format Guidance v1.txt",
+      "size_bytes": 1262,
+      "size_human": "1.2 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\commit-msg.sample",
+      "size_bytes": 1972,
+      "size_human": "1.9 KB",
+      "ext": ".sample"
+    },
+    {
+      "path": "08_Design_Brand\\Company Logo - Flea Market Sign Design v3.png",
+      "size_bytes": 771203,
+      "size_human": "753.1 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Company Logo - Flea Market Sign Design.docx",
+      "size_bytes": 1283348,
+      "size_human": "1.2 MB",
+      "ext": ".docx"
+    },
+    {
+      "path": "08_Design_Brand\\Company Logo - Sign Design v1.png",
+      "size_bytes": 0,
+      "size_human": "0.0 B",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Company Logo - Sign Design v2.png",
+      "size_bytes": 1820786,
+      "size_human": "1.7 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\config.bin",
+      "size_bytes": 130,
+      "size_human": "130.0 B",
+      "ext": ".bin"
+    },
+    {
+      "path": "08_Design_Brand\\Cosmic Bananas - Flea Market Sign Design $4 v1.png",
+      "size_bytes": 2313683,
+      "size_human": "2.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Cosmic Bananas - Flea Market Sign Design $5 v1.png",
+      "size_bytes": 2185286,
+      "size_human": "2.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\DEPLOYMENT_GUIDE.md",
+      "size_bytes": 6052,
+      "size_human": "5.9 KB",
+      "ext": ".md"
+    },
+    {
+      "path": "08_Design_Brand\\description.bin",
+      "size_bytes": 73,
+      "size_human": "73.0 B",
+      "ext": ".bin"
+    },
+    {
+      "path": "08_Design_Brand\\exclude.bin",
+      "size_bytes": 240,
+      "size_human": "240.0 B",
+      "ext": ".bin"
+    },
+    {
+      "path": "08_Design_Brand\\FB_Marketplace_catalog_products.csv",
+      "size_bytes": 6436,
+      "size_human": "6.3 KB",
+      "ext": ".csv"
+    },
+    {
+      "path": "08_Design_Brand\\FB_Marketplace_catalog_products.xlsx",
+      "size_bytes": 9940,
+      "size_human": "9.7 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "08_Design_Brand\\format.ts",
+      "size_bytes": 163,
+      "size_human": "163.0 B",
+      "ext": ".ts"
+    },
+    {
+      "path": "08_Design_Brand\\fsmonitor-watchman.sample",
+      "size_bytes": 4611,
+      "size_human": "4.5 KB",
+      "ext": ".sample"
+    },
+    {
+      "path": "08_Design_Brand\\globals.css",
+      "size_bytes": 721,
+      "size_human": "721.0 B",
+      "ext": ".css"
+    },
+    {
+      "path": "08_Design_Brand\\GROWTH_STRATEGY.md",
+      "size_bytes": 9355,
+      "size_human": "9.1 KB",
+      "ext": ".md"
+    },
+    {
+      "path": "08_Design_Brand\\HEAD.bin",
+      "size_bytes": 23,
+      "size_human": "23.0 B",
+      "ext": ".bin"
+    },
+    {
+      "path": "08_Design_Brand\\index.html",
+      "size_bytes": 20057,
+      "size_human": "19.6 KB",
+      "ext": ".html"
+    },
+    {
+      "path": "08_Design_Brand\\layout.tsx.bin",
+      "size_bytes": 753,
+      "size_human": "753.0 B",
+      "ext": ".bin"
+    },
+    {
+      "path": "08_Design_Brand\\next-env.d.ts",
+      "size_bytes": 170,
+      "size_human": "170.0 B",
+      "ext": ".ts"
+    },
+    {
+      "path": "08_Design_Brand\\next.config.mjs",
+      "size_bytes": 117,
+      "size_human": "117.0 B",
+      "ext": ".mjs"
+    },
+    {
+      "path": "08_Design_Brand\\package.json",
+      "size_bytes": 693,
+      "size_human": "693.0 B",
+      "ext": ".json"
+    },
+    {
+      "path": "08_Design_Brand\\page.tsx.bin",
+      "size_bytes": 3867,
+      "size_human": "3.8 KB",
+      "ext": ".bin"
+    },
+    {
+      "path": "08_Design_Brand\\Phase 0 Kickoff Checklist v1.txt",
+      "size_bytes": 6561,
+      "size_human": "6.4 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\Phase 1 Technical Build Spec v1.txt",
+      "size_bytes": 6251,
+      "size_human": "6.1 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\post-update.sample",
+      "size_bytes": 189,
+      "size_human": "189.0 B",
+      "ext": ".sample"
+    },
+    {
+      "path": "08_Design_Brand\\postcss.config.mjs",
+      "size_bytes": 85,
+      "size_human": "85.0 B",
+      "ext": ".mjs"
+    },
+    {
+      "path": "08_Design_Brand\\pre-applypatch.sample",
+      "size_bytes": 424,
+      "size_human": "424.0 B",
+      "ext": ".sample"
+    },
+    {
+      "path": "08_Design_Brand\\pre-commit.sample",
+      "size_bytes": 1649,
+      "size_human": "1.6 KB",
+      "ext": ".sample"
+    },
+    {
+      "path": "08_Design_Brand\\pre-merge-commit.sample",
+      "size_bytes": 416,
+      "size_human": "416.0 B",
+      "ext": ".sample"
+    },
+    {
+      "path": "08_Design_Brand\\pre-push.sample",
+      "size_bytes": 1374,
+      "size_human": "1.3 KB",
+      "ext": ".sample"
+    },
+    {
+      "path": "08_Design_Brand\\pre-rebase.sample",
+      "size_bytes": 4898,
+      "size_human": "4.8 KB",
+      "ext": ".sample"
+    },
+    {
+      "path": "08_Design_Brand\\pre-receive.sample",
+      "size_bytes": 544,
+      "size_human": "544.0 B",
+      "ext": ".sample"
+    },
+    {
+      "path": "08_Design_Brand\\prepare-commit-msg.sample",
+      "size_bytes": 1492,
+      "size_human": "1.5 KB",
+      "ext": ".sample"
+    },
+    {
+      "path": "08_Design_Brand\\Product Seed Data Review v1.txt",
+      "size_bytes": 7602,
+      "size_human": "7.4 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\product-card.tsx.bin",
+      "size_bytes": 1884,
+      "size_human": "1.8 KB",
+      "ext": ".bin"
+    },
+    {
+      "path": "08_Design_Brand\\product-placeholder.svg",
+      "size_bytes": 1529,
+      "size_human": "1.5 KB",
+      "ext": ".svg"
+    },
+    {
+      "path": "08_Design_Brand\\products.ts",
+      "size_bytes": 7897,
+      "size_human": "7.7 KB",
+      "ext": ".ts"
+    },
+    {
+      "path": "08_Design_Brand\\push-to-checkout.sample",
+      "size_bytes": 2783,
+      "size_human": "2.7 KB",
+      "ext": ".sample"
+    },
+    {
+      "path": "08_Design_Brand\\README - Website Docs.txt",
+      "size_bytes": 1000,
+      "size_human": "1000.0 B",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\README.md",
+      "size_bytes": 1206,
+      "size_human": "1.2 KB",
+      "ext": ".md"
+    },
+    {
+      "path": "08_Design_Brand\\robots.ts",
+      "size_bytes": 313,
+      "size_human": "313.0 B",
+      "ext": ".ts"
+    },
+    {
+      "path": "08_Design_Brand\\sendemail-validate.sample",
+      "size_bytes": 2308,
+      "size_human": "2.3 KB",
+      "ext": ".sample"
+    },
+    {
+      "path": "08_Design_Brand\\site-footer.tsx.bin",
+      "size_bytes": 1640,
+      "size_human": "1.6 KB",
+      "ext": ".bin"
+    },
+    {
+      "path": "08_Design_Brand\\site-header.tsx.bin",
+      "size_bytes": 1331,
+      "size_human": "1.3 KB",
+      "ext": ".bin"
+    },
+    {
+      "path": "08_Design_Brand\\sitemap.ts",
+      "size_bytes": 812,
+      "size_human": "812.0 B",
+      "ext": ".ts"
+    },
+    {
+      "path": "08_Design_Brand\\Solar Strawberries - Flea Market Sign Design $4 v1.png",
+      "size_bytes": 3208962,
+      "size_human": "3.1 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Solar Strawberries - Flea Market Sign Design $5 v2.png",
+      "size_bytes": 2056114,
+      "size_human": "2.0 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Sour Aurora Bites Flea Market Sign $4 v1.png",
+      "size_bytes": 2581852,
+      "size_human": "2.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Star-Dusted Banana Crunch $5 v1.png",
+      "size_bytes": 2320735,
+      "size_human": "2.2 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Star-Dusted Banana Crunch - Flea Market Sign Design $4 v1.png",
+      "size_bytes": 1941508,
+      "size_human": "1.9 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Star-Dusted Banana Crunch - Flea Market Sign Design $4 v2.png",
+      "size_bytes": 2508015,
+      "size_human": "2.4 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Supabase Schema Draft v1.txt",
+      "size_bytes": 12143,
+      "size_human": "11.9 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\tailwind.config.ts",
+      "size_bytes": 686,
+      "size_human": "686.0 B",
+      "ext": ".ts"
+    },
+    {
+      "path": "08_Design_Brand\\The Orbit Report Blog Logo v1.png",
+      "size_bytes": 1578479,
+      "size_human": "1.5 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Torus Coffee Company Logo v1.png",
+      "size_bytes": 1869005,
+      "size_human": "1.8 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Torus Coffee Company Logo v2.png",
+      "size_bytes": 1721577,
+      "size_human": "1.6 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Torus Coffee Company Logo v3.jpg",
+      "size_bytes": 2729373,
+      "size_human": "2.6 MB",
+      "ext": ".jpg"
+    },
+    {
+      "path": "08_Design_Brand\\Torus Coffee Company Logo Website Design v1.png",
+      "size_bytes": 2024104,
+      "size_human": "1.9 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Torus Coffee Company Watermark Design v1.png",
+      "size_bytes": 232255,
+      "size_human": "226.8 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Torus Coffee Company Watermark Design v2.png",
+      "size_bytes": 11318,
+      "size_human": "11.1 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Torus Web Design.txt",
+      "size_bytes": 2580,
+      "size_human": "2.5 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\torus_freeze_dried_catalog.xlsx",
+      "size_bytes": 9101,
+      "size_human": "8.9 KB",
+      "ext": ".xlsx"
+    },
+    {
+      "path": "08_Design_Brand\\tsconfig.json",
+      "size_bytes": 571,
+      "size_human": "571.0 B",
+      "ext": ".json"
+    },
+    {
+      "path": "08_Design_Brand\\update.sample",
+      "size_bytes": 3650,
+      "size_human": "3.6 KB",
+      "ext": ".sample"
+    },
+    {
+      "path": "08_Design_Brand\\Website Background Pictures v2.png",
+      "size_bytes": 492973,
+      "size_human": "481.4 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Website Background Pictures v3.png",
+      "size_bytes": 498907,
+      "size_human": "487.2 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Website Background Pictures v4.png",
+      "size_bytes": 509769,
+      "size_human": "497.8 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Website Background Pictures v5.png",
+      "size_bytes": 494323,
+      "size_human": "482.7 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Website Background Pictures v6.png",
+      "size_bytes": 494527,
+      "size_human": "482.9 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Website Background Pictures v7.png",
+      "size_bytes": 490756,
+      "size_human": "479.3 KB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Website Background Pictures.png",
+      "size_bytes": 1800814,
+      "size_human": "1.7 MB",
+      "ext": ".png"
+    },
+    {
+      "path": "08_Design_Brand\\Website Build Phase Plan v1.txt",
+      "size_bytes": 6606,
+      "size_human": "6.5 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\Website Design Brief v1.md",
+      "size_bytes": 7758,
+      "size_human": "7.6 KB",
+      "ext": ".md"
+    },
+    {
+      "path": "08_Design_Brand\\Website Design Brief v1.txt",
+      "size_bytes": 7758,
+      "size_human": "7.6 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\Website Notes and Decisions v1.txt",
+      "size_bytes": 6333,
+      "size_human": "6.2 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\Website Research - Accounts APIs and Helpful Code v1.txt",
+      "size_bytes": 17438,
+      "size_human": "17.0 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\Website Revenue Ideas and Free Tools v1.txt",
+      "size_bytes": 13058,
+      "size_human": "12.8 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "08_Design_Brand\\Website To Do and Bug Tracker v1.txt",
+      "size_bytes": 7883,
+      "size_human": "7.7 KB",
+      "ext": ".txt"
+    },
+    {
+      "path": "10_Skills_Library\\00_Index.md",
+      "size_bytes": 528,
+      "size_human": "528.0 B",
+      "ext": ".md"
+    },
+    {
+      "path": "10_Skills_Library\\01_Website_Building\\_INDEX.md",
+      "size_bytes": 474,
+      "size_human": "474.0 B",
+      "ext": ".md"
+    },
+    {
+      "path": "10_Skills_Library\\02_Legal_Compliance\\_INDEX.md",
+      "size_bytes": 529,
+      "size_human": "529.0 B",
+      "ext": ".md"
+    },
+    {
+      "path": "10_Skills_Library\\03_Finance_Tax\\_INDEX.md",
+      "size_bytes": 528,
+      "size_human": "528.0 B",
+      "ext": ".md"
+    },
+    {
+      "path": "10_Skills_Library\\04_Product_Development\\_INDEX.md",
+      "size_bytes": 484,
+      "size_human": "484.0 B",
+      "ext": ".md"
+    },
+    {
+      "path": "10_Skills_Library\\05_Operations\\_INDEX.md",
+      "size_bytes": 387,
+      "size_human": "387.0 B",
+      "ext": ".md"
+    },
+    {
+      "path": "10_Skills_Library\\06_Growth_Marketing\\_INDEX.md",
+      "size_bytes": 533,
+      "size_human": "533.0 B",
+      "ext": ".md"
+    },
+    {
+      "path": "10_Skills_Library\\07_Ecommerce\\_INDEX.md",
+      "size_bytes": 397,
+      "size_human": "397.0 B",
+      "ext": ".md"
+    },
+    {
+      "path": "10_Skills_Library\\08_Design_Brand\\_INDEX.md",
+      "size_bytes": 430,
+      "size_human": "430.0 B",
+      "ext": ".md"
+    },
+    {
+      "path": "Product Production\\desktop.ini",
+      "size_bytes": 72,
+      "size_human": "72.0 B",
+      "ext": ".ini"
+    }
+  ],
+  "folders": [
+    {
+      "path": ".",
+      "files": 1,
+      "size_bytes": 1490,
+      "size_human": "1.5 KB"
+    },
+    {
+      "path": ".obsidian",
+      "files": 5,
+      "size_bytes": 8823,
+      "size_human": "8.6 KB"
+    },
+    {
+      "path": "01_Operating",
+      "files": 9,
+      "size_bytes": 761695,
+      "size_human": "743.8 KB"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork",
+      "files": 13,
+      "size_bytes": 11486669,
+      "size_human": "11.0 MB"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\Legal",
+      "files": 1,
+      "size_bytes": 210527,
+      "size_human": "205.6 KB"
+    },
+    {
+      "path": "01_Operating\\Operating Paperwork\\Z_Reference",
+      "files": 4,
+      "size_bytes": 2328,
+      "size_human": "2.3 KB"
+    },
+    {
+      "path": "02_Tax",
+      "files": 4,
+      "size_bytes": 125388,
+      "size_human": "122.4 KB"
+    },
+    {
+      "path": "02_Tax\\Taxes",
+      "files": 1,
+      "size_bytes": 2654756,
+      "size_human": "2.5 MB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025",
+      "files": 2,
+      "size_bytes": 1408455,
+      "size_human": "1.3 MB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Accounting Docs",
+      "files": 1,
+      "size_bytes": 72,
+      "size_human": "72.0 B"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Federal IRS",
+      "files": 4,
+      "size_bytes": 725148,
+      "size_human": "708.2 KB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Invoices",
+      "files": 4,
+      "size_bytes": 300115,
+      "size_human": "293.1 KB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Iowa Sales and Use Returns 2025",
+      "files": 2,
+      "size_bytes": 137330,
+      "size_human": "134.1 KB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Iowa Sales and Use Returns 2025\\2025",
+      "files": 2,
+      "size_bytes": 137330,
+      "size_human": "134.1 KB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Q2",
+      "files": 3,
+      "size_bytes": 684330,
+      "size_human": "668.3 KB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\State IRS",
+      "files": 0,
+      "size_bytes": 0,
+      "size_human": "0.0 B"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes",
+      "files": 0,
+      "size_bytes": 0,
+      "size_human": "0.0 B"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025",
+      "files": 0,
+      "size_bytes": 0,
+      "size_human": "0.0 B"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\Federal Completed",
+      "files": 8,
+      "size_bytes": 10634202,
+      "size_human": "10.1 MB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\Forms",
+      "files": 0,
+      "size_bytes": 0,
+      "size_human": "0.0 B"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\Forms\\Federal IRS Forms",
+      "files": 2,
+      "size_bytes": 440763,
+      "size_human": "430.4 KB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\Taxes\\2025\\State Completed",
+      "files": 3,
+      "size_bytes": 5075320,
+      "size_human": "4.8 MB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements",
+      "files": 4,
+      "size_bytes": 245173,
+      "size_human": "239.4 KB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q1",
+      "files": 2,
+      "size_bytes": 406317,
+      "size_human": "396.8 KB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements\\Q2",
+      "files": 3,
+      "size_bytes": 684330,
+      "size_human": "668.3 KB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025",
+      "files": 1,
+      "size_bytes": 72,
+      "size_human": "72.0 B"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025",
+      "files": 3,
+      "size_bytes": 17636,
+      "size_human": "17.2 KB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q1",
+      "files": 3,
+      "size_bytes": 406389,
+      "size_human": "396.9 KB"
+    },
+    {
+      "path": "02_Tax\\Taxes\\2025\\U.S. Bank Statements-2025\\2025\\Q2",
+      "files": 4,
+      "size_bytes": 684402,
+      "size_human": "668.4 KB"
+    },
+    {
+      "path": "03_Financials",
+      "files": 2,
+      "size_bytes": 62899,
+      "size_human": "61.4 KB"
+    },
+    {
+      "path": "04_Products",
+      "files": 14,
+      "size_bytes": 787573,
+      "size_human": "769.1 KB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy",
+      "files": 1,
+      "size_bytes": 72,
+      "size_human": "72.0 B"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Berryalis - Freeze-Dried Wild Berry Skittles",
+      "files": 18,
+      "size_bytes": 34035322,
+      "size_human": "32.5 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Aurora Bites - Freeze dried Skittles",
+      "files": 31,
+      "size_bytes": 89847905,
+      "size_human": "85.7 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Gummy Critters",
+      "files": 3,
+      "size_bytes": 5271403,
+      "size_human": "5.0 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream",
+      "files": 8,
+      "size_bytes": 15354318,
+      "size_human": "14.6 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Neapolitan Orbit Cream Crunch - Freeze-dried Neapolitan Ice Cream\\Halloween 2025",
+      "files": 6,
+      "size_bytes": 18901398,
+      "size_human": "18.0 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Orbit Cream Crunch - Freeze-dried Ice Cream",
+      "files": 6,
+      "size_bytes": 7973328,
+      "size_human": "7.6 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Rancher Rocks",
+      "files": 1,
+      "size_bytes": 72,
+      "size_human": "72.0 B"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Candy\\Sour Aurora Bites - Freeze Dried Sour Skittles",
+      "files": 23,
+      "size_bytes": 77368189,
+      "size_human": "73.8 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit",
+      "files": 1,
+      "size_bytes": 72,
+      "size_human": "72.0 B"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Cinnamon Comets - Freeze-Dried Green Apples w  Cin Sug",
+      "files": 17,
+      "size_bytes": 36741275,
+      "size_human": "35.0 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Apple Zephyr Chips - Freeze Dried Apples",
+      "files": 29,
+      "size_bytes": 104568517,
+      "size_human": "99.7 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Cosmic Bananas - Freeze Dried Bananas",
+      "files": 35,
+      "size_bytes": 128749193,
+      "size_human": "122.8 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Name TBD - Freeze-Dried Apricots",
+      "files": 1,
+      "size_bytes": 72,
+      "size_human": "72.0 B"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Solar Strawberries - Freeze-Dried Strawberries",
+      "files": 14,
+      "size_bytes": 32995866,
+      "size_human": "31.5 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Star-Dusted Banana Crunch - Freeze-dried Bananas with Cin Sug",
+      "files": 11,
+      "size_bytes": 28585005,
+      "size_human": "27.3 MB"
+    },
+    {
+      "path": "04_Products\\Freeze-Dried Fruit\\Supernova Strawberries & Bananas",
+      "files": 4,
+      "size_bytes": 2903688,
+      "size_human": "2.8 MB"
+    },
+    {
+      "path": "05_Research",
+      "files": 8,
+      "size_bytes": 113165,
+      "size_human": "110.5 KB"
+    },
+    {
+      "path": "05_Research\\Research",
+      "files": 4,
+      "size_bytes": 31993,
+      "size_human": "31.2 KB"
+    },
+    {
+      "path": "05_Research\\Research\\Leads",
+      "files": 3,
+      "size_bytes": 2419,
+      "size_human": "2.4 KB"
+    },
+    {
+      "path": "05_Research\\Research Merged",
+      "files": 0,
+      "size_bytes": 0,
+      "size_human": "0.0 B"
+    },
+    {
+      "path": "05_Research\\Research Merged\\Leads",
+      "files": 0,
+      "size_bytes": 0,
+      "size_human": "0.0 B"
+    },
+    {
+      "path": "06_Growth_Marketing",
+      "files": 193,
+      "size_bytes": 462157603,
+      "size_human": "440.7 MB"
+    },
+    {
+      "path": "06_Website",
+      "files": 0,
+      "size_bytes": 0,
+      "size_human": "0.0 B"
+    },
+    {
+      "path": "06_Website\\Website",
+      "files": 1,
+      "size_bytes": 112662,
+      "size_human": "110.0 KB"
+    },
+    {
+      "path": "07_Photos",
+      "files": 0,
+      "size_bytes": 0,
+      "size_human": "0.0 B"
+    },
+    {
+      "path": "07_Photos\\Product Pictures",
+      "files": 0,
+      "size_bytes": 0,
+      "size_human": "0.0 B"
+    },
+    {
+      "path": "07_Photos\\Stickers",
+      "files": 4,
+      "size_bytes": 5711899,
+      "size_human": "5.4 MB"
+    },
+    {
+      "path": "08_Archive",
+      "files": 2,
+      "size_bytes": 545970754,
+      "size_human": "520.7 MB"
+    },
+    {
+      "path": "08_Design_Brand",
+      "files": 108,
+      "size_bytes": 60760554,
+      "size_human": "57.9 MB"
+    },
+    {
+      "path": "08_Reports",
+      "files": 0,
+      "size_bytes": 0,
+      "size_human": "0.0 B"
+    },
+    {
+      "path": "10_Skills_Library",
+      "files": 1,
+      "size_bytes": 528,
+      "size_human": "528.0 B"
+    },
+    {
+      "path": "10_Skills_Library\\01_Website_Building",
+      "files": 1,
+      "size_bytes": 474,
+      "size_human": "474.0 B"
+    },
+    {
+      "path": "10_Skills_Library\\02_Legal_Compliance",
+      "files": 1,
+      "size_bytes": 529,
+      "size_human": "529.0 B"
+    },
+    {
+      "path": "10_Skills_Library\\03_Finance_Tax",
+      "files": 1,
+      "size_bytes": 528,
+      "size_human": "528.0 B"
+    },
+    {
+      "path": "10_Skills_Library\\04_Product_Development",
+      "files": 1,
+      "size_bytes": 484,
+      "size_human": "484.0 B"
+    },
+    {
+      "path": "10_Skills_Library\\05_Operations",
+      "files": 1,
+      "size_bytes": 387,
+      "size_human": "387.0 B"
+    },
+    {
+      "path": "10_Skills_Library\\06_Growth_Marketing",
+      "files": 1,
+      "size_bytes": 533,
+      "size_human": "533.0 B"
+    },
+    {
+      "path": "10_Skills_Library\\07_Ecommerce",
+      "files": 1,
+      "size_bytes": 397,
+      "size_human": "397.0 B"
+    },
+    {
+      "path": "10_Skills_Library\\08_Design_Brand",
+      "files": 1,
+      "size_bytes": 430,
+      "size_human": "430.0 B"
+    },
+    {
+      "path": "99_Inbox",
+      "files": 0,
+      "size_bytes": 0,
+      "size_human": "0.0 B"
+    },
+    {
+      "path": "Product Production",
+      "files": 1,
+      "size_bytes": 72,
+      "size_human": "72.0 B"
+    }
+  ]
+}

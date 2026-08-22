@@ -1,0 +1,52 @@
+{
+  "updated": "2026-08-08T00:22:30.377971+00:00",
+  "tasks": [
+    {
+      "id": "6a763bb78023e8cfb3e1ac61",
+      "priority": "P1",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "Automate Discord bot presence checks into smart ticket system",
+      "acceptance": "Advanced by MASTER_OODA",
+      "next_action": "https://trello.com/c/rXkfvrCo",
+      "source": "trello",
+      "completed_at": null
+    },
+    {
+      "id": "6a712bc79bc50687e977187a",
+      "priority": "P1",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Deploy website to free hosting",
+      "acceptance": "Advanced by MASTER_OODA",
+      "next_action": "https://trello.com/c/CFPorXQp",
+      "source": "trello",
+      "completed_at": "2026-08-08T00:36:52.208413+00:00"
+    },
+    {
+      "id": "6a737f7e79118dbc2544542a",
+      "priority": "P1",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "\ud83d\udce1 Add Cosmos Library update watcher without cloning Squidstation vault",
+      "acceptance": "Advanced by MASTER_OODA",
+      "next_action": "https://trello.com/c/GUUXdkd0",
+      "source": "trello",
+      "completed_at": "2026-08-08T00:36:52.156632+00:00"
+    },
+    {
+      "id": "6a752e3eff4d9d4cca8945a1",
+      "priority": "P1",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Fleet: deploy fleet_comms_watcher on SQUIDSTATION/PINKCADY/STEALTHATTACK",
+      "acceptance": "Advanced by MASTER_OODA",
+      "next_action": "https://trello.com/c/ignnaoSX",
+      "source": "trello",
+      "completed_at": "2026-08-08T00:36:49.042885+00:00"
+    }
+  ]
+}:08.369868+00:00"
+    }
+  ]
+}

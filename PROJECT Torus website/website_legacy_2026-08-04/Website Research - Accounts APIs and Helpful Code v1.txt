@@ -1,0 +1,449 @@
+﻿Torus Coffee Company Website Research - Accounts, APIs, and Helpful Code
+Last updated: 2026-05-29
+
+Purpose
+This document collects internet research for services, APIs, starter code, and accounts that may help build the Torus Coffee Company website. The goal is to design the full platform now, then build it in phases without overspending early.
+
+Recommended Overall Direction
+Build a real platform in phases:
+
+Phase 1 should be a polished selling site with Square payment links, real product pages, blogs, contact info, legal pages, and basic analytics.
+
+Later phases should add a full admin dashboard, customer accounts, inventory management, blog publishing tools, error reporting, Square API syncing, shipping automation, and ad/catalog integrations.
+
+Key Finding
+The website should not start as only a simple static page if the long-term goal is product management, inventory, customer accounts, blogs, image uploads, and error reporting. We should design the data and admin tools now, even if we launch with a simpler checkout flow first.
+
+------------------------------------------------------------
+1. Commerce And Payments
+------------------------------------------------------------
+
+Recommended starting tool: Square Payment Links
+
+Why:
+- You already have Square.
+- Square payment links let customers pay through a secure Square-hosted checkout page.
+- This avoids handling card data directly on our own website for the first launch.
+- Product pages can have Buy Now buttons pointed at Square links.
+
+Helpful official sources:
+- Square Payment Links: https://squareup.com/us/en/payment-links
+- Square support for creating payment links: https://squareup.com/help/us/en/article/6692-get-started-with-square-checkout-links
+- Square payment link customization: https://square.site/help/us/en/article/7068-add-a-square-checkout-button-to-your-website
+
+Design implication:
+Each product in our website database should have a Square payment link field, even before full Square API integration exists.
+
+Important shipping/customer detail:
+Square docs say Square Checkout can collect shipping information on behalf of the seller, and Square payment links can be customized with settings/custom fields. We need to test the exact Square payment-link setup to make sure shipping address, tax, shipping fee, and order notes work the way Torus needs before launch.
+
+Future tool: Square Developer APIs
+
+Useful Square APIs later:
+- Web Payments SDK
+- Online Checkout / Payment Links API
+- Orders API
+- Catalog API
+- Inventory API
+- Customers API
+- Webhooks
+
+Helpful official sources:
+- Square Developer Docs: https://developer.squareup.com/docs/
+- Square APIs overview: https://squareup.com/us/en/developers
+- Square Orders API: https://developer.squareup.com/docs/orders-api/what-it-does
+- Square Create Payment Link API: https://developer.squareup.com/reference/square/checkout/create-payment-link
+
+Accounts/API keys likely needed:
+- Square account, already exists
+- Square Developer account/app, later
+- Square application ID, later
+- Square access token, later
+- Square location ID, later
+- Square webhook signature key, later
+
+Recommendation:
+Do not start with full Square API checkout unless we decide Phase 1 must have automated inventory. Use Square payment links first, then graduate to Square APIs once the storefront/admin data model is stable.
+
+------------------------------------------------------------
+2. Backend, Database, Auth, And Product Images
+------------------------------------------------------------
+
+Best low-cost candidate: Supabase
+
+Why:
+- Database for products, inventory, blog posts, customers, and settings.
+- Authentication for optional customer accounts and admin login.
+- Storage for product photos and blog images.
+- APIs generated from the database.
+- Free plan is useful for early development/testing.
+
+Current official pricing notes found:
+- Free plan includes 500 MB database size, 1 GB file storage, 5 GB egress, 50,000 monthly active users, and unlimited API requests.
+- Free projects may pause after 1 week of inactivity.
+- Pro starts at $25/month and removes the pausing problem.
+
+Helpful official sources:
+- Supabase pricing: https://supabase.com/docs/pricing
+- Supabase billing FAQ: https://supabase.com/docs/guides/platform/billing-faq
+- Supabase storage uploads: https://supabase.com/docs/guides/storage/uploads/standard-uploads
+
+Accounts/API keys likely needed:
+- Supabase account
+- Supabase project
+- Supabase project URL
+- Supabase anon/public key
+- Supabase service role key, server-side only
+- Storage bucket(s) for product images and blog images
+
+Design implication:
+Use Supabase as the likely first database/auth/storage unless we choose Payload CMS as the admin-first route.
+
+Caution:
+Supabase free projects pausing after inactivity is fine for testing but not ideal for a live business site. If the platform uses Supabase for production customer accounts/admin tools, expect Supabase Pro eventually.
+
+------------------------------------------------------------
+3. Admin Dashboard And CMS
+------------------------------------------------------------
+
+Candidate A: Custom admin dashboard with Supabase
+
+Pros:
+- Can be tailored exactly to Torus products, inventory, blogs, and workflow.
+- Keeps the app simpler conceptually if we build only what is needed.
+- Supabase handles database/auth/storage.
+
+Cons:
+- We have to build the admin UI ourselves.
+- More responsibility for permissions, data validation, and editor experience.
+
+Candidate B: Payload CMS
+
+Why it is interesting:
+- Payload is an open-source, Next.js-native backend/CMS.
+- It can generate an admin panel for managing data.
+- It supports users/data/content/media and can be customized.
+
+Helpful official sources:
+- What is Payload: https://payloadcms.com/docs/getting-started/what-is-payload
+- Payload Admin Panel docs: https://payloadcms.com/docs/admin/overview
+
+Pros:
+- Built-in admin panel could speed up product/blog/content editing.
+- Good fit if the website needs lots of content management.
+
+Cons:
+- More complex setup than Supabase-only.
+- We need to confirm hosting/database fit and maintenance comfort.
+- Ecommerce still needs custom logic for Square/payment links/inventory workflows.
+
+Recommendation:
+For the design phase, keep both options open:
+- Supabase-first if we want the simplest custom platform.
+- Payload-first if admin/editor experience is more important immediately.
+
+------------------------------------------------------------
+4. Storefront Code Starters And Templates
+------------------------------------------------------------
+
+Useful idea/code sources:
+
+A. Next.js Ecommerce Starter
+Source: https://nextjsecommercestarter.com/
+
+Notes:
+- Uses Next.js, Tailwind CSS, and shadcn/ui.
+- Designed to connect to any checkout system.
+- Could help with product grids, product pages, cart-like layout, responsive ecommerce UI.
+
+B. Vercel Next.js Commerce
+Source: https://github.com/vercel/commerce
+
+Notes:
+- High-quality ecommerce reference app.
+- Uses modern Next.js patterns.
+- Officially maintained mainly for Shopify, but useful as code reference for storefront patterns.
+- May be heavier than Torus needs.
+
+C. Payload Website Starter
+Source: https://vercel.com/templates/next.js/payload-website-starter
+
+Notes:
+- Useful if choosing Payload CMS.
+- Good reference for content-managed pages.
+
+Recommendation:
+Do not blindly copy a large ecommerce template. Use starter code as reference for:
+- Product grid layout
+- Product detail pages
+- SEO structure
+- Responsive navigation
+- Admin/CMS approach
+- Image handling
+
+------------------------------------------------------------
+5. Hosting
+------------------------------------------------------------
+
+Likely choices:
+
+A. Vercel
+Helpful official sources:
+- Vercel pricing: https://vercel.com/pricing
+- Vercel Hobby plan: https://vercel.com/docs/accounts/plans/hobby
+
+Notes:
+- Very good fit for Next.js.
+- Free Hobby plan exists, but commercial/business usage and limits should be reviewed carefully before launch.
+- Pro is paid and better for a business production app.
+
+B. Netlify
+Helpful official sources:
+- Netlify pricing: https://www.netlify.com/pricing
+- Netlify credit-based pricing docs: https://docs.netlify.com/manage/accounts-and-billing/billing/billing-for-credit-based-plans/credit-based-pricing-plans/
+
+Notes:
+- Free tier exists with credit limits.
+- Good for static/React sites.
+- Can handle forms/functions, but Next.js apps may be simpler on Vercel.
+
+C. Cloudflare Pages
+Helpful official sources:
+- Cloudflare plans: https://www.cloudflare.com/plans/
+- Cloudflare Pages limits: https://developers.cloudflare.com/pages/platform/limits/
+
+Notes:
+- Strong free/low-cost hosting option.
+- More technical to pair with a Next.js/Supabase/admin setup depending on runtime needs.
+
+D. GitHub Pages
+Helpful official source:
+- GitHub Pages custom domains: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages
+
+Notes:
+- Fine for simple static sites.
+- Not enough by itself for customer accounts, admin dashboard, server code, and backend features.
+
+Recommendation:
+If we use Next.js, start by designing around Vercel or Netlify. If we keep Phase 1 static only, Netlify/GitHub Pages/Cloudflare Pages all work, but the full platform points more naturally toward Vercel + Supabase or Netlify + Supabase.
+
+Accounts likely needed:
+- GitHub account for code hosting/version control
+- Vercel or Netlify account for deployment
+- Domain DNS access for toruscoffeecompany.com
+
+------------------------------------------------------------
+6. Email, Contact Forms, And Customer Communication
+------------------------------------------------------------
+
+Transactional email candidate: Resend
+
+Why:
+- Useful for contact form notifications, account emails, password/magic links, order/admin notifications later.
+- Has an API and a free transactional tier.
+
+Official source:
+- Resend pricing: https://resend.com/docs/knowledge-base/what-is-resend-pricing
+
+Current official pricing notes found:
+- Free transactional plan: 3,000 emails/month, limited to 100 emails/day.
+- Marketing email has a separate contact-based pricing model.
+
+Marketing/newsletter candidate: Mailchimp, Brevo, Resend Marketing, or similar
+
+Mailchimp official source:
+- Mailchimp pricing: https://mailchimp.com/pricing/marketing/
+
+Current official note found:
+- Mailchimp free plan is limited; official pricing page should be checked before committing.
+
+Recommendation:
+Separate transactional email from marketing email.
+
+Transactional examples:
+- Contact form received
+- Password reset/login link
+- Admin low-stock alert
+- Error/support notification
+
+Marketing examples:
+- Newsletter
+- Product launch announcement
+- Blog digest
+- Promotions
+
+Accounts/API keys likely needed later:
+- Resend account/API key or similar transactional email service
+- Email domain DNS records: SPF, DKIM, DMARC
+- Marketing email platform account, later
+
+------------------------------------------------------------
+7. Shipping
+------------------------------------------------------------
+
+Phase 1:
+Use Square checkout/payment link shipping settings if they meet the business needs. If shipping is not reliable enough through Square links, use a simple flat-rate shipping policy at first.
+
+Future shipping automation candidates:
+
+A. Pirate Ship with Square integration
+Source: https://www.pirateship.com/integrations/square
+
+Notes:
+- Good small-business shipping workflow.
+- Helpful if we want to buy/print labels without building a shipping API immediately.
+
+B. EasyPost API
+Sources:
+- EasyPost pricing: https://www.easypost.com/pricing/
+- EasyPost Shipping API: https://www.easypost.com/shipping-api/
+
+Notes:
+- API for rate shopping, labels, address verification, tracking, and insurance.
+- More developer-heavy but powerful.
+
+Recommendation:
+Start with Square + manual/Pirate Ship workflow. Add EasyPost or another shipping API only when order volume justifies automation.
+
+Accounts/API keys likely needed later:
+- Pirate Ship account, optional
+- EasyPost account/API key, later if automated labels/rates are needed
+
+------------------------------------------------------------
+8. Error Reporting And Monitoring
+------------------------------------------------------------
+
+Recommended candidate: Sentry
+
+Why:
+- Captures frontend and backend errors.
+- Helps understand crashes, broken forms, admin save failures, API problems, and performance issues.
+- Works well with modern JavaScript/Next.js apps.
+
+Source found:
+- Sentry Next.js docs/pricing should be checked directly before implementation. Search result confirmed Sentry/Next.js is a relevant integration, but we should verify exact current plan limits at setup time.
+
+Design implication:
+The platform should include error handling as a first-class feature:
+- Friendly user/admin error messages
+- Developer error logs
+- External error reporting integration
+- Support/contact issue form
+- Admin diagnostics page or links to error dashboard
+
+Accounts/API keys likely needed:
+- Sentry account or similar
+- Sentry DSN/project key
+- Environment-specific config for development/production
+
+------------------------------------------------------------
+9. Analytics, SEO, Social, And Ads
+------------------------------------------------------------
+
+Early needs:
+- Google Search Console
+- Google Analytics or privacy-friendly analytics
+- Open Graph/social preview images
+- Product/blog share links
+- Social links in footer/header
+- Sitemap
+- Robots.txt
+- Structured data for products/blog posts where appropriate
+
+Later ad/catalog needs:
+- Meta Business account
+- Meta Pixel
+- TikTok Pixel
+- Pinterest tag
+- Product catalog feed
+- Google Merchant Center, optional
+
+Recommendation:
+Do not build direct ad publishing into Phase 1. Instead, prepare clean product data, tracking, and feeds so ads are easier later.
+
+Accounts/API keys likely needed later:
+- Google account/Search Console
+- Analytics account/measurement ID
+- Meta Business account/pixel ID
+- TikTok Business account/pixel ID
+- Pinterest business account/tag ID
+- Google Merchant Center account, optional
+
+------------------------------------------------------------
+10. Recommended Accounts/API Checklist
+------------------------------------------------------------
+
+Already have or should confirm:
+- Square account
+- Domain registrar/DNS access for toruscoffeecompany.com
+- Business email access
+- Social media account access
+
+Create soon for design/build setup:
+- GitHub account for website code
+- Vercel or Netlify account for hosting tests
+- Supabase account for backend/database/storage testing
+
+Create when implementing specific features:
+- Square Developer app/API keys
+- Resend account/API key for transactional email
+- Sentry account/DSN for error reporting
+- Google Search Console
+- Google Analytics or alternative analytics
+
+Create later when marketing/automation expands:
+- Pirate Ship account or EasyPost API account
+- Meta Business/pixel/catalog access
+- TikTok Business/pixel access
+- Pinterest Business/tag/catalog access
+- Google Merchant Center
+- Marketing email platform account
+
+------------------------------------------------------------
+11. Design Questions To Decide Next
+------------------------------------------------------------
+
+1. Should the first technical build use Next.js from the start, even if Phase 1 checkout is Square links?
+
+2. Should the admin dashboard be custom-built with Supabase, or should we strongly consider Payload CMS for a ready admin panel?
+
+3. Should customer accounts launch in Phase 1, or should Phase 1 allow purchases through Square links while accounts come in Phase 2?
+
+4. Should product images be stored locally in the website repo at first, or uploaded to Supabase Storage from the beginning?
+
+5. Should inventory be visible to customers as exact counts, low-stock badges, or only hidden/admin-facing counts?
+
+6. Should out-of-stock products remain visible with an out-of-stock message, or disappear from the shop?
+
+7. Should the blog editor support rich formatting from the start, or can early blog posts be simpler text/image posts?
+
+8. Should The Orbit Kitchen include recipes only, or recipes plus customer ideas/uses for Torus products?
+
+9. What shipping model should be used at launch: flat rate, free over a threshold, weight-based in Square, or manual/test setup?
+
+10. Which analytics/tracking tools are acceptable at launch from a privacy and simplicity standpoint?
+
+------------------------------------------------------------
+12. My Current Recommendation
+------------------------------------------------------------
+
+Best practical stack to design around:
+- Next.js for the website/app
+- Tailwind CSS and shadcn/ui for UI components
+- Supabase for database, auth, storage, and APIs
+- Square payment links for launch checkout
+- Square APIs later for inventory/order/customer syncing
+- Resend for transactional email later
+- Sentry for error reporting later
+- Vercel or Netlify for hosting
+- GitHub for code/version control
+
+Why this fits Torus:
+- Low upfront cost
+- Flexible enough for custom inventory/blog/product tools
+- Good path from lean launch to real platform
+- Avoids paying for Shopify/Wix before sales justify it
+- Lets Square keep handling payment security early
+
+Big caution:
+A full custom ecommerce platform has more moving parts than Wix. The right way to do this is phased, with backups, documentation, and simple workflows at every step.

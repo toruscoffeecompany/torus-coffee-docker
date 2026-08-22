@@ -1,0 +1,125 @@
+{
+  "fleet": {
+    "PINKCADY": {
+      "name": "PINKCADY",
+      "role": "Torus Coffee Commander (Miss Pink)",
+      "owner": "miss-pink",
+      "type": "operations",
+      "local_ip": "192.168.0.3",
+      "tailscale_ip": "100.106.235.103",
+      "timestamp": "2026-08-10T09:43:49.375985+00:00",
+      "ping": {
+        "reachable": true,
+        "latency_ms": 0.0
+      },
+      "reachable": true,
+      "latency_ms": 0.0,
+      "docker_api": {
+        "reachable": true,
+        "version": "29.6.2",
+        "containers_total": 51,
+        "containers_running": 10,
+        "memory_gb": 7.7
+      },
+      "crew_api": {
+        "reachable": true,
+        "status": "online",
+        "ship": "PINKCADY"
+      },
+      "healthy": true,
+      "score": 20
+    },
+    "SQUIDSTATION": {
+      "name": "SQUIDSTATION",
+      "role": "Captain's Flagship (Sir Green)",
+      "owner": "sir-green",
+      "type": "flagship",
+      "local_ip": "192.168.0.39",
+      "tailscale_ip": "100.83.247.14",
+      "timestamp": "2026-08-10T09:43:49.375985+00:00",
+      "ping": {
+        "reachable": true,
+        "latency_ms": 1.0
+      },
+      "reachable": true,
+      "latency_ms": 1.0,
+      "docker_api": {
+        "reachable": false
+      },
+      "crew_api": {
+        "reachable": false
+      },
+      "healthy": false,
+      "score": 5
+    },
+    "STEALTHATTACK": {
+      "name": "STEALTHATTACK",
+      "role": "GPU Warfare (Sir Azure)",
+      "owner": "sir-azure",
+      "type": "gpu",
+      "local_ip": "192.168.0.10",
+      "tailscale_ip": "100.110.238.68",
+      "timestamp": "2026-08-10T09:43:49.375985+00:00",
+      "ping": {
+        "reachable": false
+      },
+      "reachable": false,
+      "latency_ms": 0,
+      "docker_api": {
+        "reachable": false
+      },
+      "crew_api": {
+        "reachable": false
+      },
+      "healthy": false,
+      "score": 0
+    },
+    "GATEWAY": {
+      "name": "GATEWAY",
+      "role": "Network Gateway",
+      "owner": "shared",
+      "type": "gateway",
+      "local_ip": "192.168.0.1",
+      "tailscale_ip": "192.168.0.1",
+      "timestamp": "2026-08-10T09:43:49.375985+00:00",
+      "ping": {
+        "reachable": true,
+        "latency_ms": 1.0
+      },
+      "reachable": true,
+      "latency_ms": 1.0,
+      "docker_api": {
+        "reachable": true
+      },
+      "crew_api": {
+        "reachable": true
+      },
+      "healthy": true,
+      "score": 20
+    }
+  },
+  "alerts": [
+    {
+      "ship": "SQUIDSTATION",
+      "severity": "warn",
+      "type": "DOCKER_API_DOWN",
+      "msg": "SQUIDSTATION ping-ok but Docker API port 2375 not responding",
+      "ts": "2026-08-10T09:43:49.375985+00:00"
+    },
+    {
+      "ship": "SQUIDSTATION",
+      "severity": "warn",
+      "type": "CREW_API_DOWN",
+      "msg": "SQUIDSTATION ping-ok but crew_api port 8090 not responding",
+      "ts": "2026-08-10T09:43:49.375985+00:00"
+    },
+    {
+      "ship": "STEALTHATTACK",
+      "severity": "warn",
+      "type": "OFFLINE",
+      "msg": "STEALTHATTACK not reachable via Tailscale (100.110.238.68)",
+      "ts": "2026-08-10T09:43:49.375985+00:00"
+    }
+  ],
+  "timestamp": "2026-08-10T09:43:49.375985+00:00"
+}

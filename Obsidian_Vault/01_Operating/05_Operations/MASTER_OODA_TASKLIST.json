@@ -1,0 +1,225 @@
+{
+  "updated": "2026-08-10T04:24:03.207428+00:00",
+  "tasks": [
+    {
+      "id": "6a77c8bfd3d3c31cc2791891",
+      "priority": "P0",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "[toruscoffeecompany/Torus_Ops#14] Discord bot token wiring into crew_map.json/vault config",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a77c8bfd3d3c31cc2791891",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a77abd7519b3f58e60523ed",
+      "priority": "P0",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "SQUIDSTATION NEEDS A NEW GRAPHICS CARD!!!  WHAT DO WE BUY!!?",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a77abd7519b3f58e60523ed",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a77abdca725bf62f739c2f6",
+      "priority": "P0",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "[P0] CAPTUREIN: Install 8 missing Trello Power-Ups for card maintenance",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a77abdca725bf62f739c2f6",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a78dee4d0fd899daf1a37f9",
+      "priority": "P0",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "[TOOL_AV] Verify PINKCADY Docker daemon - TLS, memory limits, no privileged containers",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a78dee4d0fd899daf1a37f9",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a7499631c1a36043e1059e2",
+      "priority": "P0",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "[P1] Sir Green: add /api/security-docs route to dashboard_server.py",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a7499631c1a36043e1059e2",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a77abf7f96dc94b337257a3",
+      "priority": "P0",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "P1: Deploy NetBox + Dnsmasq containers on SQUIDSTATION (Day 1)",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a77abf7f96dc94b337257a3",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a77ac4613d1909219c842e0",
+      "priority": "P0",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "[INFRA] Security IDS stack live + dashboard-hooked (Suricata/Zeek/CrowdSec) \u2014 LAN tap needs switch mirror",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a77ac4613d1909219c842e0",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a77ac56220f1defc9183677",
+      "priority": "P0",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "P3: Y:/Video/Clips/History audit \u2014 Fall of Civilizations (214.7 GB) \u2014 archive candidate",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a77ac56220f1defc9183677",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a77ac61c2127d78438f0474",
+      "priority": "P0",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "P1: Deploy OSS Network Asset Management \u2014 NetBox + Dnsmasq + LibreNMS stack",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a77ac61c2127d78438f0474",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a77ae64165d224ea98100ea",
+      "priority": "P0",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "Dashboard: fix NPM proxy default page on tab switches",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a77ae64165d224ea98100ea",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a77c8c457fdb72b54473acf",
+      "priority": "P1",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "[toruscoffeecompany/torus-coffee-docker#2] \ud83d\udce6 [P1] Push toruscoffee/torus-alert-router:latest to Docker Hub",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a77c8c457fdb72b54473acf",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a77c8bfaa9b08ceb2c80f14",
+      "priority": "P1",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "[toruscoffeecompany/Torus_Ops#2] \ud83d\udd17 Set up VOIDPirateTrade void-crew team access for toruscoffeecompany",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a77c8bfaa9b08ceb2c80f14",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a77c8bc779de902092e9813",
+      "priority": "P1",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "[toruscoffeecompany/Torus_Ops#22] \ud83d\udd10 Security hardening: DARPA-level hive mind mesh",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a77c8bc779de902092e9813",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a76436035722ea054aee69e",
+      "priority": "P1",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "P1 Miss Pink bot token setup \u2014 VOID Pirate server",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a76436035722ea054aee69e",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a73a7dc5e7fcc6f226c9bfd",
+      "priority": "P1",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "[sir_azure] github_token_setup: captain",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a73a7dc5e7fcc6f226c9bfd",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a76ac97e09cc5b53e6e4dfa",
+      "priority": "P1",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "P2: Sir Green \u2014 Audit Discord bots/webhooks on SQUIDSTATION + network PCs",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a76ac97e09cc5b53e6e4dfa",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a76a826445c1adb8a9075cc",
+      "priority": "P1",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "P2: Verify Sir Green bootstrap cmd path + kidsm vault mapping",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a76a826445c1adb8a9075cc",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a7537460d782f428f8bc01d",
+      "priority": "P1",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "\ud83e\udded Track Miss Pink persona/lore + Cosmos Library updates",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a7537460d782f428f8bc01d",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a726c7cf694311bd8cd5a82",
+      "priority": "P1",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "Local fleet mesh: design LAN connectivity across SQUIDSTATION, PINKCADY, STEALTHATTACK",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a726c7cf694311bd8cd5a82",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    },
+    {
+      "id": "6a78dee0ffadae3cf0391f9f",
+      "priority": "P1",
+      "status": "pending",
+      "lane": "miss_pink",
+      "title": "[TOOL_AV] Run self-verification: docker TLS, mem limits, swappiness, log rotation",
+      "acceptance": "Advance trello item by priority",
+      "next_action": "https://trello.com/c/6a78dee0ffadae3cf0391f9f",
+      "source": "trello",
+      "created_at": "2026-08-10T04:24:03.207428+00:00"
+    }
+  ]
+}

@@ -1,0 +1,797 @@
+[01:22:28] CMD_POPUP_KILLER v2.0 STARTED — 50ms scan loop
+[01:22:32] ✅ Clean — 20 checks, 0 spawns killed
+[01:22:35] ✅ Clean — 40 checks, 0 spawns killed
+[01:22:38] ✅ Clean — 60 checks, 0 spawns killed
+[01:22:42] ✅ Clean — 80 checks, 0 spawns killed
+[01:22:45] ✅ Clean — 100 checks, 0 spawns killed
+[01:22:49] ✅ Clean — 120 checks, 0 spawns killed
+[01:22:52] ✅ Clean — 140 checks, 0 spawns killed
+[01:22:55] ✅ Clean — 160 checks, 0 spawns killed
+[01:22:59] ✅ Clean — 180 checks, 0 spawns killed
+[01:23:02] ✅ Clean — 200 checks, 0 spawns killed
+[01:23:05] ✅ Clean — 220 checks, 0 spawns killed
+[01:23:09] ✅ Clean — 240 checks, 0 spawns killed
+[01:23:13] ✅ Clean — 260 checks, 0 spawns killed
+[01:23:13] ⚡ cmd.exe detected (spawn #1) — killing
+[01:23:14] ⚡ cmd.exe detected (spawn #2) — killing
+[01:23:17] ✅ Clean — 280 checks, 2 spawns killed
+[01:23:21] ✅ Clean — 300 checks, 2 spawns killed
+[01:23:24] ✅ Clean — 320 checks, 2 spawns killed
+[01:23:28] ✅ Clean — 340 checks, 2 spawns killed
+[01:23:31] ✅ Clean — 360 checks, 2 spawns killed
+[01:23:35] ✅ Clean — 380 checks, 2 spawns killed
+[01:23:38] ✅ Clean — 400 checks, 2 spawns killed
+[01:23:41] ✅ Clean — 420 checks, 2 spawns killed
+[01:23:45] ✅ Clean — 440 checks, 2 spawns killed
+[01:23:48] ✅ Clean — 460 checks, 2 spawns killed
+[01:23:51] ✅ Clean — 480 checks, 2 spawns killed
+[01:23:55] ✅ Clean — 500 checks, 2 spawns killed
+[01:23:56] ⚡ cmd.exe detected (spawn #3) — killing
+[01:23:57] ⚡ cmd.exe detected (spawn #4) — killing
+[01:23:59] ✅ Clean — 520 checks, 4 spawns killed
+[01:24:03] ✅ Clean — 540 checks, 4 spawns killed
+[01:24:06] ✅ Clean — 560 checks, 4 spawns killed
+[01:24:10] ✅ Clean — 580 checks, 4 spawns killed
+[01:24:13] ✅ Clean — 600 checks, 4 spawns killed
+[01:24:17] ✅ Clean — 620 checks, 4 spawns killed
+[01:24:20] ✅ Clean — 640 checks, 4 spawns killed
+[01:24:23] ✅ Clean — 660 checks, 4 spawns killed
+[01:24:27] ✅ Clean — 680 checks, 4 spawns killed
+[01:24:30] ✅ Clean — 700 checks, 4 spawns killed
+[01:24:33] ✅ Clean — 720 checks, 4 spawns killed
+[01:24:37] ✅ Clean — 740 checks, 4 spawns killed
+[01:24:40] ✅ Clean — 760 checks, 4 spawns killed
+[01:24:44] ✅ Clean — 780 checks, 4 spawns killed
+[01:24:47] ✅ Clean — 800 checks, 4 spawns killed
+[01:24:50] ✅ Clean — 820 checks, 4 spawns killed
+[01:24:54] ✅ Clean — 840 checks, 4 spawns killed
+[01:24:57] ✅ Clean — 860 checks, 4 spawns killed
+[01:25:00] ✅ Clean — 880 checks, 4 spawns killed
+[01:25:04] ✅ Clean — 900 checks, 4 spawns killed
+[01:25:07] ✅ Clean — 920 checks, 4 spawns killed
+[01:25:10] ✅ Clean — 940 checks, 4 spawns killed
+[01:25:10] ⚡ cmd.exe detected (spawn #5) — killing
+[01:25:11] ⚡ cmd.exe detected (spawn #6) — killing
+[01:25:14] ✅ Clean — 960 checks, 6 spawns killed
+[01:25:17] ✅ Clean — 980 checks, 6 spawns killed
+[01:25:20] ✅ Clean — 1000 checks, 6 spawns killed
+[01:25:23] ✅ Clean — 1020 checks, 6 spawns killed
+[01:25:26] ✅ Clean — 1040 checks, 6 spawns killed
+[01:25:29] ✅ Clean — 1060 checks, 6 spawns killed
+[01:25:32] ✅ Clean — 1080 checks, 6 spawns killed
+[01:25:36] ✅ Clean — 1100 checks, 6 spawns killed
+[01:25:39] ✅ Clean — 1120 checks, 6 spawns killed
+[01:25:42] ✅ Clean — 1140 checks, 6 spawns killed
+[01:25:45] ✅ Clean — 1160 checks, 6 spawns killed
+[01:25:48] ✅ Clean — 1180 checks, 6 spawns killed
+[01:25:51] ✅ Clean — 1200 checks, 6 spawns killed
+[01:25:54] ✅ Clean — 1220 checks, 6 spawns killed
+[01:25:57] ✅ Clean — 1240 checks, 6 spawns killed
+[01:26:00] ✅ Clean — 1260 checks, 6 spawns killed
+[01:26:04] ✅ Clean — 1280 checks, 6 spawns killed
+[01:26:07] ✅ Clean — 1300 checks, 6 spawns killed
+[01:26:10] ✅ Clean — 1320 checks, 6 spawns killed
+[01:26:10] ⚡ cmd.exe detected (spawn #7) — killing
+[01:26:11] ⚡ cmd.exe detected (spawn #8) — killing
+[01:26:14] ✅ Clean — 1340 checks, 8 spawns killed
+[01:26:15] ⚡ cmd.exe detected (spawn #9) — killing
+[01:26:15] ⚡ cmd.exe detected (spawn #10) — killing
+[01:26:16] ⚡ cmd.exe detected (spawn #11) — killing
+[01:26:18] ✅ Clean — 1360 checks, 11 spawns killed
+[01:26:21] ✅ Clean — 1380 checks, 11 spawns killed
+[01:26:25] ✅ Clean — 1400 checks, 11 spawns killed
+[01:26:28] ✅ Clean — 1420 checks, 11 spawns killed
+[01:26:31] ✅ Clean — 1440 checks, 11 spawns killed
+[01:26:34] ✅ Clean — 1460 checks, 11 spawns killed
+[01:26:38] ✅ Clean — 1480 checks, 11 spawns killed
+[01:26:41] ✅ Clean — 1500 checks, 11 spawns killed
+[01:26:44] ✅ Clean — 1520 checks, 11 spawns killed
+[01:26:48] ✅ Clean — 1540 checks, 11 spawns killed
+[01:26:51] ✅ Clean — 1560 checks, 11 spawns killed
+[01:26:54] ✅ Clean — 1580 checks, 11 spawns killed
+[01:26:58] ✅ Clean — 1600 checks, 11 spawns killed
+[01:27:01] ✅ Clean — 1620 checks, 11 spawns killed
+[01:27:04] ✅ Clean — 1640 checks, 11 spawns killed
+[01:27:07] ✅ Clean — 1660 checks, 11 spawns killed
+[01:27:10] ⚡ cmd.exe detected (spawn #12) — killing
+[01:27:11] ✅ Clean — 1680 checks, 12 spawns killed
+[01:27:14] ✅ Clean — 1700 checks, 12 spawns killed
+[01:27:17] ✅ Clean — 1720 checks, 12 spawns killed
+[01:27:20] ✅ Clean — 1740 checks, 12 spawns killed
+[01:27:23] ✅ Clean — 1760 checks, 12 spawns killed
+[01:27:26] ✅ Clean — 1780 checks, 12 spawns killed
+[01:27:29] ✅ Clean — 1800 checks, 12 spawns killed
+[01:27:33] ✅ Clean — 1820 checks, 12 spawns killed
+[01:27:36] ✅ Clean — 1840 checks, 12 spawns killed
+[01:27:39] ✅ Clean — 1860 checks, 12 spawns killed
+[01:27:42] ✅ Clean — 1880 checks, 12 spawns killed
+[01:27:45] ✅ Clean — 1900 checks, 12 spawns killed
+[01:27:48] ✅ Clean — 1920 checks, 12 spawns killed
+[01:27:51] ✅ Clean — 1940 checks, 12 spawns killed
+[01:27:54] ✅ Clean — 1960 checks, 12 spawns killed
+[01:27:57] ✅ Clean — 1980 checks, 12 spawns killed
+[01:28:00] ✅ Clean — 2000 checks, 12 spawns killed
+[01:28:03] ✅ Clean — 2020 checks, 12 spawns killed
+[01:28:06] ✅ Clean — 2040 checks, 12 spawns killed
+[01:28:09] ✅ Clean — 2060 checks, 12 spawns killed
+[01:28:12] ✅ Clean — 2080 checks, 12 spawns killed
+[01:28:15] ✅ Clean — 2100 checks, 12 spawns killed
+[01:28:18] ✅ Clean — 2120 checks, 12 spawns killed
+[01:28:21] ✅ Clean — 2140 checks, 12 spawns killed
+[01:28:23] ⚡ cmd.exe detected (spawn #13) — killing
+[01:28:23] ⚡ cmd.exe detected (spawn #14) — killing
+[01:28:23] ⚡ cmd.exe detected (spawn #15) — killing
+[01:28:25] ✅ Clean — 2160 checks, 15 spawns killed
+[01:28:29] ✅ Clean — 2180 checks, 15 spawns killed
+[01:28:32] ✅ Clean — 2200 checks, 15 spawns killed
+[01:28:35] ✅ Clean — 2220 checks, 15 spawns killed
+[01:28:39] ✅ Clean — 2240 checks, 15 spawns killed
+[01:28:42] ✅ Clean — 2260 checks, 15 spawns killed
+[01:28:45] ✅ Clean — 2280 checks, 15 spawns killed
+[01:28:48] ✅ Clean — 2300 checks, 15 spawns killed
+[01:28:51] ✅ Clean — 2320 checks, 15 spawns killed
+[01:28:55] ✅ Clean — 2340 checks, 15 spawns killed
+[01:28:58] ✅ Clean — 2360 checks, 15 spawns killed
+[01:29:01] ✅ Clean — 2380 checks, 15 spawns killed
+[01:29:04] ✅ Clean — 2400 checks, 15 spawns killed
+[01:29:07] ⚡ cmd.exe detected (spawn #16) — killing
+[01:29:07] ✅ Clean — 2420 checks, 16 spawns killed
+[01:29:11] ✅ Clean — 2440 checks, 16 spawns killed
+[01:29:14] ✅ Clean — 2460 checks, 16 spawns killed
+[01:29:17] ✅ Clean — 2480 checks, 16 spawns killed
+[01:29:20] ✅ Clean — 2500 checks, 16 spawns killed
+[01:29:23] ✅ Clean — 2520 checks, 16 spawns killed
+[01:29:26] ✅ Clean — 2540 checks, 16 spawns killed
+[01:29:29] ✅ Clean — 2560 checks, 16 spawns killed
+[01:29:32] ✅ Clean — 2580 checks, 16 spawns killed
+[01:29:36] ✅ Clean — 2600 checks, 16 spawns killed
+[01:29:39] ✅ Clean — 2620 checks, 16 spawns killed
+[01:29:42] ✅ Clean — 2640 checks, 16 spawns killed
+[01:29:45] ✅ Clean — 2660 checks, 16 spawns killed
+[01:29:48] ✅ Clean — 2680 checks, 16 spawns killed
+[01:29:51] ✅ Clean — 2700 checks, 16 spawns killed
+[01:29:54] ✅ Clean — 2720 checks, 16 spawns killed
+[01:29:57] ✅ Clean — 2740 checks, 16 spawns killed
+[01:30:00] ✅ Clean — 2760 checks, 16 spawns killed
+[01:30:04] ✅ Clean — 2780 checks, 16 spawns killed
+[01:30:07] ✅ Clean — 2800 checks, 16 spawns killed
+[01:30:10] ✅ Clean — 2820 checks, 16 spawns killed
+[01:30:10] ⚡ cmd.exe detected (spawn #17) — killing
+[01:30:11] ⚡ cmd.exe detected (spawn #18) — killing
+[01:30:13] ⚡ cmd.exe detected (spawn #19) — killing
+[01:30:14] ⚡ cmd.exe detected (spawn #20) — killing
+[01:30:14] ✅ Clean — 2840 checks, 20 spawns killed
+[01:30:17] ✅ Clean — 2860 checks, 20 spawns killed
+[01:30:21] ✅ Clean — 2880 checks, 20 spawns killed
+[01:30:24] ✅ Clean — 2900 checks, 20 spawns killed
+[01:30:27] ✅ Clean — 2920 checks, 20 spawns killed
+[01:30:30] ✅ Clean — 2940 checks, 20 spawns killed
+[01:30:33] ✅ Clean — 2960 checks, 20 spawns killed
+[01:30:37] ✅ Clean — 2980 checks, 20 spawns killed
+[01:30:40] ✅ Clean — 3000 checks, 20 spawns killed
+[01:30:43] ✅ Clean — 3020 checks, 20 spawns killed
+[01:30:46] ✅ Clean — 3040 checks, 20 spawns killed
+[01:30:50] ✅ Clean — 3060 checks, 20 spawns killed
+[01:30:53] ✅ Clean — 3080 checks, 20 spawns killed
+[01:30:56] ✅ Clean — 3100 checks, 20 spawns killed
+[01:31:00] ✅ Clean — 3120 checks, 20 spawns killed
+[01:31:03] ✅ Clean — 3140 checks, 20 spawns killed
+[01:31:06] ✅ Clean — 3160 checks, 20 spawns killed
+[01:31:09] ✅ Clean — 3180 checks, 20 spawns killed
+[01:31:10] ⚡ cmd.exe detected (spawn #21) — killing
+[01:31:13] ✅ Clean — 3200 checks, 21 spawns killed
+[01:31:16] ✅ Clean — 3220 checks, 21 spawns killed
+[01:31:19] ✅ Clean — 3240 checks, 21 spawns killed
+[01:31:23] ✅ Clean — 3260 checks, 21 spawns killed
+[01:31:26] ✅ Clean — 3280 checks, 21 spawns killed
+[01:31:29] ✅ Clean — 3300 checks, 21 spawns killed
+[01:31:33] ✅ Clean — 3320 checks, 21 spawns killed
+[01:31:36] ✅ Clean — 3340 checks, 21 spawns killed
+[01:31:39] ✅ Clean — 3360 checks, 21 spawns killed
+[01:31:43] ✅ Clean — 3380 checks, 21 spawns killed
+[01:31:46] ✅ Clean — 3400 checks, 21 spawns killed
+[01:31:49] ✅ Clean — 3420 checks, 21 spawns killed
+[01:31:53] ✅ Clean — 3440 checks, 21 spawns killed
+[01:31:56] ✅ Clean — 3460 checks, 21 spawns killed
+[01:31:59] ✅ Clean — 3480 checks, 21 spawns killed
+[01:32:03] ✅ Clean — 3500 checks, 21 spawns killed
+[01:32:06] ✅ Clean — 3520 checks, 21 spawns killed
+[01:32:07] ⚡ cmd.exe detected (spawn #22) — killing
+[01:32:08] ⚡ cmd.exe detected (spawn #23) — killing
+[01:32:10] ✅ Clean — 3540 checks, 23 spawns killed
+[01:32:13] ✅ Clean — 3560 checks, 23 spawns killed
+[01:32:15] ⚡ cmd.exe detected (spawn #24) — killing
+[01:32:16] ⚡ cmd.exe detected (spawn #25) — killing
+[01:32:17] ✅ Clean — 3580 checks, 25 spawns killed
+[01:32:20] ✅ Clean — 3600 checks, 25 spawns killed
+[01:32:24] ✅ Clean — 3620 checks, 25 spawns killed
+[01:32:27] ✅ Clean — 3640 checks, 25 spawns killed
+[01:32:31] ✅ Clean — 3660 checks, 25 spawns killed
+[01:32:34] ✅ Clean — 3680 checks, 25 spawns killed
+[01:32:37] ✅ Clean — 3700 checks, 25 spawns killed
+[01:32:41] ✅ Clean — 3720 checks, 25 spawns killed
+[01:32:44] ✅ Clean — 3740 checks, 25 spawns killed
+[01:32:48] ✅ Clean — 3760 checks, 25 spawns killed
+[01:32:51] ✅ Clean — 3780 checks, 25 spawns killed
+[01:32:54] ✅ Clean — 3800 checks, 25 spawns killed
+[01:32:58] ✅ Clean — 3820 checks, 25 spawns killed
+[01:33:01] ✅ Clean — 3840 checks, 25 spawns killed
+[01:33:04] ✅ Clean — 3860 checks, 25 spawns killed
+[01:33:08] ✅ Clean — 3880 checks, 25 spawns killed
+[01:33:11] ✅ Clean — 3900 checks, 25 spawns killed
+[01:33:14] ✅ Clean — 3920 checks, 25 spawns killed
+[01:33:17] ✅ Clean — 3940 checks, 25 spawns killed
+[01:33:21] ✅ Clean — 3960 checks, 25 spawns killed
+[01:33:24] ✅ Clean — 3980 checks, 25 spawns killed
+[01:33:28] ✅ Clean — 4000 checks, 25 spawns killed
+[01:33:31] ✅ Clean — 4020 checks, 25 spawns killed
+[01:33:34] ✅ Clean — 4040 checks, 25 spawns killed
+[01:33:37] ✅ Clean — 4060 checks, 25 spawns killed
+[01:33:41] ✅ Clean — 4080 checks, 25 spawns killed
+[01:33:44] ✅ Clean — 4100 checks, 25 spawns killed
+[01:33:48] ✅ Clean — 4120 checks, 25 spawns killed
+[01:33:51] ✅ Clean — 4140 checks, 25 spawns killed
+[01:33:54] ✅ Clean — 4160 checks, 25 spawns killed
+[01:33:58] ✅ Clean — 4180 checks, 25 spawns killed
+[01:34:01] ✅ Clean — 4200 checks, 25 spawns killed
+[01:34:04] ✅ Clean — 4220 checks, 25 spawns killed
+[01:34:07] ✅ Clean — 4240 checks, 25 spawns killed
+[01:34:10] ⚡ cmd.exe detected (spawn #26) — killing
+[01:34:11] ✅ Clean — 4260 checks, 26 spawns killed
+[01:34:14] ✅ Clean — 4280 checks, 26 spawns killed
+[01:34:18] ✅ Clean — 4300 checks, 26 spawns killed
+[01:34:21] ✅ Clean — 4320 checks, 26 spawns killed
+[01:34:22] ⚡ cmd.exe detected (spawn #27) — killing
+[01:34:23] ⚡ cmd.exe detected (spawn #28) — killing
+[01:34:23] ⚡ cmd.exe detected (spawn #29) — killing
+[01:34:25] ✅ Clean — 4340 checks, 29 spawns killed
+[01:34:28] ✅ Clean — 4360 checks, 29 spawns killed
+[01:34:32] ✅ Clean — 4380 checks, 29 spawns killed
+[01:34:35] ✅ Clean — 4400 checks, 29 spawns killed
+[01:34:39] ✅ Clean — 4420 checks, 29 spawns killed
+[01:34:42] ✅ Clean — 4440 checks, 29 spawns killed
+[01:34:45] ✅ Clean — 4460 checks, 29 spawns killed
+[01:34:49] ✅ Clean — 4480 checks, 29 spawns killed
+[01:34:52] ✅ Clean — 4500 checks, 29 spawns killed
+[01:34:55] ✅ Clean — 4520 checks, 29 spawns killed
+[01:34:59] ✅ Clean — 4540 checks, 29 spawns killed
+[01:35:03] ✅ Clean — 4560 checks, 29 spawns killed
+[01:35:06] ✅ Clean — 4580 checks, 29 spawns killed
+[01:35:10] ⚡ cmd.exe detected (spawn #30) — killing
+[01:35:11] ✅ Clean — 4600 checks, 30 spawns killed
+[01:35:14] ✅ Clean — 4620 checks, 30 spawns killed
+[01:35:18] ✅ Clean — 4640 checks, 30 spawns killed
+[01:35:22] ✅ Clean — 4660 checks, 30 spawns killed
+[01:35:25] ✅ Clean — 4680 checks, 30 spawns killed
+[01:35:29] ✅ Clean — 4700 checks, 30 spawns killed
+[01:35:32] ✅ Clean — 4720 checks, 30 spawns killed
+[01:35:36] ✅ Clean — 4740 checks, 30 spawns killed
+[01:35:39] ✅ Clean — 4760 checks, 30 spawns killed
+[01:35:43] ✅ Clean — 4780 checks, 30 spawns killed
+[01:35:46] ✅ Clean — 4800 checks, 30 spawns killed
+[01:35:49] ✅ Clean — 4820 checks, 30 spawns killed
+[01:35:53] ✅ Clean — 4840 checks, 30 spawns killed
+[01:35:56] ✅ Clean — 4860 checks, 30 spawns killed
+[01:35:59] ✅ Clean — 4880 checks, 30 spawns killed
+[01:36:03] ✅ Clean — 4900 checks, 30 spawns killed
+[01:36:06] ✅ Clean — 4920 checks, 30 spawns killed
+[01:36:09] ✅ Clean — 4940 checks, 30 spawns killed
+[01:36:12] ⚡ cmd.exe detected (spawn #31) — killing
+[01:36:12] ✅ Clean — 4960 checks, 31 spawns killed
+[01:36:13] ⚡ cmd.exe detected (spawn #32) — killing
+[01:36:14] ⚡ cmd.exe detected (spawn #33) — killing
+[01:36:14] ⚡ cmd.exe detected (spawn #34) — killing
+[01:36:14] ⚡ cmd.exe detected (spawn #35) — killing
+[01:36:17] ✅ Clean — 4980 checks, 35 spawns killed
+[01:36:20] ✅ Clean — 5000 checks, 35 spawns killed
+[01:36:23] ✅ Clean — 5020 checks, 35 spawns killed
+[01:36:27] ✅ Clean — 5040 checks, 35 spawns killed
+[01:36:30] ✅ Clean — 5060 checks, 35 spawns killed
+[01:36:34] ✅ Clean — 5080 checks, 35 spawns killed
+[01:36:37] ✅ Clean — 5100 checks, 35 spawns killed
+[01:36:41] ✅ Clean — 5120 checks, 35 spawns killed
+[01:36:44] ✅ Clean — 5140 checks, 35 spawns killed
+[01:36:48] ✅ Clean — 5160 checks, 35 spawns killed
+[01:36:51] ✅ Clean — 5180 checks, 35 spawns killed
+[01:36:55] ✅ Clean — 5200 checks, 35 spawns killed
+[01:36:58] ✅ Clean — 5220 checks, 35 spawns killed
+[01:37:02] ✅ Clean — 5240 checks, 35 spawns killed
+[01:37:05] ✅ Clean — 5260 checks, 35 spawns killed
+[01:37:09] ✅ Clean — 5280 checks, 35 spawns killed
+[01:37:10] ⚡ cmd.exe detected (spawn #36) — killing
+[01:37:12] ✅ Clean — 5300 checks, 36 spawns killed
+[01:37:16] ✅ Clean — 5320 checks, 36 spawns killed
+[01:37:19] ✅ Clean — 5340 checks, 36 spawns killed
+[01:37:23] ✅ Clean — 5360 checks, 36 spawns killed
+[01:37:26] ✅ Clean — 5380 checks, 36 spawns killed
+[01:37:29] ✅ Clean — 5400 checks, 36 spawns killed
+[01:37:33] ✅ Clean — 5420 checks, 36 spawns killed
+[01:37:36] ✅ Clean — 5440 checks, 36 spawns killed
+[01:37:39] ✅ Clean — 5460 checks, 36 spawns killed
+[01:37:42] ✅ Clean — 5480 checks, 36 spawns killed
+[01:37:46] ✅ Clean — 5500 checks, 36 spawns killed
+[01:37:49] ✅ Clean — 5520 checks, 36 spawns killed
+[01:37:52] ✅ Clean — 5540 checks, 36 spawns killed
+[01:37:56] ✅ Clean — 5560 checks, 36 spawns killed
+[01:37:59] ✅ Clean — 5580 checks, 36 spawns killed
+[01:38:02] ✅ Clean — 5600 checks, 36 spawns killed
+[01:38:06] ✅ Clean — 5620 checks, 36 spawns killed
+[01:38:09] ✅ Clean — 5640 checks, 36 spawns killed
+[01:38:10] ⚡ cmd.exe detected (spawn #37) — killing
+[01:38:11] ⚡ cmd.exe detected (spawn #38) — killing
+[01:38:13] ✅ Clean — 5660 checks, 38 spawns killed
+[01:38:16] ⚡ cmd.exe detected (spawn #39) — killing
+[01:38:16] ⚡ cmd.exe detected (spawn #40) — killing
+[01:38:16] ⚡ cmd.exe detected (spawn #41) — killing
+[01:38:18] ✅ Clean — 5680 checks, 41 spawns killed
+[01:38:21] ✅ Clean — 5700 checks, 41 spawns killed
+[01:38:25] ✅ Clean — 5720 checks, 41 spawns killed
+[01:38:29] ✅ Clean — 5740 checks, 41 spawns killed
+[01:38:32] ✅ Clean — 5760 checks, 41 spawns killed
+[01:38:36] ✅ Clean — 5780 checks, 41 spawns killed
+[01:38:39] ✅ Clean — 5800 checks, 41 spawns killed
+[01:38:43] ✅ Clean — 5820 checks, 41 spawns killed
+[01:38:46] ✅ Clean — 5840 checks, 41 spawns killed
+[01:38:49] ✅ Clean — 5860 checks, 41 spawns killed
+[01:38:53] ✅ Clean — 5880 checks, 41 spawns killed
+[01:38:57] ✅ Clean — 5900 checks, 41 spawns killed
+[01:39:00] ✅ Clean — 5920 checks, 41 spawns killed
+[01:39:04] ✅ Clean — 5940 checks, 41 spawns killed
+[01:39:07] ✅ Clean — 5960 checks, 41 spawns killed
+[01:39:10] ⚡ cmd.exe detected (spawn #42) — killing
+[01:39:11] ✅ Clean — 5980 checks, 42 spawns killed
+[01:39:15] ✅ Clean — 6000 checks, 42 spawns killed
+[01:39:18] ✅ Clean — 6020 checks, 42 spawns killed
+[01:39:22] ✅ Clean — 6040 checks, 42 spawns killed
+[01:39:25] ✅ Clean — 6060 checks, 42 spawns killed
+[01:39:28] ✅ Clean — 6080 checks, 42 spawns killed
+[01:39:31] ✅ Clean — 6100 checks, 42 spawns killed
+[01:39:35] ✅ Clean — 6120 checks, 42 spawns killed
+[01:39:38] ✅ Clean — 6140 checks, 42 spawns killed
+[01:39:41] ✅ Clean — 6160 checks, 42 spawns killed
+[01:39:45] ✅ Clean — 6180 checks, 42 spawns killed
+[01:39:48] ✅ Clean — 6200 checks, 42 spawns killed
+[01:39:51] ✅ Clean — 6220 checks, 42 spawns killed
+[01:39:54] ✅ Clean — 6240 checks, 42 spawns killed
+[01:39:58] ✅ Clean — 6260 checks, 42 spawns killed
+[01:40:01] ✅ Clean — 6280 checks, 42 spawns killed
+[01:40:05] ✅ Clean — 6300 checks, 42 spawns killed
+[01:40:08] ✅ Clean — 6320 checks, 42 spawns killed
+[01:40:10] ⚡ cmd.exe detected (spawn #43) — killing
+[01:40:11] ⚡ cmd.exe detected (spawn #44) — killing
+[01:40:12] ✅ Clean — 6340 checks, 44 spawns killed
+[01:40:15] ✅ Clean — 6360 checks, 44 spawns killed
+[01:40:19] ✅ Clean — 6380 checks, 44 spawns killed
+[01:40:22] ✅ Clean — 6400 checks, 44 spawns killed
+[01:40:25] ✅ Clean — 6420 checks, 44 spawns killed
+[01:40:29] ✅ Clean — 6440 checks, 44 spawns killed
+[01:40:32] ✅ Clean — 6460 checks, 44 spawns killed
+[01:40:35] ✅ Clean — 6480 checks, 44 spawns killed
+[01:40:39] ✅ Clean — 6500 checks, 44 spawns killed
+[01:40:42] ✅ Clean — 6520 checks, 44 spawns killed
+[01:40:46] ✅ Clean — 6540 checks, 44 spawns killed
+[01:40:49] ✅ Clean — 6560 checks, 44 spawns killed
+[01:40:52] ⚡ cmd.exe detected (spawn #45) — killing
+[01:40:53] ✅ Clean — 6580 checks, 45 spawns killed
+[01:40:53] ⚡ cmd.exe detected (spawn #46) — killing
+[01:40:56] ✅ Clean — 6600 checks, 46 spawns killed
+[01:41:00] ✅ Clean — 6620 checks, 46 spawns killed
+[01:41:03] ✅ Clean — 6640 checks, 46 spawns killed
+[01:41:07] ✅ Clean — 6660 checks, 46 spawns killed
+[01:41:10] ✅ Clean — 6680 checks, 46 spawns killed
+[01:41:13] ✅ Clean — 6700 checks, 46 spawns killed
+[01:41:17] ✅ Clean — 6720 checks, 46 spawns killed
+[01:41:20] ✅ Clean — 6740 checks, 46 spawns killed
+[01:41:23] ✅ Clean — 6760 checks, 46 spawns killed
+[01:41:24] ⚡ cmd.exe detected (spawn #47) — killing
+[01:41:25] ⚡ cmd.exe detected (spawn #48) — killing
+[01:41:27] ✅ Clean — 6780 checks, 48 spawns killed
+[01:41:30] ✅ Clean — 6800 checks, 48 spawns killed
+[01:41:34] ✅ Clean — 6820 checks, 48 spawns killed
+[01:41:37] ✅ Clean — 6840 checks, 48 spawns killed
+[01:41:40] ✅ Clean — 6860 checks, 48 spawns killed
+[01:41:44] ✅ Clean — 6880 checks, 48 spawns killed
+[01:41:47] ✅ Clean — 6900 checks, 48 spawns killed
+[01:41:51] ✅ Clean — 6920 checks, 48 spawns killed
+[01:41:54] ✅ Clean — 6940 checks, 48 spawns killed
+[01:41:58] ✅ Clean — 6960 checks, 48 spawns killed
+[01:42:01] ✅ Clean — 6980 checks, 48 spawns killed
+[01:42:04] ✅ Clean — 7000 checks, 48 spawns killed
+[01:42:07] ✅ Clean — 7020 checks, 48 spawns killed
+[01:42:11] ✅ Clean — 7040 checks, 48 spawns killed
+[01:42:14] ⚡ cmd.exe detected (spawn #49) — killing
+[01:42:14] ⚡ cmd.exe detected (spawn #50) — killing
+[01:42:15] ✅ Clean — 7060 checks, 50 spawns killed
+[01:42:18] ✅ Clean — 7080 checks, 50 spawns killed
+[01:42:21] ⚡ cmd.exe detected (spawn #51) — killing
+[01:42:21] ✅ Clean — 7100 checks, 51 spawns killed
+[01:42:25] ✅ Clean — 7120 checks, 51 spawns killed
+[01:42:28] ✅ Clean — 7140 checks, 51 spawns killed
+[01:42:32] ✅ Clean — 7160 checks, 51 spawns killed
+[01:42:35] ✅ Clean — 7180 checks, 51 spawns killed
+[01:42:39] ✅ Clean — 7200 checks, 51 spawns killed
+[01:42:42] ✅ Clean — 7220 checks, 51 spawns killed
+[01:42:45] ✅ Clean — 7240 checks, 51 spawns killed
+[01:42:49] ✅ Clean — 7260 checks, 51 spawns killed
+[01:42:52] ✅ Clean — 7280 checks, 51 spawns killed
+[01:42:56] ✅ Clean — 7300 checks, 51 spawns killed
+[01:43:00] ✅ Clean — 7320 checks, 51 spawns killed
+[01:43:03] ✅ Clean — 7340 checks, 51 spawns killed
+[01:43:06] ✅ Clean — 7360 checks, 51 spawns killed
+[01:43:09] ✅ Clean — 7380 checks, 51 spawns killed
+[01:43:13] ✅ Clean — 7400 checks, 51 spawns killed
+[01:43:16] ✅ Clean — 7420 checks, 51 spawns killed
+[01:43:20] ✅ Clean — 7440 checks, 51 spawns killed
+[01:43:23] ✅ Clean — 7460 checks, 51 spawns killed
+[01:43:27] ✅ Clean — 7480 checks, 51 spawns killed
+[01:43:30] ✅ Clean — 7500 checks, 51 spawns killed
+[01:43:34] ✅ Clean — 7520 checks, 51 spawns killed
+[01:43:37] ✅ Clean — 7540 checks, 51 spawns killed
+[01:43:41] ✅ Clean — 7560 checks, 51 spawns killed
+[01:43:44] ✅ Clean — 7580 checks, 51 spawns killed
+[01:43:48] ✅ Clean — 7600 checks, 51 spawns killed
+[01:43:51] ✅ Clean — 7620 checks, 51 spawns killed
+[01:43:54] ✅ Clean — 7640 checks, 51 spawns killed
+[01:43:58] ✅ Clean — 7660 checks, 51 spawns killed
+[01:44:01] ✅ Clean — 7680 checks, 51 spawns killed
+[01:44:05] ✅ Clean — 7700 checks, 51 spawns killed
+[01:44:08] ✅ Clean — 7720 checks, 51 spawns killed
+[01:44:10] ⚡ cmd.exe detected (spawn #52) — killing
+[01:44:12] ✅ Clean — 7740 checks, 52 spawns killed
+[01:44:16] ✅ Clean — 7760 checks, 52 spawns killed
+[01:44:20] ✅ Clean — 7780 checks, 52 spawns killed
+[01:44:23] ✅ Clean — 7800 checks, 52 spawns killed
+[01:44:27] ✅ Clean — 7820 checks, 52 spawns killed
+[01:44:30] ✅ Clean — 7840 checks, 52 spawns killed
+[01:44:34] ✅ Clean — 7860 checks, 52 spawns killed
+[01:44:37] ✅ Clean — 7880 checks, 52 spawns killed
+[01:44:41] ✅ Clean — 7900 checks, 52 spawns killed
+[01:44:44] ✅ Clean — 7920 checks, 52 spawns killed
+[01:44:48] ✅ Clean — 7940 checks, 52 spawns killed
+[01:44:51] ✅ Clean — 7960 checks, 52 spawns killed
+[01:44:55] ✅ Clean — 7980 checks, 52 spawns killed
+[01:44:58] ✅ Clean — 8000 checks, 52 spawns killed
+[01:45:02] ✅ Clean — 8020 checks, 52 spawns killed
+[01:45:05] ✅ Clean — 8040 checks, 52 spawns killed
+[01:45:09] ✅ Clean — 8060 checks, 52 spawns killed
+[01:45:10] ⚡ cmd.exe detected (spawn #53) — killing
+[01:45:13] ✅ Clean — 8080 checks, 53 spawns killed
+[01:45:16] ⚡ cmd.exe detected (spawn #54) — killing
+[01:45:16] ⚡ cmd.exe detected (spawn #55) — killing
+[01:45:16] ⚡ cmd.exe detected (spawn #56) — killing
+[01:45:17] ✅ Clean — 8100 checks, 56 spawns killed
+[01:45:21] ✅ Clean — 8120 checks, 56 spawns killed
+[01:45:24] ✅ Clean — 8140 checks, 56 spawns killed
+[01:45:28] ✅ Clean — 8160 checks, 56 spawns killed
+[01:45:31] ✅ Clean — 8180 checks, 56 spawns killed
+[01:45:35] ✅ Clean — 8200 checks, 56 spawns killed
+[01:45:38] ✅ Clean — 8220 checks, 56 spawns killed
+[01:45:41] ✅ Clean — 8240 checks, 56 spawns killed
+[01:45:45] ✅ Clean — 8260 checks, 56 spawns killed
+[01:45:48] ✅ Clean — 8280 checks, 56 spawns killed
+[01:45:52] ✅ Clean — 8300 checks, 56 spawns killed
+[01:45:55] ✅ Clean — 8320 checks, 56 spawns killed
+[01:45:59] ✅ Clean — 8340 checks, 56 spawns killed
+[01:46:02] ✅ Clean — 8360 checks, 56 spawns killed
+[01:46:05] ✅ Clean — 8380 checks, 56 spawns killed
+[01:46:09] ✅ Clean — 8400 checks, 56 spawns killed
+[01:46:10] ⚡ cmd.exe detected (spawn #57) — killing
+[01:46:12] ✅ Clean — 8420 checks, 57 spawns killed
+[01:46:15] ⚡ cmd.exe detected (spawn #58) — killing
+[01:46:15] ⚡ cmd.exe detected (spawn #59) — killing
+[01:46:16] ✅ Clean — 8440 checks, 59 spawns killed
+[01:46:20] ✅ Clean — 8460 checks, 59 spawns killed
+[01:46:24] ✅ Clean — 8480 checks, 59 spawns killed
+[01:46:27] ✅ Clean — 8500 checks, 59 spawns killed
+[01:46:30] ✅ Clean — 8520 checks, 59 spawns killed
+[01:46:34] ✅ Clean — 8540 checks, 59 spawns killed
+[01:46:37] ✅ Clean — 8560 checks, 59 spawns killed
+[01:46:40] ✅ Clean — 8580 checks, 59 spawns killed
+[01:46:43] ✅ Clean — 8600 checks, 59 spawns killed
+[01:46:47] ✅ Clean — 8620 checks, 59 spawns killed
+[01:46:50] ✅ Clean — 8640 checks, 59 spawns killed
+[01:46:53] ✅ Clean — 8660 checks, 59 spawns killed
+[01:46:57] ✅ Clean — 8680 checks, 59 spawns killed
+[01:47:00] ✅ Clean — 8700 checks, 59 spawns killed
+[01:47:04] ✅ Clean — 8720 checks, 59 spawns killed
+[01:47:07] ✅ Clean — 8740 checks, 59 spawns killed
+[01:47:11] ✅ Clean — 8760 checks, 59 spawns killed
+[01:47:14] ✅ Clean — 8780 checks, 59 spawns killed
+[01:47:18] ✅ Clean — 8800 checks, 59 spawns killed
+[01:47:21] ✅ Clean — 8820 checks, 59 spawns killed
+[01:47:24] ⚡ cmd.exe detected (spawn #60) — killing
+[01:47:24] ⚡ cmd.exe detected (spawn #61) — killing
+[01:47:25] ✅ Clean — 8840 checks, 61 spawns killed
+[01:47:29] ✅ Clean — 8860 checks, 61 spawns killed
+[01:47:32] ✅ Clean — 8880 checks, 61 spawns killed
+[01:47:36] ✅ Clean — 8900 checks, 61 spawns killed
+[01:47:39] ✅ Clean — 8920 checks, 61 spawns killed
+[01:47:42] ✅ Clean — 8940 checks, 61 spawns killed
+[01:47:46] ✅ Clean — 8960 checks, 61 spawns killed
+[01:47:49] ✅ Clean — 8980 checks, 61 spawns killed
+[01:47:53] ✅ Clean — 9000 checks, 61 spawns killed
+[01:47:56] ✅ Clean — 9020 checks, 61 spawns killed
+[01:47:59] ✅ Clean — 9040 checks, 61 spawns killed
+[01:47:59] ⚡ cmd.exe detected (spawn #62) — killing
+[01:48:00] ⚡ cmd.exe detected (spawn #63) — killing
+[01:48:03] ✅ Clean — 9060 checks, 63 spawns killed
+[01:48:07] ✅ Clean — 9080 checks, 63 spawns killed
+[01:48:10] ✅ Clean — 9100 checks, 63 spawns killed
+[01:48:13] ✅ Clean — 9120 checks, 63 spawns killed
+[01:48:14] ⚡ cmd.exe detected (spawn #64) — killing
+[01:48:14] ⚡ cmd.exe detected (spawn #65) — killing
+[01:48:15] ⚡ cmd.exe detected (spawn #66) — killing
+[01:48:18] ✅ Clean — 9140 checks, 66 spawns killed
+[01:48:21] ✅ Clean — 9160 checks, 66 spawns killed
+[01:48:24] ✅ Clean — 9180 checks, 66 spawns killed
+[01:48:28] ✅ Clean — 9200 checks, 66 spawns killed
+[01:48:31] ✅ Clean — 9220 checks, 66 spawns killed
+[01:48:35] ✅ Clean — 9240 checks, 66 spawns killed
+[01:48:38] ✅ Clean — 9260 checks, 66 spawns killed
+[01:48:42] ✅ Clean — 9280 checks, 66 spawns killed
+[01:48:45] ✅ Clean — 9300 checks, 66 spawns killed
+[01:48:48] ✅ Clean — 9320 checks, 66 spawns killed
+[01:48:52] ✅ Clean — 9340 checks, 66 spawns killed
+[01:48:55] ✅ Clean — 9360 checks, 66 spawns killed
+[01:48:58] ✅ Clean — 9380 checks, 66 spawns killed
+[01:49:02] ✅ Clean — 9400 checks, 66 spawns killed
+[01:49:05] ✅ Clean — 9420 checks, 66 spawns killed
+[01:49:09] ✅ Clean — 9440 checks, 66 spawns killed
+[01:49:10] ⚡ cmd.exe detected (spawn #67) — killing
+[01:49:13] ✅ Clean — 9460 checks, 67 spawns killed
+[01:49:16] ✅ Clean — 9480 checks, 67 spawns killed
+[01:49:20] ✅ Clean — 9500 checks, 67 spawns killed
+[01:49:23] ✅ Clean — 9520 checks, 67 spawns killed
+[01:49:27] ✅ Clean — 9540 checks, 67 spawns killed
+[01:49:30] ✅ Clean — 9560 checks, 67 spawns killed
+[01:49:33] ✅ Clean — 9580 checks, 67 spawns killed
+[01:49:37] ✅ Clean — 9600 checks, 67 spawns killed
+[01:49:40] ✅ Clean — 9620 checks, 67 spawns killed
+[01:49:44] ✅ Clean — 9640 checks, 67 spawns killed
+[01:49:47] ✅ Clean — 9660 checks, 67 spawns killed
+[01:49:51] ✅ Clean — 9680 checks, 67 spawns killed
+[01:49:54] ✅ Clean — 9700 checks, 67 spawns killed
+[01:49:58] ✅ Clean — 9720 checks, 67 spawns killed
+[01:50:01] ✅ Clean — 9740 checks, 67 spawns killed
+[01:50:05] ✅ Clean — 9760 checks, 67 spawns killed
+[01:50:08] ✅ Clean — 9780 checks, 67 spawns killed
+[01:50:10] ⚡ cmd.exe detected (spawn #68) — killing
+[01:50:11] ⚡ cmd.exe detected (spawn #69) — killing
+[01:50:12] ✅ Clean — 9800 checks, 69 spawns killed
+[01:50:16] ✅ Clean — 9820 checks, 69 spawns killed
+[01:50:20] ✅ Clean — 9840 checks, 69 spawns killed
+[01:50:23] ✅ Clean — 9860 checks, 69 spawns killed
+[01:50:27] ✅ Clean — 9880 checks, 69 spawns killed
+[01:50:30] ✅ Clean — 9900 checks, 69 spawns killed
+[01:50:33] ✅ Clean — 9920 checks, 69 spawns killed
+[01:50:37] ✅ Clean — 9940 checks, 69 spawns killed
+[01:50:40] ✅ Clean — 9960 checks, 69 spawns killed
+[01:50:43] ✅ Clean — 9980 checks, 69 spawns killed
+[01:50:46] ✅ Clean — 10000 checks, 69 spawns killed
+[01:50:49] ✅ Clean — 10020 checks, 69 spawns killed
+[01:50:53] ✅ Clean — 10040 checks, 69 spawns killed
+[01:50:56] ✅ Clean — 10060 checks, 69 spawns killed
+[01:51:00] ✅ Clean — 10080 checks, 69 spawns killed
+[01:51:03] ✅ Clean — 10100 checks, 69 spawns killed
+[01:51:06] ⚡ cmd.exe detected (spawn #70) — killing
+[01:51:07] ✅ Clean — 10120 checks, 70 spawns killed
+[01:51:07] ⚡ cmd.exe detected (spawn #71) — killing
+[01:51:11] ✅ Clean — 10140 checks, 71 spawns killed
+[01:51:14] ✅ Clean — 10160 checks, 71 spawns killed
+[01:51:18] ✅ Clean — 10180 checks, 71 spawns killed
+[01:51:21] ✅ Clean — 10200 checks, 71 spawns killed
+[01:51:25] ✅ Clean — 10220 checks, 71 spawns killed
+[01:51:28] ✅ Clean — 10240 checks, 71 spawns killed
+[01:51:32] ✅ Clean — 10260 checks, 71 spawns killed
+[01:51:35] ✅ Clean — 10280 checks, 71 spawns killed
+[01:51:39] ✅ Clean — 10300 checks, 71 spawns killed
+[01:51:42] ✅ Clean — 10320 checks, 71 spawns killed
+[01:51:45] ✅ Clean — 10340 checks, 71 spawns killed
+[01:51:49] ✅ Clean — 10360 checks, 71 spawns killed
+[01:51:52] ✅ Clean — 10380 checks, 71 spawns killed
+[01:51:56] ✅ Clean — 10400 checks, 71 spawns killed
+[01:51:59] ✅ Clean — 10420 checks, 71 spawns killed
+[01:52:02] ✅ Clean — 10440 checks, 71 spawns killed
+[01:52:06] ✅ Clean — 10460 checks, 71 spawns killed
+[01:52:09] ✅ Clean — 10480 checks, 71 spawns killed
+[01:52:10] ⚡ cmd.exe detected (spawn #72) — killing
+[01:52:13] ✅ Clean — 10500 checks, 72 spawns killed
+[01:52:16] ⚡ cmd.exe detected (spawn #73) — killing
+[01:52:16] ⚡ cmd.exe detected (spawn #74) — killing
+[01:52:17] ⚡ cmd.exe detected (spawn #75) — killing
+[01:52:18] ✅ Clean — 10520 checks, 75 spawns killed
+[01:52:21] ✅ Clean — 10540 checks, 75 spawns killed
+[01:52:25] ✅ Clean — 10560 checks, 75 spawns killed
+[01:52:28] ✅ Clean — 10580 checks, 75 spawns killed
+[01:52:31] ✅ Clean — 10600 checks, 75 spawns killed
+[01:52:35] ✅ Clean — 10620 checks, 75 spawns killed
+[01:52:38] ✅ Clean — 10640 checks, 75 spawns killed
+[01:52:42] ✅ Clean — 10660 checks, 75 spawns killed
+[01:52:45] ✅ Clean — 10680 checks, 75 spawns killed
+[01:52:49] ✅ Clean — 10700 checks, 75 spawns killed
+[01:52:52] ✅ Clean — 10720 checks, 75 spawns killed
+[01:52:55] ✅ Clean — 10740 checks, 75 spawns killed
+[01:52:59] ✅ Clean — 10760 checks, 75 spawns killed
+[01:53:02] ✅ Clean — 10780 checks, 75 spawns killed
+[01:53:06] ✅ Clean — 10800 checks, 75 spawns killed
+[01:53:09] ✅ Clean — 10820 checks, 75 spawns killed
+[01:53:13] ✅ Clean — 10840 checks, 75 spawns killed
+[01:53:16] ✅ Clean — 10860 checks, 75 spawns killed
+[01:53:19] ✅ Clean — 10880 checks, 75 spawns killed
+[01:53:22] ✅ Clean — 10900 checks, 75 spawns killed
+[01:53:24] ⚡ cmd.exe detected (spawn #76) — killing
+[01:53:24] ⚡ cmd.exe detected (spawn #77) — killing
+[01:53:26] ✅ Clean — 10920 checks, 77 spawns killed
+[01:53:30] ✅ Clean — 10940 checks, 77 spawns killed
+[01:53:33] ✅ Clean — 10960 checks, 77 spawns killed
+[01:53:37] ✅ Clean — 10980 checks, 77 spawns killed
+[01:53:41] ✅ Clean — 11000 checks, 77 spawns killed
+[01:53:45] ✅ Clean — 11020 checks, 77 spawns killed
+[01:53:48] ✅ Clean — 11040 checks, 77 spawns killed
+[01:53:52] ✅ Clean — 11060 checks, 77 spawns killed
+[01:53:55] ✅ Clean — 11080 checks, 77 spawns killed
+[01:53:59] ✅ Clean — 11100 checks, 77 spawns killed
+[01:54:02] ✅ Clean — 11120 checks, 77 spawns killed
+[01:54:06] ✅ Clean — 11140 checks, 77 spawns killed
+[01:54:09] ✅ Clean — 11160 checks, 77 spawns killed
+[01:54:10] ⚡ cmd.exe detected (spawn #78) — killing
+[01:54:13] ✅ Clean — 11180 checks, 78 spawns killed
+[01:54:16] ✅ Clean — 11200 checks, 78 spawns killed
+[01:54:20] ✅ Clean — 11220 checks, 78 spawns killed
+[01:54:20] ⚡ cmd.exe detected (spawn #79) — killing
+[01:54:20] ⚡ cmd.exe detected (spawn #80) — killing
+[01:54:24] ✅ Clean — 11240 checks, 80 spawns killed
+[01:54:27] ✅ Clean — 11260 checks, 80 spawns killed
+[01:54:30] ✅ Clean — 11280 checks, 80 spawns killed
+[01:54:34] ✅ Clean — 11300 checks, 80 spawns killed
+[01:54:37] ✅ Clean — 11320 checks, 80 spawns killed
+[01:54:41] ✅ Clean — 11340 checks, 80 spawns killed
+[01:54:44] ✅ Clean — 11360 checks, 80 spawns killed
+[01:54:48] ✅ Clean — 11380 checks, 80 spawns killed
+[01:54:51] ✅ Clean — 11400 checks, 80 spawns killed
+[01:54:55] ✅ Clean — 11420 checks, 80 spawns killed
+[01:54:58] ✅ Clean — 11440 checks, 80 spawns killed
+[01:55:02] ✅ Clean — 11460 checks, 80 spawns killed
+[01:55:05] ✅ Clean — 11480 checks, 80 spawns killed
+[01:55:09] ✅ Clean — 11500 checks, 80 spawns killed
+[01:55:13] ✅ Clean — 11520 checks, 80 spawns killed
+[01:55:16] ✅ Clean — 11540 checks, 80 spawns killed
+[01:55:20] ✅ Clean — 11560 checks, 80 spawns killed
+[01:55:23] ✅ Clean — 11580 checks, 80 spawns killed
+[01:55:27] ✅ Clean — 11600 checks, 80 spawns killed
+[01:55:31] ✅ Clean — 11620 checks, 80 spawns killed
+[01:55:34] ✅ Clean — 11640 checks, 80 spawns killed
+[01:55:38] ✅ Clean — 11660 checks, 80 spawns killed
+[01:55:41] ✅ Clean — 11680 checks, 80 spawns killed
+[01:55:45] ✅ Clean — 11700 checks, 80 spawns killed
+[01:55:48] ✅ Clean — 11720 checks, 80 spawns killed
+[01:55:52] ✅ Clean — 11740 checks, 80 spawns killed
+[01:55:55] ✅ Clean — 11760 checks, 80 spawns killed
+[01:55:59] ✅ Clean — 11780 checks, 80 spawns killed
+[01:56:02] ✅ Clean — 11800 checks, 80 spawns killed
+[01:56:06] ✅ Clean — 11820 checks, 80 spawns killed
+[01:56:10] ✅ Clean — 11840 checks, 80 spawns killed
+[01:56:13] ✅ Clean — 11860 checks, 80 spawns killed
+[01:56:18] ✅ Clean — 11880 checks, 80 spawns killed
+[01:56:23] ✅ Clean — 11900 checks, 80 spawns killed
+[01:56:27] ✅ Clean — 11920 checks, 80 spawns killed
+[01:56:31] ✅ Clean — 11940 checks, 80 spawns killed
+[01:56:34] ✅ Clean — 11960 checks, 80 spawns killed
+[01:56:38] ✅ Clean — 11980 checks, 80 spawns killed
+[01:56:41] ✅ Clean — 12000 checks, 80 spawns killed
+[01:56:45] ✅ Clean — 12020 checks, 80 spawns killed
+[01:56:49] ✅ Clean — 12040 checks, 80 spawns killed
+[01:56:52] ✅ Clean — 12060 checks, 80 spawns killed
+[01:56:56] ✅ Clean — 12080 checks, 80 spawns killed
+[01:56:59] ✅ Clean — 12100 checks, 80 spawns killed
+[01:57:03] ✅ Clean — 12120 checks, 80 spawns killed
+[01:57:07] ✅ Clean — 12140 checks, 80 spawns killed
+[01:57:10] ⚡ cmd.exe detected (spawn #81) — killing
+[01:57:11] ⚡ cmd.exe detected (spawn #82) — killing
+[01:57:12] ✅ Clean — 12160 checks, 82 spawns killed
+[01:57:15] ✅ Clean — 12180 checks, 82 spawns killed
+[01:57:19] ✅ Clean — 12200 checks, 82 spawns killed
+[01:57:22] ✅ Clean — 12220 checks, 82 spawns killed
+[01:57:26] ✅ Clean — 12240 checks, 82 spawns killed
+[01:57:29] ✅ Clean — 12260 checks, 82 spawns killed
+[01:57:33] ✅ Clean — 12280 checks, 82 spawns killed
+[01:57:36] ⚡ cmd.exe detected (spawn #83) — killing
+[01:57:37] ✅ Clean — 12300 checks, 83 spawns killed
+[01:57:41] ✅ Clean — 12320 checks, 83 spawns killed
+[01:57:44] ✅ Clean — 12340 checks, 83 spawns killed
+[01:57:48] ✅ Clean — 12360 checks, 83 spawns killed
+[01:57:51] ✅ Clean — 12380 checks, 83 spawns killed
+[01:57:55] ✅ Clean — 12400 checks, 83 spawns killed
+[01:57:59] ✅ Clean — 12420 checks, 83 spawns killed
+[01:58:02] ✅ Clean — 12440 checks, 83 spawns killed
+[01:58:06] ✅ Clean — 12460 checks, 83 spawns killed
+[01:58:09] ✅ Clean — 12480 checks, 83 spawns killed
+[01:58:10] ⚡ cmd.exe detected (spawn #84) — killing
+[01:58:11] ⚡ cmd.exe detected (spawn #85) — killing
+[01:58:13] ✅ Clean — 12500 checks, 85 spawns killed
+[01:58:16] ⚡ cmd.exe detected (spawn #86) — killing
+[01:58:17] ⚡ cmd.exe detected (spawn #87) — killing
+[01:58:17] ⚡ cmd.exe detected (spawn #88) — killing
+[01:58:18] ✅ Clean — 12520 checks, 88 spawns killed
+[01:58:21] ✅ Clean — 12540 checks, 88 spawns killed
+[01:58:25] ✅ Clean — 12560 checks, 88 spawns killed
+[01:58:29] ✅ Clean — 12580 checks, 88 spawns killed
+[01:58:32] ✅ Clean — 12600 checks, 88 spawns killed
+[01:58:36] ✅ Clean — 12620 checks, 88 spawns killed
+[01:58:39] ✅ Clean — 12640 checks, 88 spawns killed
+[01:58:43] ✅ Clean — 12660 checks, 88 spawns killed
+[01:58:46] ✅ Clean — 12680 checks, 88 spawns killed
+[01:58:50] ✅ Clean — 12700 checks, 88 spawns killed
+[01:58:53] ✅ Clean — 12720 checks, 88 spawns killed
+[01:58:57] ✅ Clean — 12740 checks, 88 spawns killed
+[01:59:00] ✅ Clean — 12760 checks, 88 spawns killed
+[01:59:04] ✅ Clean — 12780 checks, 88 spawns killed
+[01:59:07] ✅ Clean — 12800 checks, 88 spawns killed
+[01:59:10] ⚡ cmd.exe detected (spawn #89) — killing
+[01:59:11] ✅ Clean — 12820 checks, 89 spawns killed
+[01:59:15] ✅ Clean — 12840 checks, 89 spawns killed
+[01:59:19] ✅ Clean — 12860 checks, 89 spawns killed
+[01:59:23] ✅ Clean — 12880 checks, 89 spawns killed
+[01:59:26] ✅ Clean — 12900 checks, 89 spawns killed
+[01:59:30] ✅ Clean — 12920 checks, 89 spawns killed
+[01:59:33] ✅ Clean — 12940 checks, 89 spawns killed
+[01:59:37] ✅ Clean — 12960 checks, 89 spawns killed
+[01:59:40] ✅ Clean — 12980 checks, 89 spawns killed
+[01:59:44] ✅ Clean — 13000 checks, 89 spawns killed
+[01:59:47] ✅ Clean — 13020 checks, 89 spawns killed
+[01:59:51] ✅ Clean — 13040 checks, 89 spawns killed
+[01:59:55] ✅ Clean — 13060 checks, 89 spawns killed
+[01:59:58] ✅ Clean — 13080 checks, 89 spawns killed
+[02:00:01] ✅ Clean — 13100 checks, 89 spawns killed
+[02:00:04] ⚡ cmd.exe detected (spawn #90) — killing
+[02:00:05] ✅ Clean — 13120 checks, 90 spawns killed
+[02:00:09] ✅ Clean — 13140 checks, 90 spawns killed
+[02:00:12] ✅ Clean — 13160 checks, 90 spawns killed
+[02:00:16] ✅ Clean — 13180 checks, 90 spawns killed
+[02:00:19] ✅ Clean — 13200 checks, 90 spawns killed
+[02:00:22] ✅ Clean — 13220 checks, 90 spawns killed
+[02:00:26] ✅ Clean — 13240 checks, 90 spawns killed
+[02:00:26] ⚡ cmd.exe detected (spawn #91) — killing
+[02:00:27] ⚡ cmd.exe detected (spawn #92) — killing
+[02:00:27] ⚡ cmd.exe detected (spawn #93) — killing
+[02:00:30] ✅ Clean — 13260 checks, 93 spawns killed
+[02:00:34] ✅ Clean — 13280 checks, 93 spawns killed
+[02:00:37] ✅ Clean — 13300 checks, 93 spawns killed
+[02:00:41] ✅ Clean — 13320 checks, 93 spawns killed
+[02:00:44] ✅ Clean — 13340 checks, 93 spawns killed
+[02:01:12] ✅ Clean — 13360 checks, 93 spawns killed
+[02:01:49] ⚡ cmd.exe detected (spawn #94) — killing
+[02:01:50] ⚡ cmd.exe detected (spawn #95) — killing
+[02:01:52] ✅ Clean — 13380 checks, 95 spawns killed
+[02:01:56] ✅ Clean — 13400 checks, 95 spawns killed
+[02:01:59] ✅ Clean — 13420 checks, 95 spawns killed
+[02:02:02] ✅ Clean — 13440 checks, 95 spawns killed
+[02:02:06] ✅ Clean — 13460 checks, 95 spawns killed
+[02:02:09] ✅ Clean — 13480 checks, 95 spawns killed
+[02:02:13] ✅ Clean — 13500 checks, 95 spawns killed
+[02:02:17] ✅ Clean — 13520 checks, 95 spawns killed
+[02:02:21] ✅ Clean — 13540 checks, 95 spawns killed
+[02:02:25] ✅ Clean — 13560 checks, 95 spawns killed
+[02:02:28] ✅ Clean — 13580 checks, 95 spawns killed
+[02:02:32] ✅ Clean — 13600 checks, 95 spawns killed
+[02:02:35] ✅ Clean — 13620 checks, 95 spawns killed
+[02:02:39] ✅ Clean — 13640 checks, 95 spawns killed
+[02:02:40] ⚡ cmd.exe detected (spawn #96) — killing
+[02:02:41] ⚡ cmd.exe detected (spawn #97) — killing
+[02:02:41] ⚡ cmd.exe detected (spawn #98) — killing
+[02:02:45] ✅ Clean — 13660 checks, 98 spawns killed
+[02:02:49] ✅ Clean — 13680 checks, 98 spawns killed
+[02:02:50] ⚡ cmd.exe detected (spawn #99) — killing
+[02:02:53] ✅ Clean — 13700 checks, 99 spawns killed
+[02:02:57] ✅ Clean — 13720 checks, 99 spawns killed
+[02:03:01] ✅ Clean — 13740 checks, 99 spawns killed
+[02:03:04] ✅ Clean — 13760 checks, 99 spawns killed
+[02:03:08] ✅ Clean — 13780 checks, 99 spawns killed
+[02:03:12] ✅ Clean — 13800 checks, 99 spawns killed
+[02:03:16] ✅ Clean — 13820 checks, 99 spawns killed
+[02:03:20] ✅ Clean — 13840 checks, 99 spawns killed
+[02:03:24] ✅ Clean — 13860 checks, 99 spawns killed
+[02:03:28] ✅ Clean — 13880 checks, 99 spawns killed
+[02:03:31] ✅ Clean — 13900 checks, 99 spawns killed
+[02:03:35] ✅ Clean — 13920 checks, 99 spawns killed
+[02:03:35] ERROR: [Errno 22] Invalid argument

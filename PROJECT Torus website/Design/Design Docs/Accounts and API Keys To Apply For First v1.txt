@@ -1,0 +1,384 @@
+﻿SIMPLE START-HERE CHECKLIST
+Last updated: 2026-05-29
+
+Use this checklist first. The detailed notes below explain why each account matters and what it will be used for.
+
+
+SOFTWARE TO INSTALL ON THIS PC
+
+REQUIRED FOR CODING
+[ ] Node.js LTS for Windows: install the LTS version from https://nodejs.org/
+    Notes: This should install both node and npm. We currently have node available in this shell, but npm is not on PATH, so this is the big blocker for running the Next.js app locally.
+
+[ ] Git for Windows: confirm installed from https://git-scm.com/download/win or https://gitforwindows.org/
+    Notes: Git is already available on this PC from my check, but confirm you can run git from PowerShell.
+
+[ ] Visual Studio Code: install from https://code.visualstudio.com/download
+    Notes: Optional for me, but very useful for you or another coding AI/developer to inspect and edit files.
+
+RECOMMENDED BUT NOT URGENT
+[ ] GitHub Desktop: optional, useful if you want a GUI for commits and history.
+[ ] Vercel CLI: install later with npm after Node/npm is fixed: npm i -g vercel
+[ ] Supabase CLI: install later only if we need local migrations/local Supabase development. Official docs do not recommend global npm install for Supabase CLI; follow Supabase's current Windows install docs when we reach that phase.
+[ ] Docker Desktop: optional later if we run Supabase locally. Not needed for the first public storefront if we use hosted Supabase.
+[ ] Image tool: optional, such as GIMP, Paint.NET, Canva, or Photoshop, for product-photo cleanup.
+
+INSTALL CHECK AFTER NODE.JS LTS
+Open a new PowerShell window after installing Node.js LTS, then run:
+node -v
+npm -v
+git --version
+
+Tell Codex the output. Once npm works, Codex can run:
+npm install
+npm run dev
+PRIORITY 1 - DO FIRST
+[BLOCKED] Square: Confirm you can log in to Square Dashboard. NOTE: Square 2FA is going to wife's old phone number. Call Square support on Monday to recover/update 2FA.
+[ ] Square: Confirm you can create/edit Payment Links.
+[ ] Square: Confirm you can edit items, prices, shipping, and tax settings.
+[ ] Domain/DNS: Confirm where toruscoffeecompany.com DNS is managed.
+[ ] Domain/DNS: Confirm you can add A, CNAME, and TXT records.
+[ ] GitHub: Create/confirm account or organization.
+[ ] GitHub: Turn on 2FA.
+[ ] Supabase: Create/confirm account.
+[ ] Vercel: Create/confirm account.
+
+PRIORITY 2 - START SOON
+[ ] Google Search Console: Create/confirm access.
+[ ] Google Merchant Center: Start account setup for free product listings.
+[ ] Google Business Profile: Create/claim/confirm business profile access.
+[ ] Meta Business Manager: Confirm Facebook/Instagram business access.
+[ ] Meta Business Manager: Turn on 2FA.
+[ ] Pinterest Business: Create/confirm account.
+
+PRIORITY 3 - DO LATER WHEN WE IMPLEMENT FEATURES
+[ ] Square Developer App: Create when we start Square API integration.
+[ ] Sentry: Create when we add error reporting.
+[ ] Resend or email service: Create when we add contact/account/admin emails.
+[ ] Pirate Ship or EasyPost: Create when shipping workflow needs it.
+
+SECURITY CHECKLIST FOR EVERY ACCOUNT
+[ ] Use a unique strong password.
+[ ] Enable 2FA wherever possible.
+[ ] Save recovery codes somewhere safe.
+[ ] Use a business-controlled email/account when possible.
+[ ] Do not paste API keys into chat or public docs.
+[ ] Do not create API keys until we actually need them.
+
+NOTES WHILE YOU WORK
+Square support call note:
+- Call Square support on Monday to recover/update 2FA because login is sending codes to wife''s old phone number.
+
+Square login email/account:
+
+Domain/DNS provider:
+
+GitHub account/org:
+
+Supabase account email:
+
+Vercel account email:
+
+Google account used:
+
+Meta Business account notes:
+
+Pinterest account notes:
+
+------------------------------------------------------------
+DETAILED ACCOUNT NOTES BELOW
+------------------------------------------------------------
+Torus Coffee Company - Accounts and API Keys To Apply For First
+Last updated: 2026-05-29
+
+Purpose
+This is the early signup checklist for accounts, API keys, and platform access that may take time to verify or configure. The goal is to avoid blocking the website build later.
+
+Priority 1 - Do These First
+
+1. Square account access
+Status: Already have Square, but confirm admin access.
+
+What to confirm:
+- You can log in to Square Dashboard.
+- You can create Square Payment Links.
+- You can create/edit items in Square item library.
+- You can configure shipping/tax settings for online payment links.
+- You can see orders/payments/customer info in Square Dashboard.
+
+Needed for Phase 1:
+- Square payment links for each product.
+- Square-hosted checkout so we do not handle card data.
+
+Needed later:
+- Square Developer app
+- Application ID
+- Access token
+- Location ID
+- Webhook signature key
+
+Official docs:
+https://squareup.com/us/en/payment-links
+https://developer.squareup.com/docs/get-started/create-account-and-application
+
+2. Domain registrar / DNS access
+Status: Confirm access for toruscoffeecompany.com.
+
+What to confirm:
+- Who manages DNS for toruscoffeecompany.com?
+- You can edit DNS records.
+- You can add CNAME/A/TXT records.
+- You can verify the domain for hosting, email, Google, etc.
+
+Needed for:
+- Launching the site on www.toruscoffeecompany.com
+- Verifying Google Search Console
+- Verifying Google Merchant Center
+- Verifying email sending services later
+- Setting SPF/DKIM/DMARC records later
+
+No API key required, but admin access is critical.
+
+3. GitHub account
+Status: Create/confirm.
+
+Recommended:
+- Use a business-controlled GitHub account or organization.
+- Keep the repo private.
+- Enable 2FA.
+- Add this PC as a trusted development machine.
+
+Needed for:
+- Code version control
+- Private off-machine backup
+- Deployment integration with Vercel/Netlify
+- Safe rollback history
+
+No API key needed at first.
+
+4. Supabase account
+Status: Create soon.
+
+Needed for:
+- Database
+- Product catalog data
+- Inventory data
+- Blog posts
+- Customer accounts/auth
+- Product/blog image storage
+- Admin data
+
+Create:
+- Supabase account
+- New project, when we are ready to start building/testing
+
+Keys we will eventually use:
+- NEXT_PUBLIC_SUPABASE_URL
+- NEXT_PUBLIC_SUPABASE_ANON_KEY
+- SUPABASE_SERVICE_ROLE_KEY, server-only secret
+
+Security note:
+The service role key must never go in browser code or public GitHub.
+
+Official docs:
+https://supabase.com/docs/guides/getting-started
+https://supabase.com/docs/guides/getting-started/quickstarts/nextjs
+
+5. Hosting account: Vercel or Netlify
+Status: Create soon; final pick can happen during planning.
+
+Recommended default:
+- Vercel if we build with Next.js.
+- Netlify is still viable, especially for simpler static/frontend deployments.
+
+Needed for:
+- Preview deployments
+- Production hosting
+- Connecting the domain
+- Environment variables in the hosting dashboard
+
+No API key needed at first, but deployment account access is needed.
+
+Official docs/pricing:
+https://vercel.com/pricing
+https://www.netlify.com/pricing/
+
+Priority 2 - Do Soon, But Not A Coding Blocker
+
+6. Google Search Console
+Status: Create/confirm Google account access.
+
+Needed for:
+- Verifying the website with Google
+- Submitting sitemap
+- Seeing search indexing issues
+- Seeing structured data/product rich result issues
+- Basic SEO visibility
+
+No API key needed.
+
+7. Google Merchant Center
+Status: Start early because product/free listing verification can take time.
+
+Needed for:
+- Free product listings on Google Search, Shopping, Images, Maps, YouTube, etc.
+- Product feed testing later
+
+Requirements to prepare:
+- Website URL
+- Business details
+- Shipping policy
+- Return/refund policy
+- Product data/feed
+- Product pages with prices/availability
+
+Official docs:
+https://support.google.com/merchants/answer/12159157
+https://support.google.com/merchants/answer/9826670
+
+8. Google Business Profile access
+Status: Confirm existing profile or create/claim one if appropriate.
+
+Needed for:
+- Local credibility
+- Showing products locally
+- Phone/email/business info
+- Reviews later
+
+No API key needed.
+
+Official product editor info:
+https://support.google.com/business/answer/9124203
+
+9. Meta Business Manager / Commerce Manager
+Status: Start when convenient; Meta verification/catalog approval can be annoying and may take time.
+
+Needed for later:
+- Facebook/Instagram catalog
+- Meta Pixel
+- Product sets
+- Future ads
+- Instagram/Facebook shop features, if approved
+
+What to confirm:
+- You own/admin the Facebook page.
+- You own/admin the Instagram account.
+- Business Manager access is clean.
+- 2FA is enabled.
+
+Keys/IDs later:
+- Meta Pixel ID
+- Catalog ID
+- Business Manager ID, sometimes useful
+
+10. Pinterest Business account
+Status: Start when convenient.
+
+Needed for later:
+- Product Pins
+- Pinterest catalog feed
+- Pinterest analytics
+- Future shopping ads
+
+Official docs:
+https://help.pinterest.com/en/business/article/before-you-get-started-with-catalogs
+
+Priority 3 - Apply Later When We Implement Those Features
+
+11. Square Developer app
+Do later when we move beyond payment links.
+
+Needed for:
+- Automated Square checkout
+- Orders API
+- Inventory sync
+- Customer sync
+- Webhooks
+
+Keys later:
+- SQUARE_APPLICATION_ID
+- SQUARE_ACCESS_TOKEN
+- SQUARE_LOCATION_ID
+- SQUARE_WEBHOOK_SIGNATURE_KEY
+
+Official docs:
+https://developer.squareup.com/docs/get-started/create-account-and-application
+
+12. Sentry account
+Do when we start building the real Next.js app or before public beta.
+
+Needed for:
+- Error reporting
+- Frontend/backend error capture
+- Debugging broken checkout links/forms/admin actions
+
+Key later:
+- SENTRY_DSN
+- SENTRY_AUTH_TOKEN, if using source maps/releases
+
+Official docs:
+https://docs.sentry.io/platforms/javascript/guides/nextjs/
+
+13. Resend account or other transactional email service
+Do when contact forms, account emails, or admin notifications are implemented.
+
+Needed for:
+- Contact form notifications
+- Login/password emails if not fully handled by Supabase
+- Admin alerts
+- Low-stock alerts
+- Error/support notifications
+
+Key later:
+- RESEND_API_KEY
+
+Official docs:
+https://resend.com/docs/knowledge-base/what-is-resend-pricing
+
+14. Shipping service account: Pirate Ship first, EasyPost later if needed
+Do when order volume or label workflow requires it.
+
+Recommended:
+- Pirate Ship first for manual/small-business shipping workflow.
+- EasyPost later only if we need automated rates/labels/tracking through API.
+
+Official sources:
+https://www.pirateship.com/integrations/square
+https://www.easypost.com/pricing/
+
+Recommended Signup Order
+
+Do now:
+1. Confirm Square admin access and payment link ability.
+2. Confirm domain/DNS access for toruscoffeecompany.com.
+3. Create/confirm GitHub with 2FA.
+4. Create/confirm Supabase account.
+5. Create/confirm Vercel account, or Netlify if preferred.
+6. Create/confirm Google Search Console access.
+7. Start Google Merchant Center setup.
+
+Do next:
+8. Confirm Google Business Profile access.
+9. Confirm Meta Business Manager/Commerce Manager access.
+10. Create/confirm Pinterest Business account.
+
+Do later during implementation:
+11. Square Developer app/API keys.
+12. Sentry.
+13. Resend.
+14. Pirate Ship/EasyPost.
+
+Security Rules
+
+- Enable 2FA everywhere possible.
+- Use unique strong passwords.
+- Use a password manager if available.
+- Keep API keys out of GitHub.
+- Store real keys only in .env.local and hosting environment variables.
+- Use .env.example for placeholder documentation only.
+- Rotate keys if they are ever pasted into chat, committed, or exposed.
+- Use least-privilege keys where platforms support it.
+- Keep recovery email/phone current on all business-critical accounts.
+
+
+

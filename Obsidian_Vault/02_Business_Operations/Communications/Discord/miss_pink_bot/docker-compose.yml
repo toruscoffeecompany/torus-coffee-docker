@@ -1,0 +1,29 @@
+name: miss-pink-bot
+services:
+  miss-pink-bot:
+    build: .
+    container_name: miss-pink-bot
+    restart: unless-stopped
+    volumes:
+      # ─══ Hermes bridge: host data dir ↔ container /app/data ────────────────────────────────
+      - ./secrets.local.json:/app/secrets.local.json:ro
+      - ./status.json:/app/status.json
+      # ─══ CRITICAL: host data dir mapped to /app/data (matches processor path) ────────────────
+      - ./data:/app/data
+    environment:
+      - HERMES_DATA_DIR=/app/data
+      - PYTHONUNBUFFERED=1
+    networks:
+      - torus-network
+    deploy:
+      resources:
+        limits:
+          memory: 128m
+
+networks:
+  torus-network:
+    external: true
+
+volumes:
+  miss-pink-data:
+    driver: local

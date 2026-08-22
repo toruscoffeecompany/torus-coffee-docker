@@ -1,0 +1,313 @@
+﻿Torus Coffee Company - Security Error Reporting Backups and Operations Design
+Last updated: 2026-05-29
+
+Purpose
+This document defines security, abuse prevention, secrets handling, error reporting, logging, backups, recovery, and operational practices for the Torus Coffee Company website.
+
+Security Priority
+Security is a top-level requirement. The website will handle business data, customer data, admin controls, product pricing, inventory, blog publishing, forms, and eventually order data. It must be designed to reduce risk from the start.
+
+Threats To Plan For
+- API key exposure
+- Unauthorized admin access
+- Fake orders
+- Inventory manipulation
+- Price tampering
+- Contact form spam
+- Account signup abuse
+- Login brute force
+- Malicious file uploads
+- Broken payment/order sync
+- Customer data exposure
+- Database mistakes
+- Accidental deletion
+- Bad deploys
+- Dependency vulnerabilities
+
+Secrets Handling
+Use environment files and hosting environment variables.
+
+Files:
+- .env.example: safe placeholders only, can be committed
+- .env.local: real local secrets, never committed
+- .env.production: avoid local use unless needed, never committed
+
+.gitignore must include:
+- .env
+- .env.local
+- .env.*.local
+- any private export containing secrets
+
+Secret rules:
+- Never commit real API keys.
+- Never paste secrets into public chats/docs.
+- Rotate keys if exposed.
+- Use server-only secrets for privileged actions.
+- NEXT_PUBLIC_ variables are visible in browser and must never contain secrets.
+
+Expected environment variables later:
+- NEXT_PUBLIC_SUPABASE_URL
+- NEXT_PUBLIC_SUPABASE_ANON_KEY
+- SUPABASE_SERVICE_ROLE_KEY
+- SQUARE_ACCESS_TOKEN
+- SQUARE_APPLICATION_ID
+- SQUARE_LOCATION_ID
+- SQUARE_WEBHOOK_SIGNATURE_KEY
+- RESEND_API_KEY
+- SENTRY_DSN
+- SENTRY_AUTH_TOKEN
+- NEXT_PUBLIC_GA_MEASUREMENT_ID
+
+Authentication
+Customer accounts:
+- Optional for buyers.
+- Use Supabase Auth or chosen auth provider.
+- Protect profile data with row-level security.
+
+Admin accounts:
+- Admin role required.
+- Strong password and 2FA where possible.
+- Admin route protection on server and client.
+- Do not rely only on hiding admin links.
+
+Authorization
+Role-based access control:
+- Public visitor: can view public content and submit forms.
+- Customer: can manage own account/profile, future order history.
+- Editor: can manage blog/content only.
+- Inventory manager: can manage products/inventory only.
+- Admin: full access.
+
+Server-side checks required for every protected action.
+
+Supabase Security
+Use Row Level Security (RLS).
+
+Rules to design:
+- Public can read active products/posts only.
+- Public cannot read hidden/draft/admin fields.
+- Customers can read/update only their own profile/address.
+- Admin users can manage products, inventory, posts, settings.
+- Service role key used only on secure server-side code.
+
+Admin Audit Logs
+Important actions should be logged.
+
+Audit log examples:
+- Product created/edited/archived
+- Price changed
+- Inventory changed
+- Blog post published/unpublished
+- Admin login failures, if available
+- Settings changed
+- Square webhook processed/failed later
+
+Audit log fields:
+- id
+- actor_user_id
+- action
+- entity_type
+- entity_id
+- before_snapshot, optional
+- after_snapshot, optional
+- ip/user agent, if appropriate
+- created_at
+
+Fake Order Prevention
+Core rule:
+Only verified Square payment/order events create real paid orders or subtract inventory.
+
+Do not trust:
+- Browser-submitted order totals
+- Client-side inventory changes
+- Unverified webhook payloads
+- Contact form submissions as orders
+
+When Square webhooks are added:
+- Verify webhook signature.
+- Check event type.
+- Retrieve/confirm order/payment server-side if needed.
+- Ensure idempotency: same Square event should not subtract inventory twice.
+- Store processed webhook event IDs.
+
+Form Security
+Forms needing protection:
+- Contact form
+- Email signup
+- Login/signup
+- Password reset/magic link
+- Future support issue form
+
+Controls:
+- Rate limiting
+- Honeypot field or captcha if spam becomes a problem
+- Server-side validation
+- Length limits
+- Email validation
+- Clear error messages
+- No sensitive data in form error output
+
+File Upload Security
+Uploads later include product photos and blog images.
+
+Controls:
+- Admin-only upload permissions
+- File type restrictions: jpg, png, webp, maybe gif if needed
+- File size limits
+- Rename files safely
+- Store metadata
+- Do not allow executable files
+- Optional image processing before public use
+
+Error Reporting
+Goal:
+Know when something breaks and why, without leaking sensitive data.
+
+Phase 1 minimum:
+- Clear user-facing error messages
+- Console/server logs during development
+- Hosting deployment logs
+- Manual issue tracking in bug tracker file
+
+Platform phase:
+- Sentry or similar error reporting
+- Frontend error capture
+- Backend/API error capture
+- Source maps for readable stack traces
+- Release/deployment tracking
+- Optional user feedback widget later
+
+Do not send sensitive data to error logs:
+- Full access tokens
+- Service role keys
+- Full payment details
+- Passwords
+- Sensitive customer notes
+
+Customer-visible error messages should be friendly:
+- Something went wrong saving your message. Please try again or email us directly.
+- This product is not available right now.
+- Checkout link is unavailable. Please contact us.
+
+Admin-visible error messages should be actionable:
+- Product could not be saved because price is missing.
+- Image upload failed because file is too large.
+- Square webhook verification failed.
+
+Backups
+Local backup folder:
+G:\My Drive\Torus Coffee Company\Design\Website Design\Website Backup
+
+What to back up:
+- Code releases
+- Database exports
+- Product data CSV
+- Inventory CSV
+- Blog posts export
+- Customer export, carefully protected
+- Media/product image originals
+- Environment variable template, but not public secrets
+- Deployment notes
+
+Backup types:
+1. Code backup
+   - Git history
+   - Private GitHub remote
+   - Local release snapshots if desired
+
+2. Database backup
+   - Supabase export/manual backup process
+   - Scheduled exports later if possible
+   - Store in dated folder
+
+3. Media backup
+   - Local original files
+   - Supabase Storage export/list later
+
+4. Config backup
+   - .env.example
+   - Private local .env backup if desired, stored securely and never committed
+
+Backup folder naming recommendation:
+YYYY-MM-DD-description
+Example:
+2026-06-15-before-public-launch
+2026-06-22-before-square-api-integration
+
+Recovery Runbook Needed Later
+Create a Disaster Recovery doc before launch.
+
+Must include:
+- How to roll back code
+- How to restore database export
+- How to rotate exposed keys
+- How to disable checkout/buy buttons quickly
+- How to put site in maintenance mode, later
+- Who has access to each account
+- Where backups live
+
+Deployment Safety
+Before every production deploy:
+- Check git status
+- Confirm no secrets committed
+- Run tests/build
+- Verify environment variables
+- Test key flows on preview URL
+- Back up current known-good state if major change
+
+Rollback strategy:
+- Use hosting platform rollback if available.
+- Keep Git tags/releases for stable versions.
+- Keep manual release notes.
+
+Monitoring Checklist
+Eventually monitor:
+- Site uptime
+- Checkout link validity
+- Form submission success
+- Admin save errors
+- Supabase database/storage usage
+- Error rate
+- Failed logins
+- Low inventory
+- Product feed errors from Google/Meta/Pinterest
+
+Privacy/Data Protection
+Collect only needed data.
+
+Customer data categories:
+- Email
+- Name
+- Phone, optional
+- Shipping address, if accounts store it later
+- Marketing consent
+- Order history later
+
+Privacy Policy must explain:
+- What is collected
+- Why it is collected
+- Third-party services used
+- Cookies/analytics/pixels, if used
+- How customers can contact Torus
+
+Security Launch Requirements
+Before public launch:
+- HTTPS enabled
+- No real secrets in code repo
+- .gitignore protects env files
+- Admin routes protected if admin exists
+- Public forms validated
+- Square checkout tested
+- Policy pages live
+- Backup process documented
+- Domain ownership verified
+
+Open Decisions
+1. Sentry or another error reporting service.
+2. Supabase Auth login method: magic link, password, social login, or combo.
+3. Admin 2FA approach.
+4. Backup schedule and who owns it.
+5. Whether to store customer addresses before full checkout integration.
+
+Recommended Decision
+Keep payment processing with Square, customer/product/admin data in Supabase, secrets in env files, backups local and off-machine through private Git/Supabase exports, and add Sentry before public beta or shortly after launch.

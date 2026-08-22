@@ -1,0 +1,296 @@
+[
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard route /augur \u2014 404 (missing Augur Trading tab)",
+    "priority": "P1",
+    "card_id": "6a7c0a31e0c0467a576d4ac1",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard route /alerts \u2014 404 (missing Alerts page)",
+    "priority": "P2",
+    "card_id": "6a7c0a34b6a1495f163042b5",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard route /monitoring \u2014 404 (missing Monitoring page)",
+    "priority": "P2",
+    "card_id": "6a7c0a385da6cc890b508b57",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard route /crew \u2014 404 (missing Crew page)",
+    "priority": "P2",
+    "card_id": "6a7c0a3bdd39f5daff162b51",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard route /sandbox \u2014 404 (missing Sandbox page)",
+    "priority": "P2",
+    "card_id": "6a7c0a3ef4abb621459222b6",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard route /diagram \u2014 404 (missing Diagram page)",
+    "priority": "P2",
+    "card_id": "6a7c0a41827752db556ea71d",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard route /dataview \u2014 404 (missing Dataview page)",
+    "priority": "P2",
+    "card_id": "6a7c0a442b2d7172843556b6",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard route /auth \u2014 404 (missing Auth page)",
+    "priority": "P2",
+    "card_id": "6a7c0a47c97cb12589b4db9e",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard route /lore-writing \u2014 404 (missing Lore Writing page)",
+    "priority": "P2",
+    "card_id": "6a7c0a4ae330cf5722ab0817",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard route /api-status \u2014 404 (missing API Status page)",
+    "priority": "P1",
+    "card_id": "6a7c0a4e701d819076804fd2",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard route /white-whale \u2014 404 (missing White Whale page)",
+    "priority": "P2",
+    "card_id": "6a7c0a513529b075d2167e2e",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/fleet \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0a550bb7479b63e21c7e",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/hw \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0a58801d2b191afe73bb",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/augur/augmented_signals \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0a5b161099ca39a2ba2a",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/augur/scan/status \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0a5e6b38bbb85c84dce8",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] [PINKCADY] Container torus-dashboard \u2014 Exited (137) 2 days ago",
+    "priority": "P1",
+    "card_id": "6a7c0a6b8b77bdc7743112c1",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] TM API \u2014 signals array empty + no augur run",
+    "priority": "P1",
+    "card_id": "6a7c0a707968afa6ec045015",
+    "filed_at": "2026-08-12T05:52:48Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/signals/recent \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0ad1113598e5b6a459b3",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/signals/live \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0ad5fdcb14dc3115ee0b",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/augur \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0ad89a12b24f8418effa",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/whale \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0adb061d8b673248cda6",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/captcha-verify \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0ade47ceea5d8b95c951",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/crowdsec \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0ae1aee4046feffa1b0a",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/ids \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0ae52d04404a0b72d88e",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/containers \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0ae8b9b8aad8f0e0c0b7",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/docker \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0aebeba93def1dad8470",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/monitoring \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0aeea935296f8ee5524f",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/vault \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0af2f9a239a0b1bf0f07",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/inbox \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0af5128bcc1c30412160",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/crew \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0af8a2811706b5e9b1ca",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/tailscale \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0afc8836c33fc06ade0c",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/paper_trades \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0aff6569482e94367ea4",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/positions \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0b028bb1fa45b0fa8552",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/fundamentals \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0b05f04c33b0077592e0",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] API/api/ticker_fundamentals \u2014 returns HTML not JSON",
+    "priority": "P0",
+    "card_id": "6a7c0b09ce34b1c06194a976",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard resource missing: /static/js/main.js",
+    "priority": "P1",
+    "card_id": "6a7c0b0c9566ec5adae52c03",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard resource missing: /static/css/main.css",
+    "priority": "P1",
+    "card_id": "6a7c0b0f288666abc0c908db",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard resource missing: /favicon.ico",
+    "priority": "P1",
+    "card_id": "6a7c0b12389e09508a9a941c",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard resource missing: /api/augur/augmented_signals",
+    "priority": "P1",
+    "card_id": "6a7c0b15e7d0331880936f14",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard resource missing: /api/scan/status",
+    "priority": "P1",
+    "card_id": "6a7c0b19f200fc045420175f",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard calls /api/fleet but gets HTML \u2014 fleet panel blank",
+    "priority": "P0",
+    "card_id": "6a7c0b59ad712659a0f9935b",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  },
+  {
+    "name": "\ud83d\udc1b [BUG] Dashboard calls /api/hw but gets HTML \u2014 hardware panel blank",
+    "priority": "P0",
+    "card_id": "6a7c0b5cadc85eeb6406e6db",
+    "filed_at": "2026-08-12T05:55:27Z",
+    "status": "open"
+  }
+]

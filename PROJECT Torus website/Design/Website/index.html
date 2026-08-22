@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Torus Coffee Company - Freeze Dried Snacks & Candies</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #2c2c2c;
+            background: linear-gradient(135deg, #f8f6ff 0%, #fff9f0 100%);
+        }
+
+        header {
+            background: linear-gradient(135deg, #2d1b4e 0%, #1a0f2e 100%);
+            color: white;
+            padding: 1rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        .logo {
+            font-size: 1.8rem;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .logo-icon {
+            font-size: 2rem;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+            gap: 2rem;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            transition: color 0.3s;
+            font-weight: 500;
+        }
+
+        nav a:hover {
+            color: #ffd700;
+        }
+
+        .hero {
+            background: linear-gradient(135deg, #2d1b4e 0%, #1a0f2e 100%);
+            color: white;
+            padding: 6rem 2rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .stars {
+            position: absolute;
+            width: 2px;
+            height: 2px;
+            background: white;
+            border-radius: 50%;
+            animation: twinkle 3s infinite;
+        }
+
+        @keyframes twinkle {
+            0%, 100% { opacity: 0.3; }
+            50% { opacity: 1; }
+        }
+
+        .hero-content {
+            position: relative;
+            z-index: 10;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .hero h1 {
+            font-size: 3.5rem;
+            margin-bottom: 1rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .hero p {
+            font-size: 1.3rem;
+            margin-bottom: 2rem;
+            opacity: 0.95;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+            color: #2d1b4e;
+            padding: 1rem 2.5rem;
+            border: none;
+            border-radius: 50px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            cursor: pointer;
+            text-decoration: none;
+            transition: transform 0.3s, box-shadow 0.3s;
+            box-shadow: 0 4px 15px rgba(255, 215, 0, 0.3);
+        }
+
+        .cta-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(255, 215, 0, 0.4);
+        }
+
+        .tagline {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 3rem;
+            flex-wrap: wrap;
+            font-size: 0.95rem;
+        }
+
+        .tagline-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .tagline-icon {
+            font-size: 1.3rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 4rem 2rem;
+        }
+
+        section {
+            margin-bottom: 4rem;
+        }
+
+        h2 {
+            font-size: 2.5rem;
+            margin-bottom: 2rem;
+            text-align: center;
+            color: #2d1b4e;
+        }
+
+        .products-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .product-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+            transition: transform 0.3s, box-shadow 0.3s;
+            border: 2px solid #f0e6ff;
+        }
+
+        .product-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 8px 25px rgba(45, 27, 78, 0.15);
+            border-color: #ffd700;
+        }
+
+        .product-image {
+            width: 100%;
+            height: 200px;
+            background: linear-gradient(135deg, #f8f6ff 0%, #ffeaa7 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 3rem;
+        }
+
+        .product-info {
+            padding: 1.5rem;
+        }
+
+        .product-info h3 {
+            font-size: 1.3rem;
+            color: #2d1b4e;
+            margin-bottom: 0.5rem;
+        }
+
+        .product-info p {
+            color: #666;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .about {
+            background: white;
+            border-radius: 12px;
+            padding: 3rem;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+            border-left: 5px solid #ffd700;
+        }
+
+        .about h2 {
+            color: #2d1b4e;
+            margin-bottom: 1.5rem;
+        }
+
+        .about p {
+            font-size: 1.05rem;
+            line-height: 1.8;
+            color: #444;
+            margin-bottom: 1rem;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin: 3rem 0;
+        }
+
+        .feature {
+            text-align: center;
+            padding: 2rem;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            border-top: 3px solid #ffd700;
+        }
+
+        .feature-icon {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: #ffd700;
+        }
+
+        .feature h3 {
+            color: #2d1b4e;
+            margin-bottom: 0.5rem;
+        }
+
+        .feature p {
+            color: #666;
+            font-size: 0.95rem;
+        }
+
+        .flea-market-section {
+            background: linear-gradient(135deg, rgba(45, 27, 78, 0.05) 0%, rgba(255, 215, 0, 0.05) 100%);
+            border-radius: 12px;
+            padding: 3rem;
+            text-align: center;
+        }
+
+        .flea-market-section h3 {
+            color: #2d1b4e;
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+
+        .contact-section {
+            background: white;
+            border-radius: 12px;
+            padding: 3rem;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+        }
+
+        .contact-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+
+        .contact-item {
+            text-align: center;
+        }
+
+        .contact-item i {
+            font-size: 1.5rem;
+            color: #ffd700;
+            margin-bottom: 0.5rem;
+        }
+
+        .contact-item p {
+            color: #666;
+        }
+
+        footer {
+            background: #2d1b4e;
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 4rem;
+        }
+
+        footer p {
+            margin: 0.5rem 0;
+        }
+
+        .social-links {
+            margin: 1rem 0;
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+        }
+
+        .social-links a {
+            color: #ffd700;
+            font-size: 1.3rem;
+            transition: color 0.3s;
+        }
+
+        .social-links a:hover {
+            color: white;
+        }
+
+        .badge {
+            display: inline-block;
+            background: #ffd700;
+            color: #2d1b4e;
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin: 0.5rem 0.5rem 0 0;
+        }
+
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .hero p {
+                font-size: 1rem;
+            }
+
+            nav ul {
+                gap: 1rem;
+                font-size: 0.9rem;
+            }
+
+            .tagline {
+                gap: 1rem;
+            }
+
+            h2 {
+                font-size: 1.8rem;
+            }
+
+            .products-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <span class="logo-icon">🪐</span>
+                <span>Torus Coffee Co.</span>
+            </div>
+            <ul>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>✨ Torus Coffee Company ✨</h1>
+            <p>Freeze-dried snacks & candies from Iowa City, Iowa</p>
+            <p style="font-size: 1.1rem; opacity: 0.9;">Saving your food because winter might be cold</p>
+            <a href="#contact" class="cta-button">Get in Touch</a>
+            <div class="tagline">
+                <div class="tagline-item">
+                    <span class="tagline-icon">🌙</span>
+                    <span>Witchy & Wonderful</span>
+                </div>
+                <div class="tagline-item">
+                    <span class="tagline-icon">🏘️</span>
+                    <span>Midwest Made</span>
+                </div>
+                <div class="tagline-item">
+                    <span class="tagline-icon">❄️</span>
+                    <span>Community Focused</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="container">
+        <section id="products">
+            <h2>Our Products</h2>
+            <div class="products-grid">
+                <div class="product-card">
+                    <div class="product-image">☕</div>
+                    <div class="product-info">
+                        <h3>Freeze-Dried Coffee Snacks</h3>
+                        <p>Unique coffee-inspired treats that capture the essence of your favorite brew in a whole new way.</p>
+                        <div style="margin-top: 1rem;">
+                            <span class="badge">Popular</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card">
+                    <div class="product-image">🍬</div>
+                    <div class="product-info">
+                        <h3>Enchanted Candies</h3>
+                        <p>Delightfully weird and wonderfully crunchy. Our signature freeze-dried candy collection with a witchy twist.</p>
+                        <div style="margin-top: 1rem;">
+                            <span class="badge">New</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card">
+                    <div class="product-image">🍓</div>
+                    <div class="product-info">
+                        <h3>Fruit & Snack Mix</h3>
+                        <p>Wholesome freeze-dried fruits and snacks. Perfect for snacking, baking, or emergency winter provisions.</p>
+                    </div>
+                </div>
+
+                <div class="product-card">
+                    <div class="product-image">🎃</div>
+                    <div class="product-info">
+                        <h3>Seasonal Specials</h3>
+                        <p>Limited edition flavors and mixes that celebrate Iowa's seasons and our community spirit.</p>
+                    </div>
+                </div>
+
+                <div class="product-card">
+                    <div class="product-image">✨</div>
+                    <div class="product-info">
+                        <h3>Custom Orders</h3>
+                        <p>Got an idea? We love collaborating! Perfect for events, gifts, or wholesale partnerships.</p>
+                    </div>
+                </div>
+
+                <div class="product-card">
+                    <div class="product-image">📦</div>
+                    <div class="product-info">
+                        <h3>Gift Boxes</h3>
+                        <p>Beautifully curated collections in witchy-themed packaging. Perfect for friends, family, or retail shelves.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="about">
+            <div class="about">
+                <h2>About Torus Coffee Company</h2>
+                <p>We're a small, passionate team in Iowa City creating something truly special: freeze-dried snacks and candies that taste incredible and last forever (or until winter gets too crazy and we need them).</p>
+                
+                <p>Our philosophy is simple: <strong>help each other save your food</strong> because we know winter in the Midwest is no joke. We combine space-age freeze-drying technology with witchy, playful energy and genuine Midwest community spirit.</p>
+
+                <p>From flea markets to grocery store shelves—we're building something bigger. Every product is crafted with care, designed to make you smile, and made to last.</p>
+
+                <h3 style="color: #2d1b4e; margin-top: 2rem; margin-bottom: 1.5rem;">Why Choose Torus?</h3>
+                <div class="features">
+                    <div class="feature">
+                        <div class="feature-icon">🏘️</div>
+                        <h3>Midwest Made</h3>
+                        <p>Proudly created in Iowa City with local heart and community values.</p>
+                    </div>
+                    <div class="feature">
+                        <div class="feature-icon">🪐</div>
+                        <h3>Unique & Witchy</h3>
+                        <p>We don't do boring. Space-themed, whimsical, and a little bit magical.</p>
+                    </div>
+                    <div class="feature">
+                        <div class="feature-icon">♻️</div>
+                        <h3>Quality You Trust</h3>
+                        <p>Real ingredients, real care, real flavor. No shortcuts.</p>
+                    </div>
+                    <div class="feature">
+                        <div class="feature-icon">🤝</div>
+                        <h3>Community First</h3>
+                        <p>We're building this together. Your feedback shapes everything we do.</p>
+                    </div>
+                </div>
+
+                <div class="flea-market-section">
+                    <h3>📍 Find Us at Flea Markets</h3>
+                    <p>We're growing! Currently selling at local Iowa City flea markets. Follow us for location updates and new market announcements.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact">
+            <div class="contact-section">
+                <h2>Get In Touch</h2>
+                <p style="text-align: center; font-size: 1.05rem; color: #666; margin-bottom: 2rem;">Ready to stock Torus in your grocery store? Want custom orders? Found us at a flea market and need to say hi?</p>
+                
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <h3>Location</h3>
+                        <p>Iowa City, IA</p>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fas fa-envelope"></i>
+                        <h3>Email</h3>
+                        <p><a href="mailto:hello@toruscoffee.com" style="color: #2d1b4e; text-decoration: none; font-weight: 500;">hello@toruscoffee.com</a></p>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fas fa-phone"></i>
+                        <h3>Phone</h3>
+                        <p>Contact form or social media</p>
+                    </div>
+                </div>
+
+                <form style="max-width: 600px; margin: 3rem auto;">
+                    <div style="margin-bottom: 1.5rem;">
+                        <label style="display: block; margin-bottom: 0.5rem; color: #2d1b4e; font-weight: 500;">Name</label>
+                        <input type="text" placeholder="Your name" style="width: 100%; padding: 0.8rem; border: 2px solid #f0e6ff; border-radius: 8px; font-size: 1rem;" required>
+                    </div>
+                    <div style="margin-bottom: 1.5rem;">
+                        <label style="display: block; margin-bottom: 0.5rem; color: #2d1b4e; font-weight: 500;">Email</label>
+                        <input type="email" placeholder="Your email" style="width: 100%; padding: 0.8rem; border: 2px solid #f0e6ff; border-radius: 8px; font-size: 1rem;" required>
+                    </div>
+                    <div style="margin-bottom: 1.5rem;">
+                        <label style="display: block; margin-bottom: 0.5rem; color: #2d1b4e; font-weight: 500;">Message</label>
+                        <textarea placeholder="Tell us about your inquiry..." style="width: 100%; padding: 0.8rem; border: 2px solid #f0e6ff; border-radius: 8px; font-size: 1rem; min-height: 150px; font-family: inherit;" required></textarea>
+                    </div>
+                    <button type="submit" class="cta-button" style="width: 100%;">Send Message</button>
+                </form>
+
+                <div class="social-links">
+                    <a href="#" title="Instagram"><i class="fab fa-instagram"></i></a>
+                    <a href="#" title="Facebook"><i class="fab fa-facebook"></i></a>
+                    <a href="#" title="TikTok"><i class="fab fa-tiktok"></i></a>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Torus Coffee Company LLC. All rights reserved.</p>
+        <p>Saving your food since Iowa City—because winter is cold and we're all in this together. ❄️✨🪐</p>
+    </footer>
+
+    <script>
+        // Add some interactive stars to the hero section
+        const hero = document.querySelector('.hero');
+        for (let i = 0; i < 20; i++) {
+            const star = document.createElement('div');
+            star.className = 'stars';
+            star.style.left = Math.random() * 100 + '%';
+            star.style.top = Math.random() * 100 + '%';
+            star.style.animationDelay = Math.random() * 3 + 's';
+            hero.appendChild(star);
+        }
+
+        // Form handling
+        document.querySelector('form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            alert('Thanks for reaching out! We\'ll get back to you soon at the email we receive. 🪐✨');
+            this.reset();
+        });
+
+        // Smooth scrolling
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>

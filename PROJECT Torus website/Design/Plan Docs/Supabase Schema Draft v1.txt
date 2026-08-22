@@ -1,0 +1,470 @@
+﻿Torus Coffee Company - Supabase Schema Draft
+Last updated: 2026-05-29
+
+Purpose
+This is the first draft of the Supabase/Postgres data model for the Torus Coffee Company website. It is a planning document, not final SQL yet.
+
+Design Goals
+- Keep product data clean and reusable.
+- Support public shop pages.
+- Support manual inventory first.
+- Support admin editing later.
+- Support blogs and content.
+- Support optional customer accounts later.
+- Support product feeds and future Square integration.
+- Protect sensitive/private data with RLS.
+
+Important Security Assumption
+Supabase Row Level Security must be enabled for all tables that contain anything beyond public read-only content.
+
+------------------------------------------------------------
+1. profiles
+------------------------------------------------------------
+Purpose:
+Store customer/admin profile info connected to Supabase Auth users.
+
+Fields:
+- id uuid primary key, references auth.users.id
+- email text
+- first_name text
+- last_name text
+- phone text
+- role text default 'customer'
+- marketing_consent boolean default false
+- marketing_consent_at timestamptz nullable
+- created_at timestamptz
+- updated_at timestamptz
+
+Roles:
+- customer
+- editor
+- inventory_manager
+- admin
+
+RLS idea:
+- Users can read/update their own profile.
+- Admin can read/manage all profiles.
+
+------------------------------------------------------------
+2. categories
+------------------------------------------------------------
+Purpose:
+Product categories for shop filters and feeds.
+
+Fields:
+- id uuid primary key
+- name text not null
+- slug text unique not null
+- description text
+- sort_order integer default 0
+- active boolean default true
+- created_at timestamptz
+- updated_at timestamptz
+
+Initial categories:
+- Freeze-Dried Candy
+- Freeze-Dried Fruit
+- Seasonal
+- Gift Boxes, later
+- Variety Packs, later
+
+RLS idea:
+- Public can read active categories.
+- Admin can manage categories.
+
+------------------------------------------------------------
+3. products
+------------------------------------------------------------
+Purpose:
+Main product records.
+
+Fields:
+- id uuid primary key
+- sku text unique not null
+- name text not null
+- slug text unique not null
+- status text default 'draft'
+- category_id uuid references categories.id
+- short_description text
+- full_description text
+- flavor_notes text
+- texture_notes text
+- size_label text
+- net_weight_oz numeric
+- price_cents integer not null
+- sale_price_cents integer nullable
+- cost_cents integer nullable, admin-only
+- taxable boolean default true
+- quantity_on_hand integer default 0
+- low_stock_threshold integer default 5
+- track_inventory boolean default true
+- square_payment_link_url text
+- square_item_id text nullable later
+- square_variation_id text nullable later
+- shipping_weight_oz numeric
+- ships_us_only boolean default true
+- requires_shipping boolean default true
+- ingredients text
+- allergens text
+- storage_instructions text
+- shelf_life text
+- main_image_url text
+- image_alt_text text
+- social_share_image_url text
+- seo_title text
+- seo_description text
+- google_product_category text
+- brand text default 'Torus Coffee Company'
+- condition text default 'new'
+- gtin text nullable
+- mpn text nullable
+- featured boolean default false
+- badge text nullable
+- sort_order integer default 0
+- admin_notes text nullable, admin-only
+- created_at timestamptz
+- updated_at timestamptz
+
+Product statuses:
+- draft
+- active
+- hidden
+- sold_out
+- archived
+
+RLS idea:
+- Public can read products where status = 'active' or status = 'sold_out', but only public-safe fields should be queried/exposed.
+- Admin can manage all products.
+
+Note:
+Because RLS does not easily hide columns by role if public queries select them, app queries/API views should avoid returning admin-only fields publicly. Consider a public_products view later.
+
+------------------------------------------------------------
+4. product_images
+------------------------------------------------------------
+Purpose:
+Image gallery and metadata.
+
+Fields:
+- id uuid primary key
+- product_id uuid references products.id
+- image_url text not null
+- alt_text text
+- image_type text default 'gallery'
+- sort_order integer default 0
+- is_primary boolean default false
+- created_at timestamptz
+
+Image types:
+- primary
+- gallery
+- social
+- signage
+- temporary
+
+RLS idea:
+- Public can read images for public active/sold-out products.
+- Admin can manage images.
+
+------------------------------------------------------------
+5. inventory_adjustments
+------------------------------------------------------------
+Purpose:
+Track inventory changes.
+
+Fields:
+- id uuid primary key
+- product_id uuid references products.id
+- previous_quantity integer
+- new_quantity integer
+- delta integer
+- reason text
+- note text
+- actor_user_id uuid references profiles.id nullable
+- source text default 'admin'
+- created_at timestamptz
+
+Reasons:
+- production_restock
+- square_order
+- flea_market_sale
+- correction
+- damaged
+- test
+- other
+
+RLS idea:
+- Admin/inventory manager can read/create.
+- Public cannot read.
+
+------------------------------------------------------------
+6. price_changes
+------------------------------------------------------------
+Purpose:
+Track important price changes.
+
+Fields:
+- id uuid primary key
+- product_id uuid references products.id
+- previous_price_cents integer
+- new_price_cents integer
+- actor_user_id uuid references profiles.id nullable
+- note text
+- created_at timestamptz
+
+RLS idea:
+- Admin only.
+
+------------------------------------------------------------
+7. blog_posts
+------------------------------------------------------------
+Purpose:
+Blog content for The Orbit Report, The Orbit Workshop, and The Orbit Kitchen.
+
+Fields:
+- id uuid primary key
+- title text not null
+- slug text unique not null
+- category text not null
+- status text default 'draft'
+- author_name text
+- excerpt text
+- body text
+- featured_image_url text
+- featured_image_alt text
+- video_embed_url text nullable
+- seo_title text
+- seo_description text
+- tags text[]
+- published_at timestamptz nullable
+- created_at timestamptz
+- updated_at timestamptz
+
+Categories:
+- the-orbit-report
+- the-orbit-workshop
+- the-orbit-kitchen
+
+Statuses:
+- draft
+- published
+- hidden
+- archived
+
+RLS idea:
+- Public can read published posts.
+- Admin/editor can manage posts.
+
+------------------------------------------------------------
+8. blog_post_products
+------------------------------------------------------------
+Purpose:
+Connect blog posts to related products.
+
+Fields:
+- id uuid primary key
+- blog_post_id uuid references blog_posts.id
+- product_id uuid references products.id
+- sort_order integer default 0
+
+RLS idea:
+- Public can read links for published posts and public products.
+- Admin/editor can manage.
+
+------------------------------------------------------------
+9. email_subscribers
+------------------------------------------------------------
+Purpose:
+Store early email signup list with consent.
+
+Fields:
+- id uuid primary key
+- email text unique not null
+- first_name text nullable
+- source text
+- marketing_consent boolean default true
+- consent_text text
+- consent_at timestamptz
+- status text default 'active'
+- created_at timestamptz
+
+Statuses:
+- active
+- unsubscribed
+- bounced, later
+
+RLS idea:
+- Public can insert with validation/rate limiting through server action/API.
+- Public cannot read.
+- Admin can read/export.
+
+------------------------------------------------------------
+10. contact_submissions
+------------------------------------------------------------
+Purpose:
+Store contact form submissions if we choose to keep an inbox.
+
+Fields:
+- id uuid primary key
+- name text not null
+- email text not null
+- phone text nullable
+- reason text
+- message text not null
+- status text default 'new'
+- admin_notes text nullable
+- created_at timestamptz
+
+RLS idea:
+- Public can insert through server action/API with validation/rate limiting.
+- Public cannot read.
+- Admin can read/update.
+
+------------------------------------------------------------
+11. site_settings
+------------------------------------------------------------
+Purpose:
+Editable site-level settings later.
+
+Fields:
+- key text primary key
+- value jsonb
+- updated_by uuid nullable
+- updated_at timestamptz
+
+Examples:
+- contact_email
+- contact_phone
+- social_links
+- announcement_bar
+- home_hero
+- featured_product_ids
+
+RLS idea:
+- Public can read public settings only, possibly via separate view/API.
+- Admin can manage.
+
+------------------------------------------------------------
+12. audit_logs
+------------------------------------------------------------
+Purpose:
+Track important admin/system actions.
+
+Fields:
+- id uuid primary key
+- actor_user_id uuid nullable
+- action text not null
+- entity_type text
+- entity_id uuid nullable
+- before_snapshot jsonb nullable
+- after_snapshot jsonb nullable
+- ip_address text nullable
+- user_agent text nullable
+- created_at timestamptz
+
+RLS idea:
+- Admin only.
+
+------------------------------------------------------------
+13. square_events, later
+------------------------------------------------------------
+Purpose:
+Store processed Square webhook events for idempotency and debugging.
+
+Fields:
+- id uuid primary key
+- square_event_id text unique not null
+- event_type text
+- payload jsonb
+- processed boolean default false
+- processing_error text nullable
+- created_at timestamptz
+- processed_at timestamptz nullable
+
+RLS idea:
+- Server/admin only.
+
+------------------------------------------------------------
+14. orders and order_items, later
+------------------------------------------------------------
+Purpose:
+Store verified Square order summaries after Square API integration.
+
+orders fields:
+- id uuid primary key
+- square_order_id text unique
+- square_payment_id text
+- customer_id uuid nullable references profiles.id
+- guest_email text nullable
+- status text
+- subtotal_cents integer
+- shipping_cents integer
+- tax_cents integer
+- total_cents integer
+- currency text default 'USD'
+- shipping_name text
+- shipping_address_snapshot jsonb
+- created_at timestamptz
+- updated_at timestamptz
+
+order_items fields:
+- id uuid primary key
+- order_id uuid references orders.id
+- product_id uuid references products.id nullable
+- sku text
+- product_name_snapshot text
+- quantity integer
+- unit_price_cents integer
+- total_price_cents integer
+
+RLS idea:
+- Customer can read own orders when linked to account.
+- Admin can read/manage.
+- Public cannot create orders.
+- Server creates orders only after verified Square payment.
+
+------------------------------------------------------------
+Storage Buckets
+------------------------------------------------------------
+
+Recommended buckets:
+- product-images
+- blog-images
+- brand-assets
+- private-exports, later and protected if used
+
+Bucket rules:
+- Public read for published images.
+- Admin-only upload/update/delete.
+- Originals should also remain locally backed up.
+
+------------------------------------------------------------
+Initial Migration Approach
+------------------------------------------------------------
+
+1. Create categories.
+2. Create products table.
+3. Seed launch products from catalog CSV.
+4. Add image paths when selected.
+5. Add Square links when created.
+6. Add RLS policies before production use.
+7. Add blog/contact/email tables when those features are implemented.
+
+------------------------------------------------------------
+Open Schema Decisions
+------------------------------------------------------------
+
+1. Store product gallery images in product_images table or JSON array on products?
+Recommendation: product_images table.
+
+2. Use rich text JSON or Markdown/text for blog body?
+Recommendation: body text/Markdown initially.
+
+3. Store admin-only fields in products table or separate private table?
+Recommendation: products table is acceptable if public queries are controlled carefully; public view can be added later.
+
+4. Should contact submissions be stored, emailed, or both?
+Recommendation: both, after anti-spam/rate limiting exists.
+
+5. Should exact inventory counts be exposed through public product query?
+Recommendation: no. Public query should return display status only.

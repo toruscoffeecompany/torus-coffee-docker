@@ -1,0 +1,2 @@
+[01:59:45.603] === PARENT_HUNTER ACTIVE — 60s hunt ===
+[02:00:47.812] === HUNT COMPLETE — 0 spawns in 60s ===

@@ -1,0 +1,85 @@
+{
+  "updated": "2026-08-07T20:25:20.596666+00:00",
+  "tasks": [
+    {
+      "id": "obs-001",
+      "priority": "P0",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Parse Obsidian build guide and extract required folder/page structure",
+      "acceptance": "9-folder layout and 44 tool page templates parsed from EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "next_action": "Read guide and create folder skeleton",
+      "completed_at": "2026-08-07T20:30:25.577527+00:00"
+    },
+    {
+      "id": "obs-002",
+      "priority": "P0",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Create Obsidian vault folder structure from Miss Gordon's guide",
+      "acceptance": "Vault folders exist under local vault path",
+      "next_action": "mkdir for each required folder",
+      "completed_at": "2026-08-07T20:30:25.577527+00:00"
+    },
+    {
+      "id": "obs-003",
+      "priority": "P1",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Generate 44 tool pages in Obsidian from templates",
+      "acceptance": "Tool pages created and linked to workflows/decision trees",
+      "next_action": "Render templates from EXACT_PROMPT_FOR_MISS_PINK_OBSIDIAN_BUILD.md",
+      "completed_at": "2026-08-07T20:30:25.577527+00:00"
+    },
+    {
+      "id": "obs-004",
+      "priority": "P1",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Generate 5 workflow pages and 4 decision tree pages",
+      "acceptance": "Workflow and decision-tree pages present and cross-linked",
+      "next_action": "Create workflow/decision-tree markdown pages",
+      "completed_at": "2026-08-07T20:30:25.577527+00:00"
+    },
+    {
+      "id": "obs-005",
+      "priority": "P1",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Integrate tool execution matrix and Dataview queries",
+      "acceptance": "Dataview dashboards render tool/runbook status",
+      "next_action": "Add Dataview queries from TOOL_INTEGRATION_GUIDE_FOR_MISS_PINK.md",
+      "completed_at": "2026-08-07T20:28:59.030452+00:00"
+    },
+    {
+      "id": "obs-006",
+      "priority": "P2",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Automate daily briefings and health checks into Obsidian",
+      "acceptance": "Daily notes auto-populate from fleet tools/alerts",
+      "next_action": "Wire automated_verification.py output into Obsidian daily notes",
+      "completed_at": "2026-08-07T20:28:59.030629+00:00"
+    },
+    {
+      "id": "obs-007",
+      "priority": "P2",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Validate Obsidian integration end to end",
+      "acceptance": "All workflows/runbooks/decision trees executable from vault",
+      "next_action": "Run through incident/deployment workflows in Obsidian",
+      "completed_at": "2026-08-07T20:28:59.041955+00:00"
+    },
+    {
+      "id": "obs-008",
+      "priority": "P2",
+      "status": "completed",
+      "lane": "miss_pink",
+      "title": "Coordinate with Sir Green/Sir Azure on local network access and Discord bot hosting",
+      "acceptance": "Shared server path and bot hosting agreed",
+      "next_action": "Await Sir Green/Sir Azure reply and update tasklist",
+      "completed_at": "2026-08-07T20:28:59.042135+00:00"
+    }
+  ]
+}

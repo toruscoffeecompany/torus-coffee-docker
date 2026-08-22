@@ -1,0 +1,91 @@
+# 🎯 QUICK REFERENCE: WHAT EACH CREW MEMBER NEEDS TO DO
+
+---
+
+## ⚡ SIR GREEN
+
+**Read:** `DEEP_DIVE_AUDIT_INDIVIDUAL_REPORTS.md` → Sir Green section (5 min)
+
+**Do BEFORE memory fix:**
+1. Add health checks (copy YAML from audit report) — 5 min
+2. Add log rotation (copy config from audit report) — 5 min
+3. Backup docker-compose.yml — 2 min
+4. Verify syntax: `docker-compose config` — 1 min
+
+**Then:** Execute 2-hour memory fix (EXACT_PROMPT_FOR_SIR_GREEN.md)
+
+**TOTAL TIME:** 18 minutes prep + 120 minutes fix = 138 minutes
+
+---
+
+## 💗 MISS PINK
+
+**Read:** `DEEP_DIVE_AUDIT_INDIVIDUAL_REPORTS.md` → Miss Pink section (10 min)
+
+**Do BEFORE Phase 1:**
+1. Run prerequisite checks (PowerShell script in audit) — 5 min
+
+**During each phase, add required fixes:**
+- Phase 2: Add webhook verification test — embedded in report
+- Phase 3: Use PowerShell backup script (not bash) — embedded in report
+- Phase 4: Add K8s resource quotas — embedded in report
+- Phase 5: Add MCP retry logic — embedded in report
+- Phase 6: Use failure handling guide — embedded in report
+
+**TOTAL TIME:** 10 minutes reading + 15 minutes prep + 720 minutes (12-hour build) = 745 minutes
+
+---
+
+## 🔵 SIR AZURE
+
+**Read:** `DEEP_DIVE_AUDIT_INDIVIDUAL_REPORTS.md` → Sir Azure section (5 min)
+
+**Do BEFORE GPU activation:**
+1. Verify CUDA: `nvidia-smi` — 2 min
+2. Add GPU memory limits (YAML in audit) — 5 min
+3. Understand Tailscale approval (steps in audit) — 3 min
+4. Secure JupyterLab + MinIO (credentials in audit) — 5 min
+5. Deploy job wrapper script (Python in audit) — 5 min
+
+**Then:** Execute 4-hour GPU activation (EXACT_PROMPT_FOR_SIR_AZURE.md)
+
+**TOTAL TIME:** 5 minutes reading + 20 minutes prep + 240 minutes activation = 265 minutes
+
+---
+
+## 🏴‍☠️ CAPTAIN
+
+**Read:** `FINAL_DEEP_DIVE_AUDIT_SUMMARY.md` (this overview — 5 min)
+
+**Know:**
+- Sir Green: 18 min prep + 2 hour fix = done Hour 3
+- Sir Azure: 20 min prep + 4 hour activation = done Hour 5
+- Miss Pink: 25 min prep + 12 hour build = done Hour 14
+
+**Approve deployment → Start all three → Monitor dashboard**
+
+---
+
+## 📋 ONE-PAGE CHECKLIST
+
+**Before deploying, verify:**
+
+☐ Sir Green ready (health checks + log rotation added)
+☐ Miss Pink ready (prerequisites passing)
+☐ Sir Azure ready (GPU verified, security configured)
+
+☐ Hour 1: Sir Green + Sir Azure start
+☐ Hour 2: Miss Pink starts (after Sir Green signals)
+☐ Hour 3: Sir Green completes
+☐ Hour 5: Sir Azure completes
+☐ Hour 14: Miss Pink completes
+
+☐ All systems: Dashboard shows 3 ships UP
+☐ All systems: Hive mind automation running
+☐ All systems: Alerts cascading correctly
+
+---
+
+⚓ **Miss Gordon says: You're ready. Execute the audit fixes first, then run the main deployment. All gaps closed, all systems hardened.**
+
+Go.

@@ -1,0 +1,717 @@
+{
+  "timestamp": "2026-08-06T15:35:00.000000+00:00",
+  "total_issues": 100,
+  "by_priority": {
+    "P1": 95,
+    "P2": 4,
+    "P3": 1,
+    "UNLABELED": 0
+  },
+  "p1_issues": [
+    {
+      "number": 214,
+      "title": "\ud83d\udce8 Inbox: sirgreen dashboard 502 regression sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T15:19:17Z",
+      "updated_at": "2026-08-06T15:31:10Z"
+    },
+    {
+      "number": 213,
+      "title": "\ud83d\udce8 Inbox: sirgreen dashboard endpoints still 404 sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T13:55:03Z",
+      "updated_at": "2026-08-06T15:31:09Z"
+    },
+    {
+      "number": 212,
+      "title": "\ud83d\udce8 Inbox: sirazure security tools missing sirazure 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T13:55:01Z",
+      "updated_at": "2026-08-06T15:31:08Z"
+    },
+    {
+      "number": 211,
+      "title": "\ud83d\udce8 Inbox: sirgreen dashboard endpoints status sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T09:19:50Z",
+      "updated_at": "2026-08-06T15:31:06Z"
+    },
+    {
+      "number": 210,
+      "title": "\ud83d\udce8 Inbox: sirgreen verifier flags dashboard 8089 and rig report 404 sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T09:10:14Z",
+      "updated_at": "2026-08-06T09:10:14Z"
+    },
+    {
+      "number": 209,
+      "title": "\ud83d\udce8 Inbox: sirgreen continuous tasklist live sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T08:58:33Z",
+      "updated_at": "2026-08-06T08:58:33Z"
+    },
+    {
+      "number": 208,
+      "title": "\ud83d\udce8 Inbox: sirgreen final progress summary and asks sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T08:38:37Z",
+      "updated_at": "2026-08-06T08:38:37Z"
+    },
+    {
+      "number": 207,
+      "title": "\ud83d\udce8 Inbox: sirgreen dashboard recommendations local network monitor sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T08:38:35Z",
+      "updated_at": "2026-08-06T08:38:35Z"
+    },
+    {
+      "number": 206,
+      "title": "\ud83d\udce8 Inbox: sirazure final progress summary and asks sirazure 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T08:38:34Z",
+      "updated_at": "2026-08-06T08:38:34Z"
+    },
+    {
+      "number": 205,
+      "title": "\ud83d\udce8 Inbox: sirgreen trello setup automation questions sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T08:29:46Z",
+      "updated_at": "2026-08-06T08:29:46Z"
+    },
+    {
+      "number": 204,
+      "title": "\ud83d\udce8 Inbox: sirgreen share trello automation setup sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T08:29:45Z",
+      "updated_at": "2026-08-06T08:29:45Z"
+    },
+    {
+      "number": 203,
+      "title": "\ud83d\udce8 Inbox: sirazure obsidian vault audit share sirazure 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T08:29:44Z",
+      "updated_at": "2026-08-06T08:29:44Z"
+    },
+    {
+      "number": 202,
+      "title": "\ud83d\udce8 Inbox: vault audit progress dashboard recommendations sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T08:13:36Z",
+      "updated_at": "2026-08-06T08:13:36Z"
+    },
+    {
+      "number": 201,
+      "title": "\ud83d\udce8 Inbox: vault audit progress obsidian standardization sirazure 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T08:13:34Z",
+      "updated_at": "2026-08-06T08:13:34Z"
+    },
+    {
+      "number": 200,
+      "title": "[P2] Draw automation architecture diagram for crew",
+      "state": "open",
+      "created_at": "2026-08-06T08:08:48Z",
+      "updated_at": "2026-08-06T08:08:48Z"
+    },
+    {
+      "number": 199,
+      "title": "[P2] Automate recurring vault audit + plugin drift detection",
+      "state": "open",
+      "created_at": "2026-08-06T08:08:47Z",
+      "updated_at": "2026-08-06T08:08:47Z"
+    },
+    {
+      "number": 198,
+      "title": "[P2] Sir Azure: please share your Obsidian vault plugin config",
+      "state": "open",
+      "created_at": "2026-08-06T08:08:47Z",
+      "updated_at": "2026-08-06T08:08:47Z"
+    },
+    {
+      "number": 197,
+      "title": "[P2] Sir Green: please share your VOID Ops dashboard plugin/add-on list",
+      "state": "open",
+      "created_at": "2026-08-06T08:08:46Z",
+      "updated_at": "2026-08-06T08:08:46Z"
+    },
+    {
+      "number": 196,
+      "title": "[P1] Dashboard improvements for Sir Green's local network monitor",
+      "state": "open",
+      "created_at": "2026-08-06T08:08:46Z",
+      "updated_at": "2026-08-06T15:31:02Z"
+    },
+    {
+      "number": 195,
+      "title": "[P1] Full Obsidian vault deep-dive audit + organization improvements",
+      "state": "open",
+      "created_at": "2026-08-06T08:07:29Z",
+      "updated_at": "2026-08-06T15:31:01Z"
+    },
+    {
+      "number": 194,
+      "title": "[P1] Audit and reconcile D:\\Work\\Torus_Ops_bare.git with vault/GitHub",
+      "state": "open",
+      "created_at": "2026-08-06T08:07:29Z",
+      "updated_at": "2026-08-06T15:31:00Z"
+    },
+    {
+      "number": 193,
+      "title": "\ud83d\udce8 Inbox: trello api 401 invalid key blocker sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T07:57:39Z",
+      "updated_at": "2026-08-06T08:13:37Z"
+    },
+    {
+      "number": 192,
+      "title": "\ud83d\udce8 Inbox: trello api 401 invalid key blocker sirazure 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T07:57:38Z",
+      "updated_at": "2026-08-06T08:13:38Z"
+    },
+    {
+      "number": 191,
+      "title": "\ud83d\udce8 Inbox: sirgreen trello butler automation request sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T07:56:32Z",
+      "updated_at": "2026-08-06T08:13:39Z"
+    },
+    {
+      "number": 190,
+      "title": "\ud83d\udce8 Inbox: pinkcady dashboard test commands sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T07:56:31Z",
+      "updated_at": "2026-08-06T08:13:40Z"
+    },
+    {
+      "number": 189,
+      "title": "[P1] FOLLOW-UP: Sir Green Trello Butler automation metadata request sent",
+      "state": "open",
+      "created_at": "2026-08-06T07:56:21Z",
+      "updated_at": "2026-08-06T15:31:04Z"
+    },
+    {
+      "number": 188,
+      "title": "[P1] FOLLOW-UP: Sir Green exact dashboard test commands sent",
+      "state": "open",
+      "created_at": "2026-08-06T07:56:21Z",
+      "updated_at": "2026-08-06T15:31:05Z"
+    },
+    {
+      "number": 187,
+      "title": "[P2] Excalidraw diagram: Torus Coffee fleet architecture",
+      "state": "open",
+      "created_at": "2026-08-06T07:55:44Z",
+      "updated_at": "2026-08-06T07:55:44Z"
+    },
+    {
+      "number": 186,
+      "title": "[P2] Obsidian plugin improvements: apply quick wins to live vault",
+      "state": "open",
+      "created_at": "2026-08-06T07:55:43Z",
+      "updated_at": "2026-08-06T07:55:43Z"
+    },
+    {
+      "number": 185,
+      "title": "[P2] Trello board improvements: apply VOID Ops structure to Torus_Ops",
+      "state": "open",
+      "created_at": "2026-08-06T07:55:42Z",
+      "updated_at": "2026-08-06T07:55:42Z"
+    },
+    {
+      "number": 184,
+      "title": "\ud83d\udce8 Inbox: sirgreen trello automation questions sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T07:54:59Z",
+      "updated_at": "2026-08-06T08:13:41Z"
+    },
+    {
+      "number": 183,
+      "title": "\ud83d\udce8 Inbox: pinkcady dashboard connectivity checklist sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T07:54:58Z",
+      "updated_at": "2026-08-06T08:13:42Z"
+    },
+    {
+      "number": 182,
+      "title": "[P1] Diagnose PINKCADY -> SQUIDSTATION dashboard connectivity",
+      "state": "open",
+      "created_at": "2026-08-06T07:54:37Z",
+      "updated_at": "2026-08-06T15:31:03Z"
+    },
+    {
+      "number": 181,
+      "title": "[P1] Fix Trello API auth for toruscoffeecompany \u2014 invalid key 401",
+      "state": "open",
+      "created_at": "2026-08-06T07:54:37Z",
+      "updated_at": "2026-08-06T15:30:59Z"
+    },
+    {
+      "number": 180,
+      "title": "\ud83d\udce8 Inbox: miss pink dashboard top10 trello voidops ask sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T07:50:00Z",
+      "updated_at": "2026-08-06T08:13:43Z"
+    },
+    {
+      "number": 179,
+      "title": "\ud83d\udce8 Inbox: followup dashboard top10 trello voidops sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T07:49:59Z",
+      "updated_at": "2026-08-06T08:13:43Z"
+    },
+    {
+      "number": 178,
+      "title": "\ud83d\udce8 Inbox: miss pink dashboard top10 trello voidops ask sirazure 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T07:49:58Z",
+      "updated_at": "2026-08-06T08:13:44Z"
+    },
+    {
+      "number": 177,
+      "title": "\ud83d\udce8 Inbox: followup dashboard top10 trello voidops sirazure 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T07:49:57Z",
+      "updated_at": "2026-08-06T08:13:45Z"
+    },
+    {
+      "number": 176,
+      "title": "[P2] FOLLOW-UP: Sir Azure action required \u2014 Docker overlay preference",
+      "state": "open",
+      "created_at": "2026-08-06T07:49:10Z",
+      "updated_at": "2026-08-06T07:57:17Z"
+    },
+    {
+      "number": 174,
+      "title": "[P1] FOLLOW-UP: Sir Green action required \u2014 share VOID Ops Trello board metadata",
+      "state": "open",
+      "created_at": "2026-08-06T07:49:08Z",
+      "updated_at": "2026-08-06T07:57:15Z"
+    },
+    {
+      "number": 173,
+      "title": "[P1] FOLLOW-UP: Sir Green action required \u2014 start dashboard_server.py",
+      "state": "open",
+      "created_at": "2026-08-06T07:49:08Z",
+      "updated_at": "2026-08-06T07:57:15Z"
+    },
+    {
+      "number": 172,
+      "title": "[P3] Combine duplicate Trello cards on Torus_Ops board",
+      "state": "open",
+      "created_at": "2026-08-06T07:33:18Z",
+      "updated_at": "2026-08-06T07:33:18Z"
+    },
+    {
+      "number": 171,
+      "title": "[P2] Trello Top 10 automation: rolling priority list for Torus_Ops",
+      "state": "open",
+      "created_at": "2026-08-06T07:33:17Z",
+      "updated_at": "2026-08-06T07:33:17Z"
+    },
+    {
+      "number": 170,
+      "title": "[P1] Restore dashboard on localhost:8080/8089 for all crew computers",
+      "state": "open",
+      "created_at": "2026-08-06T07:32:48Z",
+      "updated_at": "2026-08-06T07:32:48Z"
+    },
+    {
+      "number": 169,
+      "title": "\ud83d\udce8 Inbox: miss gordon k8s jobs cronjobs sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T07:17:39Z",
+      "updated_at": "2026-08-06T08:13:46Z"
+    },
+    {
+      "number": 168,
+      "title": "\ud83d\udce8 Inbox: board audit obsidian deepdive and asks sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T07:17:38Z",
+      "updated_at": "2026-08-06T08:13:47Z"
+    },
+    {
+      "number": 167,
+      "title": "\ud83d\udce8 Inbox: verify claimed changes and asks sirgreen 20260806T0645Z",
+      "state": "open",
+      "created_at": "2026-08-06T07:17:37Z",
+      "updated_at": "2026-08-06T08:13:48Z"
+    },
+    {
+      "number": 166,
+      "title": "\ud83d\udce8 Inbox: miss gordon k8s jobs cronjobs sirazure 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T07:17:36Z",
+      "updated_at": "2026-08-06T08:13:48Z"
+    },
+    {
+      "number": 165,
+      "title": "\ud83d\udce8 Inbox: board audit obsidian deepdive and asks sirazure 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T07:17:34Z",
+      "updated_at": "2026-08-06T08:13:49Z"
+    },
+    {
+      "number": 164,
+      "title": "[P3] Obsidian: kanban board for OODA task tracking",
+      "state": "open",
+      "created_at": "2026-08-06T07:15:33Z",
+      "updated_at": "2026-08-06T07:15:33Z"
+    },
+    {
+      "number": 163,
+      "title": "[P2] Obsidian: livesync peer setup for PINKCADY crew",
+      "state": "open",
+      "created_at": "2026-08-06T07:15:32Z",
+      "updated_at": "2026-08-06T07:15:32Z"
+    },
+    {
+      "number": 162,
+      "title": "[P2] Obsidian: dataview automation dashboard",
+      "state": "open",
+      "created_at": "2026-08-06T07:15:32Z",
+      "updated_at": "2026-08-06T07:15:32Z"
+    },
+    {
+      "number": 161,
+      "title": "[P2] Obsidian: quickadd macro expansion for crew comms",
+      "state": "open",
+      "created_at": "2026-08-06T07:15:31Z",
+      "updated_at": "2026-08-06T07:15:31Z"
+    },
+    {
+      "number": 160,
+      "title": "[P2] Obsidian: configure Tasks plugin with project folders",
+      "state": "open",
+      "created_at": "2026-08-06T07:15:31Z",
+      "updated_at": "2026-08-06T07:15:31Z"
+    },
+    {
+      "number": 159,
+      "title": "[P2] Obsidian: enable linter-on-save + standardize settings",
+      "state": "open",
+      "created_at": "2026-08-06T07:15:30Z",
+      "updated_at": "2026-08-06T07:15:30Z"
+    },
+    {
+      "number": 157,
+      "title": "[P2] Automate recurring Trello/GitHub/Obsidian audit cadence",
+      "state": "open",
+      "created_at": "2026-08-06T07:15:29Z",
+      "updated_at": "2026-08-06T07:15:29Z"
+    },
+    {
+      "number": 156,
+      "title": "[P1] Obsidian plugin deep-dive audit + improvement plan",
+      "state": "open",
+      "created_at": "2026-08-06T07:15:29Z",
+      "updated_at": "2026-08-06T07:15:29Z"
+    },
+    {
+      "number": 155,
+      "title": "[P1] Trello board audit + priority reassessment",
+      "state": "open",
+      "created_at": "2026-08-06T07:15:28Z",
+      "updated_at": "2026-08-06T07:15:28Z"
+    },
+    {
+      "number": 154,
+      "title": "\ud83d\udce8 Inbox: verify claimed changes and asks sirgreen 20260806T0645Z",
+      "state": "open",
+      "created_at": "2026-08-06T06:54:02Z",
+      "updated_at": "2026-08-06T07:13:59Z"
+    },
+    {
+      "number": 153,
+      "title": "\ud83d\udce8 Inbox: pink docker build push and single ask sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T06:44:25Z",
+      "updated_at": "2026-08-06T07:14:00Z"
+    },
+    {
+      "number": 152,
+      "title": "\ud83d\udce8 Inbox: dashboard port and swarm decision sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T06:44:24Z",
+      "updated_at": "2026-08-06T07:14:01Z"
+    },
+    {
+      "number": 151,
+      "title": "\ud83d\udce8 Inbox: pink docker build push and single ask sirazure 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T06:44:23Z",
+      "updated_at": "2026-08-06T07:14:01Z"
+    },
+    {
+      "number": 150,
+      "title": "\ud83d\udce8 Inbox: livesync peer and overlay preference sirazure 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T06:44:21Z",
+      "updated_at": "2026-08-06T07:14:02Z"
+    },
+    {
+      "number": 149,
+      "title": "\ud83d\udce8 Inbox: ooda plugin automation complete sirgreen 20260806T0624Z",
+      "state": "open",
+      "created_at": "2026-08-06T06:39:01Z",
+      "updated_at": "2026-08-06T07:14:03Z"
+    },
+    {
+      "number": 148,
+      "title": "\ud83d\udce8 Inbox: obsidian plugin completion webhook retry sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T06:39:00Z",
+      "updated_at": "2026-08-06T07:14:04Z"
+    },
+    {
+      "number": 147,
+      "title": "\ud83d\udce8 Inbox: ooda plugin automation update sirgreen 20260806T0624Z",
+      "state": "open",
+      "created_at": "2026-08-06T06:38:59Z",
+      "updated_at": "2026-08-06T07:14:05Z"
+    },
+    {
+      "number": 146,
+      "title": "\ud83d\udce8 Inbox: obsidian plugin completion webhook retry sirazure 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T06:38:58Z",
+      "updated_at": "2026-08-06T07:14:06Z"
+    },
+    {
+      "number": 145,
+      "title": "\ud83d\udce8 Inbox: ooda plugin automation update sirgreen 20260806T0624Z",
+      "state": "open",
+      "created_at": "2026-08-06T06:33:59Z",
+      "updated_at": "2026-08-06T07:14:07Z"
+    },
+    {
+      "number": 144,
+      "title": "\ud83d\udce8 Inbox: torus dashboard multistage push sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T06:19:39Z",
+      "updated_at": "2026-08-06T07:14:07Z"
+    },
+    {
+      "number": 143,
+      "title": "\ud83d\udce8 Inbox: new trello git cards for docker webhooks k8s sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T06:19:38Z",
+      "updated_at": "2026-08-06T07:14:08Z"
+    },
+    {
+      "number": 142,
+      "title": "\ud83d\udce8 Inbox: miss gordon review action plan sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T06:19:36Z",
+      "updated_at": "2026-08-06T07:14:09Z"
+    },
+    {
+      "number": 141,
+      "title": "\ud83d\udce8 Inbox: miss gordon docker blockers sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T06:19:35Z",
+      "updated_at": "2026-08-06T07:14:10Z"
+    },
+    {
+      "number": 140,
+      "title": "\ud83d\udce8 Inbox: FLEET VERIFIED LOCALLY SQUIDSTATION PUSH OR SWARM NEEDED 20260806T041800Z misspink.msg",
+      "state": "open",
+      "created_at": "2026-08-06T06:19:34Z",
+      "updated_at": "2026-08-06T07:14:11Z"
+    },
+    {
+      "number": 139,
+      "title": "\ud83d\udce8 Inbox: docker compose sync sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T06:19:33Z",
+      "updated_at": "2026-08-06T07:14:12Z"
+    },
+    {
+      "number": 138,
+      "title": "\ud83d\udce8 Inbox: dashboard improvements sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T06:19:32Z",
+      "updated_at": "2026-08-06T07:14:12Z"
+    },
+    {
+      "number": 137,
+      "title": "\ud83d\udce8 Inbox: dashboard gaps sirgreen 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T06:19:30Z",
+      "updated_at": "2026-08-06T07:14:13Z"
+    },
+    {
+      "number": 136,
+      "title": "\ud83d\udce8 Inbox: TORUS FLEET LIVE ON PINKCADY DOCKER MESH STEPS AND DASHBOARD RETEST 20260806T031500Z sirgreen.msg",
+      "state": "open",
+      "created_at": "2026-08-06T06:19:29Z",
+      "updated_at": "2026-08-06T07:14:14Z"
+    },
+    {
+      "number": 135,
+      "title": "\ud83d\udce8 Inbox: STEALTHATTACK BIG SURPRISE AND LAST MISSING ITEMS 20260806T012000Z sirgreen.msg",
+      "state": "open",
+      "created_at": "2026-08-06T06:19:28Z",
+      "updated_at": "2026-08-06T07:14:15Z"
+    },
+    {
+      "number": 134,
+      "title": "\ud83d\udce8 Inbox: STATUS UPDATE MISS PINK BUILDING TORUS DOCKER CONTAINERS DASHBOARD 8089 AND YOUR ACTIONS 20260806T042400Z sirgreen.msg",
+      "state": "open",
+      "created_at": "2026-08-06T06:11:40Z",
+      "updated_at": "2026-08-06T07:14:16Z"
+    },
+    {
+      "number": 133,
+      "title": "\ud83d\udce8 Inbox: STATUS UPDATE DASHBOARD 8080 FIXED PLUGIN AUDIT PENDING AND DISCORD TOKEN BLOCKER 20260806T024500Z sirgreen.msg",
+      "state": "open",
+      "created_at": "2026-08-06T06:11:39Z",
+      "updated_at": "2026-08-06T07:14:17Z"
+    },
+    {
+      "number": 131,
+      "title": "\ud83d\udce8 Inbox: REMINDER DOCKER DESKTOP TAILSCALE AND DASHBOARD EVIDENCE STILL NEEDED 20260806T042700Z sirgreen.msg",
+      "state": "open",
+      "created_at": "2026-08-06T06:11:37Z",
+      "updated_at": "2026-08-06T07:14:19Z"
+    },
+    {
+      "number": 130,
+      "title": "\ud83d\udce8 Inbox: RE UNIFIED DASHBOARD DECISION ONE DASHBOARD ONLY 20260806T012800Z sirgreen.msg",
+      "state": "open",
+      "created_at": "2026-08-06T06:11:36Z",
+      "updated_at": "2026-08-06T07:14:20Z"
+    },
+    {
+      "number": 129,
+      "title": "\ud83d\udce8 Inbox: RE UNIFIED DASHBOARD DECISION ONE DASHBOARD ONLY 20260806T011800Z misspink.msg",
+      "state": "open",
+      "created_at": "2026-08-06T06:11:35Z",
+      "updated_at": "2026-08-06T07:14:21Z"
+    },
+    {
+      "number": 128,
+      "title": "\ud83d\udce8 Inbox: RE TORUS LIGHT FLEET LIVE ON PINKCADY AND STEALTHATTACK NEXT STEPS 20260806T030500Z misspink.msg",
+      "state": "open",
+      "created_at": "2026-08-06T06:11:34Z",
+      "updated_at": "2026-08-06T07:14:21Z"
+    },
+    {
+      "number": 127,
+      "title": "\ud83d\udce8 Inbox: RE STEALTHATTACK COORDINATION AND DOCKER MESH 20260806T003000Z sirgreen.msg",
+      "state": "open",
+      "created_at": "2026-08-06T06:11:32Z",
+      "updated_at": "2026-08-06T07:14:22Z"
+    },
+    {
+      "number": 126,
+      "title": "\ud83d\udce8 Inbox: RE PINKCADY VIRTUALIZATION SETUP PLAN AND STEALTHATTACK COORDINATION 20260806T002500Z misspink.msg",
+      "state": "open",
+      "created_at": "2026-08-06T06:11:31Z",
+      "updated_at": "2026-08-06T07:14:23Z"
+    },
+    {
+      "number": 125,
+      "title": "\ud83d\udce8 Inbox: RE FULL AUTOMATION BOOTSTRAP POST BIOS READY AND DOCKER MESH 20260806T012500Z sirgreen.msg",
+      "state": "open",
+      "created_at": "2026-08-06T06:11:30Z",
+      "updated_at": "2026-08-06T07:14:24Z"
+    },
+    {
+      "number": 124,
+      "title": "\ud83d\udce8 Inbox: RE FULL AUTOMATION BOOTSTRAP AND CREW COORDINATION 20260806T005951Z sirgreen.msg",
+      "state": "open",
+      "created_at": "2026-08-06T06:11:29Z",
+      "updated_at": "2026-08-06T07:14:25Z"
+    },
+    {
+      "number": 123,
+      "title": "\ud83d\udce8 Inbox: process sir azure inbox backlog sirazure 20260806",
+      "state": "open",
+      "created_at": "2026-08-06T06:11:28Z",
+      "updated_at": "2026-08-06T07:14:26Z"
+    },
+    {
+      "number": 122,
+      "title": "[P3] Obsidian vault audit report + remediation",
+      "state": "open",
+      "created_at": "2026-08-06T06:09:53Z",
+      "updated_at": "2026-08-06T07:14:26Z"
+    },
+    {
+      "number": 120,
+      "title": "[P3] Add vault automation status reporting to dashboard",
+      "state": "open",
+      "created_at": "2026-08-06T06:09:51Z",
+      "updated_at": "2026-08-06T07:14:29Z"
+    },
+    {
+      "number": 119,
+      "title": "[P2] Scan vault for broken wikilinks and duplicate names",
+      "state": "open",
+      "created_at": "2026-08-06T06:09:51Z",
+      "updated_at": "2026-08-06T07:14:30Z"
+    },
+    {
+      "number": 118,
+      "title": "[P2] Run functional tests on automation scripts",
+      "state": "open",
+      "created_at": "2026-08-06T06:09:50Z",
+      "updated_at": "2026-08-06T07:14:30Z"
+    },
+    {
+      "number": 116,
+      "title": "[P2] Fix Templater + Periodic Notes template paths",
+      "state": "open",
+      "created_at": "2026-08-06T06:09:49Z",
+      "updated_at": "2026-08-06T07:14:32Z"
+    },
+    {
+      "number": 115,
+      "title": "[P1] Import QuickAdd macros from quickadd_macros.json into active data.json",
+      "state": "open",
+      "created_at": "2026-08-06T06:09:49Z",
+      "updated_at": "2026-08-06T07:14:33Z"
+    }
+  ],
+  "p2_issues": [
+    {
+      "number": 175,
+      "title": "[P2] FOLLOW-UP: Sir Azure action required \u2014 Livesync peer name",
+      "state": "open",
+      "created_at": "2026-08-06T07:49:09Z",
+      "updated_at": "2026-08-06T07:57:16Z"
+    },
+    {
+      "number": 158,
+      "title": "[P3] Re-assess 68 GitHub issues retagged during board audit",
+      "state": "open",
+      "created_at": "2026-08-06T07:15:30Z",
+      "updated_at": "2026-08-06T07:15:30Z"
+    },
+    {
+      "number": 121,
+      "title": "[P3] Self-learning/self-correcting automation wrapper",
+      "state": "open",
+      "created_at": "2026-08-06T06:09:52Z",
+      "updated_at": "2026-08-06T07:14:28Z"
+    },
+    {
+      "number": 117,
+      "title": "[P2] Verify all Windows Task Scheduler jobs point to real scripts",
+      "state": "open",
+      "created_at": "2026-08-06T06:09:50Z",
+      "updated_at": "2026-08-06T07:14:31Z"
+    }
+  ],
+  "p3_issues": [
+    {
+      "number": 132,
+      "title": "\ud83d\udce8 Inbox: SIR GREEN BOT AND WATCHER VERIFIED END TO END BRIDGE LIVE 20260806T041200Z sirgreen.msg",
+      "state": "open",
+      "created_at": "2026-08-06T06:11:38Z",
+      "updated_at": "2026-08-06T07:14:18Z"
+    }
+  ],
+  "unlabeled_issues": []
+}
