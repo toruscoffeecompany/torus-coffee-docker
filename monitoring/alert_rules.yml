@@ -1,0 +1,47 @@
+groups:
+  - name: torus-alerts
+    rules:
+      - alert: ContainerDown
+        expr: up == 0
+        for: 2m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Container {{ $labels.job }} is down"
+          description: "{{ $labels.job }} has been down for more than 2 minutes."
+
+      - alert: HighCPU
+        expr: rate(container_cpu_usage_seconds_total[2m]) > 0.8
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "High CPU on {{ $labels.container_label_com_docker_swarm_service_name }}"
+          description: "CPU usage > 80% for 5 minutes"
+
+      - alert: HighMemory
+        expr: container_memory_usage_bytes / container_spec_memory_limit_bytes > 0.85
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "High memory usage"
+          description: "Memory usage > 85% for 5 minutes"
+
+      - alert: RedisDown
+        expr: redis_up == 0
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Redis is down"
+          description: "Redis service on port 6379 is not responding"
+
+      - alert: DashboardDown
+        expr: probe_success{job="torus-dashboard"} == 0
+        for: 2m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Dashboard is down"
+          description: "torus-dashboard is not responding on port 6000"

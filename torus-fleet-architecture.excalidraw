@@ -1,0 +1,52 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "rectangle",
+      "name": "PINKCADY",
+      "x": 100,
+      "y": 100,
+      "width": 120,
+      "height": 60,
+      "strokeColor": "#ff0000",
+      "backgroundColor": "#ffcccc"
+    },
+    {
+      "type": "rectangle",
+      "name": "SQUIDSTATION",
+      "x": 400,
+      "y": 100,
+      "width": 120,
+      "height": 60,
+      "strokeColor": "#0000ff",
+      "backgroundColor": "#ccccff"
+    },
+    {
+      "type": "rectangle",
+      "name": "STEALTHATTACK",
+      "x": 700,
+      "y": 100,
+      "width": 120,
+      "height": 60,
+      "strokeColor": "#00aa00",
+      "backgroundColor": "#ccffcc"
+    },
+    {
+      "type": "rectangle",
+      "name": "torus-network",
+      "x": 300,
+      "y": 250,
+      "width": 200,
+      "height": 50,
+      "strokeColor": "#666666",
+      "backgroundColor": "#eeeeee"
+    }
+  ],
+  "app": "excalidraw",
+  "metadata": {
+    "title": "Torus Coffee Fleet Architecture",
+    "description": "PINKCADY, SQUIDSTATION, STEALTHATTACK connected via torus-network"
+  }
+}

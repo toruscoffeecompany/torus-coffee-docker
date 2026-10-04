@@ -1,0 +1,10 @@
+.git
+__pycache__
+*.pyc
+node_modules
+.next
+out
+.obsidian
+.venv
+Dockerfile
+.dockerignore

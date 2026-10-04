@@ -1,0 +1,23 @@
+name: torus-dashboard-now
+
+services:
+  torus-redis:
+    container_name: torus-dashboard-redis-now
+    networks:
+      - torus-network
+  torus-inventory:
+    container_name: torus-dashboard-inventory-now
+    networks:
+      - torus-network
+  torus-pos:
+    container_name: torus-dashboard-pos-now
+    networks:
+      - torus-network
+  torus-dashboard:
+    container_name: torus-dashboard
+    networks:
+      - torus-network
+
+networks:
+  torus-network:
+    external: true

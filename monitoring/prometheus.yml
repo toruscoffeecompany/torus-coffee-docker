@@ -1,0 +1,58 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+alerting:
+  alertmanagers:
+    - static_configs:
+        - targets: ["172.18.0.10:9093"]
+
+rule_files:
+  - "alert_rules.yml"
+
+scrape_configs:
+  # Prometheus itself
+  - job_name: "prometheus"
+    static_configs:
+      - targets: ["localhost:9090"]
+
+  # cAdvisor - container metrics
+  - job_name: "cadvisor"
+    static_configs:
+      - targets: ["172.18.0.7:8081"]
+
+  # Node Exporter - host metrics
+  - job_name: "node-exporter"
+    static_configs:
+      - targets: ["172.18.0.2:9100"]
+
+  # Torus Dashboard (now has /metrics endpoint)
+  - job_name: "torus-dashboard"
+    static_configs:
+      - targets: ["172.18.0.5:6000"]
+
+  - job_name: "torus-pos"
+    metrics_path: /metrics
+    static_configs:
+      - targets: ["172.18.0.3:3100"]
+
+  - job_name: "torus-inventory"
+    metrics_path: /metrics
+    static_configs:
+      - targets: ["172.18.0.6:3200"]
+
+  - job_name: "torus-alert-router"
+    metrics_path: /metrics
+    static_configs:
+      - targets: ["172.18.0.4:4000"]
+
+  # Redis — TCP connect check (no native metrics)
+  - job_name: "redis"
+    static_configs:
+      - targets: ["172.18.0.11:6379"]
+
+  # Blackbox/Probe for HTTP health
+  - job_name: "torus-health"
+    metrics_path: /-/healthy
+    static_configs:
+      - targets: ["localhost:9090"]

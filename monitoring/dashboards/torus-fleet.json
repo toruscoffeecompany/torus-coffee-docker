@@ -1,0 +1,59 @@
+{
+  "dashboard": {
+    "id": null,
+    "title": "Torus Coffee Fleet",
+    "tags": ["torus"],
+    "timezone": "America/New_York",
+    "panels": [
+      {
+        "id": 1,
+        "title": "Website",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "up{job=\"torus\", container=\"torus-website\"}",
+            "legendFormat": "Website"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Inventory",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "up{job=\"torus\", container=\"torus-inventory\"}",
+            "legendFormat": "Inventory"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "POS",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "up{job=\"torus\", container=\"torus-pos\"}",
+            "legendFormat": "POS"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Node Exporter",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "up{job=\"node\"}",
+            "legendFormat": "Node"
+          }
+        ]
+      }
+    ],
+    "time": {
+      "from": "now-1h",
+      "to": "now"
+    },
+    "refresh": "15s"
+  }
+}

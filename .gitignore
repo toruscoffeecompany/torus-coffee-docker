@@ -1,0 +1,16 @@
+# Secrets
+.env
+.env.local
+.env.production
+*.key
+*.pem
+secrets.local.json
+
+# Build artifacts
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+*.pyc
+NUL
+torus-light/

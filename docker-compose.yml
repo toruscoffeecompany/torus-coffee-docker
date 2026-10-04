@@ -1,0 +1,34 @@
+# Torus Coffee Company - Docker Compose
+# Free tier: single container deployments only
+# Run: docker compose up -d
+
+services:
+  # Placeholder for future Torus services
+  # Example: torus-website:
+  #   image: nginx:alpine
+  #   ports:
+  #     - "3000:80"
+  #   volumes:
+  #     - ./06_Website/Website/out:/usr/share/nginx/html
+
+  torus-dashboard:
+    image: nginx:alpine
+    ports:
+      - "3001:80"
+    volumes:
+      - ./06_Website/dashboard/out:/usr/share/nginx/html
+    restart: unless-stopped
+    profiles:
+      - local
+
+  # Discord bot placeholder (requires actual bot code)
+  torus-bot:
+    image: python:3.11-slim
+    command: python -c "print('Torus bot placeholder')"
+    restart: unless-stopped
+    profiles:
+      - bots
+
+networks:
+  default:
+    name: torus-network
