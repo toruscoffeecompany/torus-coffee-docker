@@ -1,30 +1,22 @@
+# Intentionally empty — no Prometheus datasource is provisioned.
+#
+# The torus-local prometheus service was removed from docker-compose.torus.fleet.yml
+# (Captain's call, 2026-10-04) because fleet-prometheus in
+# D:\Work\Captain_Dashboard\fleet-monitoring\ already covers fleet monitoring.
+#
+# There is deliberately NO datasource configured here:
+#   - a datasource pointing at the removed `prometheus:9090` would show Grafana a
+#     broken connection on every load
+#   - repointing at fleet-prometheus would require attaching grafana to the
+#     fleet-monitoring_default network, which re-creates the duplicate monitoring
+#     stack this cleanup was meant to remove
+#
+# Monitoring for this fleet lives at fleet-grafana (host 127.0.0.1:3030), backed by
+# fleet-prometheus. Use that.
+#
+# If a Torus-specific datasource is ever needed, add it here with a reachable URL
+# and re-add the bind mount in docker-compose.torus.fleet.yml.
+
 apiVersion: 1
 
-# The torus-local prometheus service was removed from docker-compose.torus.fleet.yml
-# because fleet-prometheus (Captain_Dashboard/fleet-monitoring) already provides
-# fleet metrics. It binds host 127.0.0.1:9090, not the container-network name
-# "prometheus", so the torus Grafana cannot scrape it by that hostname.
-#
-# Two options, in order of preference:
-#   1. Scrape the running fleet-prometheus over the shared docker network.
-#   2. Leave the datasource pointed at a host that only exists after the
-#      prometheus service is restored. Dashboards will show "no data", Grafana
-#      itself starts cleanly.
-#
-# To use option 1, attach grafana to the fleet-monitoring_default network and set
-# url to http://fleet-prometheus:9090 (confirm the container name first).
-
-deleteDatasources:
-  - name: Prometheus
-    orgId: 1
-
-datasources:
-  - name: Prometheus
-    uid: torus-prometheus
-    type: prometheus
-    access: proxy
-    url: http://prometheus:9090
-    isDefault: true
-    editable: false
-    jsonData:
-      timeInterval: 15s
+datasources: []
