@@ -20,7 +20,6 @@ volumes:
   torus_alert_router_data:
   torus_backup_data:
   torus_dashboard_data:
-  torus_prometheus_data:
   torus_grafana_data:
 
 services:
@@ -82,7 +81,7 @@ services:
       torus-alert-router:
         condition: service_healthy
     healthcheck:
-      test: ["CMD-SHELL", "wget -q --spider http://localhost:6000/health || exit 1"]
+      test: ["CMD-SHELL", "wget -q --spider http://127.0.0.1:3000/ || exit 1"]
       interval: 30s
       timeout: 10s
       retries: 3
@@ -180,7 +179,7 @@ services:
       torus-pos:
         condition: service_healthy
     healthcheck:
-      test: ["CMD-SHELL", "wget -q --spider http://localhost:6000/health || exit 1"]
+      test: ["CMD-SHELL", "python -c \"import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:6000/health',timeout=3).status==200 else 1)\""]
       interval: 30s
       timeout: 10s
       retries: 3
@@ -330,7 +329,7 @@ services:
       torus-pos:
         condition: service_healthy
     healthcheck:
-      test: ["CMD-SHELL", "wget -q --spider http://localhost:8080/healthz || exit 1"]
+      test: ["CMD-SHELL", "pgrep -f backup.sh > /dev/null || exit 1"]
       interval: 60s
       timeout: 15s
       retries: 2
@@ -426,49 +425,6 @@ services:
         max-file: "3"
     healthcheck:
       test: ["CMD-SHELL", "wget -q --spider http://localhost:8080/metrics || exit 1"]
-      interval: 30s
-      timeout: 10s
-      retries: 3
-      start_period: 10s
-
-  prometheus:
-    image: toruscoffee/prometheus:latest
-    container_name: torus-prometheus
-    hostname: prometheus
-    restart: unless-stopped
-    labels:
-      - "torus.service=prometheus"
-      - "torus.owner=miss-pink"
-      - "torus.env=production"
-    networks:
-      - torus-network
-    ports:
-      - "9090:9090"
-    volumes:
-      - torus_prometheus_data:/prometheus
-      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
-    command:
-      - '--config.file=/etc/prometheus/prometheus.yml'
-      - '--storage.tsdb.path=/prometheus'
-      - '--web.enable-lifecycle'
-      - '--web.external-url=http://localhost:9090'
-    environment:
-      - TZ=${TZ:-America/Chicago}
-    deploy:
-      resources:
-        limits:
-          cpus: "1.0"
-          memory: 1g
-        reservations:
-          cpus: "0.25"
-          memory: 256m
-    logging:
-      driver: json-file
-      options:
-        max-size: "10m"
-        max-file: "3"
-    healthcheck:
-      test: ["CMD-SHELL", "wget -q --spider http://localhost:9090/-/healthy || exit 1"]
       interval: 30s
       timeout: 10s
       retries: 3

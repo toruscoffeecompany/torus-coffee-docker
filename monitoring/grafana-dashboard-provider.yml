@@ -1,0 +1,13 @@
+apiVersion: 1
+
+providers:
+  - name: torus-fleet
+    orgId: 1
+    folder: Torus Fleet
+    type: file
+    allowUiUpdates: false
+    disableDeletion: false
+    updateIntervalSeconds: 30
+    options:
+      # Directory is bind-mounted from ./monitoring/dashboards
+      path: /etc/grafana/provisioning/dashboards
